@@ -270,7 +270,7 @@
   },
   {
     "sujet_id": "b10acab52fa4",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Cinq jours de congé pour les employés de Pocketpair pour jouer à GTA 6",
@@ -320,6 +320,11 @@
       "message_id": 36,
       "envoye_le": "2026-11-12T18:41:42+00:00"
     },
-    "decide_le": "2026-11-12T18:46:09+00:00"
+    "decide_le": "2026-11-12T18:46:09+00:00",
+    "instagram": {
+      "media_id": "18102818297185685",
+      "lien": "https://www.instagram.com/p/Dfr0yELFTlR/",
+      "publie_le": "2026-11-13T14:16:55+00:00"
+    }
   }
 ]
