@@ -1,0 +1,49 @@
+# Lance le planificateur deux fois par heure (à :02 et :32), de 9 h à 22 h 30 heure de Paris en hiver
+# (10 h à 23 h 30 en été). Le planificateur décide lui-même quoi faire selon l'heure de Paris.
+# L'état (data/) est enregistré dans le dépôt à la fin de chaque passage.
+name: Planning fr_checkpoint
+
+on:
+  schedule:
+    - cron: "2,32 8-21 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: planning
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  passage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Passage du planificateur
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          GITHUB_MEDIAS_TOKEN: ${{ secrets.GITHUB_MEDIAS_TOKEN }}
+          GITHUB_MEDIAS_DEPOT: ${{ secrets.GITHUB_MEDIAS_DEPOT }}
+        run: python -W ignore run_all.py
+
+      - name: Enregistrement de l'état
+        if: always()
+        run: |
+          git config user.name "checkpoint-bot"
+          git config user.email "checkpoint-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || { git commit -q -m "état $(date -u +%Y-%m-%dT%H:%MZ)" && git push -q; }
