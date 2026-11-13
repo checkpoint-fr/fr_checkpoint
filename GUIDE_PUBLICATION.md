@@ -44,8 +44,8 @@ publie, puis les supprime.
    - **Repository access** : *Only select repositories* → `checkpoint-medias` ;
    - **Permissions** → *Repository permissions* → **Contents : Read and write**.
 4. Copier le jeton, puis dans `.env` :
-   - `GITHUB_MEDIAS_TOKEN=` suivi du jeton ;
-   - `GITHUB_MEDIAS_DEPOT=` ton pseudo GitHub + `/checkpoint-medias` (ex. `monpseudo/checkpoint-medias`).
+   - `MEDIAS_TOKEN=` suivi du jeton ;
+   - `MEDIAS_DEPOT=` ton pseudo GitHub + `/checkpoint-medias` (ex. `monpseudo/checkpoint-medias`).
 
 ## 4. Prévenir Claude
 

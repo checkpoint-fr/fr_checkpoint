@@ -36,8 +36,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          GITHUB_MEDIAS_TOKEN: ${{ secrets.GITHUB_MEDIAS_TOKEN }}
-          GITHUB_MEDIAS_DEPOT: ${{ secrets.GITHUB_MEDIAS_DEPOT }}
+          MEDIAS_TOKEN: ${{ secrets.MEDIAS_TOKEN }}
+          MEDIAS_DEPOT: ${{ secrets.MEDIAS_DEPOT }}
         run: python -W ignore run_all.py
 
       - name: Enregistrement de l'état

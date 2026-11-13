@@ -27,5 +27,5 @@
 - Ne jamais republier un article ni une image : seulement des synthèses originales avec le lien de la source.
 - Gemini gratuit sature souvent (erreurs 503) : un sujet non rédigé est repris au passage suivant. Une clé Groq gratuite dans `.env` sert de secours.
 - Chaque brouillon garde ce que l'IA a lu dans `data/redaction/entrees/<sujet_id>.json` pour vérifier un fait avant de valider.
-- Jeton `GITHUB_MEDIAS_TOKEN` expire vers le **12 novembre 2027** (créé le 12 nov. 2026, 1 an) : le recréer sur GitHub (compte checkpoint-fr) et remplacer la valeur dans `.env`.
+- Jeton `MEDIAS_TOKEN` expire vers le **12 novembre 2027** (créé le 12 nov. 2026, 1 an) : le recréer sur GitHub (compte checkpoint-fr) et remplacer la valeur dans `.env`.
 - macOS interdit aux tâches planifiées du Mac (launchd) de lire le Bureau : l'automatisation passe par GitHub Actions (ou un dossier hors du Bureau).

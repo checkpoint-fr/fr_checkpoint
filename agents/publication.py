@@ -27,9 +27,9 @@ def cfg():
 # ---------- GitHub : hébergement temporaire des images ----------
 
 def github(methode, chemin, **kwargs):
-    url = f"https://api.github.com/repos/{env('GITHUB_MEDIAS_DEPOT').strip()}/contents/{chemin}"
+    url = f"https://api.github.com/repos/{env('MEDIAS_DEPOT').strip()}/contents/{chemin}"
     r = requests.request(methode, url, timeout=60, headers={
-        "Authorization": f"Bearer {env('GITHUB_MEDIAS_TOKEN').strip()}",
+        "Authorization": f"Bearer {env('MEDIAS_TOKEN').strip()}",
         "Accept": "application/vnd.github+json"}, **kwargs)
     if r.status_code >= 400:
         raise RuntimeError(f"GitHub {methode} {chemin} : {r.status_code} {r.text[:200]}")
@@ -38,7 +38,7 @@ def github(methode, chemin, **kwargs):
 
 def deposer(b):
     """Envoie les images, renvoie [(chemin_dans_le_depot, sha, url_publique)]."""
-    depot = env("GITHUB_MEDIAS_DEPOT").strip()
+    depot = env("MEDIAS_DEPOT").strip()
     deposes = []
     for local in b["images"]:
         chemin = f"medias/{b['sujet_id']}/{local.rsplit('/', 1)[-1]}"
@@ -148,7 +148,7 @@ def a_publier(fichiers):
 
 
 def cles_manquantes():
-    return [k for k in ("INSTAGRAM_ACCESS_TOKEN", "GITHUB_MEDIAS_TOKEN", "GITHUB_MEDIAS_DEPOT") if not env(k)]
+    return [k for k in ("INSTAGRAM_ACCESS_TOKEN", "MEDIAS_TOKEN", "MEDIAS_DEPOT") if not env(k)]
 
 
 def publier_brouillon(b, ig, fichiers):
