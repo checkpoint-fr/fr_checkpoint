@@ -232,7 +232,10 @@ def fabriquer(b):
         tmp = Path(tmp)
         voix_wav, decalage = tmp / "voix.wav", 0.0
         mots_dits = []
-        if voix_off(" ".join(textes), voix_wav):
+        a_lire = " ".join(textes)
+        for nom, phonetique in {**c.get("prononciation", {}), **(b.get("prononciation") or {})}.items():
+            a_lire = re.sub(rf"(?<!\w){re.escape(nom)}(?!\w)", phonetique, a_lire)
+        if voix_off(a_lire, voix_wav):
             duree_voix = duree_wav(voix_wav)
             mots_dits = transcrire(voix_wav)
             script, heures = chronologie(textes, mots_dits, duree_voix)

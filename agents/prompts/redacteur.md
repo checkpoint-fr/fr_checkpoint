@@ -42,7 +42,8 @@ Réponds uniquement en JSON valide :
     "couverture": "1re phrase lue sur l'écran d'accroche : une phrase choc qui donne envie de rester, max 14 mots",
     "points": ["une phrase par point, dans le même ordre que `points`, max 20 mots chacune"],
     "retenir": "phrase de conclusion lue sur l'écran « À retenir », max 14 mots"
-  }
+  },
+  "prononciation": {"Nom anglais tel qu'écrit dans voix": "réécriture phonétique à la française"}
 }
 
 `points` : 3 ou 4 éléments, du plus important au plus anecdotique.
@@ -50,7 +51,12 @@ Réponds uniquement en JSON valide :
 courtes, comme un présentateur gaming qui tutoie. Pas d'emoji, pas d'abréviation, pas de hashtag ;
 écris les nombres comme on les dit si c'est plus clair (« deux cent dix gigas »).
 Écris les noms de jeux et de studios avec leur orthographe normale (apostrophes, tirets : « Marvel's
-Spider-Man 2 »), et fais des phrases qui s'enchaînent naturellement, sans points de suspension. Mêmes règles de
+Spider-Man 2 »), et fais des phrases qui s'enchaînent naturellement, sans points de suspension.
+`prononciation` : la voix off est française et lit les noms anglais à la française (elle avale les
+consonnes finales : « Control Resonant » devient « Contrôle Résonan »). Pour chaque nom anglais de `voix`
+qui risque d'être mal lu, donne une réécriture phonétique française qui le fait prononcer comme en
+anglais (ex. « Control Resonant » → « Kontrol Rézonannte », « Spider-Man » → « Spaïdeur-Manne »,
+« The Finals » → « Ze Faïnelz »). N'y mets que ces noms ; objet vide s'il n'y en a pas. Mêmes règles de
 fidélité aux faits que pour le reste.
 `statut_info` : « officiel » si l'éditeur, le studio ou le constructeur l'annonce lui-même ;
 « confirme » si plusieurs médias le rapportent avec des faits vérifiés ; sinon « rumeur ».

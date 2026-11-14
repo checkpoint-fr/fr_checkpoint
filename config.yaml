@@ -161,7 +161,11 @@ reel:
     modeles: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
     nom: Charon               # voix Gemini (Charon, Puck, Fenrir, Kore, Aoede…) ; le texte est lu tel quel
     appel: "Abonne-toi à F R Checkpoint pour ne rater aucune actu jeu vidéo !"
+  # Noms anglais que la voix française prononce mal (lettre finale avalée) : réécrits pour la voix
+  # seulement, les sous-titres gardent la vraie orthographe. Le rédacteur ajoute aussi les siens.
+  prononciation:
+    Checkpoint: "Tchèk-poïnnte"
   transcription: whisper-large-v3-turbo   # Groq : heure de chaque mot prononcé, pour caler les sous-titres
   musique:
     dossier: assets/musique   # dépose ici des .mp3 libres de droits : un morceau tiré au hasard par vidéo
-    volume: 0.12
+    volume: 0.10

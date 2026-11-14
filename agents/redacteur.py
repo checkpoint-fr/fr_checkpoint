@@ -164,6 +164,7 @@ def rediger():
             "points": nettoyer_points(rep.get("points")),
             "a_retenir": rep.get("a_retenir", ""),
             "voix": rep.get("voix") or {},
+            "prononciation": rep.get("prononciation") or {},
             "legende": construire_legende(rep.get("legende", ""), sources, rep.get("hashtags", []), cfg),
             "sources": sources,
             "score_tri": sujet["score"],
