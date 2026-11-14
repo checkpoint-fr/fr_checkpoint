@@ -184,5 +184,126 @@
       "envoye_le": "2026-11-14T09:46:13+00:00"
     },
     "decide_le": "2026-11-14T12:16:11+00:00"
+  },
+  {
+    "sujet_id": "513e54c425fc",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Les secrets de fabrication fous de GTA: Vice City",
+    "sous_titre": "Retour sur la création express et les coulisses du chef-d'œuvre de Rockstar",
+    "points": [
+      {
+        "titre": "Un développement express",
+        "texte": "Le jeu est sorti en octobre 2002, soit à peine un an après GTA 3, alors qu'il devait initialement n'être qu'un contenu additionnel."
+      },
+      {
+        "titre": "Un budget XXL pour l'époque",
+        "texte": "Vice City a bénéficié d'environ 5 millions de dollars de budget de développement et de 13,2 millions de dollars en marketing."
+      },
+      {
+        "titre": "Le premier héros doublé",
+        "texte": "C'est dans cet épisode que Rockstar a introduit pour la première fois un protagoniste entièrement doté d'une voix."
+      },
+      {
+        "titre": "Une confrontation en studio",
+        "texte": "Une rumeur raconte même qu'une altercation a failli éclater entre Burt Reynolds et le cofondateur Dan Houser pendant l'enregistrement."
+      }
+    ],
+    "a_retenir": "Vice City a posé les bases de la formule magique et ambitieuse de Rockstar.",
+    "voix": {
+      "couverture": "Tu savais que GTA: Vice City avait été développé en seulement un an ?",
+      "points": [
+        "Le jeu est sorti en octobre deux mille deux, conçu au départ comme un simple contenu additionnel.",
+        "Il a bénéficié d'un budget de développement d'environ cinq millions de dollars et treize millions en marketing.",
+        "C'est la toute première fois que la série intègre un protagoniste avec une vraie voix.",
+        "Une rumeur raconte même qu'une altercation a failli éclater en studio entre Burt Reynolds et Dan Houser."
+      ],
+      "retenir": "Vice City reste à jamais le pilier de la formule légendaire de Rockstar."
+    },
+    "prononciation": {
+      "GTA: Vice City": "Dji-Tien-Aï Vaïss-Siti",
+      "Rockstar": "Rok-Star",
+      "Burt Reynolds": "Beurte Rénoldze",
+      "Dan Houser": "Dan Haouzere"
+    },
+    "legende": "Tu savais que GTA: Vice City avait été bouclé en seulement un an de développement ? Sorti en octobre 2002, le jeu a marqué un tournant gigantesque pour Rockstar, s'imposant comme un véritable mastodonte culturel.\n\nEntre un budget marketing de treize virgule deux millions de dollars, l'arrivée d'un protagoniste enfin doublé et des anecdotes de coulisses folles avec des stars, cet épisode a défini l'ADN de toute la franchise.\n\nEt toi, c'est quoi ton meilleur souvenir sur ce jeu ?\n\nSources : Reddit r/Games, Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #GTAViceCity #RockstarGames #GTA #RetroGaming #PlayStation #PC",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xw27dc/vice_city_was_the_gta_that_established_rockstars/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/gta-vice-city-retrospective"
+      }
+    ],
+    "score_tri": 2.42,
+    "creneau": "gta6",
+    "redige_le": "2026-11-14T17:00:51+00:00",
+    "alertes": [],
+    "duree": 28.6,
+    "voix_off": true,
+    "video": "data/videos/513e54c425fc.mp4",
+    "telegram": {
+      "message_id": 68,
+      "envoye_le": "2026-11-14T17:04:21+00:00"
+    }
+  },
+  {
+    "sujet_id": "c7cfb9adc572",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Des joueurs de GTA 6 recoivent des boites sans code",
+    "sous_titre": "La version physique du jeu fait deja parler d'elle a quelques jours de la sortie",
+    "points": [
+      {
+        "titre": "Des boites sans disque ni code",
+        "texte": "Pour des raisons pratiques, Rockstar a choisi un format physique sans disque mais avec un code imprime au dos de la jaquette."
+      },
+      {
+        "titre": "Une bande grise sans code",
+        "texte": "Des joueurs se retrouvent avec une simple bande grise impossible a gratter pour reveler le precieux sésame."
+      },
+      {
+        "titre": "Des difficultes avec le SAV",
+        "texte": "Certaines enseignes refusent les remboursements et le support de Rockstar aurait clos des tickets sans solution."
+      }
+    ],
+    "a_retenir": "Le lancement est prevu le 19 novembre sur PS5 et Xbox Series X.",
+    "voix": {
+      "couverture": "Attention si tu as achete GTA 6 en version physique !",
+      "points": [
+        "Rockstar a choisi un format boite sans disque, avec un code imprime au dos de la jaquette.",
+        "Des joueurs se retrouvent avec une bande grise impossible a gratter pour reveler le code.",
+        "Certaines enseignes refusent de rembourser et le support de Rockstar ne repond pas."
+      ],
+      "retenir": "Le jeu sort le 19 novembre sur PlayStation 5 et Xbox Series X."
+    },
+    "prononciation": {
+      "GTA 6": "Dji-Tch Ai-Cisse",
+      "Rockstar": "Rok-starre",
+      "PlayStation 5": "Plé-stèchion Saive",
+      "Xbox Series X": "Ecs-Bocsse Sé-rize Ecs"
+    },
+    "legende": "A quelques jours de la sortie mondiale de Grand Theft Auto 6, prevue le 19 novembre sur PlayStation 5 et Xbox Series X, des joueurs rencontrent un gros probleme avec leur version physique.\n\nVu que Rockstar a opte pour un format boite sans disque, les acheteurs doivent normalement recuperer un code d'activation. Mais certains se retrouvent avec une boite vide ou un feuillet defectueux dont la bande grise ne cache aucun code.\n\nFace a ce defaut de fabrication, les reactions varient selon les revendeurs entre remboursements et renvois vers le support.\n\nEt toi, tu as pris ta copie en physique ou en numerique ?\n\nSources : Polygon\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #GrandTheftAuto6 #RockstarGames #PS5 #XboxSeriesX #Action",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-grand-theft-auto-no-code-physical-edition/"
+      }
+    ],
+    "score_tri": 0.98,
+    "creneau": "gta6",
+    "redige_le": "2026-11-14T17:00:51+00:00",
+    "alertes": [],
+    "duree": 25.0,
+    "voix_off": true,
+    "video": "data/videos/c7cfb9adc572.mp4",
+    "telegram": {
+      "message_id": 70,
+      "envoye_le": "2026-11-14T17:04:22+00:00"
+    }
   }
 ]
