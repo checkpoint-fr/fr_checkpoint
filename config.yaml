@@ -165,6 +165,8 @@ reel:
   # seulement, les sous-titres gardent la vraie orthographe. Le rédacteur ajoute aussi les siens.
   prononciation:
     Checkpoint: "Tchèk-poïnnte"
+    "F R": "èf èr"
+  fin_secondes: 2.5          # l'écran « Suis @fr_checkpoint » reste affiché 2,5 s après la dernière phrase
   transcription: whisper-large-v3-turbo   # Groq : heure de chaque mot prononcé, pour caler les sous-titres
   musique:
     dossier: assets/musique   # dépose ici des .mp3 libres de droits : un morceau tiré au hasard par vidéo

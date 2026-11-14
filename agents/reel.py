@@ -245,7 +245,7 @@ def fabriquer(b):
             if heures[0] > 1.2:                                 # la voix a dit autre chose avant le texte
                 decalage = heures[0] - 0.15
                 heures = [h - decalage for h in heures]
-            duree_totale = duree_voix - decalage + 1.0          # dernier écran tenu 1 s après la voix
+            duree_totale = duree_voix - decalage + c["fin_secondes"]   # dernier écran tenu après la voix
         else:
             voix_wav = None
             duree_totale = sum(max(3.0, len(t) / 15) for t in textes)   # temps de lecture sans voix
@@ -285,7 +285,7 @@ def fabriquer(b):
         if voix_wav and musiques:
             filtres = ["-filter_complex",
                        f"[0:a]atrim=start={decalage:.2f},asetpts=PTS-STARTPTS,apad,atrim=0:{duree_totale:.2f}[v];[1:a]volume={c['musique']['volume']},"
-                       f"atrim=0:{duree_totale:.2f},afade=t=out:st={duree_totale - 1.5:.2f}:d=1.5[m];"
+                       f"atrim=0:{duree_totale:.2f},afade=t=out:st={duree_totale - 2:.2f}:d=2[m];"
                        "[v][m]amix=inputs=2:duration=first:normalize=0[a]", "-map", "2:v", "-map", "[a]"]
         elif voix_wav or musiques:
             filtres = ["-filter_complex", f"[0:a]atrim=start={decalage if voix_wav else 0:.2f},asetpts=PTS-STARTPTS,apad,atrim=0:{duree_totale:.2f},afade=t=out:st={duree_totale - 1:.2f}:d=1[a]",
