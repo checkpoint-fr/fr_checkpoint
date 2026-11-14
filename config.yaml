@@ -147,14 +147,14 @@ planning:
       libelle: "GTA 6"
       recherche: "18:00"
       publication: "19:30"
-      nb_sujets: 2
+      nb_sujets: 3
       min_sources: 1          # une annonce de Rockstar seule suffit
       inclure: ['\bgta ?(6|vi)\b', 'grand theft auto (6|vi)\b', '\bvice city\b']
     actu_soir:
       libelle: "Actu du soir"
       recherche: "19:45"      # récupère les annonces de l'après-midi américain (événements, trailers…)
       publication: "21:00"
-      nb_sujets: 2
+      nb_sujets: 3
       exclure: ['\bgta ?(6|vi)\b', 'grand theft auto (6|vi)\b', '\bvice city\b']
 
 format: reel                  # « reel » (vidéo verticale) ou « carrousel » (images)
