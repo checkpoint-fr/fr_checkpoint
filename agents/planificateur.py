@@ -163,7 +163,8 @@ def sauvegarder():
     git("add", "data")
     if git("diff", "--cached", "--quiet").returncode == 0:
         return
-    git("commit", "-q", "-m", f"état {maintenant().strftime('%Y-%m-%dT%H:%MZ')}")
+    git("-c", "user.name=checkpoint-bot", "-c", "user.email=checkpoint-bot@users.noreply.github.com",
+        "commit", "-q", "-m", f"état {maintenant().strftime('%Y-%m-%dT%H:%MZ')}")
     git("pull", "-q", "--rebase", "origin", "main")
     envoi = git("push", "-q", "origin", "HEAD:main")
     if envoi.returncode:
