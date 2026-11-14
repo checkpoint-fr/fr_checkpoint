@@ -9,6 +9,7 @@ Pour chaque créneau de la journée (heure de Paris) :
 import datetime
 import os
 import shutil
+import subprocess
 import time
 
 from agents import publication, redacteur, tri, validation, veille, visuel
@@ -140,6 +141,60 @@ def lancer():
         passage()
     finally:
         VERROU.unlink(missing_ok=True)
+
+
+def fin_de_surveillance(ici):
+    """Fenêtre de surveillance d'un créneau : de 45 min avant la recherche à la fin de la tolérance."""
+    plan = load_config()["planning"]
+    tolerance = datetime.timedelta(minutes=plan["tolerance_minutes"] + 5)
+    for conf in plan["creneaux"].values():
+        debut = a_l_heure(ici.date(), conf["recherche"]) - datetime.timedelta(minutes=45)
+        fin = a_l_heure(ici.date(), conf["publication"]) + tolerance
+        if debut <= ici < fin:
+            return fin
+    return None
+
+
+def sauvegarder():
+    """Sur GitHub Actions : enregistre l'état (data/) dans le dépôt au fil de la surveillance."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    git = lambda *a: subprocess.run(["git", *a], capture_output=True, text=True)
+    git("add", "data")
+    if git("diff", "--cached", "--quiet").returncode == 0:
+        return
+    git("commit", "-q", "-m", f"état {maintenant().strftime('%Y-%m-%dT%H:%MZ')}")
+    git("pull", "-q", "--rebase", "origin", "main")
+    envoi = git("push", "-q", "origin", "HEAD:main")
+    if envoi.returncode:
+        print(f"[planning] état non enregistré sur GitHub : {envoi.stderr.strip()[:200]}")
+
+
+def surveiller():
+    """Pendant une fenêtre : reste allumé, applique chaque clic Telegram en quelques secondes et
+    publie à l'heure pile. En dehors : un seul passage. Point d'entrée de GitHub Actions."""
+    fin = fin_de_surveillance(datetime.datetime.now(PARIS))
+    if not fin:
+        lancer()
+        return
+    print(f"[planning] surveillance jusqu'à {fin.strftime('%H:%M')} (heure de Paris)")
+    chat = env("TELEGRAM_CHAT_ID").strip()
+    dernier = 0.0
+    while datetime.datetime.now(PARIS) < fin:
+        try:
+            fichiers = validation.tous_les_brouillons()
+            clics = validation.lire_reponses(fichiers, chat, attente=25)
+            if clics:
+                validation.enregistrer(fichiers)
+            if clics or time.time() - dernier > 60:
+                passage()
+                dernier = time.time()
+                sauvegarder()
+        except Exception as ex:                               # un souci réseau ne doit pas arrêter la surveillance
+            print(f"[planning] incident : {ex}")
+            time.sleep(30)
+    passage()
+    sauvegarder()
 
 
 if __name__ == "__main__":

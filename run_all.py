@@ -1,5 +1,5 @@
-"""Point d'entrée lancé toutes les 10 minutes (Mac ou GitHub Actions) : le planificateur fait
-ce que l'heure demande. Voir config.yaml → planning et agents/planificateur.py."""
+"""Point d'entrée de GitHub Actions : pendant une fenêtre de validation, surveille Telegram en continu ;
+sinon, un seul passage. Voir config.yaml → planning et agents/planificateur.py. Ne pas lancer sur le Mac."""
 import warnings
 
 warnings.filterwarnings("ignore", message=".*OpenSSL.*")
@@ -7,4 +7,4 @@ warnings.filterwarnings("ignore", message=".*OpenSSL.*")
 from agents import planificateur  # noqa: E402
 
 if __name__ == "__main__":
-    planificateur.lancer()
+    planificateur.surveiller()

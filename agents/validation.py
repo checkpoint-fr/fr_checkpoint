@@ -61,9 +61,18 @@ def decision(chat, message_id, texte_actuel, verdict):
         print(f"  (message non modifié : {ex})")
 
 
-def lire_reponses(fichiers, chat):
+def repondre(clic, texte):
+    """Petite bulle affichée sur ton téléphone après un clic ; jamais bloquant si Telegram refuse."""
+    try:
+        api("answerCallbackQuery", json={"callback_query_id": clic["id"], "text": texte})
+    except Exception:
+        pass                                                   # clic trop ancien : Telegram refuse la réponse
+
+
+def lire_reponses(fichiers, chat, attente=0):
+    """`attente` > 0 : attend jusqu'à N secondes qu'un clic arrive (réponse immédiate en surveillance)."""
     curseur = lire_json(CURSEUR, {"offset": 0})
-    mises_a_jour = api("getUpdates", json={"offset": curseur["offset"], "timeout": 0,
+    mises_a_jour = api("getUpdates", json={"offset": curseur["offset"], "timeout": attente,
                                            "allowed_updates": ["callback_query"]})
     par_id = {b["sujet_id"]: b for brouillons in fichiers.values() for b in brouillons}
     traites = 0
@@ -73,20 +82,23 @@ def lire_reponses(fichiers, chat):
         if not clic:
             continue
         if str(clic["from"]["id"]) != chat:                   # quelqu'un d'autre : ignoré
-            api("answerCallbackQuery", json={"callback_query_id": clic["id"], "text": "Non autorisé"})
+            repondre(clic, "Non autorisé")
             continue
         action, _, sujet_id = clic.get("data", "").partition(":")
         b = par_id.get(sujet_id)
         if not b or b["statut"] != "a_valider":
-            api("answerCallbackQuery", json={"callback_query_id": clic["id"], "text": "Déjà traité"})
+            repondre(clic, "Déjà traité")
             continue
         b["statut"] = "valide" if action == "ok" else "rejete"
         b["decide_le"] = maintenant().isoformat()
-        verdict = ("✅ Validé : publication au prochain passage" if action == "ok" else "❌ Rejeté")
-        try:
-            api("answerCallbackQuery", json={"callback_query_id": clic["id"], "text": verdict})
-        except RuntimeError:
-            pass                                               # clic trop ancien : Telegram refuse la réponse
+        if action != "ok":
+            verdict = "❌ Rejeté"
+        elif b.get("creneau"):
+            heure = load_config()["planning"]["creneaux"][b["creneau"]]["publication"].replace(":", " h ")
+            verdict = f"✅ Validé : publication à {heure} (le mieux classé de tes ✅)"
+        else:
+            verdict = "✅ Validé : publication au prochain passage"
+        repondre(clic, verdict)
         decision(chat, clic["message"]["message_id"], clic["message"].get("text", ""), verdict)
         traites += 1
         print(f"[validation] {verdict[:2]} {b['accroche'][:70]}")
