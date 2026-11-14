@@ -370,7 +370,7 @@
   },
   {
     "sujet_id": "1ca035f098c4",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Coffee Stain sauve Chronicles: Medieval de la faillite",
@@ -425,7 +425,8 @@
     "telegram": {
       "message_id": 88,
       "envoye_le": "2026-11-14T21:15:19+00:00"
-    }
+    },
+    "decide_le": "2026-11-14T21:35:07+00:00"
   },
   {
     "sujet_id": "84dd531e7bfe",
