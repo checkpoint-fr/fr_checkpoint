@@ -91,7 +91,6 @@ redaction:
     point_titre: 40
     point_texte: 180
     a_retenir: 120
-  mention_ia: "Résumé préparé avec l'aide de l'IA à partir des sources citées, relu avant publication."
 
 visuel:
   largeur: 1080             # format portrait 4:5 recommandé par Instagram

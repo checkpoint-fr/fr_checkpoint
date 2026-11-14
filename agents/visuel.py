@@ -180,16 +180,8 @@ def conclusion(b, total):
     img, d = toile()
     largeur = c["largeur"] - 2 * M
     espace(d, M, 150, "À RETENIR", police("texte", 30, 800), couleur("accent"), 4)
-    f, lignes, pas = ajuster(b["a_retenir"], "texte", range(74, 40, -2), largeur, 440, 1.26, 700)
+    f, lignes, pas = ajuster(b["a_retenir"], "texte", range(84, 44, -2), largeur, 820, 1.24, 700)
     ecrire(d, M, 220, lignes, f, pas, couleur("texte"))
-
-    noms = " · ".join(s["nom"] for s in b["sources"])
-    fs, ls, ps = ajuster(noms, "texte", range(34, 24, -2), largeur - 100, 200, 1.4, 500)
-    haut_carte = 120 + len(ls) * ps
-    y0 = c["hauteur"] - 190 - haut_carte
-    d.rounded_rectangle([M, y0, c["largeur"] - M, y0 + haut_carte], 28, fill=couleur("carte"))
-    espace(d, M + 50, y0 + 45, "SOURCES", police("texte", 24, 800), couleur("secondaire"), 4)
-    ecrire(d, M + 50, y0 + 95, ls, fs, ps, couleur("texte"))
     progression(d, total - 1, total)
     return img
 

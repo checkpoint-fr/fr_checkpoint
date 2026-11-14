@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "482eb594d9b5",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Le QSSR débarque sur de nouveaux jeux PS5",
@@ -25,7 +25,7 @@
       }
     ],
     "a_retenir": "Le QSSR continue de s'étendre sur PS5 classique pour offrir des visuels plus nets et stables sur de nombreux titres.",
-    "legende": "Sony continue d'améliorer les performances graphiques sur la console que tu possèdes déjà grâce au QSSR. Cette technologie d'upscaling par IA s'invite officiellement sur six nouveaux titres.\n\nMarvel's Spider-Man 2 en profite dès aujourd'hui, tandis que des jeux comme Control Resonant, Arc Raiders ou No Man's Sky recevront leurs optimisations dans les prochaines semaines.\n\nEt toi, tu as déjà testé les améliorations du QSSR sur ta console ? Dis-le-nous en commentaire !\n\nSources : IGN, VGC, ActuGaming, Reddit r/Games, PlayStation Blog\nRésumé préparé avec l'aide de l'IA à partir des sources citées, relu avant publication.\n\n#checkpointfr #jeuxvideo #gaming #PS5 #SpiderMan2 #ControlResonant #NoMansSky #ArcRaiders #PlayStation #Sony",
+    "legende": "Sony continue d'améliorer les performances graphiques sur la console que tu possèdes déjà grâce au QSSR. Cette technologie d'upscaling par IA s'invite officiellement sur six nouveaux titres.\n\nMarvel's Spider-Man 2 en profite dès aujourd'hui, tandis que des jeux comme Control Resonant, Arc Raiders ou No Man's Sky recevront leurs optimisations dans les prochaines semaines.\n\nEt toi, tu as déjà testé les améliorations du QSSR sur ta console ? Dis-le-nous en commentaire !\n\nSources : IGN, VGC, ActuGaming, Reddit r/Games, PlayStation Blog\n\n#checkpointfr #jeuxvideo #gaming #PS5 #SpiderMan2 #ControlResonant #NoMansSky #ArcRaiders #PlayStation #Sony",
     "sources": [
       {
         "nom": "IGN",
@@ -64,7 +64,8 @@
     "telegram": {
       "message_id": 49,
       "envoye_le": "2026-11-14T09:46:09+00:00"
-    }
+    },
+    "decide_le": "2026-11-14T11:57:50+00:00"
   },
   {
     "sujet_id": "2b95ea7c6486",
@@ -88,7 +89,7 @@
       }
     ],
     "a_retenir": "Alcon Entertainment discute pour offrir un nouveau grand jeu vidéo moderne inspiré de l'univers cyberpunk.",
-    "legende": "La célèbre licence cyberpunk pourrait bientôt faire son grand retour sur nos machines avec un projet d'envergure.\n\nLes responsables d'Alcon Entertainment ont confirmé discuter activement autour d'un jeu vidéo AAA. L'objectif est de permettre aux joueurs d'interagir directement avec cet univers culte de la science-fiction.\n\nEntre le classique de 1997 et les projets récents, la franchise a connu une histoire mouvementée sur nos écrans. Ce nouveau titre pourrait enfin combler les attentes des fans du genre.\n\nEt toi, tu aimerais confier quel studio pour développer ce jeu Blade Runner ?\n\nSources : Reddit r/Games, IGN\nRésumé préparé avec l'aide de l'IA à partir des sources citées, relu avant publication.\n\n#checkpointfr #jeuxvideo #gaming #BladeRunner #AlconEntertainment #Cyberpunk #SciFi #Action #PC #Console",
+    "legende": "La célèbre licence cyberpunk pourrait bientôt faire son grand retour sur nos machines avec un projet d'envergure.\n\nLes responsables d'Alcon Entertainment ont confirmé discuter activement autour d'un jeu vidéo AAA. L'objectif est de permettre aux joueurs d'interagir directement avec cet univers culte de la science-fiction.\n\nEntre le classique de 1997 et les projets récents, la franchise a connu une histoire mouvementée sur nos écrans. Ce nouveau titre pourrait enfin combler les attentes des fans du genre.\n\nEt toi, tu aimerais confier quel studio pour développer ce jeu Blade Runner ?\n\nSources : Reddit r/Games, IGN\n\n#checkpointfr #jeuxvideo #gaming #BladeRunner #AlconEntertainment #Cyberpunk #SciFi #Action #PC #Console",
     "sources": [
       {
         "nom": "Reddit r/Games",
@@ -142,7 +143,7 @@
       }
     ],
     "a_retenir": "Prépare‑toi à revivre la jeunesse de Kratos en 2D, maintenant sur PS4 avec deux défis inédits.",
-    "legende": "God of War: Sons of Sparta passe enfin sur PS4, et il ne vient pas les mains vides.\n\nLe spin‑off 2D de la saga, développé par Mega Cat Studios avec Santa Monica, sort le 16 novembre à minuit. En même temps, PlayStation pousse une mise à jour gratuite qui apporte deux nouveaux modes de jeu.\n\nLe mode Hermès te propose un contre‑la‑montre complet, avec minuteur, tableau des scores et un code secret à entrer (↑↑↓↓←→←→L1 R1 Touchpad). Le mode Érebus, lui, transforme chaque affrontement en un duel à mort instantanée, rendant chaque partie ultra‑difficile.\n\nCes ajouts donnent une raison de replonger dans la jeunesse spartiate de Kratos, même si tu as déjà tout terminé. Tu comptes y retourner dès la sortie ?\n\nSources : VGC, ActuGaming, Reddit r/Games\nRésumé préparé avec l'aide de l'IA à partir des sources citées, relu avant publication.\n\n#checkpointfr #jeuxvideo #gaming #GodOfWar #SonsOfSparta #PlayStation4 #PS4 #MegaCatStudios #SantaMonicaStudio #2DAction #Speedrun",
+    "legende": "God of War: Sons of Sparta passe enfin sur PS4, et il ne vient pas les mains vides.\n\nLe spin‑off 2D de la saga, développé par Mega Cat Studios avec Santa Monica, sort le 16 novembre à minuit. En même temps, PlayStation pousse une mise à jour gratuite qui apporte deux nouveaux modes de jeu.\n\nLe mode Hermès te propose un contre‑la‑montre complet, avec minuteur, tableau des scores et un code secret à entrer (↑↑↓↓←→←→L1 R1 Touchpad). Le mode Érebus, lui, transforme chaque affrontement en un duel à mort instantanée, rendant chaque partie ultra‑difficile.\n\nCes ajouts donnent une raison de replonger dans la jeunesse spartiate de Kratos, même si tu as déjà tout terminé. Tu comptes y retourner dès la sortie ?\n\nSources : VGC, ActuGaming, Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #GodOfWar #SonsOfSparta #PlayStation4 #PS4 #MegaCatStudios #SantaMonicaStudio #2DAction #Speedrun",
     "sources": [
       {
         "nom": "VGC",

@@ -113,7 +113,7 @@ def depassements(b, limites):
 def construire_legende(texte, sources, hashtags, cfg):
     noms = ", ".join(s["nom"] for s in sources)
     tags = list(dict.fromkeys(cfg["hashtags_fixes"] + ["#" + h.lstrip("#").replace(" ", "") for h in hashtags]))
-    return f"{texte.strip()}\n\nSources : {noms}\n{cfg['mention_ia']}\n\n{' '.join(tags[:15])}"
+    return f"{texte.strip()}\n\nSources : {noms}\n\n{' '.join(tags[:15])}"
 
 
 def rediger():
