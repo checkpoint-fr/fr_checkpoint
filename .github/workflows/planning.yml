@@ -24,6 +24,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Musiques de fond des Reels : dépôt privé (licence Pixabay, pas de redistribution publique)
+      - name: Musiques de fond
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          repository: checkpoint-fr/checkpoint-musique
+          token: ${{ secrets.MUSIQUE_TOKEN }}
+          path: assets/musique
+          persist-credentials: false
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
