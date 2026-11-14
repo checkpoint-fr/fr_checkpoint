@@ -8,7 +8,7 @@ Voir [FEUILLE_DE_ROUTE.md](FEUILLE_DE_ROUTE.md) pour les étapes.
 
 ## Planning
 
-2 posts par jour (heure de Paris) réglés dans `config.yaml` → `planning` : actu jeu vidéo (recherche 10 h 30, publication 12 h 30) et GTA 6 (recherche 18 h, publication 19 h 30). `run_all.py` tourne sur GitHub Actions : pendant les fenêtres de validation, il surveille Telegram en continu (clics appliqués en quelques secondes) ; sinon, un passage par demi-heure.
+3 posts par jour (heure de Paris) réglés dans `config.yaml` → `planning` : actu jeu vidéo (recherche 10 h 30, publication 12 h 30), GTA 6 (recherche 18 h, publication 19 h 30) et actu du soir (recherche 19 h 45, publication 21 h). `run_all.py` tourne sur GitHub Actions : pendant les fenêtres de validation, il surveille Telegram en continu (clics appliqués en quelques secondes) ; sinon, un passage par demi-heure.
 
 ## Lancer les agents
 

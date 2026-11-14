@@ -132,7 +132,7 @@ publication:
   essais_max: 3                 # après 3 échecs, le carrousel passe en « echec »
 
 planning:
-  # Deux posts par jour. Chaque créneau : recherche (veille → tri → rédaction → images → Telegram),
+  # Trois posts par jour. Chaque créneau : recherche (veille → tri → rédaction → images → Telegram),
   # puis publication à l'heure dite du meilleur carrousel que tu as validé (un seul par créneau).
   debut: "2026-11-14"
   tolerance_minutes: 150      # validé en retard : publié au plus tard 2 h 30 après l'heure prévue
@@ -150,6 +150,12 @@ planning:
       nb_sujets: 2
       min_sources: 1          # une annonce de Rockstar seule suffit
       inclure: ['\bgta ?(6|vi)\b', 'grand theft auto (6|vi)\b', '\bvice city\b']
+    actu_soir:
+      libelle: "Actu du soir"
+      recherche: "19:45"      # récupère les annonces de l'après-midi américain (événements, trailers…)
+      publication: "21:00"
+      nb_sujets: 2
+      exclure: ['\bgta ?(6|vi)\b', 'grand theft auto (6|vi)\b', '\bvice city\b']
 
 format: reel                  # « reel » (vidéo verticale) ou « carrousel » (images)
 
@@ -166,7 +172,7 @@ reel:
   prononciation:
     Checkpoint: "Tchèk-poïnnte"
     "F R": "èf èr"
-  fin_secondes: 2.5          # l'écran « Suis @fr_checkpoint » reste affiché 2,5 s après la dernière phrase
+  fin_secondes: 1.5          # l'écran « Suis @fr_checkpoint » reste affiché 1,5 s après la dernière phrase
   transcription: whisper-large-v3-turbo   # Groq : heure de chaque mot prononcé, pour caler les sous-titres
   musique:
     dossier: assets/musique   # dépose ici des .mp3 libres de droits : un morceau tiré au hasard par vidéo
