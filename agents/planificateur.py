@@ -171,7 +171,7 @@ def sauvegarder():
         return
     git("-c", "user.name=checkpoint-bot", "-c", "user.email=checkpoint-bot@users.noreply.github.com",
         "commit", "-q", "-m", f"état {maintenant().strftime('%Y-%m-%dT%H:%MZ')}")
-    git("pull", "-q", "--rebase", "origin", "main")
+    git("pull", "-q", "--rebase", "-X", "theirs", "origin", "main")   # conflit : l'état de ce passage l'emporte
     envoi = git("push", "-q", "origin", "HEAD:main")
     if envoi.returncode:
         print(f"[planning] état non enregistré sur GitHub : {envoi.stderr.strip()[:200]}")
