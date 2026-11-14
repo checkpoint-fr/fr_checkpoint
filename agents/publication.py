@@ -37,10 +37,10 @@ def github(methode, chemin, **kwargs):
 
 
 def deposer(b):
-    """Envoie les images, renvoie [(chemin_dans_le_depot, sha, url_publique)]."""
+    """Envoie la vidéo (Reel) ou les images, renvoie [(chemin_dans_le_depot, sha, url_publique)]."""
     depot = env("MEDIAS_DEPOT").strip()
     deposes = []
-    for local in b["images"]:
+    for local in ([b["video"]] if b.get("video") else b["images"]):
         chemin = f"medias/{b['sujet_id']}/{local.rsplit('/', 1)[-1]}"
         contenu = base64.b64encode((ROOT / local).read_bytes()).decode()
         rep = github("PUT", chemin, json={"message": f"média {b['sujet_id']}", "content": contenu})
@@ -89,15 +89,25 @@ def compte_instagram():
     return comptes[0]["id"]
 
 
-def attendre_conteneur(ident):
-    for _ in range(20):                              # 5 minutes au plus, comme le recommande Meta
+def attendre_conteneur(ident, tentatives=20):
+    for _ in range(tentatives):                      # 15 s entre deux vérifications
         statut = instagram("GET", ident, fields="status_code")["status_code"]
         if statut == "FINISHED":
             return
         if statut in ("ERROR", "EXPIRED"):
             raise RuntimeError(f"conteneur {ident} : {statut}")
         time.sleep(15)
-    raise RuntimeError(f"conteneur {ident} toujours en traitement après 5 min")
+    raise RuntimeError(f"conteneur {ident} toujours en traitement après {tentatives * 15 // 60} min")
+
+
+def publier_reel(ig, url, legende):
+    """Reel : un seul conteneur vidéo (traitement plus long qu'une image), aussi affiché dans le fil."""
+    reel = instagram("POST", f"{ig}/media", media_type="REELS", video_url=url, caption=legende,
+                     share_to_feed="true")["id"]
+    attendre_conteneur(reel, tentatives=40)
+    media = instagram("POST", f"{ig}/media_publish", creation_id=reel)["id"]
+    lien = instagram("GET", media, fields="permalink").get("permalink", "")
+    return media, lien
 
 
 def publier_carrousel(ig, urls, legende):
@@ -160,7 +170,10 @@ def publier_brouillon(b, ig, fichiers):
         deposes = deposer(b)
         for _, _, url in deposes:
             attendre_url(url)
-        media, lien = publier_carrousel(ig, [u for _, _, u in deposes], b["legende"][:2200])
+        if b.get("video"):
+            media, lien = publier_reel(ig, deposes[0][2], b["legende"][:2200])
+        else:
+            media, lien = publier_carrousel(ig, [u for _, _, u in deposes], b["legende"][:2200])
         b["statut"] = "publie"
         b["instagram"] = {"media_id": media, "lien": lien, "publie_le": maintenant().isoformat()}
         print(f"  ✓ publié : {lien}")

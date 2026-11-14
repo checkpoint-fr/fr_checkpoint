@@ -110,16 +110,22 @@ def envoyer(fichiers, chat):
     envoyes = 0
     for brouillons in fichiers.values():
         for b in brouillons:
-            if b["statut"] != "a_valider" or b.get("telegram") or not b.get("images"):
+            reel = load_config().get("format") == "reel"
+            if b["statut"] != "a_valider" or b.get("telegram") or not b.get("video" if reel else "images"):
                 continue
-            fichiers_photos = {f"p{i}": open(ROOT / chemin, "rb") for i, chemin in enumerate(b["images"])}
-            try:
-                album = [{"type": "photo", "media": f"attach://p{i}"} for i in range(len(b["images"]))]
-                album[0]["caption"] = b["accroche"]
-                api("sendMediaGroup", data={"chat_id": chat, "media": json.dumps(album)}, files=fichiers_photos)
-            finally:
-                for f in fichiers_photos.values():
-                    f.close()
+            if reel:
+                with open(ROOT / b["video"], "rb") as video:
+                    api("sendVideo", data={"chat_id": chat, "caption": b["accroche"], "supports_streaming": "true",
+                                           "width": 1080, "height": 1920}, files={"video": video})
+            else:
+                fichiers_photos = {f"p{i}": open(ROOT / chemin, "rb") for i, chemin in enumerate(b["images"])}
+                try:
+                    album = [{"type": "photo", "media": f"attach://p{i}"} for i in range(len(b["images"]))]
+                    album[0]["caption"] = b["accroche"]
+                    api("sendMediaGroup", data={"chat_id": chat, "media": json.dumps(album)}, files=fichiers_photos)
+                finally:
+                    for f in fichiers_photos.values():
+                        f.close()
             message = api("sendMessage", json={"chat_id": chat, "text": texte_validation(b),
                                                "disable_web_page_preview": True,
                                                "reply_markup": boutons(b["sujet_id"])})
@@ -157,7 +163,7 @@ def valider():
         envoyes = envoyer(fichiers, chat)
     finally:
         enregistrer(fichiers)
-    print(f"[validation] {traites} décisions appliquées, {envoyes} carrousels envoyés sur Telegram")
+    print(f"[validation] {traites} décisions appliquées, {envoyes} propositions envoyées sur Telegram")
 
 
 if __name__ == "__main__":

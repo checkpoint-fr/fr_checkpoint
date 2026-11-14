@@ -150,3 +150,20 @@ planning:
       nb_sujets: 2
       min_sources: 1          # une annonce de Rockstar seule suffit
       inclure: ['\bgta ?(6|vi)\b', 'grand theft auto (6|vi)\b', '\bvice city\b']
+
+format: reel                  # « reel » (vidéo verticale) ou « carrousel » (images)
+
+reel:
+  largeur: 1080
+  hauteur: 1920
+  fps: 30
+  voix:
+    modeles: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
+    nom: Puck                 # voix Gemini (Puck, Fenrir, Charon, Kore, Aoede…)
+    consigne: >-
+      Lis ce texte en français, d'un ton dynamique et enthousiaste de présentateur gaming,
+      avec un rythme rapide et énergique. Marque une courte pause entre chaque paragraphe.
+    appel: "Abonne-toi à F R Checkpoint pour ne rater aucune actu jeu vidéo !"
+  musique:
+    dossier: assets/musique   # dépose ici des .mp3 libres de droits : un morceau tiré au hasard par vidéo
+    volume: 0.12

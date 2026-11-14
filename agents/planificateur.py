@@ -12,7 +12,7 @@ import shutil
 import subprocess
 import time
 
-from agents import publication, redacteur, tri, validation, veille, visuel
+from agents import publication, redacteur, reel, tri, validation, veille, visuel
 from agents.validation import api as telegram
 from common.config import DATA, env, load_config
 from common.io import ecrire_json, lire_json, maintenant
@@ -63,6 +63,9 @@ def menage(jour):
             if b.get("images") and b["redige_le"][:10] < limite_images and b["statut"] not in ("a_valider", "valide"):
                 shutil.rmtree(DATA / "visuels" / b["sujet_id"], ignore_errors=True)
                 b["images"] = []
+            if b.get("video") and b["redige_le"][:10] < limite_images and b["statut"] not in ("a_valider", "valide"):
+                (DATA / "videos" / f"{b['sujet_id']}.mp4").unlink(missing_ok=True)
+                b["video"] = ""
     validation.enregistrer(fichiers)
     for dossier in ("redaction", "tri"):
         for f in (DATA / dossier).glob("2*.json"):
@@ -77,7 +80,10 @@ def rechercher(nom, conf):
     if not sujets:
         return False
     redacteur.rediger()
-    visuel.produire()
+    if load_config().get("format") == "reel":
+        reel.produire()
+    else:
+        visuel.produire()
     validation.valider()
     return True
 
