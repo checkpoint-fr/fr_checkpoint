@@ -10,7 +10,7 @@ import json
 
 import requests
 
-from common.config import DATA, ROOT, env, load_config
+from common.config import DATA, ROOT, env, format_du_jour, load_config
 from common.io import ecrire_json, lire_json, maintenant
 
 DOSSIER = DATA / "redaction"
@@ -110,7 +110,7 @@ def envoyer(fichiers, chat):
     envoyes = 0
     for brouillons in fichiers.values():
         for b in brouillons:
-            reel = load_config().get("format") == "reel"
+            reel = format_du_jour() == "reel"
             if b["statut"] != "a_valider" or b.get("telegram") or not b.get("video" if reel else "images"):
                 continue
             if reel:

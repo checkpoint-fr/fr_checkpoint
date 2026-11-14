@@ -158,6 +158,7 @@ planning:
       exclure: ['\bgta ?(6|vi)\b', 'grand theft auto (6|vi)\b', '\bvice city\b']
 
 format: reel                  # « reel » (vidéo verticale) ou « carrousel » (images)
+carrousel_les: ["2026-11-14"]  # jours où l'on publie quand même en carrousel
 
 reel:
   largeur: 1080

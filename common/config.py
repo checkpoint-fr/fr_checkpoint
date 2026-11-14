@@ -22,3 +22,12 @@ def load_config():
 
 def env(name, default=""):
     return os.getenv(name, default) or default
+
+
+def format_du_jour():
+    """« reel » ou « carrousel » : `format` de config.yaml, sauf les jours listés dans `carrousel_les`."""
+    import datetime
+    from zoneinfo import ZoneInfo
+    cfg = load_config()
+    jour = datetime.datetime.now(ZoneInfo("Europe/Paris")).date().isoformat()
+    return "carrousel" if jour in (cfg.get("carrousel_les") or []) else cfg.get("format", "carrousel")

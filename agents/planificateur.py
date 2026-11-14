@@ -14,7 +14,7 @@ import time
 
 from agents import publication, redacteur, reel, tri, validation, veille, visuel
 from agents.validation import api as telegram
-from common.config import DATA, env, load_config
+from common.config import DATA, env, format_du_jour, load_config
 from common.io import ecrire_json, lire_json, maintenant
 
 from zoneinfo import ZoneInfo
@@ -80,7 +80,7 @@ def rechercher(nom, conf):
     if not sujets:
         return False
     redacteur.rediger()
-    if load_config().get("format") == "reel":
+    if format_du_jour() == "reel":
         reel.produire()
     else:
         visuel.produire()
