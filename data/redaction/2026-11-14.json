@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "482eb594d9b5",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Le QSSR débarque sur de nouveaux jeux PS5",
@@ -65,11 +65,16 @@
       "message_id": 49,
       "envoye_le": "2026-11-14T09:46:09+00:00"
     },
-    "decide_le": "2026-11-14T11:57:50+00:00"
+    "decide_le": "2026-11-14T11:57:50+00:00",
+    "instagram": {
+      "media_id": "18477778159143599",
+      "lien": "https://www.instagram.com/p/DfuJ6nFGJDt/",
+      "publie_le": "2026-11-14T12:00:01+00:00"
+    }
   },
   {
     "sujet_id": "2b95ea7c6486",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Un jeu AAA Blade Runner en discussion",
@@ -115,7 +120,8 @@
     "telegram": {
       "message_id": 56,
       "envoye_le": "2026-11-14T09:46:11+00:00"
-    }
+    },
+    "decide_le": "2026-11-14T11:58:38+00:00"
   },
   {
     "sujet_id": "8034967ecfdb",
