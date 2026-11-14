@@ -125,7 +125,7 @@
   },
   {
     "sujet_id": "8034967ecfdb",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "God of War: Sons of Sparta arrive sur PS4 le 16 novembre",
@@ -182,6 +182,7 @@
     "telegram": {
       "message_id": 64,
       "envoye_le": "2026-11-14T09:46:13+00:00"
-    }
+    },
+    "decide_le": "2026-11-14T12:16:11+00:00"
   }
 ]
