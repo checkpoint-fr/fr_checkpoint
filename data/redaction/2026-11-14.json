@@ -308,7 +308,7 @@
   },
   {
     "sujet_id": "38b52b75dcd7",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Le remake de Zelda Ocarina of Time enflamme la Toile",
@@ -366,6 +366,12 @@
     "telegram": {
       "message_id": 81,
       "envoye_le": "2026-11-14T21:15:18+00:00"
+    },
+    "decide_le": "2026-11-14T21:35:15+00:00",
+    "instagram": {
+      "media_id": "18428671714159808",
+      "lien": "https://www.instagram.com/p/DfvL3RKF33r/",
+      "publie_le": "2026-11-14T21:36:17+00:00"
     }
   },
   {
