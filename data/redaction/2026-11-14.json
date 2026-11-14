@@ -187,7 +187,7 @@
   },
   {
     "sujet_id": "513e54c425fc",
-    "statut": "a_valider",
+    "statut": "expire",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Les secrets de fabrication fous de GTA: Vice City",
@@ -252,7 +252,7 @@
   },
   {
     "sujet_id": "c7cfb9adc572",
-    "statut": "a_valider",
+    "statut": "expire",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Des joueurs de GTA 6 recoivent des boites sans code",
@@ -305,5 +305,174 @@
       "message_id": 70,
       "envoye_le": "2026-11-14T17:04:22+00:00"
     }
+  },
+  {
+    "sujet_id": "38b52b75dcd7",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Le remake de Zelda Ocarina of Time enflamme la Toile",
+    "sous_titre": "Découvre les premières réactions et astuces sur cette nouvelle version Switch 2.",
+    "points": [
+      {
+        "titre": "Le succès de la version Switch 2",
+        "texte": "Le remake de The Legend of Zelda: Ocarina of Time est salué pour son style visuel et son ambiance festive."
+      },
+      {
+        "titre": "Un lien intact avec les joueurs",
+        "texte": "Le jeu touche aussi bien les nostalgiques que les nouveaux venus grâce à sa narration intemporelle."
+      },
+      {
+        "titre": "Astuces et secrets d'Hyrule",
+        "texte": "Les guides affluent déjà pour trouver le quart de coeur du cimetière d'Igor ou débloquer le Chant du Soleil."
+      }
+    ],
+    "a_retenir": "Ce remake prouve que la magie du titre original opère toujours autant auprès des joueurs.",
+    "voix": {
+      "couverture": "Le remake de Zelda Ocarina of Time fait un carton sur Switch 2",
+      "points": [
+        "Le jeu séduit autant les nostalgiques que ceux qui le découvrent pour la toute première fois.",
+        "La direction artistique et la simplicité de l'histoire font l'unanimité auprès de la communauté.",
+        "Les joueurs partagent déjà leurs astuces pour dénicher les secrets cachés dans le monde d'Hyrule."
+      ],
+      "retenir": "Un événement incontournable qui montre que ce chef-d'oeuvre n'a pas pris une ride."
+    },
+    "prononciation": {
+      "The Legend of Zelda: Ocarina of Time": "Zelda Ocarina of Taïm"
+    },
+    "legende": "Le retour de The Legend of Zelda: Ocarina of Time sur Switch 2 fait énormément parler de lui en cette fin d'année. Entre les souvenirs des vétérans et la découverte pour les nouveaux joueurs, l'émotion est au rendez-vous. Et si tu te lances dans l'aventure, n'oublie pas de fouiller chaque recoin du cimetière ou de débloquer les partitions indispensables pour explorer Hyrule. Tu y joues déjà de ton côté ?\n\nSources : Polygon, JV\n\n#checkpointfr #jeuxvideo #gaming #Zelda #OcarinaOfTime #Nintendo #Switch2 #TheLegendOfZelda #RetroGaming #ActionAventure",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-reception/"
+      },
+      {
+        "nom": "JV",
+        "lien": "https://www.jeuxvideo.com/news/2114450/excursion-du-fossoyeur-zelda-ocarina-of-time-ou-trouver-ce-quart-de-coeur-du-cimetiere.htm"
+      }
+    ],
+    "score_tri": 1.97,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-14T21:05:56+00:00",
+    "alertes": [],
+    "images": [
+      "data/visuels/38b52b75dcd7/01.jpg",
+      "data/visuels/38b52b75dcd7/02.jpg",
+      "data/visuels/38b52b75dcd7/03.jpg",
+      "data/visuels/38b52b75dcd7/04.jpg",
+      "data/visuels/38b52b75dcd7/05.jpg",
+      "data/visuels/38b52b75dcd7/06.jpg"
+    ],
+    "telegram": {
+      "message_id": 81,
+      "envoye_le": "2026-11-14T21:15:18+00:00"
+    }
+  },
+  {
+    "sujet_id": "1ca035f098c4",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Coffee Stain sauve Chronicles: Medieval de la faillite",
+    "sous_titre": "L'éditeur vient au secours du studio pour sauver le jeu",
+    "points": [
+      {
+        "titre": "Un sauvetage in extremis",
+        "texte": "L'éditeur Coffee Stain intervient pour sauver le studio derrière Chronicles: Medieval d'une faillite certaine."
+      },
+      {
+        "titre": "Un avenir assuré",
+        "texte": "Grâce à cette intervention, le développement du jeu médiéval peut enfin reprendre sereinement."
+      },
+      {
+        "titre": "Une équipe soulagée",
+        "texte": "Les développeurs échangent la menace de la fermeture contre une chance de terminer leur projet."
+      }
+    ],
+    "a_retenir": "Coffee Stain vole au secours de Chronicles: Medieval et évite la faillite au studio.",
+    "voix": {
+      "couverture": "Coffee Stain vole au secours de Chronicles Medieval pour éviter la faillite",
+      "points": [
+        "L editeur vient de sauver le studio d une faillite qui semblait inévitable",
+        "Le développement du jeu médiéval est donc relancé grâce à ce soutien précieux",
+        "Une très bonne nouvelle pour les développeurs qui retrouvent enfin de la visibilité"
+      ],
+      "retenir": "Le projet est sauvé et le jeu pourra finalement voir le jour"
+    },
+    "prononciation": {
+      "Chronicles: Medieval": "Chronikles Médiaval",
+      "Coffee Stain": "Kofi Sténe"
+    },
+    "legende": "C'est une excellente nouvelle pour les fans de jeux de rôle et d'ambiances médiévales. Le studio en charge de Chronicles: Medieval se retrouvait au bord du gouffre financier, menaçant directement l'avenir du titre. Heureusement, l'éditeur Coffee Stain a décidé de tendre la main pour reprendre les choses en main et garantir la suite du projet. De quoi redonner le sourire aux équipes et rassurer les joueurs qui suivaient le jeu de près. Et toi, tu attendais ce jeu de pied ferme ?\n\nSources : Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #ChroniclesMedieval #CoffeeStain #PC #RPG #IndieGame #JeuxVideo",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xwbmsh/coffee_stain_rescues_chronicles_medieval_from/"
+      }
+    ],
+    "score_tri": 1.87,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-14T21:05:56+00:00",
+    "alertes": [],
+    "images": [
+      "data/visuels/1ca035f098c4/01.jpg",
+      "data/visuels/1ca035f098c4/02.jpg",
+      "data/visuels/1ca035f098c4/03.jpg",
+      "data/visuels/1ca035f098c4/04.jpg",
+      "data/visuels/1ca035f098c4/05.jpg",
+      "data/visuels/1ca035f098c4/06.jpg"
+    ],
+    "telegram": {
+      "message_id": 88,
+      "envoye_le": "2026-11-14T21:15:19+00:00"
+    }
+  },
+  {
+    "sujet_id": "84dd531e7bfe",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "rumeur",
+    "accroche": "Ce détail caché dans Resident Evil 3 va te surprendre",
+    "sous_titre": "Un joueur partage une animation culte oubliée de Jill Valentine dans l'église.",
+    "points": [
+      {
+        "titre": "Une cloche bloquée",
+        "texte": "Dans le jeu original Resident Evil 3, une énorme cloche bloque la sortie de l'église."
+      },
+      {
+        "titre": "L'échec de Jill",
+        "texte": "Si tu tentes de la déplacer avec Jill Valentine, elle pousse en vain avant de donner un coup de pied."
+      },
+      {
+        "titre": "La force de Carlos",
+        "texte": "Il faut ensuite passer sur Carlos, le seul assez fort pour bouger cet obstacle."
+      }
+    ],
+    "a_retenir": "Les petits détails cachés font souvent la magie des jeux rétro.",
+    "voix": {
+      "couverture": "Ce détail caché dans Resident Evil Trois va te surprendre",
+      "points": [
+        "Une énorme cloche bloque la sortie de l'église dans le jeu original Resident Evil Trois.",
+        "Si tu tentes de la bouger avec Jill Valentine, elle pousse avant de donner un coup de pied.",
+        "Il faut ensuite passer sur Carlos pour réussir à déplacer cet obstacle."
+      ],
+      "retenir": "Les petits détails cachés font toute la magie de ces jeux rétro."
+    },
+    "prononciation": {
+      "Resident Evil Trois": "Rézident Ivle Troie",
+      "Jill Valentine": "Djele Valentaïne",
+      "Carlos": "Karloss"
+    },
+    "legende": "Tu te souviens de tous ces petits détails cachés dans les jeux de ton enfance ? Un joueur vient de repartager une animation totalement culte dans le jeu original Resident Evil 3. Alors que Jill Valentine se retrouve bloquée par une lourde cloche dans l'église, elle tente de la pousser sans succès avant de finir par lui mettre un coup de pied de frustration. Un petit détail inutile mais tellement attachant, avant de pouvoir enfin contrôler Carlos pour régler le problème. Ce genre de clin d'œil montre à quel point les développeurs prenaient le temps d'ajouter de la personnalité à leurs personnages. Est-ce que tu te souvenais de cette animation précise ?\n\nSources : Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #residentevil3 #capcom #jillvalentine #retrogaming #playstation #classic",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xwb3l2/do_you_have_any_favorite_unnecessary_little/"
+      }
+    ],
+    "score_tri": 1.83,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-14T21:05:56+00:00",
+    "alertes": []
   }
 ]

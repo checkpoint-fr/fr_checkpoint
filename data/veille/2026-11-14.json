@@ -1,5 +1,280 @@
 [
   {
+    "id": "28ae80d7207f4db7",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
+    "lien": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
+    "resume": "Star Trek: Generations is streaming free on Pluto TV. Here's why the underrated Kirk and Picard crossover deserves another look.",
+    "publie_le": "2026-11-14T21:00:17+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "6b5e43d24d4b9fc0",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
+    "lien": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+    "resume": "Testing comedy games comes with a unique challenge.",
+    "publie_le": "2026-11-14T20:45:44+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "8418eb81391d49b9",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
+    "lien": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
+    "resume": "Parents are debating whether the Ocarina of Time remake is too scary for kids. Here’s the case for the child-era half as a first Nintendo game.",
+    "publie_le": "2026-11-14T20:00:17+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "77f85c3a74664601",
+    "source": "Reddit r/Games",
+    "type": "communaute",
+    "langue": "en",
+    "titre": "Coffee Stain Rescues Chronicles: Medieval From Bankruptcy",
+    "lien": "https://www.reddit.com/r/Games/comments/1xwbmsh/coffee_stain_rescues_chronicles_medieval_from/",
+    "resume": "",
+    "publie_le": "2026-11-14T19:54:03+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "8dd6842345779444",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Fortnite Player Gets Screwed Out of Extremely Rare Pirate Shop Token",
+    "lien": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
+    "resume": "Epic Games has reportedly proved unhelpful after a user lost the Pirate Shop Access token in Fortnite after losing connection mid-match.",
+    "publie_le": "2026-11-14T19:47:17+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "90912f9e31a486aa",
+    "source": "Reddit r/Games",
+    "type": "communaute",
+    "langue": "en",
+    "titre": "Do you have any favorite \"unnecessary\" little touches/moments in games?",
+    "lien": "https://www.reddit.com/r/Games/comments/1xwb3l2/do_you_have_any_favorite_unnecessary_little/",
+    "resume": "I was just revisiting the original Resident Evil 3. There's a point in the game where there's a large church bell blocking your exit and you can't move it out of the way until you switch characters and play as Mr. Big Strong Carlos. If you try to move the bell as Jill Valentine, she'll enter the \"push\" animation and the bell won't go anywhere, but right after that she'll actually kick the bell…",
+    "publie_le": "2026-11-14T19:31:34+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "eb15374209d2d17a",
+    "source": "Reddit r/Games",
+    "type": "communaute",
+    "langue": "en",
+    "titre": "Phantom Blade Zero has been out for a couple weeks now, what are your thoughts on it?",
+    "lien": "https://www.reddit.com/r/Games/comments/1xwarrr/phantom_blade_zero_has_been_out_for_a_couple/",
+    "resume": "Phantom Blade Zero released a little over couple weeks ago, and as S-GAME's first foray into the AAA space it's looking to be a critical and commercial success. I'm a bit surprised since I feel like I haven't seen much discussion here as I expected so wanted to get peoples' thoughts on the game. How have you been finding the Wuxia/kungfu-based combat? Have you been enjoying the bosses and overall…",
+    "publie_le": "2026-11-14T19:18:02+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "c0c57c4715c7192c",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Nintendo recrute pour sauver son passé : pourquoi la conservation du jeu vidéo est-elle un enjeu majeur ?",
+    "lien": "https://www.jeuxvideo.com/news/2114280/nintendo-recrute-pour-sauver-son-passe-pourquoi-la-conservation-du-jeu-video-est-elle-un-enjeu-majeur.htm",
+    "resume": "Que restera-t-il de nos jeux vidéo préférés dans cinquante ans ? Derrière les cartouches oubliées, les consoles vieillissantes et les serveurs qui ferment, c'est toute une partie de notre histoire culturelle qui risque de s'effacer. Et même les plus grands noms de l'industrie commencent à prendre la...",
+    "publie_le": "2026-11-14T19:10:09+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "9353a723f7025b0e",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "'The Body' Ending Explained: Is Grace Possessed? Netflix Showrunners Talk Season 2",
+    "lien": "https://www.polygon.com/the-body-ending-explained/",
+    "resume": "Is Grace possessed? The Body’s showrunners explain why the Netflix series’ ending has no single answer and what’s next in season 2.",
+    "publie_le": "2026-11-14T19:00:17+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "1fa84aa3934b49a8",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
+    "lien": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+    "resume": "When you think about GTA as a series, the first thing that probably comes to mind is driving through crowds of people, gunning down whoever you like, just generally doing crime without any care in the world. I wouldn't exactly call it an empathy game, not to say that other games are any better at such a thing anyway. But with GTA 6 out, crikey, next bloody week, a new interview has gone up with…",
+    "publie_le": "2026-11-14T19:00:00+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "13cb2cf9de7e1394",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "26 Years Later, Charlie Brown's Final Quote Is Still a Comic Strip Classic",
+    "lien": "https://www.polygon.com/charlie-brown-final-peanuts-line/",
+    "resume": "Charlie Brown, the longest-suffering kid in comics history, went out as he lived",
+    "publie_le": "2026-11-14T18:43:17+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "ba0b5a7f736b7247",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Chris Pratt Says He 'Would Love' James Gunn to Return for Guardians of the Galaxy Vol. 4 After Leaving DC",
+    "lien": "https://www.ign.com/articles/chris-pratt-says-he-would-love-james-gunn-to-return-for-guardians-of-the-galaxy-vol-4-after-leaving-dc",
+    "resume": "Chris Pratt said he would love to reunite with James Gunn for Guardians of the Galaxy Vol. 4 after the director abruptly announced he would be leaving DC Studios earlier this week.",
+    "publie_le": "2026-11-14T18:27:44+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "c19693b39cf6fad8",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 will \"provide mechanisms that encourage\" empathy \"for the first time in a GTA\"",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-knows-people-want-to-play-gta-6-for-the-chaos-but-the-studio-will-also-provide-mechanisms-that-encourage-empathy-for-the-first-time-in-a-gta/",
+    "resume": "Shoot and smooch",
+    "publie_le": "2026-11-14T18:24:35+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "160fdc44f2ba1b7b",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Rouge infernal Phantom Blade Zero : Comment obtenir cette arme ?",
+    "lien": "https://www.jeuxvideo.com/news/2113551/rouge-infernal-phantom-blade-zero-comment-obtenir-cette-arme.htm",
+    "resume": "Parmi l’arsenal redoutable mis à la disposition de Soul dans Phantom Blade Zero, l’arme Rouge infernal se distingue par sa puissance dévastatrice et son style flamboyant. Suivez notre guide pour l'obtenir et débloquer le trophée correspondant.",
+    "publie_le": "2026-11-14T18:15:09+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "a0aad5e521b939ad",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Magic Is Bringing Back Its Most Controversial Creature Type",
+    "lien": "https://www.polygon.com/magic-the-gathering-new-sliver-cards-tease/",
+    "resume": "Magic: The Gathering's Aaron Forsythe tells Polygon he knows when more Sliver cards will come to the game",
+    "publie_le": "2026-11-14T18:03:43+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "c81df735f2cafc29",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "35 Years Later, Tim Burton’s Greatest Love Story Is Officially on Streaming",
+    "lien": "https://www.polygon.com/tim-burton-edward-scissorhands-love-story/",
+    "resume": "A lonely man, a pastel suburb, and a Gothic castle. Tim Burton’s 35-year-old fairy tale is still amazing.",
+    "publie_le": "2026-11-14T18:00:17+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "03441fc40273d835",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "As the 13-year wait for GTA 6 ends, it’s time to remember the first 10 games released in 12 years",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/with-the-13-year-wait-for-gta-6-finally-ending-its-time-to-remember-that-rockstar-released-the-first-10-grand-theft-auto-games-in-just-12-years/",
+    "resume": "The wait for GTA 6 is even more astounding when you remember how things used to be",
+    "publie_le": "2026-11-14T18:00:00+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "fddfb78447b312af",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
+    "lien": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+    "resume": "Earlier this year in a bit of a shakeup for the fleshiest kid in town, Super Meat Boy entered into a new dimension in the aptly named Super Meat Boy 3D. I've not played it but it seems like a good take on the format. Clearly, though, sometimes you just need to play the hits, as a new release of the original game is on the way in the form of Super Meat Boy Again+, a remaster with updated graphics,…",
+    "publie_le": "2026-11-14T17:59:00+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "ad7dece47e03aacf",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6: The Album seemingly leaks with Dua Lipa and Lana Del Rey as part of the 34-song tracklist",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-the-album-seemingly-leaks-with-dua-lipa-and-lana-del-rey-as-part-of-the-full-34-song-tracklist/",
+    "resume": "Starting from zero",
+    "publie_le": "2026-11-14T17:47:21+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "20b04841d616b3d3",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Nvidia : plus de 1 000 milliards de dollars de capitalisation en moins en quelques jours, le patron Jensen Huang a fait une bourde coûteuse",
+    "lien": "https://www.jeuxvideo.com/news/2114329/nvidia-plus-de-1-000-milliards-de-dollars-de-capitalisation-en-moins-en-quelques-jours-le-patron-jensen-huang-a-fait-une-bourde-couteuse.htm",
+    "resume": "Dans un contexte où les marchés sont nerveux sur l’IA, il y a une histoire d’adultère qui est en train de provoquer une sacrée crise. Le scandale qui touche Jensen Huang, le désormais ex-big boss de Nvidia, a des effets dévastateurs sur le cours de bourse de la société… pour plusieurs raisons.",
+    "publie_le": "2026-11-14T17:45:08+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "247855e0cd3733de",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "12 Classic Wii Games That Nintendo Should Add to Switch Online",
+    "lien": "https://www.polygon.com/switch-online-missing-wii-games/",
+    "resume": "Nintendo could really make our day by launching a Wii channel on Switch Online and including these 12 classic games.",
+    "publie_le": "2026-11-14T17:24:05+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "93afe4628b7f0ea3",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+    "lien": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
+    "resume": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
+    "publie_le": "2026-11-14T17:19:13+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "9c227193ad4d5eeb",
+    "source": "Reddit r/Games",
+    "type": "communaute",
+    "langue": "en",
+    "titre": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP. \"We are working on some legacy franchises that we're excited about\"",
+    "lien": "https://www.reddit.com/r/Games/comments/1xw7koc/theres_no_such_thing_as_easy_money_in_our/",
+    "resume": "",
+    "publie_le": "2026-11-14T17:09:31+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "959bcd40d16fc801",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Blade Runner Is Officially Getting The AAA Game Treatment",
+    "lien": "https://www.polygon.com/blade-runner-is-officially-getting-the-aaa-game-treatment/",
+    "resume": "Alcon Entertainment confirmed it has had discussions about creating a AAA game based on Blade Runner",
+    "publie_le": "2026-11-14T17:06:22+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "26eab8df3788d0a1",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Zelda et Mario ont fait beaucoup pour les jeux en 3D : d'ailleurs, sans eux, GTA 6 ne serait pas le même ! Et ce sont des spécialistes qui le disent...",
+    "lien": "https://www.jeuxvideo.com/news/2114240/zelda-et-mario-ont-fait-beaucoup-pour-les-jeux-en-3d-d-ailleurs-sans-eux-gta-6-ne-serait-pas-le-meme-et-ce-sont-des-specialistes-qui-le-disent.htm",
+    "resume": "On pourrait croire qu’il n’y a pas plus opposé que The Legend of Zelda : Ocarina of Time et GTA 6 et pourtant, les co-fondateurs de Rockstar rappellent que les jeux en 3D n’existeraient pas sans Mario et Zelda !",
+    "publie_le": "2026-11-14T17:00:46+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
     "id": "9e554e5f5a1e93f3",
     "source": "Polygon",
     "type": "presse",
@@ -66,6 +341,28 @@
     "collecte_le": "2026-11-14T17:00:45+00:00"
   },
   {
+    "id": "c6d71cf1010c4f00",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Daggerheart: Hope & Fear Expansion Review",
+    "lien": "https://www.ign.com/articles/daggerheart-hope-fear-expansion-ttrpg-review",
+    "resume": "",
+    "publie_le": "2026-11-14T16:30:00+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
+    "id": "8745d05a8ae139d6",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "When GTA 5 Took On Zuckerberg and Hit Peak Satire",
+    "lien": "https://www.ign.com/articles/when-gta-5-took-on-zuckerberg-and-hit-peak-satire",
+    "resume": "This is how Rockstar brought together bad fashion, a miserable gangster, an exploding phone, and fake Zuckerberg getting his just deserts to create GTA 5's memorable takedown of Silicon Valley.",
+    "publie_le": "2026-11-14T16:30:00+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
+  },
+  {
     "id": "fe7d87d89ca975d1",
     "source": "Gamekult",
     "type": "presse",
@@ -75,6 +372,17 @@
     "resume": "L'arrivée de GTA 6 continue de prendre des proportions assez sidérantes, au point que toute l'industrie lui fait de la place. Dernière nouvelle en date : le studio Pocketpair a annoncé sur les réseaux sociaux la mise en place d'un congé spécialement dédié au titre de Rockstar pour tous ses employés.",
     "publie_le": "2026-11-14T16:20:00+00:00",
     "collecte_le": "2026-11-14T17:00:45+00:00"
+  },
+  {
+    "id": "8996a95c55ce108b",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Rob Run : le jeu gratuit qui s'inspire de GTA 6 et qui cartonne sur Steam vaut-il le coup d'oeil ?",
+    "lien": "https://www.jeuxvideo.com/news/2114298/rob-run-le-jeu-gratuit-qui-s-inspire-de-gta-6-et-qui-cartonne-sur-steam-vaut-il-le-coup-d-oeil.htm",
+    "resume": "Un monde ouvert sans PNJ, des braquages punitifs et plus de 300.000 curieux sur Steam. J'ai arpenté les rues de Rob Run pour voir si cette alternative gratuite à GTA 6 méritait vraiment le détour.",
+    "publie_le": "2026-11-14T16:15:07+00:00",
+    "collecte_le": "2026-11-14T21:05:51+00:00"
   },
   {
     "id": "2915e09e8ec6916f",
