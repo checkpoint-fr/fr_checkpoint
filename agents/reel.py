@@ -233,7 +233,10 @@ def fabriquer(b):
         voix_wav, decalage = tmp / "voix.wav", 0.0
         mots_dits = []
         a_lire = " ".join(textes)
-        for nom, phonetique in {**c.get("prononciation", {}), **(b.get("prononciation") or {})}.items():
+        # sigles et nombres exclus des réécritures de l'IA : la voix les lit très bien à la française
+        propres = {n: v for n, v in (b.get("prononciation") or {}).items()
+                   if not re.search(r"\b[A-Z]{2,}\b|\d", n)}
+        for nom, phonetique in {**propres, **c.get("prononciation", {})}.items():
             a_lire = re.sub(rf"(?<!\w){re.escape(nom)}(?!\w)", phonetique, a_lire)
         if voix_off(a_lire, voix_wav):
             duree_voix = duree_wav(voix_wav)

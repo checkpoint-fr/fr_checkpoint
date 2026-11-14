@@ -56,7 +56,12 @@ Spider-Man 2 »), et fais des phrases qui s'enchaînent naturellement, sans poin
 consonnes finales : « Control Resonant » devient « Contrôle Résonan »). Pour chaque nom anglais de `voix`
 qui risque d'être mal lu, donne une réécriture phonétique française qui le fait prononcer comme en
 anglais (ex. « Control Resonant » → « Kontrol Rézonannte », « Spider-Man » → « Spaïdeur-Manne »,
-« The Finals » → « Ze Faïnelz »). N'y mets que ces noms ; objet vide s'il n'y en a pas. Mêmes règles de
+« The Finals » → « Ze Faïnelz »). N'y mets que ces noms ; objet vide s'il n'y en a pas.
+Jamais de sigle ni de nombre dans `prononciation` : les sigles (GTA, PS5, IA, DLC…) et les chiffres se
+lisent à la française, la voix le fait très bien seule. Si un nom mêle sigle et mots (« GTA: Vice City »),
+ne mets que la partie en mots (« Vice City »). N'y mets pas non plus les marques qu'un joueur français dit
+naturellement (PlayStation, Xbox, Nintendo, Switch, Steam, Rockstar, Ubisoft…).
+Orthographe française impeccable partout, avec tous les accents (« reçoivent », « boîte », « acheté »). Mêmes règles de
 fidélité aux faits que pour le reste.
 `statut_info` : « officiel » si l'éditeur, le studio ou le constructeur l'annonce lui-même ;
 « confirme » si plusieurs médias le rapportent avec des faits vérifiés ; sinon « rumeur ».
