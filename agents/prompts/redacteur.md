@@ -48,7 +48,9 @@ Réponds uniquement en JSON valide :
 `points` : 3 ou 4 éléments, du plus important au plus anecdotique.
 `voix` : c'est ce qu'entend le spectateur (20 à 30 secondes au total, 75 mots maximum). Langage parlé, naturel, phrases
 courtes, comme un présentateur gaming qui tutoie. Pas d'emoji, pas d'abréviation, pas de hashtag ;
-écris les nombres comme on les dit si c'est plus clair (« deux cent dix gigas »). Mêmes règles de
+écris les nombres comme on les dit si c'est plus clair (« deux cent dix gigas »).
+Écris les noms de jeux et de studios avec leur orthographe normale (apostrophes, tirets : « Marvel's
+Spider-Man 2 »), et fais des phrases qui s'enchaînent naturellement, sans points de suspension. Mêmes règles de
 fidélité aux faits que pour le reste.
 `statut_info` : « officiel » si l'éditeur, le studio ou le constructeur l'annonce lui-même ;
 « confirme » si plusieurs médias le rapportent avec des faits vérifiés ; sinon « rumeur ».

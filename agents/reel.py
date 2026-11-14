@@ -6,10 +6,12 @@
 Si la voix est indisponible, la vidéo est faite sans voix (texte affiché plus longtemps).
 """
 import base64
+import difflib
 import random
 import re
 import subprocess
 import tempfile
+import unicodedata
 import wave
 from pathlib import Path
 
@@ -33,9 +35,10 @@ def cfg():
 # ---------- voix ----------
 
 def voix_off(texte, sortie):
-    """Lit le texte avec la voix Gemini (modèle principal puis léger). Renvoie True si le fichier existe."""
+    """Lit le texte avec la voix Gemini (modèle principal puis léger). Le texte est envoyé seul : toute
+    consigne ajoutée serait lue à voix haute. Renvoie True si le fichier existe."""
     c = cfg()["voix"]
-    corps = {"contents": [{"parts": [{"text": f"{c['consigne']}\n\n{texte}"}]}],
+    corps = {"contents": [{"parts": [{"text": texte}]}],
              "generationConfig": {"responseModalities": ["AUDIO"],
                                   "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": c["nom"]}}}}}
     for modele in c["modeles"]:
@@ -62,26 +65,77 @@ def duree_wav(chemin):
         return w.getnframes() / w.getframerate()
 
 
-def frontieres(chemin, textes):
-    """Durée de chaque paragraphe lu : on coupe aux plus longs silences (la voix marque une pause
-    entre les paragraphes) ; à défaut, au prorata du nombre de caractères."""
-    total = duree_wav(chemin)
-    sortie = subprocess.run([FFMPEG, "-hide_banner", "-i", str(chemin), "-af", "silencedetect=noise=-38dB:d=0.3",
-                             "-f", "null", "-"], capture_output=True, text=True).stderr
-    debuts = [float(x) for x in re.findall(r"silence_start: ([\d.]+)", sortie)]
-    fins = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", sortie)]
-    silences = [(f - d, (d + f) / 2) for d, f in zip(debuts, fins) if 0.5 < d and f < total - 0.3]
-    besoin = len(textes) - 1
-    if len(silences) >= besoin:
-        coupes = sorted(m for _, m in sorted(silences, reverse=True)[:besoin])
-    else:
-        poids = [len(t) for t in textes]
-        cumul, coupes = 0, []
-        for p in poids[:-1]:
+def transcrire(chemin):
+    """Ce que la voix a vraiment dit, mot par mot avec l'heure exacte (Whisper chez Groq, gratuit)."""
+    try:
+        with open(chemin, "rb") as f:
+            r = requests.post("https://api.groq.com/openai/v1/audio/transcriptions", timeout=120,
+                              headers={"Authorization": f"Bearer {env('GROQ_API_KEY').strip()}"},
+                              files={"file": f}, data={"model": cfg()["transcription"], "language": "fr",
+                                                       "response_format": "verbose_json",
+                                                       "timestamp_granularities[]": "word"})
+        r.raise_for_status()
+        return [(w["word"], w["start"], w["end"]) for w in r.json().get("words", [])]
+    except Exception as ex:
+        print(f"  [voix] transcription indisponible ({str(ex)[:100]}) : synchro approximative")
+        return []
+
+
+def normal(mot):
+    m = unicodedata.normalize("NFKD", mot.lower())
+    return re.sub(r"[^a-z0-9]", "", "".join(c for c in m if not unicodedata.combining(c)))
+
+
+def chronologie(textes, mots_dits, total):
+    """Heure de début de chaque mot du script, en le calant sur la transcription (les mots non
+    reconnus, comme un nombre lu en toutes lettres, sont placés entre leurs voisins)."""
+    script = [(normal(m), m, i) for i, t in enumerate(textes) for m in t.split()]
+    heures = [None] * len(script)
+    if mots_dits:
+        appariement = difflib.SequenceMatcher(None, [s[0] for s in script], [normal(m[0]) for m in mots_dits],
+                                              autojunk=False)
+        for a, b, taille in appariement.get_matching_blocks():
+            for k in range(taille):
+                heures[a + k] = mots_dits[b + k][1]
+    connus = [i for i, h in enumerate(heures) if h is not None]
+    if len(connus) < max(3, len(script) // 4):                # transcription absente ou inutilisable
+        poids = [len(s[1]) + 1 for s in script]
+        cumul = 0
+        for i, p in enumerate(poids):
+            heures[i] = total * cumul / sum(poids)
             cumul += p
-            coupes.append(total * cumul / sum(poids))
-    bornes = [0.0] + coupes + [total]
-    return [bornes[i + 1] - bornes[i] for i in range(len(textes))]
+        return script, heures
+    for i in range(len(script)):                             # interpolation des trous
+        if heures[i] is None:
+            avant = max((k for k in connus if k < i), default=None)
+            apres = min((k for k in connus if k > i), default=None)
+            if avant is None:
+                heures[i] = max(0.0, heures[apres] - 0.3 * (apres - i))
+            elif apres is None:
+                heures[i] = min(total, heures[avant] + 0.3 * (i - avant))
+            else:
+                heures[i] = heures[avant] + (heures[apres] - heures[avant]) * (i - avant) / (apres - avant)
+    return script, heures
+
+
+def decouper_sous_titres(script, heures, segment, fin_segment):
+    """Morceaux de 2 lignes au plus pour un écran, chacun affiché de son premier mot au suivant."""
+    indices = [k for k, s in enumerate(script) if s[2] == segment]
+    morceaux, courant = [], []
+    for k in indices:
+        courant.append(k)
+        texte = " ".join(script[j][1] for j in courant)
+        if len(texte) > 34 or script[k][1][-1:] in ".!?":
+            morceaux.append(courant)
+            courant = []
+    if courant:
+        morceaux.append(courant)
+    sortie = []
+    for n, morceau in enumerate(morceaux):
+        debut = heures[morceau[0]]
+        fin = heures[morceaux[n + 1][0]] if n + 1 < len(morceaux) else fin_segment
+        sortie.append((" ".join(script[j][1] for j in morceau), debut, max(fin, debut + 0.2)))
+    return sortie
 
 
 # ---------- écrans ----------
@@ -142,20 +196,6 @@ def ecran_appel():
     return img
 
 
-def sous_titres(texte, duree):
-    """Découpe le texte lu en morceaux de 2 lignes au plus, chacun affiché au prorata de sa longueur."""
-    mots, morceaux, courant = typo(texte).split(" "), [], []
-    for mot in mots:
-        courant.append(mot)
-        if len(" ".join(courant)) > 34 or mot[-1:] in ".!?":
-            morceaux.append(" ".join(courant))
-            courant = []
-    if courant:
-        morceaux.append(" ".join(courant))
-    total = sum(len(m) for m in morceaux) or 1
-    return [(m, duree * len(m) / total) for m in morceaux]
-
-
 def incruster(base, texte):
     img = base.copy()
     d = ImageDraw.Draw(img)
@@ -182,6 +222,7 @@ def fabriquer(b):
     textes += [(voix.get("points") or [])[i] if i < len(voix.get("points") or []) else p["texte"]
                for i, p in enumerate(points)]
     textes += [voix.get("retenir") or b["a_retenir"], c["voix"]["appel"]]
+    textes = [t.strip() + ("" if t.strip()[-1:] in ".!?" else ".") for t in textes]
     ecrans = [ecran_couverture(b)] + [ecran_point(p, i + 1) for i, p in enumerate(points)] \
         + [ecran_retenir(b), ecran_appel()]
     total = len(ecrans)
@@ -189,29 +230,46 @@ def fabriquer(b):
     DOSSIER.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory() as tmp:
         tmp = Path(tmp)
-        voix_wav = tmp / "voix.wav"
-        if voix_off("\n\n".join(textes), voix_wav):
-            durees = frontieres(voix_wav, textes)
+        voix_wav, decalage = tmp / "voix.wav", 0.0
+        mots_dits = []
+        if voix_off(" ".join(textes), voix_wav):
+            duree_voix = duree_wav(voix_wav)
+            mots_dits = transcrire(voix_wav)
+            script, heures = chronologie(textes, mots_dits, duree_voix)
+            if heures[0] > 1.2:                                 # la voix a dit autre chose avant le texte
+                decalage = heures[0] - 0.15
+                heures = [h - decalage for h in heures]
+            duree_totale = duree_voix - decalage + 1.0          # dernier écran tenu 1 s après la voix
         else:
             voix_wav = None
-            durees = [max(3.0, len(t) / 15) for t in textes]          # temps de lecture sans voix
-        durees[-1] += 1.0                                              # dernier écran tenu après la voix
+            duree_totale = sum(max(3.0, len(t) / 15) for t in textes)   # temps de lecture sans voix
+            script, heures = chronologie(textes, [], duree_totale)
+        premiers = [min(k for k, x in enumerate(script) if x[2] == i) for i in range(total)]
+        debuts = [0.0] + [heures[k] for k in premiers[1:]]
+        fins = debuts[1:] + [duree_totale]
 
         liste, n = [], 0
-        for i, (ecran, texte, duree) in enumerate(zip(ecrans, textes, durees)):
-            d = ImageDraw.Draw(ecran)
-            progression(d, i + 1, total)
-            morceaux = [(None, duree)] if i == total - 1 else sous_titres(texte, duree)
-            for morceau, temps in morceaux:
-                image = ecran if morceau is None else incruster(ecran, morceau)
-                chemin = tmp / f"{n:03d}.png"
-                image.save(chemin)
-                liste.append(f"file '{chemin}'\nduration {temps:.3f}")
-                n += 1
+
+        def ajouter(image, temps):
+            nonlocal n
+            chemin = tmp / f"{n:03d}.png"
+            image.save(chemin)
+            liste.append(f"file '{chemin}'\nduration {max(temps, 0.04):.3f}")
+            n += 1
+
+        for i, ecran in enumerate(ecrans):
+            progression(ImageDraw.Draw(ecran), i + 1, total)
+            if i == total - 1:                                  # écran d'appel : pas de sous-titres
+                ajouter(ecran, fins[i] - debuts[i])
+                continue
+            morceaux = decouper_sous_titres(script, heures, i, fins[i])
+            if morceaux and morceaux[0][1] > debuts[i] + 0.04:
+                ajouter(ecran, morceaux[0][1] - debuts[i])
+            for texte, debut, fin in morceaux:
+                ajouter(incruster(ecran, typo(texte)), min(fin, fins[i]) - debut)
         liste.append(f"file '{tmp / f'{n - 1:03d}.png'}'")
         (tmp / "images.txt").write_text("\n".join(liste))
 
-        duree_totale = sum(durees)
         musiques = sorted((ROOT / c["musique"]["dossier"]).glob("*.mp3"))
         entrees, filtres = [], []
         if voix_wav:
@@ -220,11 +278,11 @@ def fabriquer(b):
             entrees += ["-stream_loop", "-1", "-i", str(random.choice(musiques))]
         if voix_wav and musiques:
             filtres = ["-filter_complex",
-                       f"[0:a]apad,atrim=0:{duree_totale:.2f}[v];[1:a]volume={c['musique']['volume']},"
+                       f"[0:a]atrim=start={decalage:.2f},asetpts=PTS-STARTPTS,apad,atrim=0:{duree_totale:.2f}[v];[1:a]volume={c['musique']['volume']},"
                        f"atrim=0:{duree_totale:.2f},afade=t=out:st={duree_totale - 1.5:.2f}:d=1.5[m];"
                        "[v][m]amix=inputs=2:duration=first:normalize=0[a]", "-map", "2:v", "-map", "[a]"]
         elif voix_wav or musiques:
-            filtres = ["-filter_complex", f"[0:a]apad,atrim=0:{duree_totale:.2f},afade=t=out:st={duree_totale - 1:.2f}:d=1[a]",
+            filtres = ["-filter_complex", f"[0:a]atrim=start={decalage if voix_wav else 0:.2f},asetpts=PTS-STARTPTS,apad,atrim=0:{duree_totale:.2f},afade=t=out:st={duree_totale - 1:.2f}:d=1[a]",
                        "-map", "1:v", "-map", "[a]"]
         else:
             entrees += ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"]
