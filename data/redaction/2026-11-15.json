@@ -502,7 +502,7 @@
   },
   {
     "sujet_id": "a5fc4a0f54ab",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Xbox fête ses vingt-cinq ans en magazine",
@@ -555,6 +555,12 @@
     "telegram": {
       "message_id": 113,
       "envoye_le": "2026-11-15T18:52:32+00:00"
+    },
+    "decide_le": "2026-11-15T20:01:48+00:00",
+    "instagram": {
+      "media_id": "17988099399103189",
+      "lien": "https://www.instagram.com/reel/Dfxl6FyE3e7/",
+      "publie_le": "2026-11-15T20:02:35+00:00"
     }
   },
   {
