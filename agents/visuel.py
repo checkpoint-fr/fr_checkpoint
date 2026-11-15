@@ -39,6 +39,7 @@ def typo(texte):
     """Typographie française : apostrophe courbe, espaces insécables (ponctuation, « », initiales, unités)."""
     t = " ".join(texte.split()).replace("'", "’")
     t = re.sub(r" ([:;!?»])", "\u00a0\\1", t)
+    t = re.sub(r"\bGTA (VI|6)\b", "GTA\u00a0\\1", t)                 # « GTA VI » jamais coupé en fin de ligne
     t = re.sub(r"\b([A-Z])\. (?=[A-Z])", "\\1.\u00a0", t)            # initiale + nom : « Jordan A. Mun »
     t = re.sub(r"(\d) (?=[%€$]|(Go|Mo|To|Ko|h|min|s|ans?|jours?|mois|heures?|fps|Hz|millions?|milliards?|euros?|dollars?)\b)",
                "\\1\u00a0", t)                                        # nombre + unité : « 210 Go »

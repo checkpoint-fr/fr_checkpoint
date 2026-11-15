@@ -85,10 +85,9 @@ redaction:
   articles_lus: 3           # articles ouverts par sujet pour donner des faits à l'IA
   extrait_max: 2500         # caractères lus par article (servent à l'IA, jamais publiés)
   hashtags_fixes: ["#checkpointfr", "#jeuxvideo", "#gaming"]
-  uniformiser:              # [motif, remplacement] appliqués à tous les textes et à la voix
-    - ['\bGrand Theft Auto\s+(VI|6)\b', 'GTA 6']
-    - ['\bGTA\s*VI\b', 'GTA 6']
-    - ['\bGTA6\b', 'GTA 6']
+  uniformiser:              # [motif, remplacement] appliqués à tous les textes (la voix dit « GTA 6 »)
+    - ['\bGrand Theft Auto\s+(VI|6)\b', 'GTA VI']
+    - ['\bGTA\s*(VI|6)\b', 'GTA VI']
   limites:                  # caractères max par zone des images (cf. agents/prompts/redacteur.md)
     accroche: 70
     sous_titre: 110
@@ -177,6 +176,7 @@ reel:
   prononciation:
     Checkpoint: "Tchèk-poïnnte"
     "F R": "èf èr"
+    "GTA VI": "GTA 6"         # écrit « GTA VI », dit « GTA six »
   fin_secondes: 2.5          # l'écran « Suis @fr_checkpoint » reste affiché 2,5 s après la dernière phrase
   transcription: whisper-large-v3-turbo   # Groq : heure de chaque mot prononcé, pour caler les sous-titres
   musique:
