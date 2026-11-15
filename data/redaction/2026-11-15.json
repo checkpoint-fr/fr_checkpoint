@@ -499,5 +499,178 @@
       "envoye_le": "2026-11-15T17:22:11+00:00"
     },
     "decide_le": "2026-11-15T17:37:55+00:00"
+  },
+  {
+    "sujet_id": "a5fc4a0f54ab",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Xbox fête ses vingt-cinq ans en magazine",
+    "sous_titre": "La marque célèbre un quart de siècle avec une publication papier inédite.",
+    "points": [
+      {
+        "titre": "Un hommage rétro",
+        "texte": "Xbox a créé un magazine spécial de vingt-cinq ans pour replonger les fans dans l'histoire de la marque."
+      },
+      {
+        "titre": "Du passé au futur",
+        "texte": "Cette édition revient sur les jeux, le matériel et les souvenirs marquants racontés par les équipes de développement."
+      },
+      {
+        "titre": "Des détails sur Fable",
+        "texte": "Le magazine offre aussi un aperçu des futurs jeux, avec par exemple des infos sur la ville de Bowerstone."
+      }
+    ],
+    "a_retenir": "Le magazine est disponible en lecture numérique dès aujourd'hui.",
+    "voix": {
+      "couverture": "Xbox fête ses vingt-cinq ans avec un tout nouveau magazine.",
+      "points": [
+        "La marque célèbre un quart de siècle avec une publication papier inspirée du passé.",
+        "Le magazine revient sur les jeux et le matériel racontés par les équipes.",
+        "Il propose même des détails inédits sur des jeux à venir comme Fable."
+      ],
+      "retenir": "Cette édition anniversaire est dès à présent disponible en ligne pour tout le monde."
+    },
+    "prononciation": {
+      "Fable": "Fébe"
+    },
+    "legende": "Pour fêter son quart de siècle, Xbox replonge dans la nostalgie avec la sortie d'un magazine spécial baptisé Xbox - The 25th Anniversary Magazine. Une belle façon de célébrer le chemin parcouru depuis les débuts de la marque, en passant en revue les jeux et le matériel qui ont marqué l'histoire.\n\nDistribué initialement aux membres de la communauté lors du Xbox FanFest à Seattle, cet ouvrage est désormais accessible à tous en ligne. Il propose de revisiter tes franchises favorites, d'apprendre des anecdotes sur les coulisses, mais aussi de découvrir de nouveaux détails sur des jeux à venir, comme le monde de Fable.\n\nEt toi, tu as connu la toute première console de Microsoft ?\n\nSources : Reddit r/Games, Xbox Wire\n\n#checkpointfr #jeuxvideo #gaming #Xbox #Fable #Microsoft #XboxFanFest #Bowerstone",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xx0mdo/xbox_25th_anniversary_magazine_explore_25_years/"
+      },
+      {
+        "nom": "Xbox Wire",
+        "lien": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/"
+      }
+    ],
+    "score_tri": 4.07,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-15T18:45:44+00:00",
+    "alertes": [],
+    "duree": 23.3,
+    "voix_off": true,
+    "video": "data/videos/a5fc4a0f54ab.mp4",
+    "telegram": {
+      "message_id": 113,
+      "envoye_le": "2026-11-15T18:52:32+00:00"
+    }
+  },
+  {
+    "sujet_id": "2d3be3566955",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Licenciement choc chez Treyarch",
+    "sous_titre": "Un vétéran de Call of Duty quitte le studio après vingt ans de bons et loyaux services",
+    "points": [
+      {
+        "titre": "Une figure historique touchée",
+        "texte": "Craig Houston, le scénariste principal de Treyarch, a annoncé son départ après environ vingt ans passés au sein de l'entreprise."
+      },
+      {
+        "titre": "L'architecte du mode Zombies",
+        "texte": "Il était la force créative derrière les campagnes et surtout le mode Zombies depuis Call of Duty World at War en deux mille huit."
+      },
+      {
+        "titre": "Des coupes liées à Xbox",
+        "texte": "Ce départ fait suite aux importantes réorganisations et aux suppressions de postes annoncées par Xbox plus tôt dans l'année."
+      }
+    ],
+    "a_retenir": "Un pilier historique de l'écriture s'en va, marquant un tournant pour l'avenir de la licence.",
+    "voix": {
+      "couverture": "Coup dur chez Treyarch, un vétéran historique quitte le studio après vingt ans.",
+      "points": [
+        "Craig Houston, le scénariste principal, a été licencié suite aux récentes réorganisations.",
+        "Il était le principal architecte du mode Zombies depuis deux mille huit et World at War.",
+        "Ces coupes massives s'inscrivent dans les décisions prises par Xbox plus tôt cette année."
+      ],
+      "retenir": "Une page se tourne pour les fans de la saga et du mode Zombies."
+    },
+    "prononciation": {
+      "Craig Houston": "Krégg Housteun",
+      "Call of Duty": "Kol of Dioutie",
+      "World at War": "Wörld ate Wore",
+      "Zombies": "Zombizz"
+    },
+    "legende": "C'est une page qui se tourne pour l'un des studios phares de la franchise Call of Duty. Craig Houston, scénariste en chef et figure incontournable de Treyarch, a révélé qu'il faisait partie des salariés touchés par les vagues de licenciements actuelles.\n\nPrésent dans l'entreprise depuis environ vingt ans, il a façonné l'histoire de la saga à travers les campagnes solo mais aussi, et surtout, en créant le mythique mode Zombies dès deux mille huit avec World at War. Une immense perte créative saluée par toute la communauté.\n\nEt toi, as-tu passé des heures sur le mode Zombies qu'il a imaginé ?\n\nSources : Eurogamer, Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #CallOfDuty #Treyarch #Xbox #Activision #FPS",
+    "sources": [
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs"
+      },
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xwmzug/treyarchs_former_senior_lead_writer_craig_houston/"
+      }
+    ],
+    "score_tri": 2.45,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-15T18:45:44+00:00",
+    "alertes": [],
+    "duree": 24.5,
+    "voix_off": true,
+    "video": "data/videos/2d3be3566955.mp4",
+    "telegram": {
+      "message_id": 115,
+      "envoye_le": "2026-11-15T18:52:34+00:00"
+    }
+  },
+  {
+    "sujet_id": "aebe0ea107af",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Kill Fee annonce la fusion folle entre Hotline Miami et Rainbow Six",
+    "sous_titre": "Un développeur solo dévoile son nouveau jeu de tir en vue du dessus au style cyberpunk.",
+    "points": [
+      {
+        "titre": "Un mélange d'inspirations cultes",
+        "texte": "Le jeu mélange le rythme effréné de Hotline Miami et la tactique des premiers jeux Rainbow Six."
+      },
+      {
+        "titre": "Une liberté à l'ancienne",
+        "texte": "Il s'inspire aussi des vieux jeux comme Duke Nukem 3D pour permettre d'interagir avec plein d'éléments."
+      },
+      {
+        "titre": "Dans la peau d'un mercenaire",
+        "texte": "Tu incarnes un sous-traitant qui accepte des contrats pour des assurances, des groupes immobiliers et la sécurité portuaire."
+      }
+    ],
+    "a_retenir": "Kill Fee arrive en mélangeant action nerveuse et tactique cyberpunk.",
+    "voix": {
+      "couverture": "Découvre Kill Fee, le mélange fou entre Hotline Miami et Rainbow Six.",
+      "points": [
+        "Le jeu combine le rythme rapide de Hotline Miami et la tactique des premiers Rainbow Six.",
+        "Il reprend la liberté des vieux jeux comme Duke Nukem pour interagir avec le décor.",
+        "Tu y joues un mercenaire qui prend des contrats pour des assurances et des groupes immobiliers."
+      ],
+      "retenir": "Un projet solo prometteur qui mélange action et stratégie cyberpunk."
+    },
+    "prononciation": {
+      "Kill Fee": "Kille Fi",
+      "Hotline Miami": "Hotlaine Mai-amie",
+      "Rainbow Six": "Rin-bo Siks",
+      "Duke Nukem 3D": "Diouk Niouke Troi D"
+    },
+    "legende": "Tu cherches un nouveau jeu qui mélange action rapide et tactique poussée ? Un développeur solo vient d'annoncer Kill Fee, un jeu de tir en vue du dessus au style cyberpunk.\n\nLe titre pioche ses inspirations dans le rythme de Hotline Miami et l'approche tactique des premiers volets de Rainbow Six. Tu y incarnes un prestataire indépendant qui accepte des contrats pour le compte d'assureurs, de groupes immobiliers ou encore de la sécurité portuaire.\n\nTu pourras aussi profiter d'une liberté d'interaction inspirée des classiques du jeu vidéo pour semer le chaos dans des environnements urbains sombres. Ce mélange de genres risque de faire parler de lui.\n\nEt toi, tu as hâte de tester ce jeu ? Dis-le-nous en commentaire !\n\nSources : Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #KillFee #HotlineMiami #RainbowSix #PC #IndieGame #Shooter",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xx2gq8/kill_fee_solo_dev_hotline_miami_meets_a_cyberpunk/"
+      }
+    ],
+    "score_tri": 1.94,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-15T18:45:44+00:00",
+    "alertes": [],
+    "duree": 25.2,
+    "voix_off": true,
+    "video": "data/videos/aebe0ea107af.mp4",
+    "telegram": {
+      "message_id": 117,
+      "envoye_le": "2026-11-15T18:52:36+00:00"
+    }
   }
 ]

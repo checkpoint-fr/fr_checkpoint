@@ -484,5 +484,172 @@
     ],
     "propose_le": "2026-11-15T17:12:56+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "25",
+      "25th",
+      "anniversary",
+      "explore",
+      "magazine",
+      "memories",
+      "stories",
+      "years"
+    ],
+    "titre": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+    "score": 4.07,
+    "nb_sources": 2,
+    "sources": [
+      "Reddit r/Games",
+      "Xbox Wire"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-15T17:02:14+00:00",
+    "mots_cles": [
+      "explore",
+      "magazine",
+      "stories",
+      "memories",
+      "anniversary",
+      "25th",
+      "25",
+      "years"
+    ],
+    "articles": [
+      {
+        "source": "Reddit r/Games",
+        "type": "communaute",
+        "langue": "en",
+        "titre": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+        "lien": "https://www.reddit.com/r/Games/comments/1xx0mdo/xbox_25th_anniversary_magazine_explore_25_years/",
+        "resume": "",
+        "publie_le": "2026-11-15T17:02:14+00:00"
+      },
+      {
+        "source": "Xbox Wire",
+        "type": "officiel",
+        "langue": "en",
+        "titre": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+        "lien": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+        "resume": "The 25th Anniversary of XBOX has given fans much to celebrate: the milestones, the memories, and a whole slate of fun news for our players. We know that many of our longtime fans first learned about the original XBOX by reading about it in a magazine back in the day. For you, we created […] The post XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories appeared first on…",
+        "publie_le": "2026-11-15T17:01:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-15T18:45:44+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "20",
+      "approximately",
+      "craig",
+      "former",
+      "houston",
+      "laid",
+      "lead",
+      "off",
+      "senior",
+      "treyarch",
+      "writer",
+      "years"
+    ],
+    "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+    "score": 2.45,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "Reddit r/Games"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-15T15:14:10+00:00",
+    "mots_cles": [
+      "20",
+      "senior",
+      "writer",
+      "approximately",
+      "laid",
+      "lead",
+      "off",
+      "treyarch"
+    ],
+    "articles": [
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+        "lien": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+        "resume": "Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer. In a post made to both his Twitter/X account and LinkedIn , the developer thanked fans for their support during his two decades with the company and confirmed he was impacted by recent reorganistation within the studio. Read more",
+        "publie_le": "2026-11-15T15:14:10+00:00"
+      },
+      {
+        "source": "Reddit r/Games",
+        "type": "communaute",
+        "langue": "en",
+        "titre": "Treyarch's former Senior Lead Writer Craig Houston has been laid off after approximately 20 years with the company",
+        "lien": "https://www.reddit.com/r/Games/comments/1xwmzug/treyarchs_former_senior_lead_writer_craig_houston/",
+        "resume": "",
+        "publie_le": "2026-11-15T05:05:48+00:00"
+      }
+    ],
+    "propose_le": "2026-11-15T18:45:44+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "announced",
+      "charlie",
+      "cyberpunk",
+      "dev",
+      "developer",
+      "fee",
+      "hotline",
+      "inspiration",
+      "kill",
+      "meets",
+      "miami",
+      "pace",
+      "rainbow",
+      "six",
+      "solo",
+      "tactics"
+    ],
+    "titre": "Kill Fee - Solo dev - Hotline Miami meets a cyberpunk Rainbow Six",
+    "score": 1.94,
+    "nb_sources": 1,
+    "sources": [
+      "Reddit r/Games"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-15T18:13:34+00:00",
+    "mots_cles": [
+      "kill",
+      "fee",
+      "inspiration",
+      "rainbow",
+      "charlie",
+      "tactics",
+      "cyberpunk",
+      "six"
+    ],
+    "articles": [
+      {
+        "source": "Reddit r/Games",
+        "type": "communaute",
+        "langue": "en",
+        "titre": "Kill Fee - Solo dev - Hotline Miami meets a cyberpunk Rainbow Six",
+        "lien": "https://www.reddit.com/r/Games/comments/1xx2gq8/kill_fee_solo_dev_hotline_miami_meets_a_cyberpunk/",
+        "resume": "Hi r/Games , I'm Charlie, a solo developer. I've just announced my game, Kill Fee . Trailer here. The inspiration is Hotline Miami's pace , the tactics of the early Rainbow Six games, and the way old games like Duke Nukem 3D let you mess with things you wouldn't expect. It's a frenetic top-down shooter. You're a licensed contractor taking jobs from insurers, property groups, port security and…",
+        "publie_le": "2026-11-15T18:13:34+00:00"
+      }
+    ],
+    "propose_le": "2026-11-15T18:45:44+00:00",
+    "creneau": "actu_soir"
   }
 ]
