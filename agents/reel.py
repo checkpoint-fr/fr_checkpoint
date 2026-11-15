@@ -236,20 +236,43 @@ def fabriquer(b):
         tmp = Path(tmp)
         voix_wav, decalage = tmp / "voix.wav", 0.0
         mots_dits = []
-        a_lire = " ".join(textes)
+        # Phrase finale « Abonne-toi… » : enregistrée une fois pour toutes (prononciation validée,
+        # identique sur chaque Reel) et ajoutée après le contenu ; à défaut, lue avec le reste.
+        appel_wav = ROOT / c["voix"].get("fichier_appel", "")
+        appel_fixe = appel_wav.is_file()
+        a_dire = textes[:-1] if appel_fixe else textes
+        a_lire = " ".join(a_dire)
         # sigles et nombres exclus des réécritures de l'IA : la voix les lit très bien à la française
         propres = {n: v for n, v in (b.get("prononciation") or {}).items()
                    if not re.search(r"\b[A-Z]{2,}\b|\d", n)}
         for nom, phonetique in {**propres, **c.get("prononciation", {})}.items():
             a_lire = re.sub(rf"(?<!\w){re.escape(nom)}(?!\w)", phonetique, a_lire)
-        if voix_off(a_lire, voix_wav):
-            duree_voix = duree_wav(voix_wav)
-            mots_dits = transcrire(voix_wav)
-            script, heures = chronologie(textes, mots_dits, duree_voix)
+        contenu_wav = tmp / "contenu.wav"
+        if voix_off(a_lire, contenu_wav):
+            duree_voix = duree_wav(contenu_wav)
+            mots_dits = transcrire(contenu_wav)
+            script, heures = chronologie(a_dire, mots_dits, duree_voix)
             if heures[0] > 1.2:                                 # la voix a dit autre chose avant le texte
                 decalage = heures[0] - 0.15
                 heures = [h - decalage for h in heures]
-            duree_totale = duree_voix - decalage + c["fin_secondes"]   # dernier écran tenu après la voix
+            fin_voix = duree_voix - decalage
+            if appel_fixe:
+                pause, duree_appel = 0.4, duree_wav(appel_wav)
+                debut_appel = fin_voix + pause
+                mots = textes[-1].split()
+                script += [(normal(m), m, total - 1) for m in mots]
+                heures += [debut_appel + duree_appel * k / len(mots) for k in range(len(mots))]
+                r = subprocess.run([FFMPEG, "-y", "-hide_banner", "-loglevel", "error", "-i", str(contenu_wav),
+                                    "-i", str(appel_wav), "-filter_complex",
+                                    f"[0:a]atrim=start={decalage:.2f},asetpts=PTS-STARTPTS,aresample=24000,"
+                                    f"apad=pad_dur={pause}[c];[1:a]aresample=24000[f];[c][f]concat=n=2:v=0:a=1[a]",
+                                    "-map", "[a]", "-ac", "1", str(voix_wav)], capture_output=True, text=True)
+                if r.returncode:
+                    raise RuntimeError(f"ffmpeg (voix) : {r.stderr[-200:]}")
+                decalage, fin_voix = 0.0, debut_appel + duree_appel
+            else:
+                voix_wav = contenu_wav
+            duree_totale = fin_voix + c["fin_secondes"]          # dernier écran tenu après la voix
         else:
             voix_wav = None
             duree_totale = sum(max(3.0, len(t) / 15) for t in textes)   # temps de lecture sans voix

@@ -171,13 +171,14 @@ reel:
     modeles: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
     nom: Charon               # voix Gemini (Charon, Puck, Fenrir, Kore, Aoede…) ; le texte est lu tel quel
     appel: "Abonne-toi à F R Checkpoint pour ne rater aucune actu jeu vidéo !"
+    fichier_appel: assets/voix/appel.wav   # phrase de fin enregistrée une fois (prononciation validée)
   # Noms anglais que la voix française prononce mal (lettre finale avalée) : réécrits pour la voix
   # seulement, les sous-titres gardent la vraie orthographe. Le rédacteur ajoute aussi les siens.
   prononciation:
     Checkpoint: "Tchèk-poïnnte"
     "F R": "èf èr"
     "GTA VI": "GTA 6"         # écrit « GTA VI », dit « GTA six »
-  fin_secondes: 2.5          # l'écran « Suis @fr_checkpoint » reste affiché 2,5 s après la dernière phrase
+  fin_secondes: 3.0          # l'écran « Suis @fr_checkpoint » reste affiché 3 s après la dernière phrase
   transcription: whisper-large-v3-turbo   # Groq : heure de chaque mot prononcé, pour caler les sous-titres
   musique:
     dossier: assets/musique   # dépose ici des .mp3 libres de droits : un morceau tiré au hasard par vidéo
