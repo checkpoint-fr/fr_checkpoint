@@ -282,7 +282,7 @@
   },
   {
     "sujet_id": "ec19a9314af6",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "GTA 6 explose déjà tous les records de précommandes",
@@ -331,7 +331,8 @@
     "telegram": {
       "message_id": 104,
       "envoye_le": "2026-11-15T17:12:44+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T17:35:23+00:00"
   },
   {
     "sujet_id": "144f9609552f",
