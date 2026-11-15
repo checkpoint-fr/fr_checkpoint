@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "87208cf4406c",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La plus grande refonte de League of Legends arrive en 2027",
@@ -60,6 +60,12 @@
     "telegram": {
       "message_id": 92,
       "envoye_le": "2026-11-15T09:49:09+00:00"
+    },
+    "decide_le": "2026-11-15T11:30:29+00:00",
+    "instagram": {
+      "media_id": "17971631198965966",
+      "lien": "https://www.instagram.com/reel/DfwrZTVE0Ly/",
+      "publie_le": "2026-11-15T11:31:14+00:00"
     }
   },
   {
