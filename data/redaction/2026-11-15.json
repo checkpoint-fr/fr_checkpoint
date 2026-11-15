@@ -336,7 +336,7 @@
   },
   {
     "sujet_id": "144f9609552f",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "GTA 6 déjà censuré dans certains pays",
@@ -383,7 +383,8 @@
     "telegram": {
       "message_id": 106,
       "envoye_le": "2026-11-15T17:22:07+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T17:36:35+00:00"
   },
   {
     "sujet_id": "b292cee0ca81",
