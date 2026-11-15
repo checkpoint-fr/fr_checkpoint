@@ -565,7 +565,7 @@
   },
   {
     "sujet_id": "2d3be3566955",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Licenciement choc chez Treyarch",
@@ -621,11 +621,12 @@
     "telegram": {
       "message_id": 115,
       "envoye_le": "2026-11-15T18:52:34+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T20:02:38+00:00"
   },
   {
     "sujet_id": "aebe0ea107af",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Kill Fee annonce la fusion folle entre Hotline Miami et Rainbow Six",
@@ -677,6 +678,7 @@
     "telegram": {
       "message_id": 117,
       "envoye_le": "2026-11-15T18:52:36+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T20:02:39+00:00"
   }
 ]
