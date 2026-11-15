@@ -73,7 +73,17 @@ def menage(jour):
                 f.unlink()
 
 
-def rechercher(nom, conf):
+def du_creneau(nom, jour):
+    return [b for bs in validation.tous_les_brouillons().values() for b in bs
+            if b.get("creneau") == nom and publication.du_jour(b, jour)]
+
+
+def rechercher(nom, conf, jour, ici):
+    """Prévient sur Telegram au début et quand toutes les propositions sont arrivées."""
+    heure = conf["publication"].replace(":", " h ")
+    vers = (ici + datetime.timedelta(minutes=20)).strftime("%H h %M")
+    prevenir(f"🔎 Recherche « {conf['libelle']} » lancée : jusqu'à {conf.get('nb_sujets', 3)} propositions "
+             f"arrivent d'ici {vers} environ. Attends le message « 📬 » avant de choisir. Publication à {heure}.")
     print(f"[planning] recherche « {conf['libelle']} »")
     veille.collecter()
     sujets = tri.trier(nom)
@@ -85,7 +95,14 @@ def rechercher(nom, conf):
     else:
         visuel.produire()
     validation.valider()
-    return True
+    envoyees = [b for b in du_creneau(nom, jour) if b.get("telegram")]
+    if envoyees:
+        fin = (a_l_heure(jour, conf["publication"])
+               + datetime.timedelta(minutes=load_config()["planning"]["tolerance_minutes"] - 15)).strftime("%H h %M")
+        prevenir(f"📬 C'est tout pour « {conf['libelle']} » : {len(envoyees)} proposition(s) arrivée(s), tu peux choisir. "
+                 f"Je publie à {heure} le mieux classé de tes ✅, une fois que tu as répondu à chaque proposition "
+                 f"(✅ ou ❌), au plus tard à {fin}.")
+    return bool(envoyees)
 
 
 def passage(maintenant_paris=None):
@@ -109,7 +126,7 @@ def passage(maintenant_paris=None):
         heure = conf["publication"].replace(":", " h ")
 
         if recherche <= ici < fin and not e.get("recherche"):
-            trouve = rechercher(nom, conf)
+            trouve = rechercher(nom, conf, jour, ici)
             e["recherche"] = maintenant().isoformat()
             if not trouve:
                 e["publication"] = e["cloture"] = "aucun sujet"
@@ -117,12 +134,20 @@ def passage(maintenant_paris=None):
             ecrire_json(etats, ETAT)
 
         if pub <= ici < fin and e.get("recherche") and not e.get("publication"):
-            if publication.publier_creneau(nom):
+            # On attend une réponse (✅ ou ❌) à chaque proposition ; dans le dernier quart d'heure,
+            # on publie quand même le mieux classé de ce qui a été validé.
+            sans_reponse = [b for b in du_creneau(nom, jour) if b["statut"] == "a_valider" and b.get("telegram")]
+            derniere_chance = ici >= fin - datetime.timedelta(minutes=15)
+            heure_fin = (fin - datetime.timedelta(minutes=15)).strftime("%H h %M")
+            if (not sans_reponse or derniere_chance) and publication.publier_creneau(nom):
                 e["publication"] = maintenant().isoformat()
             elif not e.get("rappel"):
                 e["rappel"] = maintenant().isoformat()
-                prevenir(f"⏰ Le post « {conf['libelle']} » de {heure} attend ta validation "
-                         f"(encore {plan['tolerance_minutes'] // 60} h {plan['tolerance_minutes'] % 60:02d} max).")
+                if sans_reponse and any(b["statut"] == "valide" for b in du_creneau(nom, jour)):
+                    prevenir(f"⏳ Post « {conf['libelle']} » prêt : il reste {len(sans_reponse)} proposition(s) sans "
+                             f"réponse. Je publie dès que tu as répondu à toutes (ou à {heure_fin} au plus tard).")
+                else:
+                    prevenir(f"⏰ Le post « {conf['libelle']} » de {heure} attend ta validation (jusqu'à {heure_fin}).")
             ecrire_json(etats, ETAT)
 
         if ici >= fin and e.get("recherche") and not e.get("cloture"):
