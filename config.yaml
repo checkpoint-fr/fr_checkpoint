@@ -171,7 +171,9 @@ reel:
     modeles: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
     nom: Charon               # voix Gemini (Charon, Puck, Fenrir, Kore, Aoede…) ; le texte est lu tel quel
     appel: "Abonne-toi à F R Checkpoint pour ne rater aucune actu jeu vidéo !"
-    fichier_appel: assets/voix/appel.wav   # phrase de fin enregistrée une fois (prononciation validée)
+    fichiers_appel:           # phrase de fin enregistrée une fois par modèle (même timbre que le contenu)
+      gemini-3.8-flash-tts: assets/voix/appel.wav
+      gemini-3.8-flash-lite-tts: assets/voix/appel_leger.wav
   # Noms anglais que la voix française prononce mal (lettre finale avalée) : réécrits pour la voix
   # seulement, les sous-titres gardent la vraie orthographe. Le rédacteur ajoute aussi les siens.
   prononciation:

@@ -36,7 +36,7 @@ def cfg():
 
 def voix_off(texte, sortie):
     """Lit le texte avec la voix Gemini (modèle principal puis léger). Le texte est envoyé seul : toute
-    consigne ajoutée serait lue à voix haute. Renvoie True si le fichier existe."""
+    consigne ajoutée serait lue à voix haute. Renvoie le modèle utilisé, ou None si aucun n'a répondu."""
     c = cfg()["voix"]
     corps = {"contents": [{"parts": [{"text": texte}]}],
              "generationConfig": {"responseModalities": ["AUDIO"],
@@ -54,10 +54,10 @@ def voix_off(texte, sortie):
                         w.setnchannels(1), w.setsampwidth(2), w.setframerate(24000), w.writeframes(donnees)
                 else:
                     Path(sortie).write_bytes(donnees)
-                return True
+                return modele
             except Exception as ex:
                 print(f"  [voix] {modele} indisponible ({str(ex)[:100]})")
-    return False
+    return None
 
 
 def duree_wav(chemin):
@@ -238,17 +238,26 @@ def fabriquer(b):
         mots_dits = []
         # Phrase finale « Abonne-toi… » : enregistrée une fois pour toutes (prononciation validée,
         # identique sur chaque Reel) et ajoutée après le contenu ; à défaut, lue avec le reste.
-        appel_wav = ROOT / c["voix"].get("fichier_appel", "")
-        appel_fixe = appel_wav.is_file()
-        a_dire = textes[:-1] if appel_fixe else textes
-        a_lire = " ".join(a_dire)
+        # Un enregistrement par modèle de voix : la fin a toujours le même timbre que le contenu.
+        enregistrements = {m: ROOT / f for m, f in (c["voix"].get("fichiers_appel") or {}).items()}
         # sigles et nombres exclus des réécritures de l'IA : la voix les lit très bien à la française
         propres = {n: v for n, v in (b.get("prononciation") or {}).items()
                    if not re.search(r"\b[A-Z]{2,}\b|\d", n)}
-        for nom, phonetique in {**propres, **c.get("prononciation", {})}.items():
-            a_lire = re.sub(rf"(?<!\w){re.escape(nom)}(?!\w)", phonetique, a_lire)
+
+        def remplacer(texte):
+            for nom, phonetique in {**propres, **c.get("prononciation", {})}.items():
+                texte = re.sub(rf"(?<!\w){re.escape(nom)}(?!\w)", phonetique, texte)
+            return texte
+
         contenu_wav = tmp / "contenu.wav"
-        if voix_off(a_lire, contenu_wav):
+        a_dire = textes[:-1]
+        modele = voix_off(remplacer(" ".join(a_dire)), contenu_wav)
+        appel_wav = enregistrements.get(modele)
+        appel_fixe = bool(appel_wav and appel_wav.is_file())
+        if modele and not appel_fixe:                          # pas d'enregistrement pour ce modèle :
+            a_dire = textes                                    # la phrase de fin est lue avec le reste
+            modele = voix_off(remplacer(" ".join(a_dire)), contenu_wav)
+        if modele:
             duree_voix = duree_wav(contenu_wav)
             mots_dits = transcrire(contenu_wav)
             script, heures = chronologie(a_dire, mots_dits, duree_voix)
