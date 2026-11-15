@@ -442,7 +442,7 @@
   },
   {
     "sujet_id": "68e76b3e0182",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Quel est le meilleur GTA de tous les temps",
@@ -492,6 +492,7 @@
     "telegram": {
       "message_id": 110,
       "envoye_le": "2026-11-15T17:22:11+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T17:37:55+00:00"
   }
 ]
