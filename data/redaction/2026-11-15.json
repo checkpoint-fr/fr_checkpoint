@@ -123,7 +123,7 @@
   },
   {
     "sujet_id": "cfa8feb9beeb",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Metal Thunder passe en multijoueur avec mode Zombies coop",
@@ -175,6 +175,7 @@
     "telegram": {
       "message_id": 96,
       "envoye_le": "2026-11-15T09:49:12+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T11:30:10+00:00"
   }
 ]
