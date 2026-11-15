@@ -388,7 +388,7 @@
   },
   {
     "sujet_id": "b292cee0ca81",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Un concours de jeux video a New York avant GTA 6",
@@ -437,7 +437,8 @@
     "telegram": {
       "message_id": 108,
       "envoye_le": "2026-11-15T17:22:09+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T17:37:18+00:00"
   },
   {
     "sujet_id": "68e76b3e0182",
