@@ -200,14 +200,18 @@ def incruster(base, texte):
     img = base.copy()
     d = ImageDraw.Draw(img)
     largeur = cfg()["largeur"] - 2 * M - 80             # marge à droite : icônes d'Instagram
-    f = police("texte", 56, 800)
-    lignes = couper(texte, f, largeur - 60)[:2]
-    haut = len(lignes) * 72 + 44
+    for taille in (56, 52, 48, 44, 40, 36):              # plus petit plutôt que coupé
+        f = police("texte", taille, 800)
+        lignes = couper(texte, f, largeur - 60)
+        if len(lignes) <= 2 and all(f.getlength(l) <= largeur - 60 for l in lignes):
+            break
+    pas = round(taille * 1.29)
+    haut = len(lignes) * pas + 44
     y0 = 1290
     d.rounded_rectangle([M, y0, M + largeur, y0 + haut], 26, fill=couleur("carte"))
     d.rectangle([M, y0 + 18, M + 8, y0 + haut - 18], fill=couleur("accent"))
     for i, ligne in enumerate(lignes):
-        d.text((M + 40, y0 + 22 + i * 72), ligne, font=f, fill=couleur("texte"))
+        d.text((M + 40, y0 + 22 + i * pas), ligne, font=f, fill=couleur("texte"))
     return img
 
 

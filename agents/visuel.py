@@ -70,7 +70,8 @@ def ajuster(texte, nature, tailles, largeur, hauteur, interligne, graisse=400, m
     for t in tailles:
         f = police(nature, t, graisse)
         lignes = couper(texte, f, largeur)
-        if len(lignes) <= max_lignes and len(lignes) * t * interligne <= hauteur:
+        tient = all(f.getlength(ligne) <= largeur for ligne in lignes)    # un mot très long déborderait
+        if tient and len(lignes) <= max_lignes and len(lignes) * t * interligne <= hauteur:
             return f, lignes, round(t * interligne)
     return f, lignes, round(t * interligne)
 

@@ -110,6 +110,19 @@ def depassements(b, limites):
     return alertes
 
 
+def uniformiser(valeur, regles):
+    """Même nom partout (texte, voix, légende) : « Grand Theft Auto VI » → « GTA 6 », etc."""
+    if isinstance(valeur, str):
+        for motif, remplacement in regles:
+            valeur = re.sub(motif, remplacement, valeur, flags=re.IGNORECASE)
+        return valeur
+    if isinstance(valeur, list):
+        return [uniformiser(v, regles) for v in valeur]
+    if isinstance(valeur, dict):
+        return {k: uniformiser(v, regles) for k, v in valeur.items()}
+    return valeur
+
+
 def construire_legende(texte, sources, hashtags, cfg):
     noms = ", ".join(s["nom"] for s in sources)
     tags = list(dict.fromkeys(cfg["hashtags_fixes"] + ["#" + h.lstrip("#").replace(" ", "") for h in hashtags]))
@@ -153,6 +166,9 @@ def rediger():
             print("  ✗ pas de réponse de l'IA, sujet repris au prochain passage")
             continue
 
+        hashtags = rep.pop("hashtags", [])                    # les hashtags gardent leur forme
+        rep = uniformiser(rep, cfg.get("uniformiser", []))
+        rep["hashtags"] = hashtags
         sources = sources_uniques(sujet["articles"])
         brouillon = {
             "sujet_id": identifiant(sujet),

@@ -16,6 +16,8 @@ RÈGLES ABSOLUES :
 4. Si les sources se contredisent, signale-le au lieu de choisir.
 5. Pas d'emoji dans le carrousel. Dans la légende : 3 emoji maximum.
 6. Garde les titres de jeux dans leur nom officiel (souvent anglais).
+   Exception : écris toujours « GTA 6 » (jamais « Grand Theft Auto VI », « Grand Theft Auto 6 » ni « GTA VI »),
+   dans tous les champs, voix comprise : un seul nom, toujours le même.
 
 Tu reçois aussi `deja_rediges` : les accroches des posts déjà préparés aujourd'hui. Si ce
 sujet est la MÊME info que l'un d'eux (même événement, pas seulement le même jeu), renvoie
