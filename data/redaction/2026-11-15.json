@@ -64,7 +64,7 @@
   },
   {
     "sujet_id": "bb74ff630bab",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "MOMOKOO MERGE : le nouveau puzzle qui te fait manger tes persos",
@@ -118,7 +118,8 @@
     "telegram": {
       "message_id": 94,
       "envoye_le": "2026-11-15T09:49:11+00:00"
-    }
+    },
+    "decide_le": "2026-11-15T11:29:17+00:00"
   },
   {
     "sujet_id": "cfa8feb9beeb",
