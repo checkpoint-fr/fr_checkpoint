@@ -183,5 +183,312 @@
       "envoye_le": "2026-11-15T09:49:12+00:00"
     },
     "decide_le": "2026-11-15T11:30:10+00:00"
+  },
+  {
+    "sujet_id": "02281a1b228e",
+    "statut": "ecarte",
+    "motif": "réponse de l'IA incomplète",
+    "statut_info": "rumeur",
+    "accroche": "La durée de vie de GTA 6 aurait fuité",
+    "sous_titre": "D'après de nouvelles informations, prépare-toi à passer de longues heures sur le jeu.",
+    "points": [],
+    "a_retenir": "Prends ces informations avec des pincettes en attendant une communication officielle de Rockstar.",
+    "voix": {
+      "couverture": "La durée de vie de GTA 6 aurait fuité",
+      "points": [
+        "L'histoire principale demanderait environ cinquante heures pour être bouclée.",
+        "Le jeu proposerait près de cent missions différentes.",
+        "L'intrigue serait découpée en cinq chapitres distincts."
+      ],
+      "retenir": "Prends ces informations avec des pincettes en attendant du concret."
+    },
+    "prononciation": {
+      "GTA 6": "Djéti A Six"
+    },
+    "legende": "De nouvelles rumeurs viennent de tomber concernant la durée de vie du prochain mastodonte de Rockstar. Si l'on en croit le leaker Tom Henderson, ton aventure dans le jeu s'annonce particulièrement longue et dense.\n\nIl faudra ainsi compter sur une histoire principale d'une cinquantaine d'heures, portée par près de cent missions au total et un découpage en cinq chapitres.\n\nComme toujours avec ce genre de fuites, il faut garder du recul en attendant que le studio confirme tout cela. Et toi, tu penses passer combien de dizaines d'heures dessus ?\n\nSources : Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #GrandTheftAutoVI #RockstarGames #PS5 #XboxSeriesX #Action",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xwxahf/tom_henderson_gta_vi_main_story_to_be_50h_with/"
+      }
+    ],
+    "score_tri": 1.76,
+    "creneau": "gta6",
+    "redige_le": "2026-11-15T17:00:19+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "3583c735e428",
+    "statut": "valide",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "GTA 6 : la bande-son officielle aurait fuité",
+    "sous_titre": "Un vinyle vendu en avance dévoile 34 morceaux et de très grosses stars",
+    "points": [
+      {
+        "titre": "Un vinyle reçu trop tôt",
+        "texte": "D'après des vidéos filmées dans un magasin de musique, le vinyle officiel du jeu aurait fuité, révélant la liste intégrale des 34 morceaux prévus pour l'album."
+      },
+      {
+        "titre": "Un casting cinq étoiles",
+        "texte": "La liste inclurait notamment Dua Lipa, Lana Del Rey, Keith Richards, Travis Scott, Cardi B ou encore Jennie du groupe Blackpink."
+      },
+      {
+        "titre": "Radios et musiques d'ambiance",
+        "texte": "Ces morceaux sous licence devraient tourner sur les radios virtuelles et rythmer certaines missions, tandis que le duo Justice signe la bande originale instrumentale."
+      }
+    ],
+    "a_retenir": "Une tracklist XXL de 34 titres qui promet une ambiance sonore explosive dans les rues de Vice City",
+    "voix": {
+      "couverture": "La bande-son de Grand Theft Auto 6 vient tout juste de fuiter.",
+      "points": [
+        "Un vinyle officiel reçu en avance dans une boutique dévoile la liste complète des 34 pistes.",
+        "On y retrouve de grands noms comme Dua Lipa, Lana Del Rey, Keith Richards ou Travis Scott.",
+        "Ces titres animeront les stations de radio et les missions, aux côtés de morceaux signés Justice."
+      ],
+      "retenir": "Une sélection musicale explosive qui promet d'enflammer les rues de Vice City."
+    },
+    "prononciation": {
+      "Dua Lipa": "Doua Lipa",
+      "Lana Del Rey": "Lana Dèl Rèye",
+      "Keith Richards": "Kiss Ritchardz",
+      "Travis Scott": "Traviss Skott",
+      "Justice": "Djeustiss",
+      "Vice City": "Vaïsse Sitié"
+    },
+    "legende": "La bande-son de GTA 6 commence déjà à se faire entendre. À quelques jours seulement de la sortie, une fuite massive semble avoir révélé la liste complète des morceaux du disque officiel.\n\nUne vidéo capturée chez un disquaire montre l'arrière du vinyle officiel, affichant 34 titres au total. On y retrouve des géants de la scène musicale actuelle comme Dua Lipa, Lana Del Rey, Keith Richards ou encore Travis Scott.\n\nCes musiques accompagneront tes trajets en voiture et les cinématiques du jeu, en parallèle de la bande originale composée par Justice.\n\nTu valides ce casting musical pour explorer la ville ?\n\nSources : Eurogamer, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #GrandTheftAuto #RockstarGames #PS5 #XboxSeries #DuaLipa #LanaDelRey #Justice",
+    "sources": [
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/gta-6-tracklist-leak"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-the-album-seemingly-leaks-with-dua-lipa-and-lana-del-rey-as-part-of-the-full-34-song-tracklist/"
+      }
+    ],
+    "score_tri": 1.69,
+    "creneau": "gta6",
+    "redige_le": "2026-11-15T17:00:19+00:00",
+    "alertes": [],
+    "duree": 27.9,
+    "voix_off": true,
+    "video": "data/videos/3583c735e428.mp4",
+    "telegram": {
+      "message_id": 100,
+      "envoye_le": "2026-11-15T17:10:07+00:00"
+    },
+    "decide_le": "2026-11-15T17:12:40+00:00"
+  },
+  {
+    "sujet_id": "ec19a9314af6",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "GTA 6 explose déjà tous les records de précommandes",
+    "sous_titre": "D'après les estimations de Sensor Tower, le prochain Rockstar franchit déjà un cap astronomique.",
+    "points": [
+      {
+        "titre": "Plus d'un milliard de dollars",
+        "texte": "Selon les données de Sensor Tower, les précommandes du jeu auraient déjà généré plus de 1,1 milliard de dollars de recettes."
+      },
+      {
+        "titre": "12 millions de réservations",
+        "texte": "Le titre dépasserait désormais les 12,13 millions de précommandes à travers le monde."
+      },
+      {
+        "titre": "Un démarrage sans précédent",
+        "texte": "Ces estimations placent le blockbuster de Rockstar sur une trajectoire commerciale totalement inédite dans l'industrie."
+      }
+    ],
+    "a_retenir": "Un raz de marée financier avant même la sortie, qui confirme l'engouement monumental autour du jeu.",
+    "voix": {
+      "couverture": "GTA 6 battrait déjà des records complètement fous avant même sa sortie.",
+      "points": [
+        "Selon Sensor Tower, les précommandes dépasseraient déjà un milliard et cent millions de dollars.",
+        "Plus de douze millions de joueurs auraient ainsi déjà réservé leur exemplaire du titre.",
+        "Si ces chiffres se vérifient, le lancement s'annonce absolument inédit pour l'histoire du jeu vidéo."
+      ],
+      "retenir": "Reste à voir si Rockstar confirmera officiellement ce raz de marée historique."
+    },
+    "prononciation": {
+      "Sensor Tower": "Sennsor Ta-oueur"
+    },
+    "legende": "Du jamais vu dans le jeu vidéo avant même le lancement.\n\nSelon des données partagées par Sensor Tower, Grand Theft Auto VI aurait déjà franchi la barre des 12,13 millions de précommandes. Des ventes anticipées qui représenteraient plus de 1,1 milliard de dollars de recettes pour Take-Two et Rockstar Games.\n\nCes estimations vertigineuses confirment que l'attente autour du titre pulvérise toutes les normes de l'industrie, bien avant son arrivée dans les bacs.\n\nEt toi, tu as déjà précommandé ta copie ou tu attends la sortie ?\n\nSources : Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #gta6 #gtavi #grandtheftauto #rockstargames #taketwo #sensortower #openworld",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xwquq8/gta_vi_surpasses_1213m_preorders_over_11b_in/"
+      }
+    ],
+    "score_tri": 1.26,
+    "creneau": "gta6",
+    "redige_le": "2026-11-15T17:00:19+00:00",
+    "alertes": [],
+    "duree": 27.1,
+    "voix_off": true,
+    "video": "data/videos/ec19a9314af6.mp4",
+    "telegram": {
+      "message_id": 104,
+      "envoye_le": "2026-11-15T17:12:44+00:00"
+    }
+  },
+  {
+    "sujet_id": "144f9609552f",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "GTA 6 déjà censuré dans certains pays",
+    "sous_titre": "Des dataminers ont repéré des fichiers manquants selon les régions du monde",
+    "points": [
+      {
+        "titre": "Un fichier absent en Océanie",
+        "texte": "En analysant le préchargement sur PS5, le datamineur TezFunz2 a découvert qu'un fichier de 704 Ko manque dans les versions australienne et néo-zélandaise."
+      },
+      {
+        "titre": "Le spectre de la censure",
+        "texte": "Même s'il pèse moins d'un mégaoctet, ce fichier pourrait modifier du texte ou une texture pour satisfaire les comités de classification locaux."
+      },
+      {
+        "titre": "Des précédents bien connus",
+        "texte": "L'Australie impose régulièrement des retouches sur les jeux vidéo violents ou suggestifs, comme ce fut déjà le cas sur d'anciens épisodes de la saga."
+      }
+    ],
+    "a_retenir": "Une modification minime qui viserait seulement l'Australie et la Nouvelle-Zélande",
+    "voix": {
+      "couverture": "GTA 6 pourrait bien être censuré dans plusieurs pays du monde.",
+      "points": [
+        "En fouillant le préchargement PlayStation 5, un datamineur a remarqué un fichier manquant en Australie.",
+        "Ce paquet de sept cents kilo-octets suffirait à modifier du texte ou des textures sensibles.",
+        "L'Australie et la Nouvelle-Zélande censurent très souvent les jeux trop violents ou suggestifs."
+      ],
+      "retenir": "Cette retouche discrète ne devrait heureusement pas toucher nos versions européennes."
+    },
+    "prononciation": {},
+    "legende": "Alors que le préchargement de GTA 6 est disponible, les dataminers fouillent déjà les données du jeu de Rockstar Games.\n\nEn inspectant les fichiers sur PS5, TezFunz2 a remarqué qu'un élément de 704 Ko disparaît des versions destinées à l'Australie et à la Nouvelle-Zélande. Une taille minuscule, mais suffisante pour modifier un visuel, un dialogue ou censurer un détail jugé trop explicite par les comités locaux.\n\nCes pays sont habitués à retoquer les jeux un peu trop subversifs. Reste à voir si d'autres territoires seront aussi concernés par ces ajustements discrets.\n\nTu penses que Rockstar a dû adoucir certains passages pour sortir son jeu partout ?\n\nSources : Gamekult\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #GTAVI #RockstarGames #PlayStation5 #PS5 #XboxSeries #OpenWorld",
+    "sources": [
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/il-fallait-s-y-attendre-gta-6-pourrait-etre-censure-dans-certains-pays-3050872967.html"
+      }
+    ],
+    "score_tri": 0.96,
+    "creneau": "gta6",
+    "redige_le": "2026-11-15T17:12:56+00:00",
+    "alertes": [],
+    "duree": 24.9,
+    "voix_off": true,
+    "video": "data/videos/144f9609552f.mp4",
+    "telegram": {
+      "message_id": 106,
+      "envoye_le": "2026-11-15T17:22:07+00:00"
+    }
+  },
+  {
+    "sujet_id": "b292cee0ca81",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Un concours de jeux video a New York avant GTA 6",
+    "sous_titre": "Zohran Mamdani lance une competition de design pour les jeunes avec un defi transport",
+    "points": [
+      {
+        "titre": "Un concours pour les jeunes",
+        "texte": "Zohran Mamdani organise une competition de design de jeux video de deux jours a New York."
+      },
+      {
+        "titre": "Le theme du transport",
+        "texte": "Le projet integre une thematique speciale liee aux transports en commun de la ville."
+      },
+      {
+        "titre": "Un timing strategique",
+        "texte": "Cet evenement exclusif est lance juste avant la sortie tres attendue de GTA 6."
+      }
+    ],
+    "a_retenir": "New York se prepare a la sortie de GTA 6 avec un concours dedie aux jeunes createurs.",
+    "voix": {
+      "couverture": "Un concours de jeux video lance a New York juste avant GTA 6",
+      "points": [
+        "Zohran Mamdani organise une competition de design pour les jeunes de deux jours.",
+        "Le projet integre un defi centre sur les transports en commun de la ville.",
+        "Cette annonce tombe juste avant la sortie de GTA 6."
+      ],
+      "retenir": "Une belle initiative pour les createurs en attendant le mastodonte de Rockstar."
+    },
+    "prononciation": {
+      "GTA 6": "Dji T A six"
+    },
+    "legende": "Une initiative originale vient de voir le jour a New York. Zohran Mamdani lance un concours de creation de jeux video destine a la jeunesse, avec une particularite marquee autour des transports de la ville. Cette competition exclusive arrive juste a temps pour chauffer la communaute avant l'arrivee de GTA 6. \n\nLes participants ont deux jours pour imaginer et concevoir leurs projets en integrant cette contrainte de transport urbain. C'est une belle vitrine pour les nouveaux talents du milieu independant.\n\nEt toi, tu aimerais participer a un concours de createurs de jeux video ?\n\nSources : Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #GrandTheftAutoVI #GTA6 #NYC #GameDesign #IndieDev",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xwgyz4/zohran_mamdani_launches_twoday_nyc_youth_video/"
+      }
+    ],
+    "score_tri": 0.73,
+    "creneau": "gta6",
+    "redige_le": "2026-11-15T17:12:56+00:00",
+    "alertes": [],
+    "duree": 22.9,
+    "voix_off": true,
+    "video": "data/videos/b292cee0ca81.mp4",
+    "telegram": {
+      "message_id": 108,
+      "envoye_le": "2026-11-15T17:22:09+00:00"
+    }
+  },
+  {
+    "sujet_id": "68e76b3e0182",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Quel est le meilleur GTA de tous les temps",
+    "sous_titre": "À l'approche du futur épisode, le débat est relancé sur le volet le plus marquant de la saga culte",
+    "points": [
+      {
+        "titre": "Le grand débat relancé",
+        "texte": "Le média Eurogamer consacre une semaine spéciale à Grand Theft Auto et interroge sa rédaction ainsi que ses lecteurs à travers un sondage sur leur épisode préféré."
+      },
+      {
+        "titre": "La nostalgie Vice City",
+        "texte": "Sorti en 2002, Vice City reste cité parmi les favoris absolus pour sa reconstitution du Miami des années 80, son ambiance estivale et sa bande-son mythique."
+      },
+      {
+        "titre": "Une saga aux multiples visages",
+        "texte": "Des débuts en vue du dessus en 1997 sur GTA 1 jusqu'à Chinatown Wars sur Nintendo DS, chaque génération de joueurs défend son propre classique."
+      }
+    ],
+    "a_retenir": "Entre nostalgie des radios des années 80 et révolutions en monde ouvert, chaque génération a son GTA de cœur",
+    "voix": {
+      "couverture": "Quel est le meilleur Grand Theft Auto de tous les temps ?",
+      "points": [
+        "Eurogamer relance le débat et interroge les joueurs pour désigner le sommet de la saga.",
+        "Sorti en 2002, Vice City reste adoré pour sa bande-son mythique et son ambiance Miami rétro.",
+        "Mais de l'épisode original de 1997 à Chinatown Wars, chaque joueur a son favori."
+      ],
+      "retenir": "Chaque génération a son épisode culte, reste à voir quel sera le tien."
+    },
+    "prononciation": {
+      "Vice City": "Vaïsse Sitti",
+      "Chinatown Wars": "Tchaïnataoune Worz"
+    },
+    "legende": "Quel est le jeu qui t'a le plus marqué dans toute l'histoire de la saga ? 🚗\n\nAlors que les regards sont tous tournés vers l'avenir de la franchise, le débat sur le meilleur épisode refait surface. Entre les débuts en vue du dessus en 1997, le choc de la 3D avec GTA 3 et les virées inoubliables sous les néons de Vice City en 2002, le choix divise toujours autant les joueurs.\n\nChaque volet a apporté son ambiance, ses radios cultes et ses innovations marquantes, y compris sur portable avec Chinatown Wars.\n\nPour toi, quel est le meilleur GTA de tous les temps ?\n\nSources : Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #gta #grandtheftauto #gtavicecity #rockstargames #gta3 #retrogaming",
+    "sources": [
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/the-big-question-whats-the-best-gta"
+      }
+    ],
+    "score_tri": 0.66,
+    "creneau": "gta6",
+    "redige_le": "2026-11-15T17:12:56+00:00",
+    "alertes": [],
+    "duree": 26.3,
+    "voix_off": true,
+    "video": "data/videos/68e76b3e0182.mp4",
+    "telegram": {
+      "message_id": 110,
+      "envoye_le": "2026-11-15T17:22:11+00:00"
+    }
   }
 ]
