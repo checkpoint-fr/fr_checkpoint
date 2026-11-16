@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "7e28f6d8775c",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Super Meat Boy revient dans une version remasterisée",
@@ -55,7 +55,8 @@
     "telegram": {
       "message_id": 122,
       "envoye_le": "2026-11-16T10:06:03+00:00"
-    }
+    },
+    "decide_le": "2026-11-16T11:07:12+00:00"
   },
   {
     "sujet_id": "f532bc5f38cf",
