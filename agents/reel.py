@@ -281,7 +281,7 @@ def fabriquer(b):
                 decalage, fin_voix = 0.0, debut_appel + duree_appel
             else:
                 voix_wav = contenu_wav
-            duree_totale = fin_voix + c["fin_secondes"]          # dernier écran tenu après la voix
+            duree_totale = max(fin_voix + c["fin_secondes"], c.get("duree_min", 0))  # dernier écran tenu après la voix
         else:
             voix_wav = None
             duree_totale = sum(max(3.0, len(t) / 15) for t in textes)   # temps de lecture sans voix
