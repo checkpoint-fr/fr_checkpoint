@@ -118,7 +118,7 @@
   },
   {
     "sujet_id": "5d2bdf3679b4",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Des animations cultes pour les vingt-cinq ans de Xbox",
@@ -169,6 +169,7 @@
     "telegram": {
       "message_id": 126,
       "envoye_le": "2026-11-16T10:06:08+00:00"
-    }
+    },
+    "decide_le": "2026-11-16T11:07:17+00:00"
   }
 ]
