@@ -176,5 +176,182 @@
       "envoye_le": "2026-11-16T10:06:08+00:00"
     },
     "decide_le": "2026-11-16T11:07:17+00:00"
+  },
+  {
+    "sujet_id": "6edb65c301a8",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Le hacker du leak GTA VI plaide coupable",
+    "sous_titre": "Arion Kurtaj a reconnu les piratages qui ont fuité des séquences de GTA VI en 2022",
+    "points": [
+      {
+        "titre": "Plea guilty au tribunal",
+        "texte": "Le hacker, 21 ans, a reconnu avoir piraté Rockstar en 2022, entraînant la diffusion de 90 clips de GTA VI."
+      },
+      {
+        "titre": "Coût estimé du piratage",
+        "texte": "Rockstar a indiqué que la fuite lui a coûté 5 millions de dollars et des milliers d'heures de travail pour réparer les dégâts."
+      },
+      {
+        "titre": "Comment il a hacké",
+        "texte": "Le piratage a été réalisé depuis une chambre d'hôtel avec une Amazon Fire Stick, un clavier Bluetooth et une souris."
+      },
+      {
+        "titre": "Comportement en prison",
+        "texte": "En détention, il aurait utilisé un téléphone et même mordu des gardiens, selon le BBC."
+      }
+    ],
+    "a_retenir": "Le piratage a coûté cher à Rockstar, mais le hacker attend toujours sa sentence",
+    "voix": {
+      "couverture": "Le hacker de GTA VI a finalement tout avoué au tribunal",
+      "points": [
+        "Arion Kurtaj, 21 ans, a plaidé coupable pour le piratage de Rockstar.",
+        "Rockstar estime les dégâts à 5 millions de dollars et des milliers d'heures de travail.",
+        "Le hack a été réalisé depuis une chambre d'hôtel avec une Amazon Fire Stick et un clavier Bluetooth.",
+        "En détention, il aurait utilisé un téléphone et même mordu des gardiens, selon le BBC."
+      ],
+      "retenir": "Le piratage a coûté cher à Rockstar, mais le hacker attend toujours sa sentence"
+    },
+    "prononciation": {
+      "Amazon Fire Stick": "Amazòn Faïr Stik",
+      "Bluetooth": "Bluetouche"
+    },
+    "legende": "Un hacker qui a mis à nu GTA VI a finalement avoué son crime.\n\nArion Kurtaj, 21 ans, a plaidé coupable au tribunal de Woolwich pour le piratage de Rockstar en 2022. Le vol a diffusé 90 séquences inédites du futur GTA VI, coûtant à l’éditeur 5 millions de dollars et des milliers d’heures de travail pour tout remettre en ordre.\n\nLe hack s’est fait depuis une chambre d’hôtel avec une Amazon Fire Stick, un clavier Bluetooth et une souris. En détention, le hacker aurait même utilisé un téléphone et mordu des gardiens, selon le BBC. 🎮\n\nEt toi, que penses‑tu de ces fuites qui plombent le lancement de GTA VI ?\n\nSources : GamesRadar, Rock Paper Shotgun\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #Take-Two #ActionAdventure #OpenWorld #PS5 #XboxSeriesX #PC",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hacker-who-reportedly-cost-rockstar-usd5-million-pleads-guilty-to-everything/"
+      },
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million"
+      }
+    ],
+    "score_tri": 1.91,
+    "creneau": "gta6",
+    "redige_le": "2026-11-16T17:01:05+00:00",
+    "alertes": [],
+    "duree": 31.8,
+    "voix_off": true,
+    "video": "data/videos/6edb65c301a8.mp4",
+    "telegram": {
+      "message_id": 131,
+      "envoye_le": "2026-11-16T17:09:28+00:00"
+    }
+  },
+  {
+    "sujet_id": "e173286e85f9",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "GTA VI ne rend pas violent selon une responsable politique britannique",
+    "sous_titre": "Kemi Badenoch minimise les craintes sur le contenu et pointe le temps d'écran.",
+    "points": [
+      {
+        "titre": "Moins de craintes sur la violence",
+        "texte": "Kemi Badenoch estime que le contenu violent d'un jeu ne pousse pas les jeunes à frapper les autres dans la réalité."
+      },
+      {
+        "titre": "Le vrai problème du temps d'écran",
+        "texte": "La responsable politique s'inquiète davantage des enfants qui passent toute leur journée enfermés dans leur chambre."
+      },
+      {
+        "titre": "Sortie imminente sur consoles",
+        "texte": "Le jeu de Rockstar débarque sur PlayStation 5 et Xbox Series le dix-neuf novembre avec une interdiction aux mineurs."
+      }
+    ],
+    "a_retenir": "Le temps passé devant l'écran inquiète plus que le contenu du jeu selon cette responsable politique.",
+    "voix": {
+      "couverture": "GTA VI ne rendra pas les enfants violents selon une responsable politique britannique.",
+      "points": [
+        "Kemi Badenoch minimise les craintes sur le contenu violent du jeu",
+        "Elle s'inquiète surtout des jeunes qui restent enfermés toute la journée",
+        "Le jeu sort le dix-neuf novembre sur PlayStation 5 et Xbox Series"
+      ],
+      "retenir": "Le temps d'écran excessif reste la vraie source d'inquiétude selon elle."
+    },
+    "prononciation": {},
+    "legende": "La sortie de GTA VI relance les débats sur l'impact des jeux vidéo violents sur les jeunes. Interrogée sur le sujet, la cheffe du parti conservateur britannique Kemi Badenoch a surpris en minimisant les risques liés au contenu du jeu. Elle compare cela à ses souvenirs d'enfance sur des jeux de combat, assurant ne pas être devenue violente pour autant. Selon elle, le vrai danger réside plutôt dans le temps excessif passé enfermé dans sa chambre. Un avis qui relance la discussion sur l'équilibre entre loisirs et vie réelle à l'approche de la sortie du titre de Rockstar prévu le dix-neuf novembre sur PlayStation 5 et Xbox Series.\n\nEt toi, tu penses quoi du temps passé sur les jeux ?\n\nSources : IGN, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #Rockstar #PlayStation5 #XboxSeries #ActuGaming #Politique",
+    "sources": [
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/uk-politician-downplays-fears-around-gta-6-content-for-kids-says-shes-more-concerned-about-the-amount-of-time-theyll-likely-play-it"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-make-kids-violent-uk-conservative-party-leader-thinks-mortal-kombat-and-street-fighter-i-didnt-hit-anybody-after-playing-those/"
+      }
+    ],
+    "score_tri": 1.78,
+    "creneau": "gta6",
+    "redige_le": "2026-11-16T17:01:05+00:00",
+    "alertes": [],
+    "duree": 26.0,
+    "voix_off": true,
+    "video": "data/videos/e173286e85f9.mp4",
+    "telegram": {
+      "message_id": 133,
+      "envoye_le": "2026-11-16T17:09:30+00:00"
+    }
+  },
+  {
+    "sujet_id": "450d45126e12",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "GTA VI enfin disponible cette semaine",
+    "sous_titre": "Après des années d’attente, le nouveau GTA sort sur consoles, mais la version PC reste incertaine",
+    "points": [
+      {
+        "titre": "Sortie officielle cette semaine",
+        "texte": "Selon Rock Paper Shotgun, GTA VI serait disponible dès maintenant sur consoles, marquant la fin d’une attente de plus de huit ans."
+      },
+      {
+        "titre": "Un développement de longue haleine",
+        "texte": "Le jeu serait en production depuis au moins huit ans, ce qui explique l’engouement massif des fans."
+      },
+      {
+        "titre": "Pas de version PC annoncée",
+        "texte": "Pour l’instant, aucun port PC n’est confirmé, ni de date de sortie, laissant les joueurs sur PC dans l’attente."
+      },
+      {
+        "titre": "Un clin d’œil à Mafia",
+        "texte": "L’article compare l’ambiance de GTA VI à celle de Mafia : City of Lost Heaven, rappelant les influences cinématographiques de Rockstar."
+      }
+    ],
+    "a_retenir": "GTA VI est là, mais les joueurs PC devront patienter encore",
+    "voix": {
+      "couverture": "GTA VI serait enfin sorti cette semaine, mais la version PC attend toujours",
+      "points": [
+        "D’après Rock Paper Shotgun, GTA VI arrive dès maintenant sur consoles.",
+        "Le jeu serait en développement depuis au moins huit ans.",
+        "Aucun port PC n’est encore annoncé, ni de date de sortie.",
+        "L’article le compare à Mafia : City of Lost Heaven pour ses références ciné."
+      ],
+      "retenir": "GTA VI est là, mais les joueurs PC devront patienter encore"
+    },
+    "prononciation": {
+      "Rock Paper Shotgun": "Rok Péper Shotgun",
+      "City of Lost Heaven": "Sitée of Lost Heavèn"
+    },
+    "legende": "Le nouveau GTA VI serait enfin sorti, mais la version PC reste dans l’ombre.\n\nD’après les dernières infos, le titre arrive dès maintenant sur consoles après plus de huit ans de développement, suscitant une excitation folle chez les fans.\n\nCependant, aucun port PC n’est encore annoncé, et l’article le compare à Mafia : City of Lost Heaven pour souligner ses inspirations ciné. Et toi, tu comptes attendre le port PC ou tu vas le prendre sur console ?\n\nSources : Rock Paper Shotgun\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #PlayStation5 #XboxSeriesX #OpenWorld #ActionAdventure",
+    "sources": [
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/each-new-gta-moves-the-series-closer-and-closer-to-the-original-mafia-the-open-world-game-that-bettered-rockstar"
+      }
+    ],
+    "score_tri": 0.98,
+    "creneau": "gta6",
+    "redige_le": "2026-11-16T17:01:05+00:00",
+    "alertes": [],
+    "duree": 32.9,
+    "voix_off": true,
+    "video": "data/videos/450d45126e12.mp4",
+    "telegram": {
+      "message_id": 135,
+      "envoye_le": "2026-11-16T17:09:32+00:00"
+    }
   }
 ]
