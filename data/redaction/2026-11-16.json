@@ -243,7 +243,7 @@
   },
   {
     "sujet_id": "e173286e85f9",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI ne rend pas violent selon une responsable politique britannique",
@@ -294,7 +294,8 @@
     "telegram": {
       "message_id": 133,
       "envoye_le": "2026-11-16T17:09:30+00:00"
-    }
+    },
+    "decide_le": "2026-11-16T18:05:11+00:00"
   },
   {
     "sujet_id": "450d45126e12",
