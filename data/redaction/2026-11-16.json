@@ -475,7 +475,7 @@
   },
   {
     "sujet_id": "1447bf86152b",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Shigeru Miyamoto va recevoir un prix historique",
@@ -528,6 +528,7 @@
     "telegram": {
       "message_id": 142,
       "envoye_le": "2026-11-16T18:53:13+00:00"
-    }
+    },
+    "decide_le": "2026-11-16T21:46:12+00:00"
   }
 ]
