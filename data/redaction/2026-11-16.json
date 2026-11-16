@@ -60,7 +60,7 @@
   },
   {
     "sujet_id": "f532bc5f38cf",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Xbox dévoile Project Helix",
@@ -114,7 +114,12 @@
       "message_id": 124,
       "envoye_le": "2026-11-16T10:06:06+00:00"
     },
-    "decide_le": "2026-11-16T11:07:02+00:00"
+    "decide_le": "2026-11-16T11:07:02+00:00",
+    "instagram": {
+      "media_id": "18100827167689190",
+      "lien": "https://www.instagram.com/reel/DfzQNEYASEj/",
+      "publie_le": "2026-11-16T11:31:32+00:00"
+    }
   },
   {
     "sujet_id": "5d2bdf3679b4",
