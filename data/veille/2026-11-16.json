@@ -1,5 +1,412 @@
 [
   {
+    "id": "4c9dcb33f717ca10",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Gabe Newell is \"something that we've never really seen,\" says yacht group: a nice rich guy",
+    "lien": "https://www.gamesradar.com/games/gabe-newell-is-something-that-weve-never-really-seen-before-says-yacht-group-a-rich-guy-who-treats-people-well/",
+    "resume": "Valve co-founder and Steam chief's superyacht keeps workers at least six times longer than average",
+    "publie_le": "2026-11-16T18:33:16+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "060abce156e908f8",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Stand Out codes (November 2026) and how to redeem them for free Arrows and Dalas",
+    "lien": "https://www.gamesradar.com/games/action-rpg/stand-out-codes/",
+    "resume": "Codes for Stand Out will give you various Arrows to summon new Stands to fight alongside you, plus Dalas to spend",
+    "publie_le": "2026-11-16T18:21:30+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "4f4f96da70f2a527",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Pokémon Go 'Dynamax Trails' event guide",
+    "lien": "https://www.polygon.com/pokemon-go-dynamax-trails-eternatus-go-pass/",
+    "resume": "Here's all the Dynamax Pokémon you can find during Pokémon Go's \"Dynamax Trails\" event, and how to get Eternatus if you don't have one already.",
+    "publie_le": "2026-11-16T18:18:55+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "cf914252f3ea4bec",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Robert Pattinson reportedly found out he was the new James Bond from Denis Villeneuve",
+    "lien": "https://www.gamesradar.com/entertainment/james-bond-movies/robert-pattinson-reportedly-found-out-he-was-the-new-james-bond-from-denis-villeneuve-just-24-hours-before-the-official-announcement/",
+    "resume": "The new 007 has the skin of a killer, Bella",
+    "publie_le": "2026-11-16T18:16:32+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "8ecfd0da21ad1183",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Goodbye Zelda: Ocarina of Time, Hello GTA VI Release!",
+    "lien": "https://www.polygon.com/grand-theft-auto-6-zelda-comparison/",
+    "resume": "GTA VI's launch eclipses all, including Zelda: Ocarina remake.",
+    "publie_le": "2026-11-16T18:13:03+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "aca95cf45a39e4fa",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Garfield Returns in New Streaming Series With the Perfect Voice Actor",
+    "lien": "https://www.polygon.com/garfield-animated-series-trailer-paramount-plus/",
+    "resume": "Paramount's upcoming Garfield show will star New Girl's Lamorne Morris in the titular role, and it looks pretty good in a new trailer.",
+    "publie_le": "2026-11-16T18:09:36+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "5e171df00b293490",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Ultime bafouille - GTA 6 : pourquoi la violence et la drogue ne suffisent plus à faire de Rockstar un sale gosse",
+    "lien": "https://www.gamekult.com/actualite/gta-6-pourquoi-la-violence-et-la-drogue-ne-suffisent-plus-a-faire-de-rockstar-un-sale-gosse-101-3050872382.html",
+    "resume": "À trois jours de la sortie, Rockstar a prévenu, GTA 6 ne visera ni une personne, ni un événement, ni un mouvement en particulier. Officiellement, pour ne pas se périmer. À la rédac, on en a parlé deux cents fois sans jamais en tirer un papier, alors on propose de poser deux questions : et si la licence qui faisait hurler les sénateurs et trembler l'Amérique conservatrice s'était rangée ? Et…",
+    "publie_le": "2026-11-16T18:00:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "636eb2b38c91dce2",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod/",
+    "resume": "We've all been there.",
+    "publie_le": "2026-11-16T18:00:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "420f85cff6e03632",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 studio head: \"I'd never want to rebuild a city, I think that would be a lot less satisfying\"",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-gta-6-studio-head-id-never-want-to-rebuild-a-city-i-think-that-would-be-a-lot-less-satisfying/",
+    "resume": "Aaron Garbutt explains how GTA 5 bought LA to life",
+    "publie_le": "2026-11-16T18:00:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "3e0d51655debb978",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Spirit Crossing, the new Zelda-ish hangout MMO from the creators of Cozy Grove, understands that sometimes you just want to be alone",
+    "lien": "https://www.rockpapershotgun.com/spirit-crossing-the-new-zelda-ish-hangout-mmo-from-the-creators-of-cozy-grove-understands-that-sometimes-you-just-want-to-be-alone",
+    "resume": "New multiplayer game Spirit Crossing offers up a visually blissful, but inwardly draconian world in which other people are not allowed to talk to you – indeed, not permitted access to the visible electromagnetic spectrum – unless you have given them a high five. By default, players appear to each other as shadows, all exploring a skybound landscape of magic animals and layer-cake mountains that…",
+    "publie_le": "2026-11-16T17:59:20+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "c412a0c832d638bc",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Select LEGO Pokémon Sets Are up to 40% Off at Target Ahead of Black Friday",
+    "lien": "https://www.ign.com/articles/select-lego-pokmon-sets-are-up-to-40-off-at-target-ahead-of-black-friday",
+    "resume": "Target has discounted select LEGO Pokémon sets up to 40% off ahead of its Black Friday sale, including the Pikachu and Poké Ball build, Arcanine, and more.",
+    "publie_le": "2026-11-16T17:49:32+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "563bb4e121ddade3",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "UK Conservative leader Kemi Badenoch is more worried \"about the amount of time\" people will spend on GTA 6 than the game's violent content",
+    "lien": "https://www.eurogamer.net/uk-conservative-kemi-badenoch-gta-6",
+    "resume": "Leader of the UK Conservative Party (and former Mortal Kombat player) Kemi Badenoch is more worried about the amount of time people will spend playing GTA 6 rather than the game itself. Read more",
+    "publie_le": "2026-11-16T17:48:40+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "37eff5ee7dab43f4",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Explaining Super Smash Bros was a nightmare, says Masahiro Sakurai, because it wasn't Street Fighter",
+    "lien": "https://www.gamesradar.com/games/super-smash-bros/explaining-super-smash-bros-was-a-nightmare-says-masahiro-sakurai-because-it-was-deliberately-different-from-arcade-champion-street-fighter/",
+    "resume": "He's not sure it would've even shipped if it was",
+    "publie_le": "2026-11-16T17:47:04+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "dcfe11019436d04a",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "PS5 DualSense Controllers Drop as Low as $54 in PlayStation’s Black Friday Sale",
+    "lien": "https://www.ign.com/articles/ps5-dualsense-controllers-black-friday-sale-2026",
+    "resume": "PS5 DualSense controllers are $20 off as part of PlayStation's Black Friday sale, with some models marked as low as $54.",
+    "publie_le": "2026-11-16T17:45:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "ac1e106209ed1e08",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Lowest Price Ever for Black Friday",
+    "lien": "https://www.ign.com/articles/apple-airpods-pro-3-deal-november-2026",
+    "resume": "Still the best AirPods.",
+    "publie_le": "2026-11-16T17:45:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "a1a393e3eb910c07",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "DMZ key and locations in Modern Warfare 4",
+    "lien": "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list/",
+    "resume": "This guide lists all keys that can be found in Modern Warfare 4's DMZ mode and where to use them.",
+    "publie_le": "2026-11-16T17:38:41+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "402cfaaa1dd22090",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "'GTA 6' Hacker Pleads Guilty To Extorting Rockstar, Trolling In Prison",
+    "lien": "https://www.polygon.com/gta-6-leak-guilty-plead-arion-kurtaj-rockstar-uber-hack-nov-2026/",
+    "resume": "GTA 6 leaker Arion Kurtaj smuggled a phone in prison and mocked authorities",
+    "publie_le": "2026-11-16T17:38:05+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "37162f82d4291488",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas",
+    "lien": "https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/",
+    "resume": "Nintendo's creative fellow will appear at DICE in February",
+    "publie_le": "2026-11-16T17:36:35+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "746e0dd5f3a5865e",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ex-Mass Effect boss admits BioWare devs worried it'd \"shut down,” but he hoped it'd \"last forever\"",
+    "lien": "https://www.gamesradar.com/games/mass-effect/ex-mass-effect-boss-admits-bioware-staff-sometimes-worried-itd-shut-down-but-he-still-thought-the-rpg-studio-would-last-forever/",
+    "resume": "Casey Hudson still finds it hard to comprehend",
+    "publie_le": "2026-11-16T17:31:22+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "8c56b36b17885b11",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Family Guy: Holiday Special 2026 Exclusive Trailer, Key Art and Hulu Release Date Revealed",
+    "lien": "https://www.ign.com/articles/family-guy-holiday-special-2026-trailer-key-art-release-date-plot",
+    "resume": "IGN can exclusively reveal the new trailer, key art and release date for Family Guy’s next holiday special, “The Peter Clause,” which premieres on Hulu on November 30, 2026.",
+    "publie_le": "2026-11-16T17:30:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "d70fa856c72954a4",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Shadow the Hedgehog Gets an 'Unofficial PC Port' — and It Isn’t Vibe Coded",
+    "lien": "https://www.ign.com/articles/shadow-the-hedgehog-gets-an-unofficial-pc-port-and-it-isnt-vibecoded",
+    "resume": "Shadow Recompiled is an unofficial PC port of the 2005 Sonic spinoff, now with achievements and more.",
+    "publie_le": "2026-11-16T17:29:39+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "6865614d233a8c26",
+    "source": "Reddit r/Games",
+    "type": "communaute",
+    "langue": "en",
+    "titre": "Shigeru Miyamoto, critically acclaimed Nintendo director and fellow, selected as Inaugural Legend Award Inductee at 30th Annual D.I.C.E. Awards",
+    "lien": "https://www.reddit.com/r/Games/comments/1xxvgiu/shigeru_miyamoto_critically_acclaimed_nintendo/",
+    "resume": "",
+    "publie_le": "2026-11-16T17:28:45+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "c34523bd85aa5973",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Comes to NBA 2K27 With Complete Vice City Makeover",
+    "lien": "https://www.polygon.com/gta-6-nba-2k27-vice-city-crossover-announced/",
+    "resume": "Grand Theft Auto 6 is invading NBA 2K27 with a season full of Vice City-themed rewards",
+    "publie_le": "2026-11-16T17:28:11+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "7e97759645cf49db",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Blizzard changes WoW: Forever dungeon XP again, admits level restrictions \"missed the mark\"",
+    "lien": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-takes-another-swing-at-world-of-warcraft-forevers-dungeon-grind-after-changes-made-just-24-hours-earlier-missed-the-mark/",
+    "resume": "\"There should be much less nullification happening now\"",
+    "publie_le": "2026-11-16T17:26:42+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "52e6ee878aebc04b",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Half-Life 2 writer's biggest regret after 12 years at Valve is not making fun of Gabe Newell's shirt",
+    "lien": "https://www.gamesradar.com/games/half-life-2-writers-biggest-regret-after-12-years-at-valve-is-not-making-fun-of-gabe-newells-shirt-i-should-have-said-that/",
+    "resume": "\"It would have worked\"",
+    "publie_le": "2026-11-16T17:26:15+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "5f6bb7464f33098a",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Someone hijacked old Bitly links to redirect big brands to Skibidi Toilet and the Epstein files wiki",
+    "lien": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/",
+    "resume": "Even Steven from Mewgenics gets a shout out.",
+    "publie_le": "2026-11-16T17:21:43+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "d2b5cb078f98539f",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The DualSense Edge is taking a very rare discount as GTA 6 downloads onto your console",
+    "lien": "https://www.gamesradar.com/hardware/gaming-controllers/the-dualsense-edge-is-taking-a-very-rare-discount-as-gta-6-downloads-onto-your-console/",
+    "resume": "The DualSense Edge is probably going to be the best controller to experience GTA 6 with when it launches, and it's taken a very rare discount.",
+    "publie_le": "2026-11-16T17:20:38+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "fbec5ca184278eec",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Save 50% Off a 1-Year Paramount+ Premium (Ad-Free) Subscription for Black Friday",
+    "lien": "https://www.ign.com/articles/paramount-plus-subscription-deal-november-2026",
+    "resume": "Catch up on the complete first season of Avatar: Seven Havens.",
+    "publie_le": "2026-11-16T17:20:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "fc02781253b381ee",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Apple Black Friday Deals Are Already Live at Amazon",
+    "lien": "https://www.ign.com/articles/apple-black-friday-deals-2026",
+    "resume": "Black Friday is coming soon, but you can already save a bundle on Apple products like AirPods Pro 3, iPad Mini, Apple Watch, and more.",
+    "publie_le": "2026-11-16T17:15:51+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "ca95ee3a61a70a8c",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "All Magic Bean and Soil locations in Zelda Ocarina of Time Remake",
+    "lien": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-magic-beans/",
+    "resume": "There are 10 patches of soil in the OoT Remake that require magic beans",
+    "publie_le": "2026-11-16T17:12:30+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "e8d1b811ccd137f4",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
+    "lien": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
+    "resume": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
+    "publie_le": "2026-11-16T17:10:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "c5e83e0e4d2085ed",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "When your brother gives away your special game cartridge...",
+    "lien": "https://www.polygon.com/video/when-your-brother-gives-away-your-special-game-cartridge/",
+    "resume": "Some things can never be forgiven in the McElroy household. #griffinmcelroy #justinmcelroy #mbmbam #gaming #ocarinaoftime",
+    "publie_le": "2026-11-16T17:09:34+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "bff4efe2286114e1",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Avengers: Secret Wars is a \"whole other genre\" of superhero movie and a \"really unique story\"",
+    "lien": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-secret-wars-is-a-whole-other-genre-of-superhero-movie-and-a-really-unique-story-kevin-feige-and-joe-russo-say/",
+    "resume": "The Doomsday follow-up hits theaters in 2027",
+    "publie_le": "2026-11-16T17:01:39+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "73917347ddd2ce77",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "My murderous wine merchant whines for a chance at republican rule in Crusader Kings 3’s Silk and Silver expansion, which isn't only about the money",
+    "lien": "https://www.rockpapershotgun.com/my-murderous-wine-merchant-whines-for-a-chance-at-republican-rule-in-crusader-kings-3s-silk-and-silver-expansion-which-isnt-only-about-the-money-1",
+    "resume": "The tentacles of my trade empire snake up towards France in the west, down towards Africa in the south, and off into Hungary in the east. Yet, I still can’t reach out and grasp the throne that sits right in front of me. I’m Marco Sanudo, and the throne of the serene republic of Venice eludes me. I’ve shed blood in its name, the blood of someone else named Marco no less. I’ve managed to avoid…",
+    "publie_le": "2026-11-16T17:01:30+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "3226866e10bbe61a",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Pokémon TCG: Delta Reign Booster Bundles Are Checking Out for Just $32 at Amazon",
+    "lien": "https://www.ign.com/articles/pokemon-tcg-delta-reign-booster-bundles-under-market-price-at-amazon",
+    "resume": "Pokémon TCG: Delta reign booster bundles are back in stock at Amazon and now way below the current market price when compared to TCGplayer. But don't hang around, as we expect these to sell out fast.",
+    "publie_le": "2026-11-16T17:00:34+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "0651bce1ebadbefe",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Odyssey May Have Led to a Surge in Viewership for Percy Jackson",
+    "lien": "https://www.ign.com/articles/percy-jackson-viewership-boost-nolan-odyssey",
+    "resume": "Percy Jackson and the Olympians showrunners explain how Christopher Nolan's blockbuster The Odyssey unexpectedly boosted the Disney+ series' viewership over the summer.",
+    "publie_le": "2026-11-16T17:00:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "8a7cd13d47be72cc",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Maika Monroe Won't Return for Longlegs 2, But Is Open to a Future Comeback",
+    "lien": "https://www.ign.com/articles/maika-monroe-wont-return-for-longlegs-2-but-is-open-to-a-future-comeback",
+    "resume": "Actress and cult horror favorite Maika Monroe has confirmed that she won't return as FBI agent Lee Harker in the upcoming Longlegs sequel, although she's not quite ready to say goodbye to the character for good.",
+    "publie_le": "2026-11-16T16:58:11+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
     "id": "f17947d54c43b5ce",
     "source": "Polygon",
     "type": "presse",
@@ -22,6 +429,28 @@
     "collecte_le": "2026-11-16T17:00:59+00:00"
   },
   {
+    "id": "b28fb1988b6fa460",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it",
+    "lien": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it/",
+    "resume": "We'll get there… one day.",
+    "publie_le": "2026-11-16T16:57:05+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "f8558032bedcd843",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "World of Warcraft Raids Are About to Get Easier",
+    "lien": "https://www.ign.com/articles/world-of-warcraft-raids-are-about-to-get-easier",
+    "resume": "As the second season of World of Warcraft Midnight winds down, it's clear that The Venomous Abyss was a bit harder than it should have been.",
+    "publie_le": "2026-11-16T16:54:03+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
     "id": "7ca131a758c1703e",
     "source": "Reddit r/Games",
     "type": "communaute",
@@ -33,6 +462,17 @@
     "collecte_le": "2026-11-16T17:00:59+00:00"
   },
   {
+    "id": "6a40f41752ad3820",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The GTA Leaker Who Revealed Lucia — After Hacking Rockstar Through His Hotel TV — Pleads Guilty",
+    "lien": "https://www.ign.com/articles/the-gta-leaker-who-revealed-lucia-after-hacking-rockstar-through-his-hotel-tv-pleads-guilty",
+    "resume": "Arion Kurtaj, 21, pleads guilty to cybercrimes related to the 2022 Rockstar hack and GTA 6 leaks.",
+    "publie_le": "2026-11-16T16:49:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
     "id": "88afc101af819459",
     "source": "VGC",
     "type": "presse",
@@ -42,6 +482,28 @@
     "resume": "The game will reflect the real-life Vice City takeover coming to Miami Heat this week",
     "publie_le": "2026-11-16T16:45:23+00:00",
     "collecte_le": "2026-11-16T17:00:59+00:00"
+  },
+  {
+    "id": "256fe412cf12b6c6",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "NBA 2K27 Is Adding Vice City, GTA 6-Themed Cosmetics, and Much More as Part of Massive Rockstar Games Collaboration",
+    "lien": "https://www.ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration",
+    "resume": "Vice City is coming to NBA 2K27 as part of a massive crossover with GTA 6.",
+    "publie_le": "2026-11-16T16:45:15+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "a54c69f89fa5b334",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "'This Is Akin to a Moon Landing': How Gaming's Top Content Creators Are Preparing for GTA 6's Launch and Beyond",
+    "lien": "https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond",
+    "resume": "GTA 6 is finally almost here, and the world's biggest content creators are trying to figure out how to handle this behemoth.",
+    "publie_le": "2026-11-16T16:44:23+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
   },
   {
     "id": "ecbf716b2b67d0fd",
@@ -97,6 +559,17 @@
     "resume": "This year's Warhammer Battleforces for Christmas are incredibly good value, and that's probably why they're selling out - so I've tracked down any stock I can at a discount",
     "publie_le": "2026-11-16T16:30:13+00:00",
     "collecte_le": "2026-11-16T17:00:59+00:00"
+  },
+  {
+    "id": "57c4507edbe27d83",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
+    "lien": "https://www.ign.com/articles/20-years-later-the-wii-remains-nintendos-most-important-console",
+    "resume": "The Wii celebrates its 20th anniversary this week, and it's never been more clear that this odd little console paved the way for Nintendo's modern-day success.",
+    "publie_le": "2026-11-16T16:30:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
   },
   {
     "id": "c776eb7588248dd2",
@@ -176,6 +649,17 @@
     "collecte_le": "2026-11-16T17:00:59+00:00"
   },
   {
+    "id": "d19978e7d6227892",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Xbox Helix : la future console de jeux de Microsoft se construit autour de 3 axes bien précis, on vous explique…",
+    "lien": "https://www.jeuxvideo.com/news/2114857/xbox-helix-la-future-console-de-jeux-de-microsoft-se-construit-autour-de-3-axes-bien-precis-on-vous-explique.htm",
+    "resume": "Microsoft continue de lever le voile sur sa vision de l'avenir du jeu vidéo à l’occasion des 25 ans de la marque américaine. Alors, le fameux “Project Helix”, c’est quoi ? Jason Ronald, vice-président Xbox chargé de la prochaine génération, donne les trois axes qui servent de base à la next-gen de Microsoft.",
+    "publie_le": "2026-11-16T16:15:06+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
     "id": "5a8aade6fb169335",
     "source": "Gameblog",
     "type": "presse",
@@ -207,6 +691,17 @@
     "resume": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Zelda: Ocarina of Time",
     "publie_le": "2026-11-16T16:12:20+00:00",
     "collecte_le": "2026-11-16T17:00:59+00:00"
+  },
+  {
+    "id": "ba767912b72d6829",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Rob Run : Comment changer de serveur ?",
+    "lien": "https://www.jeuxvideo.com/news/2114815/rob-run-comment-changer-de-serveur.htm",
+    "resume": "Vous souhaitez rejoindre le serveur de vos amis ou repartir de zéro sur un monde tout neuf dans Rob Run ? Contrairement aux jeux multijoueur classiques, la migration implique des mécanismes de jeu inhabituels.",
+    "publie_le": "2026-11-16T16:10:08+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
   },
   {
     "id": "dabcb131f2882dbe",
@@ -275,6 +770,17 @@
     "collecte_le": "2026-11-16T17:00:59+00:00"
   },
   {
+    "id": "e543a73af3d09047",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "PlayStation Is Giving You £20 off All PS5 DualSense Controllers For Black Friday",
+    "lien": "https://www.ign.com/articles/playstation-uk-black-friday-dualsense-ps-plus-deal",
+    "resume": "PlayStation UK's Black Friday sale takes £20 off PS5 DualSense controllers, dropping them to £44.99—or £42.50 when PS Plus members stack an extra 5% discount.",
+    "publie_le": "2026-11-16T16:02:08+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
     "id": "ab593607a1181deb",
     "source": "Gameblog",
     "type": "presse",
@@ -297,6 +803,28 @@
     "collecte_le": "2026-11-16T17:00:59+00:00"
   },
   {
+    "id": "5219a7d4aff25014",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The History of Grand Theft Auto Easter Eggs",
+    "lien": "https://www.ign.com/articles/the-history-of-grand-theft-auto-easter-eggs",
+    "resume": "We explore the inside jokes and little secrets tucked in every corner of the GTA maps.",
+    "publie_le": "2026-11-16T16:00:00+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
+    "id": "b26a4d67875750db",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Avengers: Secret Wars Will Be a Different Genre to Doomsday and Unlike Anything Else You've Ever Seen, Marvel Says",
+    "lien": "https://www.ign.com/articles/avengers-secret-wars-will-be-a-different-genre-to-doomsday-and-unlike-anything-else-youve-ever-seen-marvel-says",
+    "resume": "Excited for Avengers: Doomsday? Well, Marvel has already begun teasing sequel Avengers: Secret Wars, which sounds like it will be completely different.",
+    "publie_le": "2026-11-16T15:56:39+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
+  },
+  {
     "id": "db7cc25d5b3c0b57",
     "source": "ActuGaming",
     "type": "presse",
@@ -306,6 +834,17 @@
     "resume": "ActuGaming.net GTA 6 promet une grande liberté dans le chaos que vous pouvez déclencher, mais il encouragera aussi l’empathie selon Rockstar Souvent pointée du doigt pour cette raison, la saga GTA est souvent synonyme de violence […] L'article GTA 6 promet une grande liberté dans le chaos que vous pouvez déclencher, mais il encouragera aussi l’empathie selon Rockstar est disponible sur…",
     "publie_le": "2026-11-16T15:56:05+00:00",
     "collecte_le": "2026-11-16T17:00:59+00:00"
+  },
+  {
+    "id": "f84db59289edac4b",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Xbox Offers Doctor’s Note for Undefined Gaming Session Definitely Not Linked to GTA 6",
+    "lien": "https://www.ign.com/articles/xbox-offers-doctors-note-for-not-gta-6",
+    "resume": "Xbox has kicked off its marketing for the game it’s not allowed to mention in its marketing. Like the weird alligator-shaped Xbox recently announced, Microsoft is doing its best to get Xbox players excited about GTA 6 without saying the game’s name.",
+    "publie_le": "2026-11-16T15:54:18+00:00",
+    "collecte_le": "2026-11-16T18:45:39+00:00"
   },
   {
     "id": "72614df0d59e4f2b",

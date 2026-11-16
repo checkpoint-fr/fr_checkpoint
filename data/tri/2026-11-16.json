@@ -316,5 +316,199 @@
     ],
     "propose_le": "2026-11-16T17:01:05+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "galactic",
+      "local",
+      "mode",
+      "play",
+      "racer",
+      "star",
+      "wars"
+    ],
+    "titre": "Star Wars Galactic Racer : Un mode multijoueur local en écran partagé sera ajouté dès l’année prochaine",
+    "score": 4.05,
+    "nb_sources": 3,
+    "sources": [
+      "ActuGaming",
+      "Polygon",
+      "Reddit r/Games"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-16T16:57:08+00:00",
+    "mots_cles": [
+      "galactic",
+      "local",
+      "racer",
+      "mode",
+      "play",
+      "wars",
+      "star"
+    ],
+    "articles": [
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Star Wars Galactic Racer : Un mode multijoueur local en écran partagé sera ajouté dès l’année prochaine",
+        "lien": "https://www.actugaming.net/star-wars-galactic-racer-un-mode-multijoueur-local-en-ecran-partage-sera-ajoute-des-lannee-prochaine-833639/",
+        "resume": "ActuGaming.net Star Wars Galactic Racer : Un mode multijoueur local en écran partagé sera ajouté dès l’année prochaine La saga Star Wars a accouché de deux jeux bien accueillis par le public ces […] L'article Star Wars Galactic Racer : Un mode multijoueur local en écran partagé sera ajouté dès l’année prochaine est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-16T16:57:08+00:00"
+      },
+      {
+        "source": "Reddit r/Games",
+        "type": "communaute",
+        "langue": "en",
+        "titre": "Star Wars: Galactic Racer will get Local Split-Screen and Free Play Mode in 2027",
+        "lien": "https://www.reddit.com/r/Games/comments/1xxtrxh/star_wars_galactic_racer_will_get_local/",
+        "resume": "",
+        "publie_le": "2026-11-16T16:26:43+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The 7 Best Star Wars: Galactic Racer Replacements You Can Play Right Now",
+        "lien": "https://www.polygon.com/best-games-like-star-wars-galactic-racer/",
+        "resume": "Star Wars: Galactic Racer has no exact replicas, but there are plenty of obvious influences. Here are the best games like Star War: Galactic Racer.",
+        "publie_le": "2026-11-16T00:58:15+00:00"
+      }
+    ],
+    "propose_le": "2026-11-16T18:45:45+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "007",
+      "bond",
+      "denis",
+      "james",
+      "pattinson",
+      "robert",
+      "villeneuve"
+    ],
+    "titre": "Robert Pattinson reportedly found out he was the new James Bond from Denis Villeneuve",
+    "score": 2.92,
+    "nb_sources": 3,
+    "sources": [
+      "GamesRadar",
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-16T18:16:32+00:00",
+    "mots_cles": [
+      "denis",
+      "villeneuve",
+      "pattinson",
+      "robert",
+      "007",
+      "bond",
+      "james"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Robert Pattinson reportedly found out he was the new James Bond from Denis Villeneuve",
+        "lien": "https://www.gamesradar.com/entertainment/james-bond-movies/robert-pattinson-reportedly-found-out-he-was-the-new-james-bond-from-denis-villeneuve-just-24-hours-before-the-official-announcement/",
+        "resume": "The new 007 has the skin of a killer, Bella",
+        "publie_le": "2026-11-16T18:16:32+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Robert Pattinson's Batman Movie Franchise Is Officially Finished",
+        "lien": "https://www.polygon.com/pattinson-as-bond-means-no-the-batman-iii/",
+        "resume": "With Pattinson being cast as Bond, DC fans are once again being robbed of a good Batman trilogy",
+        "publie_le": "2026-11-16T16:57:33+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Bond 26 director responds to Robert Pattinson's casting: \"He has the timeless soul of 007\"",
+        "lien": "https://www.gamesradar.com/entertainment/james-bond-movies/bond-26-director-denis-villeneuve-responds-to-robert-pattinsons-casting-he-has-the-timeless-soul-of-007/",
+        "resume": "Denis Villeneuve also thanked the other actors who auditioned for James Bond",
+        "publie_le": "2026-11-16T15:52:08+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Robert Pattinson is the next James Bond – see the first look now",
+        "lien": "https://www.gamesradar.com/entertainment/james-bond-movies/robert-pattinson-james-bond-confirmed-first-look/",
+        "resume": "Robert Pattinson is officially 007",
+        "publie_le": "2026-11-16T15:09:45+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Robert Pattinson Cast as James Bond in Next 007 Movie",
+        "lien": "https://www.ign.com/articles/robert-pattinson-cast-as-james-bond-in-next-007-movie",
+        "resume": "After years of rumors and speculation, Twilight and The Batman star Robert Pattinson has officially been cast as James Bond in Denis Villeneuve's 007 movie.",
+        "publie_le": "2026-11-16T15:04:28+00:00"
+      }
+    ],
+    "propose_le": "2026-11-16T18:45:45+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "award",
+      "fellow",
+      "legend",
+      "miyamoto",
+      "shigeru"
+    ],
+    "titre": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas",
+    "score": 2.81,
+    "nb_sources": 2,
+    "sources": [
+      "Reddit r/Games",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-16T17:36:35+00:00",
+    "mots_cles": [
+      "fellow",
+      "shigeru",
+      "miyamoto",
+      "legend",
+      "award"
+    ],
+    "articles": [
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas",
+        "lien": "https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/",
+        "resume": "Nintendo's creative fellow will appear at DICE in February",
+        "publie_le": "2026-11-16T17:36:35+00:00"
+      },
+      {
+        "source": "Reddit r/Games",
+        "type": "communaute",
+        "langue": "en",
+        "titre": "Shigeru Miyamoto, critically acclaimed Nintendo director and fellow, selected as Inaugural Legend Award Inductee at 30th Annual D.I.C.E. Awards",
+        "lien": "https://www.reddit.com/r/Games/comments/1xxvgiu/shigeru_miyamoto_critically_acclaimed_nintendo/",
+        "resume": "",
+        "publie_le": "2026-11-16T17:28:45+00:00"
+      }
+    ],
+    "propose_le": "2026-11-16T18:45:45+00:00",
+    "creneau": "actu_soir"
   }
 ]
