@@ -1,0 +1,152 @@
+[
+  {
+    "signature": [
+      "again",
+      "boy",
+      "meat",
+      "super"
+    ],
+    "titre": "Super Meat Boy Again+, une version améliorée et enrichie du platformer 2D original, s’annonce sur PC",
+    "score": 2.18,
+    "nb_sources": 2,
+    "sources": [
+      "ActuGaming",
+      "GamesRadar"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-16T07:30:03+00:00",
+    "mots_cles": [
+      "super",
+      "again",
+      "boy",
+      "meat"
+    ],
+    "articles": [
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Super Meat Boy Again+, une version améliorée et enrichie du platformer 2D original, s’annonce sur PC",
+        "lien": "https://www.actugaming.net/super-meat-boy-again-version-amelioree-enrichie-platformer-2d-annonce-pc-833565/",
+        "resume": "ActuGaming.net Super Meat Boy Again+, une version améliorée et enrichie du platformer 2D original, s’annonce sur PC Le petit bout de viande le plus persécuté de l’univers a tenté sa chance cette […] L'article Super Meat Boy Again+, une version améliorée et enrichie du platformer 2D original, s’annonce sur PC est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-16T07:30:03+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Super Meat Boy Again Plus remakes the indie icon with new \"music, cutscenes, levels, secrets\"",
+        "lien": "https://www.gamesradar.com/games/platformer/super-meat-boy-again-plus-remakes-the-legendary-platformer-with-a-fresh-coat-of-bloody-paint-and-new-music-cutscenes-levels-secrets/",
+        "resume": "OG composer Danny B is also back",
+        "publie_le": "2026-11-15T14:25:03+00:00"
+      }
+    ],
+    "propose_le": "2026-11-16T09:53:03+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "capable",
+      "confirms",
+      "helix",
+      "playing",
+      "project"
+    ],
+    "titre": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'... And Is 'Not a PC That Can Also Play Console Games'",
+    "score": 1.95,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "Reddit r/Games"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-16T02:23:04+00:00",
+    "mots_cles": [
+      "project",
+      "capable",
+      "confirms",
+      "playing",
+      "helix"
+    ],
+    "articles": [
+      {
+        "source": "Reddit r/Games",
+        "type": "communaute",
+        "langue": "en",
+        "titre": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'... And Is 'Not a PC That Can Also Play Console Games'",
+        "lien": "https://www.reddit.com/r/Games/comments/1xxdq2q/xbox_confirms_project_helix_is_a_console_capable/",
+        "resume": "",
+        "publie_le": "2026-11-16T02:23:04+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'",
+        "lien": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc",
+        "resume": "Xbox has confirmed Project Helix is \"designed to be a console capable of playing games from your PC.\"",
+        "publie_le": "2026-11-15T22:18:57+00:00"
+      }
+    ],
+    "propose_le": "2026-11-16T09:53:03+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "25th",
+      "360",
+      "anniversary",
+      "boot",
+      "brand",
+      "original",
+      "reveals"
+    ],
+    "titre": "Xbox reveals that Series X|S users, for the brand's 25th Anniversary, can boot up their consoles with the start-up animations for the original 2001 console or either of the Xbox 360's.",
+    "score": 1.42,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "Reddit r/Games"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-15T20:57:08+00:00",
+    "mots_cles": [
+      "boot",
+      "brand",
+      "360",
+      "reveals",
+      "anniversary",
+      "25th",
+      "original"
+    ],
+    "articles": [
+      {
+        "source": "Reddit r/Games",
+        "type": "communaute",
+        "langue": "en",
+        "titre": "Xbox reveals that Series X|S users, for the brand's 25th Anniversary, can boot up their consoles with the start-up animations for the original 2001 console or either of the Xbox 360's.",
+        "lien": "https://www.reddit.com/r/Games/comments/1xx6jp4/xbox_reveals_that_series_xs_users_for_the_brands/",
+        "resume": "",
+        "publie_le": "2026-11-15T20:57:08+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
+        "lien": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
+        "resume": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
+        "publie_le": "2026-11-15T20:31:38+00:00"
+      }
+    ],
+    "propose_le": "2026-11-16T09:53:03+00:00",
+    "creneau": "actu"
+  }
+]

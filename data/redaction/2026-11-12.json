@@ -61,14 +61,7 @@
     "alertes": [
       "point 3 texte : 184/180 car."
     ],
-    "images": [
-      "data/visuels/dc5af396f72a/01.jpg",
-      "data/visuels/dc5af396f72a/02.jpg",
-      "data/visuels/dc5af396f72a/03.jpg",
-      "data/visuels/dc5af396f72a/04.jpg",
-      "data/visuels/dc5af396f72a/05.jpg",
-      "data/visuels/dc5af396f72a/06.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 9,
       "envoye_le": "2026-11-12T18:40:38+00:00"
@@ -134,15 +127,7 @@
     "score_tri": 4.98,
     "redige_le": "2026-11-12T17:38:56+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/1834f887da3d/01.jpg",
-      "data/visuels/1834f887da3d/02.jpg",
-      "data/visuels/1834f887da3d/03.jpg",
-      "data/visuels/1834f887da3d/04.jpg",
-      "data/visuels/1834f887da3d/05.jpg",
-      "data/visuels/1834f887da3d/06.jpg",
-      "data/visuels/1834f887da3d/07.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 16,
       "envoye_le": "2026-11-12T18:40:39+00:00"
@@ -198,15 +183,7 @@
     "score_tri": 3.89,
     "redige_le": "2026-11-12T17:38:56+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/3053cd24fbd1/01.jpg",
-      "data/visuels/3053cd24fbd1/02.jpg",
-      "data/visuels/3053cd24fbd1/03.jpg",
-      "data/visuels/3053cd24fbd1/04.jpg",
-      "data/visuels/3053cd24fbd1/05.jpg",
-      "data/visuels/3053cd24fbd1/06.jpg",
-      "data/visuels/3053cd24fbd1/07.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 23,
       "envoye_le": "2026-11-12T18:41:40+00:00"
@@ -258,15 +235,7 @@
     "score_tri": 3.68,
     "redige_le": "2026-11-12T17:48:06+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/0681509ed30d/01.jpg",
-      "data/visuels/0681509ed30d/02.jpg",
-      "data/visuels/0681509ed30d/03.jpg",
-      "data/visuels/0681509ed30d/04.jpg",
-      "data/visuels/0681509ed30d/05.jpg",
-      "data/visuels/0681509ed30d/06.jpg",
-      "data/visuels/0681509ed30d/07.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 30,
       "envoye_le": "2026-11-12T18:41:41+00:00"
@@ -313,14 +282,7 @@
     "score_tri": 3.98,
     "redige_le": "2026-11-12T17:54:02+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/b10acab52fa4/01.jpg",
-      "data/visuels/b10acab52fa4/02.jpg",
-      "data/visuels/b10acab52fa4/03.jpg",
-      "data/visuels/b10acab52fa4/04.jpg",
-      "data/visuels/b10acab52fa4/05.jpg",
-      "data/visuels/b10acab52fa4/06.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 36,
       "envoye_le": "2026-11-12T18:41:42+00:00"
