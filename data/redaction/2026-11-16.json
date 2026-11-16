@@ -364,7 +364,7 @@
   },
   {
     "sujet_id": "2f1fd5014c57",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Du multi local sur Star Wars Galactic Racer",
@@ -419,6 +419,12 @@
     "telegram": {
       "message_id": 140,
       "envoye_le": "2026-11-16T18:53:11+00:00"
+    },
+    "decide_le": "2026-11-16T21:46:39+00:00",
+    "instagram": {
+      "media_id": "17991110994119544",
+      "lien": "https://www.instagram.com/reel/Df0WtK2AAsQ/",
+      "publie_le": "2026-11-16T21:47:29+00:00"
     }
   },
   {
