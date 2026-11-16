@@ -59,7 +59,7 @@
   },
   {
     "sujet_id": "f532bc5f38cf",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Xbox dévoile Project Helix",
@@ -112,7 +112,8 @@
     "telegram": {
       "message_id": 124,
       "envoye_le": "2026-11-16T10:06:06+00:00"
-    }
+    },
+    "decide_le": "2026-11-16T11:07:02+00:00"
   },
   {
     "sujet_id": "5d2bdf3679b4",
