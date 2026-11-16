@@ -180,7 +180,8 @@ reel:
     Checkpoint: "Tchèk-poïnnte"
     "F R": "èf èr"
     "GTA VI": "GTA 6"         # écrit « GTA VI », dit « GTA six »
-  fin_secondes: 3.0          # l'écran « Suis @fr_checkpoint » reste affiché 3 s après la dernière phrase
+  fin_secondes: 4.5          # l'écran « Suis @fr_checkpoint » reste affiché 4,5 s après la dernière phrase
+                             # (marge : certaines applis coupent la lecture un peu avant la vraie fin)
   duree_min: 25              # durée minimale d'un Reel (s) : l'écran final est prolongé si besoin
   transcription: whisper-large-v3-turbo   # Groq : heure de chaque mot prononcé, pour caler les sous-titres
   musique:

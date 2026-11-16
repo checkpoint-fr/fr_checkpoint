@@ -266,7 +266,7 @@ def fabriquer(b):
                 heures = [h - decalage for h in heures]
             fin_voix = duree_voix - decalage
             if appel_fixe:
-                pause, duree_appel = 0.4, duree_wav(appel_wav)
+                pause, duree_appel = 0.25, duree_wav(appel_wav)
                 debut_appel = fin_voix + pause
                 mots = textes[-1].split()
                 script += [(normal(m), m, total - 1) for m in mots]
