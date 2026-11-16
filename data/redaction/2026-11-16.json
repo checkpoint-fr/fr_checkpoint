@@ -179,7 +179,7 @@
   },
   {
     "sujet_id": "6edb65c301a8",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Le hacker du leak GTA VI plaide coupable",
@@ -238,7 +238,8 @@
     "telegram": {
       "message_id": 131,
       "envoye_le": "2026-11-16T17:09:28+00:00"
-    }
+    },
+    "decide_le": "2026-11-16T18:05:04+00:00"
   },
   {
     "sujet_id": "e173286e85f9",
@@ -297,7 +298,7 @@
   },
   {
     "sujet_id": "450d45126e12",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "GTA VI enfin disponible cette semaine",
@@ -352,6 +353,7 @@
     "telegram": {
       "message_id": 135,
       "envoye_le": "2026-11-16T17:09:32+00:00"
-    }
+    },
+    "decide_le": "2026-11-16T18:04:04+00:00"
   }
 ]
