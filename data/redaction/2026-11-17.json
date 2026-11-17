@@ -55,7 +55,7 @@
   },
   {
     "sujet_id": "e1d72600e572",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Fable dévoile la carte de Bowerstone",
@@ -116,7 +116,8 @@
     "telegram": {
       "message_id": 150,
       "envoye_le": "2026-11-17T09:46:28+00:00"
-    }
+    },
+    "decide_le": "2026-11-17T11:10:05+00:00"
   },
   {
     "sujet_id": "1dac8e83c6b6",
