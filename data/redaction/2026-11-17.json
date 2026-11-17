@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "8abfd2d00811",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Du nouveau pour Project: Gorgon",
@@ -52,7 +52,12 @@
       "message_id": 148,
       "envoye_le": "2026-11-17T09:46:27+00:00"
     },
-    "decide_le": "2026-11-17T11:10:13+00:00"
+    "decide_le": "2026-11-17T11:10:13+00:00",
+    "instagram": {
+      "media_id": "18593200903068763",
+      "lien": "https://www.instagram.com/reel/Df10_iMidCZ/",
+      "publie_le": "2026-11-17T11:31:23+00:00"
+    }
   },
   {
     "sujet_id": "e1d72600e572",
