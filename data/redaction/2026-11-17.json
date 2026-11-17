@@ -447,7 +447,7 @@
   },
   {
     "sujet_id": "430939e073b8",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Les nouveaux jeux du Xbox Game Pass",
@@ -499,7 +499,8 @@
     "telegram": {
       "message_id": 168,
       "envoye_le": "2026-11-17T18:55:48+00:00"
-    }
+    },
+    "decide_le": "2026-11-17T19:50:48+00:00"
   },
   {
     "sujet_id": "06b232dc9e6e",
