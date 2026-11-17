@@ -75,7 +75,8 @@ def transcrire(chemin):
                                                        "response_format": "verbose_json",
                                                        "timestamp_granularities[]": "word"})
         r.raise_for_status()
-        return [(w["word"], w["start"], w["end"]) for w in r.json().get("words", [])]
+        return [(w["word"], w["start"], w["end"]) for w in r.json().get("words", [])
+                if not re.search(r"sous-titr|radio-canada|amara", w["word"], re.I)]   # inventés par Whisper
     except Exception as ex:
         print(f"  [voix] transcription indisponible ({str(ex)[:100]}) : synchro approximative")
         return []
@@ -116,6 +117,42 @@ def chronologie(textes, mots_dits, total):
             else:
                 heures[i] = heures[avant] + (heures[apres] - heures[avant]) * (i - avant) / (apres - avant)
     return script, heures
+
+
+def defauts(textes, mots_dits, duree):
+    """Ce qui cloche dans une prise de voix (liste vide = prise propre) : mots sautés, fin coupée, mots
+    en trop, ou un blanc anormal. Une phrase redite par la voix n'apparaît pas dans la transcription
+    (Whisper la fusionne) mais laisse un « trou » de plus d'une seconde entre deux mots : on le détecte."""
+    if not mots_dits:
+        return []                                             # rien pour vérifier : on garde la prise
+    script = [normal(m) for t in textes for m in t.split()]
+    dits = [normal(m[0]) for m in mots_dits]
+    manquants = ajoutes = 0
+    ops = difflib.SequenceMatcher(None, script, dits, autojunk=False).get_opcodes()
+    for n, (op, a1, a2, b1, b2) in enumerate(ops):
+        if op == "delete":
+            manquants += a2 - a1
+        elif op == "insert" and n > 0:                        # en tête : retiré par le décalage
+            ajoutes += b2 - b1
+        elif op == "replace":                                 # « deux mille vingt-sept » ↔ « 2027 » : normal
+            manquants += max(0, (a2 - a1) - 3 * (b2 - b1))
+            ajoutes += max(0, (b2 - b1) - 3 * (a2 - a1))
+    pb = []
+    if ops and ops[-1][0] == "delete":
+        pb.append("fin coupée")
+    if manquants >= 3:
+        pb.append(f"{manquants} mots sautés")
+    if ajoutes >= 4:
+        pb.append(f"{ajoutes} mots en trop")
+    for k in range(len(mots_dits) - 1):
+        mot = mots_dits[k][0]
+        attendu = 0.085 * len(re.sub(r"\W", "", mot)) + (0.8 if mot[-1:] in ".,!?;:" else 0.25)
+        if mots_dits[k + 1][1] - mots_dits[k][1] - attendu > 1.0:
+            pb.append(f"blanc ou passage répété après « {mot.strip()} »")
+            break
+    if duree - mots_dits[-1][2] > 2.0:
+        pb.append("bruit après la dernière phrase")
+    return pb
 
 
 def decouper_sous_titres(script, heures, segment, fin_segment):
@@ -249,17 +286,36 @@ def fabriquer(b):
                 texte = re.sub(rf"(?<!\w){re.escape(nom)}(?!\w)", phonetique, texte)
             return texte
 
-        contenu_wav = tmp / "contenu.wav"
+        def prise(a_dire):
+            """La voix Gemini bafouille parfois (phrase redite, fin avalée) : chaque prise est réécoutée
+            par la transcription et refaite si besoin ; on garde la première propre, sinon la meilleure."""
+            meilleure = None
+            for essai in range(c["voix"].get("essais", 3)):
+                wav = tmp / f"prise{essai}.wav"
+                modele = voix_off(remplacer(" ".join(a_dire)), wav)
+                if not modele:
+                    break
+                mots = transcrire(wav)
+                pb = defauts(a_dire, mots, duree_wav(wav))
+                if pb:
+                    print(f"  [voix] prise {essai + 1} imparfaite : {', '.join(pb)}")
+                if meilleure is None or len(pb) < len(meilleure[3]):
+                    meilleure = (modele, wav, mots, pb)
+                if not pb:
+                    break
+            return meilleure
+
         a_dire = textes[:-1]
-        modele = voix_off(remplacer(" ".join(a_dire)), contenu_wav)
+        choisie = prise(a_dire)
+        if choisie and not (enregistrements.get(choisie[0]) and enregistrements[choisie[0]].is_file()):
+            a_dire = textes                                    # pas d'enregistrement pour ce modèle :
+            choisie = prise(a_dire)                            # la phrase de fin est lue avec le reste
+        modele = choisie[0] if choisie else None
         appel_wav = enregistrements.get(modele)
         appel_fixe = bool(appel_wav and appel_wav.is_file())
-        if modele and not appel_fixe:                          # pas d'enregistrement pour ce modèle :
-            a_dire = textes                                    # la phrase de fin est lue avec le reste
-            modele = voix_off(remplacer(" ".join(a_dire)), contenu_wav)
         if modele:
+            _, contenu_wav, mots_dits, b["defauts_voix"] = choisie
             duree_voix = duree_wav(contenu_wav)
-            mots_dits = transcrire(contenu_wav)
             script, heures = chronologie(a_dire, mots_dits, duree_voix)
             if heures[0] > 1.2:                                 # la voix a dit autre chose avant le texte
                 decalage = heures[0] - 0.15
@@ -332,15 +388,27 @@ def fabriquer(b):
         sortie = DOSSIER / f"{b['sujet_id']}.mp4"
         commande = [FFMPEG, "-y", "-hide_banner", "-loglevel", "error", *entrees,
                     "-f", "concat", "-safe", "0", "-i", str(tmp / "images.txt"), *filtres,
-                    "-r", str(c["fps"]), "-vf", "format=yuv420p", "-c:v", "libx264", "-preset", "veryfast",
+                    "-vf", f"fps={c['fps']},format=yuv420p,tpad=stop_mode=clone:stop_duration=5",
+                    "-c:v", "libx264", "-preset", "veryfast",
                     "-crf", "21", "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-t", f"{duree_totale:.2f}",
                     "-movflags", "+faststart", str(sortie)]
         r = subprocess.run(commande, capture_output=True, text=True)
         if r.returncode:
             raise RuntimeError(f"ffmpeg : {r.stderr[-300:]}")
+        image, son = duree_piste(sortie, "v"), duree_piste(sortie, "a")
+        if image < duree_totale - 0.2 or son < duree_totale - 0.2:   # le téléphone s'arrête à la plus courte
+            raise RuntimeError(f"vidéo incomplète : image {image:.1f} s, son {son:.1f} s / {duree_totale:.1f} s")
     b["duree"] = round(duree_totale, 1)
     b["voix_off"] = bool(voix_wav)
     return str(sortie.relative_to(ROOT))
+
+
+def duree_piste(chemin, piste):
+    """Durée réelle d'une piste (v ou a) du MP4, en la décodant."""
+    r = subprocess.run([FFMPEG, "-hide_banner", "-i", str(chemin), "-map", f"0:{piste}", "-f", "null", "-"],
+                       capture_output=True, text=True)
+    temps = re.findall(r"time=(\d+):(\d+):([\d.]+)", r.stderr)
+    return int(temps[-1][0]) * 3600 + int(temps[-1][1]) * 60 + float(temps[-1][2]) if temps else 0.0
 
 
 def produire():

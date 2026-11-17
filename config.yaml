@@ -169,6 +169,7 @@ reel:
   fps: 30
   voix:
     modeles: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
+    essais: 3                 # prises max : une prise qui bafouille (phrase redite, mot sauté, fin coupée) est refaite
     nom: Charon               # voix Gemini (Charon, Puck, Fenrir, Kore, Aoede…) ; le texte est lu tel quel
     appel: "Abonne-toi à F R Checkpoint pour ne rater aucune actu jeu vidéo !"
     fichiers_appel:           # phrase de fin enregistrée une fois par modèle (même timbre que le contenu)
