@@ -309,7 +309,7 @@
   },
   {
     "sujet_id": "015371db77c5",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Take-Two licencie un tiers du staff de Firaxis",
@@ -364,6 +364,7 @@
     "telegram": {
       "message_id": 161,
       "envoye_le": "2026-11-17T17:15:53+00:00"
-    }
+    },
+    "decide_le": "2026-11-17T17:55:31+00:00"
   }
 ]
