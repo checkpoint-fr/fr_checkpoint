@@ -242,7 +242,7 @@
   },
   {
     "sujet_id": "f8e0f91f1693",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Le hacker de la fuite GTA VI plaide coupable",
@@ -305,7 +305,8 @@
     "telegram": {
       "message_id": 159,
       "envoye_le": "2026-11-17T17:15:50+00:00"
-    }
+    },
+    "decide_le": "2026-11-17T17:55:41+00:00"
   },
   {
     "sujet_id": "015371db77c5",
