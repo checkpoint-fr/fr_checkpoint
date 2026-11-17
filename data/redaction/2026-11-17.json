@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "8abfd2d00811",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Du nouveau pour Project: Gorgon",
@@ -51,7 +51,8 @@
     "telegram": {
       "message_id": 148,
       "envoye_le": "2026-11-17T09:46:27+00:00"
-    }
+    },
+    "decide_le": "2026-11-17T11:10:13+00:00"
   },
   {
     "sujet_id": "e1d72600e572",
