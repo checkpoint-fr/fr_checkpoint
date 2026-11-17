@@ -376,7 +376,7 @@
   },
   {
     "sujet_id": "fd598a618c8c",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Sony gagne le procès sur les prix du PlayStation Store",
@@ -444,7 +444,12 @@
       "message_id": 166,
       "envoye_le": "2026-11-17T18:55:45+00:00"
     },
-    "decide_le": "2026-11-17T19:51:04+00:00"
+    "decide_le": "2026-11-17T19:51:04+00:00",
+    "instagram": {
+      "media_id": "17942352474390129",
+      "lien": "https://www.instagram.com/reel/Df2vV5iDfUj/",
+      "publie_le": "2026-11-17T20:01:11+00:00"
+    }
   },
   {
     "sujet_id": "430939e073b8",
