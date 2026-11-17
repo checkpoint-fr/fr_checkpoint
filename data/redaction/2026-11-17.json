@@ -120,7 +120,7 @@
   },
   {
     "sujet_id": "1dac8e83c6b6",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Les créateurs du premier GTA se réunissent",
@@ -170,6 +170,7 @@
     "telegram": {
       "message_id": 152,
       "envoye_le": "2026-11-17T09:46:30+00:00"
-    }
+    },
+    "decide_le": "2026-11-17T11:09:54+00:00"
   }
 ]
