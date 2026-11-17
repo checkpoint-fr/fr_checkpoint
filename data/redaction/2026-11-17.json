@@ -179,5 +179,191 @@
       "envoye_le": "2026-11-17T09:46:30+00:00"
     },
     "decide_le": "2026-11-17T11:09:54+00:00"
+  },
+  {
+    "sujet_id": "41ef2b7c67cb",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Quand GTA VI débarque dans NBA 2K27",
+    "sous_titre": "Take-Two mélange ses deux franchises pour une collaboration XXL et une édition spéciale",
+    "points": [
+      {
+        "titre": "Une immersion totale dans Vice City",
+        "texte": "NBA 2K27 lance une saison aux couleurs de GTA VI avec des décors néons, des supercars et de nombreux éléments cosmétiques à débloquer."
+      },
+      {
+        "titre": "Une édition numérique spéciale",
+        "texte": "Vendue trente-neuf euros quatre-vingt-dix-neuf sans version physique, cette édition met Bam Adebayo en vedette et inclut le season pass."
+      },
+      {
+        "titre": "Le vrai match aux couleurs du jeu",
+        "texte": "Le Heat de Miami affrontera les Bucks de Milwaukee avec des maillots spéciaux, un stade redécoré et de la musique officielle."
+      }
+    ],
+    "a_retenir": "Les abonnés GTA+ pourront même accéder gratuitement aux versions PS5 et Xbox Series du jeu de basket cet hiver.",
+    "voix": {
+      "couverture": "Quand GTA VI s'invite directement dans NBA 2K27.",
+      "points": [
+        "La nouvelle saison du jeu de basket se transforme aux couleurs de Vice City avec des décors inédits.",
+        "Une édition numérique spéciale débarque au prix de trente-neuf euros quatre-vingt-dix-neuf sans support physique.",
+        "Les Heat de Miami vont même jouer un vrai match habillés aux couleurs du jeu."
+      ],
+      "retenir": "Les abonnés auront même accès au jeu de basket sans frais supplémentaires."
+    },
+    "prononciation": {},
+    "legende": "Take-Two frappe fort en associant ses plus grandes licences avec un crossover inattendu entre GTA VI et NBA 2K27. Entre une saison complète aux couleurs de Vice City, des récompenses exclusives et un véritable match des Heat de Miami transformé pour l'occasion, la communication bat son plein avant la sortie du jeu. Les fans de basketball et de la franchise de Rockstar en auront pour leur argent, du moins en version numérique.\n\nEt toi, tu aimerais voir d'autres jeux débarquer dans tes simulations sportives favorites ?\n\nSources : Gamekult, ActuGaming, Polygon\n\n#checkpointfr #jeuxvideo #gaming #NBA2K27 #GTA6 #TakeTwo #Basketball #PlayStation5 #XboxSeriesX",
+    "sources": [
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/nba-2k27-se-pare-aux-couleurs-de-vice-city-3050873038.html"
+      },
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/nba-2k27-profite-sortie-gta-6-collaboration-vice-city-edition-833635/"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-nba-2k27-vice-city-crossover-announced/"
+      }
+    ],
+    "score_tri": 2.54,
+    "creneau": "gta6",
+    "redige_le": "2026-11-17T17:00:35+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 29.0,
+    "voix_off": true,
+    "video": "data/videos/41ef2b7c67cb.mp4",
+    "telegram": {
+      "message_id": 157,
+      "envoye_le": "2026-11-17T17:15:48+00:00"
+    }
+  },
+  {
+    "sujet_id": "f8e0f91f1693",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Le hacker de la fuite GTA VI plaide coupable",
+    "sous_titre": "À trois jours du lancement, le pirate derrière la fuite de 2022 a reconnu les faits devant la justice britannique",
+    "points": [
+      {
+        "titre": "Plaidoyer du hacker",
+        "texte": "Le jeune de 21 ans a reconnu le piratage des serveurs de Rockstar qui a diffusé près d’une heure de gameplay en 2022."
+      },
+      {
+        "titre": "Fuite massive 2022",
+        "texte": "Environ 90 vidéos, soit presque une heure de jeu, ont fuité avant toute bande-annonce, forçant Rockstar à réagir."
+      },
+      {
+        "titre": "Accès via Fire Stick",
+        "texte": "Sous protection policière, il a exploité le Wi‑Fi de la télévision d’une chambre d’hôtel et une clé Amazon Fire Stick pour pénétrer les serveurs."
+      },
+      {
+        "titre": "Condamnation post‑sortie",
+        "texte": "Le verdict est prévu le 23 novembre, soit quatre jours après le lancement de GTA VI le 19 novembre sur PS5 et Xbox Series X/S."
+      }
+    ],
+    "a_retenir": "Le hacker sera jugé juste après la sortie tant attendue de GTA VI",
+    "voix": {
+      "couverture": "Le hacker de la fuite GTA VI vient plaider coupable, à trois jours du lancement",
+      "points": [
+        "Arion Kurtaï, 21 ans, a reconnu le piratage des serveurs Rockstar devant le tribunal de Woolwich.",
+        "La fuite de 2022 a diffusé près de 90 vidéos, presque une heure de gameplay, avant la première bande-annonce.",
+        "Kurtaj a accédé aux serveurs via le Wi‑Fi de la TV d’une chambre d’hôtel et un Amazon Fire Stick.",
+        "Sa condamnation sera rendue le 23 novembre, quatre jours après la sortie prévue le 19 novembre."
+      ],
+      "retenir": "Le hacker sera jugé juste après la sortie tant attendue de GTA VI"
+    },
+    "prononciation": {
+      "Amazon Fire Stick": "Amazôn Faïr Stik",
+      "Rockstar": "Rokstar",
+      "Woolwich": "Woulouich"
+    },
+    "legende": "Le hacker qui a mis le feu à GTA VI en 2022 vient de plaider coupable, à trois jours du lancement du jeu.\n\nArion Kurtaï, 21 ans, a reconnu devant le tribunal de Woolwich qu’il était à l’origine du piratage des serveurs Rockstar en septembre 2022. Cette intrusion a permis la diffusion de près de 90 vidéos, soit presque une heure de gameplay, avant même la première bande‑annonce officielle.\n\nPour accéder aux données, le jeune a utilisé le Wi‑Fi de la télévision de sa chambre d’hôtel et une clé Amazon Fire Stick, tout en étant sous protection policière. Rockstar estime les coûts de remise en état à environ 5 millions de dollars.\n\nSa condamnation sera rendue le 23 novembre, soit quatre jours après la sortie prévue le 19 novembre sur PS5 et Xbox Series X/S. Le verdict tombera donc après le lancement tant attendu.\n\nEt toi, que penses‑tu de cette affaire ?\n\nSources : Journal du Geek, Gamekult\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #PS5 #XboxSeriesX #Lapsus #hacking",
+    "sources": [
+      {
+        "nom": "Journal du Geek",
+        "lien": "https://www.journaldugeek.com/2026/11/17/gta-6-le-hacker-derriere-la-fuite-de-2022-plaide-coupable-trois-jours-avant-la-sortie-du-jeu/"
+      },
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/le-pirate-a-l-origine-de-la-fuite-de-gta-vi-en-2022-plaide-coupable-devant-un-tribunal-londonien-3050873032.html"
+      }
+    ],
+    "score_tri": 1.38,
+    "creneau": "gta6",
+    "redige_le": "2026-11-17T17:00:35+00:00",
+    "alertes": [
+      "sous_titre : 113/110 car."
+    ],
+    "defauts_voix": [],
+    "duree": 39.4,
+    "voix_off": true,
+    "video": "data/videos/f8e0f91f1693.mp4",
+    "telegram": {
+      "message_id": 159,
+      "envoye_le": "2026-11-17T17:15:50+00:00"
+    }
+  },
+  {
+    "sujet_id": "015371db77c5",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Take-Two licencie un tiers du staff de Firaxis",
+    "sous_titre": "Des licenciements massifs juste avant la sortie de GTA VI",
+    "points": [
+      {
+        "titre": "Licenciements massifs chez Firaxis",
+        "texte": "Take-Two a confirmé, via Bloomberg, qu'il supprime un tiers des effectifs du studio derrière Civilization et XCOM."
+      },
+      {
+        "titre": "Objectif : recentrer sur le cœur de jeu",
+        "texte": "Le porte-parole de 2K explique que la restructuration vise à se concentrer sur la conception, la technologie et l'expérience joueur."
+      },
+      {
+        "titre": "Un XCOM en difficulté",
+        "texte": "Des employés anonymes indiquent que le nouveau projet XCOM a raté des étapes clés, ce qui aurait motivé les suppressions."
+      },
+      {
+        "titre": "Civilization 7 en demi-teinte",
+        "texte": "Le dernier titre du studio, Civilization 7, a reçu de bonnes critiques mais ses ventes ont démarré lentement, selon Take-Two."
+      }
+    ],
+    "a_retenir": "Firaxis se recentre sur la stratégie, l’avenir du XCOM reste flou",
+    "voix": {
+      "couverture": "Take-Two supprime un tiers du personnel de Firaxis, le studio de Civilization.",
+      "points": [
+        "Take-Two a confirmé via Bloomberg la suppression d'un tiers des effectifs de Firaxis.",
+        "La restructuration vise à recentrer le studio sur la conception, la tech et le joueur.",
+        "Des employés anonymes disent que le nouveau XCOM a manqué des étapes clés.",
+        "Civilization 7 a reçu de bonnes critiques mais ses ventes ont démarré lentement."
+      ],
+      "retenir": "Firaxis se recentre sur la stratégie, l’avenir du XCOM reste flou"
+    },
+    "prononciation": {
+      "Firaxis": "Fira-ksis"
+    },
+    "legende": "Take‑Two frappe fort : un tiers du staff de Firaxis licencié juste avant le lancement de GTA VI.\nL’éditeur a confirmé via Bloomberg que la restructuration vise à recentrer le studio sur son cœur de stratégie : conception, technologie et expérience joueur.\nLes suppressions touchent environ un tiers des effectifs, laissant le futur du nouveau XCOM incertain.\nDe son côté, Civilization 7, sorti l’an dernier, a reçu de bonnes critiques mais ses ventes ont démarré lentement.\nEt toi, que penses‑tu de ces coupes chez un studio phare ?\n\nSources : VGC\n\n#checkpointfr #jeuxvideo #gaming #Firaxis #TakeTwo #Civilization7 #XCOM #GTA6 #StrategyGames",
+    "sources": [
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff/"
+      }
+    ],
+    "score_tri": 1.0,
+    "creneau": "gta6",
+    "redige_le": "2026-11-17T17:00:35+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 36.8,
+    "voix_off": true,
+    "video": "data/videos/015371db77c5.mp4",
+    "telegram": {
+      "message_id": 161,
+      "envoye_le": "2026-11-17T17:15:53+00:00"
+    }
   }
 ]
