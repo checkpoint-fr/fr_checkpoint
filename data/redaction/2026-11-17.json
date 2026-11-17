@@ -373,5 +373,171 @@
       "envoye_le": "2026-11-17T17:15:53+00:00"
     },
     "decide_le": "2026-11-17T17:55:31+00:00"
+  },
+  {
+    "sujet_id": "fd598a618c8c",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Sony gagne le procès sur les prix du PlayStation Store",
+    "sous_titre": "Le tribunal londonien a rejeté la plainte de 12,2 M de joueurs accusant Sony de tarifs excessifs.",
+    "points": [
+      {
+        "titre": "Le tribunal rejette la plainte",
+        "texte": "Le Competition Appeal Tribunal a déclaré que la demande de 2,6 milliards $ (ou 2 milliards £) était infondée et que Sony n’a pas violé la loi."
+      },
+      {
+        "titre": "Pas d’obligation d’ouvrir le Store",
+        "texte": "La décision précise que Sony n’est pas tenu d’autoriser des boutiques tierces sur ses consoles."
+      },
+      {
+        "titre": "Pas d’impact sur les prix",
+        "texte": "Le tribunal n’a trouvé aucune preuve que la présence d’autres stores ferait baisser les prix du PlayStation Store."
+      },
+      {
+        "titre": "Fin des ventes physiques annoncée",
+        "texte": "Sony a indiqué qu’il abandonnera les ventes physiques d’ici janvier 2028, ce qui pourrait compliquer la défense à l’avenir."
+      }
+    ],
+    "a_retenir": "Le PlayStation Store reste le seul canal officiel de vente digitale de Sony.",
+    "voix": {
+      "couverture": "Sony vient de gagner le gros procès sur les prix du PlayStation Store",
+      "points": [
+        "Le tribunal a rejeté la plainte de 12,2 millions de joueurs réclamant 2,6 milliards de dollars.",
+        "Il a confirmé que Sony n’est pas obligé d’ouvrir son magasin à des tiers.",
+        "Aucune preuve n’a montré que d’autres boutiques feraient baisser les prix.",
+        "Sony prévoit de supprimer les ventes physiques dès janvier 2028, compliquant le débat."
+      ],
+      "retenir": "Le PlayStation Store reste le seul canal officiel de vente digitale de Sony"
+    },
+    "prononciation": {
+      "Competition Appeal Tribunal": "Compétition Apèl Tribunal"
+    },
+    "legende": "Le tribunal londonien a donné raison à Sony. La plainte de 12,2 millions de joueurs, qui réclamait 2,6 milliards de dommages pour des prix « excessifs » sur le PlayStation Store, a été totalement rejetée.\n\nLes juges ont jugé que Sony n’a aucune obligation légale d’ouvrir son écosystème à des boutiques tierces et que la présence d’autres stores ne ferait pas baisser les tarifs. Ils ont aussi souligné que les consommateurs peuvent encore choisir d’acheter des jeux physiques, même si Sony prévoit d’arrêter ces ventes d’ici janvier 2028.\n\nCette décision maintient le statu quo : le PlayStation Store reste la plateforme officielle pour les jeux numériques, et les futurs procès devront prouver autrement que les prix sont abusifs.\nEt toi, que penses‑tu de la politique de prix de Sony ?\n\nSources : Rock Paper Shotgun, Eurogamer, VGC, Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #PlayStation #Sony #PlayStationStore #UKlaw #DigitalGames #ConsoleWars",
+    "sources": [
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/sony-defeat-26-billion-uk-class-action-lawsuit-which-argued-playstations-dominant-market-position-fuels-excessive-and-unfair-game-prices"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/playstation-beats-2-6-billion-lawsuit-over-its-game-prices/"
+      },
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xymio0/playstation_defeats_26_billion_uk_class_action/"
+      }
+    ],
+    "score_tri": 4.39,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-17T18:45:56+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 34.5,
+    "voix_off": true,
+    "video": "data/videos/fd598a618c8c.mp4",
+    "telegram": {
+      "message_id": 166,
+      "envoye_le": "2026-11-17T18:55:45+00:00"
+    }
+  },
+  {
+    "sujet_id": "430939e073b8",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Les nouveaux jeux du Xbox Game Pass",
+    "sous_titre": "De gros titres arrivent très vite dans le service de Microsoft",
+    "points": [
+      {
+        "titre": "Du lourd au programme",
+        "texte": "Le service accueille de nouveaux titres variés, avec notamment The Outlast Trials et Sniper Ghost Warrior Contracts 2."
+      },
+      {
+        "titre": "Des aventures pour tous",
+        "texte": "Tu pourras aussi découvrir Hela, Paw Patrol Dino World ou encore High on Life 2 dès maintenant."
+      },
+      {
+        "titre": "Des départs prévus",
+        "texte": "Pense bien à profiter des jeux actuels avant leur retrait du service prévu pour la fin du mois."
+      }
+    ],
+    "a_retenir": "De belles nouveautés t'attendent ce mois-ci dans le service",
+    "voix": {
+      "couverture": "Le Xbox Game Pass s'enrichit de plusieurs nouveaux jeux dès aujourd'hui",
+      "points": [
+        "Tu vas pouvoir retrouver The Outlast Trials et Sniper Ghost Warrior Contracts 2",
+        "Des titres comme Hela et High on Life 2 rejoignent aussi le service",
+        "Pense à vérifier les jeux qui quittent le catalogue à la fin du mois"
+      ],
+      "retenir": "Prépare ta manette pour tester toutes ces nouveautés"
+    },
+    "prononciation": {},
+    "legende": "Le Xbox Game Pass fait le plein de nouveautés pour les joueurs sur PC et consoles. Entre missions de sniper, aventures magiques et jeux un peu plus terrifiants, il y en a pour tous les goûts ce mois-ci.\n\nCertains titres phares rejoignent le catalogue dès aujourd'hui, tandis que d'autres feront leurs adieux d'ici la fin du mois. Une sélection variée pour occuper tes prochaines soirées gaming au chaud.\n\nEt toi, tu vas tester lequel en premier ?\n\nSources : ActuGaming, Xbox Wire\n\n#checkpointfr #jeuxvideo #gaming #XboxGamePass #Microsoft #Xbox #PC #TheOutlastTrials #SniperGhostWarrior #HighOnLife2",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/xbox-game-pass-hela-the-outlast-trials-sniper-ghost-warrior-contracts-2-voici-les-prochains-jeux-ajoutes-au-service-833842/"
+      },
+      {
+        "nom": "Xbox Wire",
+        "lien": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/"
+      }
+    ],
+    "score_tri": 3.84,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-17T18:45:56+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.8,
+    "voix_off": true,
+    "video": "data/videos/430939e073b8.mp4",
+    "telegram": {
+      "message_id": 168,
+      "envoye_le": "2026-11-17T18:55:48+00:00"
+    }
+  },
+  {
+    "sujet_id": "06b232dc9e6e",
+    "statut": "ecarte",
+    "motif": "réponse de l'IA incomplète",
+    "statut_info": "officiel",
+    "accroche": "Les premières infos sur MLB The Show 27",
+    "sous_titre": "San Diego Studio partage le bilan de l'année et annonce le retour d'une fonctionnalité clé.",
+    "points": [],
+    "a_retenir": "Le Tech Test fait son grand retour pour préparer la sortie du jeu.",
+    "voix": {
+      "couverture": "Les premières infos sur MLB The Show 27 viennent de tomber",
+      "points": [
+        "Le studio dévoile les impressionnants chiffres de la communauté sur l'opus précédent",
+        "Le fameux Tech Test fait enfin son grand retour pour le développement",
+        "Il faudra encore patienter pour découvrir toutes les nouveautés prévues"
+      ],
+      "retenir": "Le studio prépare le terrain pour offrir la meilleure expérience possible"
+    },
+    "prononciation": {
+      "MLB The Show 27": "Em-El-Bi Ze Cho Vingt-Sept",
+      "San Diego Studio": "San Di-é-go Studio",
+      "Tech Test": "Tek Test"
+    },
+    "legende": "Le studio derrière MLB The Show vient de partager les tout premiers détails concernant le prochain volet de la franchise, tout en dressant le bilan chiffré de l'année écoulée.\n\nEntre des milliards de retraits sur des prises et des millions de points marqués, la communauté a passé un temps fou sur le jeu en deux mille vingt-six. Le studio promet aussi d'être plus à l'écoute des retours des joueurs pour la suite.\n\nBonne nouvelle pour les fans, le Tech Test fait son grand retour pour aider l'équipe à traquer les bugs et améliorer les performances avant la sortie.\n\nEt toi, est-ce que tu joues à cette licence ?\n\nSources : Reddit r/Games, PlayStation Blog\n\n#checkpointfr #jeuxvideo #gaming #MLBTheShow27 #MLBTheShow #SanDiegoStudio #PlayStation #Xbox #Baseball #Sport",
+    "sources": [
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xylcty/first_details_on_mlb_the_show_27/"
+      },
+      {
+        "nom": "PlayStation Blog",
+        "lien": "https://blog.playstation.com/2026/11/17/first-details-on-mlb-the-show-27/"
+      }
+    ],
+    "score_tri": 3.44,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-17T18:45:56+00:00",
+    "alertes": []
   }
 ]
