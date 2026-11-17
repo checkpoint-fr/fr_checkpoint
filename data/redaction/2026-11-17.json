@@ -182,7 +182,7 @@
   },
   {
     "sujet_id": "41ef2b7c67cb",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Quand GTA VI débarque dans NBA 2K27",
@@ -239,7 +239,12 @@
       "message_id": 157,
       "envoye_le": "2026-11-17T17:15:48+00:00"
     },
-    "decide_le": "2026-11-17T17:55:55+00:00"
+    "decide_le": "2026-11-17T17:55:55+00:00",
+    "instagram": {
+      "media_id": "18116490629125601",
+      "lien": "https://www.instagram.com/reel/Df2lFoMHO9u/",
+      "publie_le": "2026-11-17T18:31:38+00:00"
+    }
   },
   {
     "sujet_id": "f8e0f91f1693",
