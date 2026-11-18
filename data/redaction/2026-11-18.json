@@ -367,5 +367,179 @@
       "envoye_le": "2026-11-18T17:09:29+00:00"
     },
     "decide_le": "2026-11-18T18:12:09+00:00"
+  },
+  {
+    "sujet_id": "c95df911d68c",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "La scénariste principale de Clair Obscur: Expedition 33 a quitté Sandfall",
+    "sous_titre": "Jennifer Svedberg-Yen a révélé avoir quitté le studio français dès le mois de juillet dernier",
+    "points": [
+      {
+        "titre": "Un départ acté en juillet",
+        "texte": "Jennifer Svedberg-Yen a confirmé son départ dans une interview après avoir bouclé les derniers détails du jeu."
+      },
+      {
+        "titre": "De nouveaux projets en vue",
+        "texte": "Elle souhaite désormais aider d'autres studios à repenser leur écriture et à mieux traiter leurs artistes."
+      },
+      {
+        "titre": "Un avenir encore flou",
+        "texte": "De son côté, le studio Sandfall Interactive n'a pas encore dévoilé sur quoi il travaille pour la suite."
+      }
+    ],
+    "a_retenir": "La scénariste quitte le studio après le succès du jeu pour se consacrer à de nouveaux projets d'écriture.",
+    "voix": {
+      "couverture": "La scénariste principale de Clair Obscur: Expedition 33 a quitté le studio Sandfall.",
+      "points": [
+        "Jennifer Svedberg-Yen a confirmé son départ dans une interview, réalisé en juillet dernier.",
+        "Elle souhaite désormais aider de nouveaux studios à repenser leur manière d'écrire des histoires.",
+        "Le studio Sandfall Interactive n'a pour l'instant rien dévoilé sur son prochain projet."
+      ],
+      "retenir": "Une page se tourne pour les créateurs du jeu après un succès mondial."
+    },
+    "prononciation": {
+      "Clair Obscur: Expedition 33": "Klair Obscur Ekspédition trente-trois",
+      "Jennifer Svedberg-Yen": "Jennifer Svedberg-Yen"
+    },
+    "legende": "Coup dur pour les fans de l'aventure menée par Maelle et Verso. Jennifer Svedberg-Yen, la scénariste principale de Clair Obscur: Expedition 33, a révélé avoir quitté Sandfall Interactive dès le mois de juillet dernier.\n\nRécompensée pour son travail sur le jeu, elle souhaite désormais aider de nouveaux studios à intégrer la narration dès le début des projets et à améliorer les conditions de travail des créatifs. Quant au studio français, il garde le secret sur son prochain jeu.\n\nEt toi, as-tu aimé l'histoire du jeu ?\n\nSources : ActuGaming, GamesRadar, VGC, Polygon, Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #ClairObscurExpedition33 #SandfallInteractive #JeuVideo #ActualiteGaming #Scenariste #Developpement",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/la-scenariste-de-clair-obscur-expedition-33-jennifer-svedberg-yen-a-quitte-sandfall-interactive-en-juillet-dernier-833953/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/mass-effect/clair-obscur-expedition-33-writer-says-biowares-closure-broke-my-heart-praises-mass-effects-remarkable-achievement/"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/clair-obscur-expedition-33-writer-has-parted-ways-with-sandfall/"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/clair-obscur-expedition-33-jennifer-svedberg-yen-sandfall/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent"
+      }
+    ],
+    "score_tri": 5.48,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-18T18:45:08+00:00",
+    "alertes": [
+      "accroche : 73/70 car."
+    ],
+    "defauts_voix": [],
+    "duree": 30.7,
+    "voix_off": true,
+    "video": "data/videos/c95df911d68c.mp4",
+    "telegram": {
+      "message_id": 189,
+      "envoye_le": "2026-11-18T18:53:27+00:00"
+    }
+  },
+  {
+    "sujet_id": "c4b2cf197b39",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Exodus dévoile FemJun, la version féminine de Jun",
+    "sous_titre": "Le jeu promet un choix de genre à la Mass Effect, avec une héroïne incarnée par Carina Conti.",
+    "points": [
+      {
+        "titre": "FemJun, la nouvelle héroïne",
+        "texte": "Exodus propose désormais une version féminine de Jun Aslan, appelée FemJun, jouée par Carina Conti."
+      },
+      {
+        "titre": "Choix cosmétique, même gameplay",
+        "texte": "Le genre ne change rien aux relations ou aux romances : c’est uniquement un choix d’apparence."
+      },
+      {
+        "titre": "Le même pouvoir céleste",
+        "texte": "Que ce soit le Jun masculin ou féminin, le personnage possède le même don de contrôler les anciennes reliques célestes."
+      },
+      {
+        "titre": "Voix des acteurs",
+        "texte": "Le Jun masculin est doublé par Stephen Oyoung, connu pour Mister Negative dans Marvel's Spider‑Man 2."
+      }
+    ],
+    "a_retenir": "",
+    "voix": {},
+    "prononciation": {},
+    "legende": "\n\nSources : Gamekult, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming",
+    "sources": [
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/mass-effect-avait-sa-femshep-exodus-aura-sa-femjun-3050873052.html"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/"
+      }
+    ],
+    "score_tri": 2.19,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-18T18:45:08+00:00",
+    "alertes": [],
+    "defauts_voix": []
+  },
+  {
+    "sujet_id": "154fe43d7a8a",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "L'IA dans le jeu vidéo cherche son moment Toy Story",
+    "sous_titre": "Un ancien patron de Take-Two pense que l'avis des joueurs va finir par changer.",
+    "points": [
+      {
+        "titre": "L'avis d'un ancien dirigeant",
+        "texte": "Ben Feder, ancien patron de Take-Two, estime qu'il manque un déclic pour que l'intelligence artificielle soit acceptée."
+      },
+      {
+        "titre": "La comparaison avec Pixar",
+        "texte": "Il compare la situation au passage du dessin à la 3D, affirmant qu'il suffira d'un jeu marquant pour faire oublier les résistances."
+      },
+      {
+        "titre": "Une vision déjà adoptée en Asie",
+        "texte": "Selon lui, le public en Asie accepte déjà beaucoup mieux ces technologies dans la création de titres."
+      }
+    ],
+    "a_retenir": "Le milieu cherche le jeu parfait pour faire accepter l'intelligence artificielle.",
+    "voix": {
+      "couverture": "L'intelligence artificielle dans le jeu vidéo attend son grand moment de bascule.",
+      "points": [
+        "Ben Feder, ancien patron de Take-Two, pense que l'avis des joueurs va changer.",
+        "Il compare cela à l'arrivée de la troisième dimension dans l'animation avec Pixar.",
+        "L'Asie aurait déjà adopté ces technologies dans la conception de jeux."
+      ],
+      "retenir": "Il suffirait d'un seul jeu marquant pour faire accepter l'intelligence artificielle."
+    },
+    "prononciation": {},
+    "legende": "L'intelligence artificielle divise toujours autant le monde du jeu vidéo, mais certains parient sur un changement radical d'avis chez les joueurs.\n\nBen Feder, qui a dirigé Take-Two par le passé, est persuadé que les mentalités vont évoluer en Occident. Il prend l'exemple de l'animation et du film d'animation en images de synthèse qui a fini par convaincre tout le monde après de gros débuts difficiles.\n\nPourtant, la résistance reste très forte chez une grande partie des joueurs et des créateurs face à ces nouveaux outils.\n\nEt toi, tu penses qu'un jeu peut vraiment faire accepter l'intelligence artificielle ?\n\nSources : PC Gamer, Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #TakeTwo #RedDeadRedemption #GrandTheftAuto #BioShock #Borderlands #Pixar #ToyStory",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story"
+      }
+    ],
+    "score_tri": 1.9,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-18T18:45:08+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.0,
+    "voix_off": true,
+    "video": "data/videos/154fe43d7a8a.mp4",
+    "telegram": {
+      "message_id": 191,
+      "envoye_le": "2026-11-18T18:53:29+00:00"
+    }
   }
 ]

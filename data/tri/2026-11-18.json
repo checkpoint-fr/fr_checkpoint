@@ -368,5 +368,197 @@
     ],
     "propose_le": "2026-11-18T17:01:00+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "33",
+      "award",
+      "clair",
+      "expedition",
+      "interactive",
+      "jennifer",
+      "left",
+      "narrative",
+      "obscur",
+      "sandfall",
+      "svedberg",
+      "writer",
+      "yen"
+    ],
+    "titre": "La scénariste de Clair Obscur: Expedition 33, Jennifer Svedberg-Yen, a quitté Sandfall Interactive en juillet dernier",
+    "score": 5.48,
+    "nb_sources": 5,
+    "sources": [
+      "ActuGaming",
+      "Eurogamer",
+      "GamesRadar",
+      "Polygon",
+      "VGC"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-18T18:40:41+00:00",
+    "mots_cles": [
+      "writer",
+      "award",
+      "narrative",
+      "left",
+      "sandfall",
+      "jennifer",
+      "interactive",
+      "yen"
+    ],
+    "articles": [
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "La scénariste de Clair Obscur: Expedition 33, Jennifer Svedberg-Yen, a quitté Sandfall Interactive en juillet dernier",
+        "lien": "https://www.actugaming.net/la-scenariste-de-clair-obscur-expedition-33-jennifer-svedberg-yen-a-quitte-sandfall-interactive-en-juillet-dernier-833953/",
+        "resume": "ActuGaming.net La scénariste de Clair Obscur: Expedition 33, Jennifer Svedberg-Yen, a quitté Sandfall Interactive en juillet dernier Célébré dans le monde entier pour tout un tas de qualités, Clair Obscur: Expedition 33 […] L'article La scénariste de Clair Obscur: Expedition 33, Jennifer Svedberg-Yen, a quitté Sandfall Interactive en juillet dernier est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-18T18:40:41+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Clair Obscur: Expedition 33 writer says BioWare's closure \"broke my heart\"",
+        "lien": "https://www.gamesradar.com/games/mass-effect/clair-obscur-expedition-33-writer-says-biowares-closure-broke-my-heart-praises-mass-effects-remarkable-achievement/",
+        "resume": "Jennifer Svedberg-Yen loves Mass Effect's \"attention to detail in the narrative and the storylines\"",
+        "publie_le": "2026-11-18T17:13:52+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Clair Obscur: Expedition 33 writer has ‘parted ways’ with Sandfall",
+        "lien": "https://www.videogameschronicle.com/news/clair-obscur-expedition-33-writer-has-parted-ways-with-sandfall/",
+        "resume": "Jennifer Svedberg-Yen has left Sandfall Interactive after her award-winning work on Clair Obscur",
+        "publie_le": "2026-11-18T16:54:05+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Expedition 33 Narrative Lead Officially Exits Award-Winning Studio",
+        "lien": "https://www.polygon.com/clair-obscur-expedition-33-jennifer-svedberg-yen-sandfall/",
+        "resume": "Key writer Jennifer Svedberg-Yen left Clair Obscur: Expedition 33 studio Sandfall Interactive back in July, she revealed in a new interview.",
+        "publie_le": "2026-11-18T15:32:11+00:00"
+      },
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Clair Obscur's narrative lead has left developer Sandfall Interactive after \"wrapping up some final stuff for Expedition\"",
+        "lien": "https://www.eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent",
+        "resume": "Last night, it was revealed that Clair Obscur: Expedition 33 's lead narrative designer, Jennifer Svedberg-Yen, won a BAFTA Breakthrough US award for her contribution to the hit 2025 game, which made history after winning 12 Game Award nominations last year . In the aftermath of her win, Svedberg-Yen dropped a pretty big bombshell: she's no longer with the game's developer, Sandfall Interactive.…",
+        "publie_le": "2026-11-18T12:18:10+00:00"
+      }
+    ],
+    "propose_le": "2026-11-18T18:45:08+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "effect",
+      "exodus",
+      "femjun",
+      "mass"
+    ],
+    "titre": "Mass Effect avait sa « FemShep », Exodus aura sa « FemJun »",
+    "score": 2.19,
+    "nb_sources": 2,
+    "sources": [
+      "Gamekult",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-18T16:28:00+00:00",
+    "mots_cles": [
+      "femjun",
+      "exodus",
+      "mass",
+      "effect"
+    ],
+    "articles": [
+      {
+        "source": "Gamekult",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Mass Effect avait sa « FemShep », Exodus aura sa « FemJun »",
+        "lien": "https://www.gamekult.com/actualite/mass-effect-avait-sa-femshep-exodus-aura-sa-femjun-3050873052.html",
+        "resume": "La minute de silence pour BioWare ne pouvant pas durer éternellement, Archetype Entertainment reprend sa communication autour d'Exodus et révèle cette semaine l'apparence de la version féminine de la protagoniste, Jun Aslan.",
+        "publie_le": "2026-11-18T16:28:00+00:00"
+      },
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
+        "lien": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/",
+        "resume": "Yup, it's official.",
+        "publie_le": "2026-11-17T18:55:21+00:00"
+      }
+    ],
+    "propose_le": "2026-11-18T18:45:08+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "away",
+      "boss",
+      "development",
+      "moment",
+      "story",
+      "take",
+      "toy"
+    ],
+    "titre": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
+    "score": 1.9,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-18T17:49:59+00:00",
+    "mots_cles": [
+      "toy",
+      "development",
+      "away",
+      "moment",
+      "story",
+      "take",
+      "boss"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ex-Take Two boss believes that attitudes towards AI in game development will change for the better: 'We are one Toy Story moment away from consumer acceptance of AI'",
+        "lien": "https://www.pcgamer.com/gaming-industry/ex-take-two-boss-believes-that-attitudes-towards-ai-in-game-development-will-change-for-the-better-we-are-one-toy-story-moment-away-from-consumer-acceptance-of-ai/",
+        "resume": "I'm not sure Toy Story is the best comparison here.",
+        "publie_le": "2026-11-18T17:49:59+00:00"
+      },
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West",
+        "lien": "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story",
+        "resume": "Ben Feder, the former Take-Two CEO who oversaw the launch of massive hits like Grand Theft Auto 4, Red Dead Redemption, Borderlands, and BioShock during his tenure, believes the resistance against gen-AI in games will vanish once the games industry has its 'Toy Story moment'. Read more",
+        "publie_le": "2026-11-18T09:13:30+00:00"
+      }
+    ],
+    "propose_le": "2026-11-18T18:45:08+00:00",
+    "creneau": "actu_soir"
   }
 ]
