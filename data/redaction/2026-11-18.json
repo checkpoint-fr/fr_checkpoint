@@ -488,7 +488,7 @@
   },
   {
     "sujet_id": "154fe43d7a8a",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "L'IA dans le jeu vidéo cherche son moment Toy Story",
@@ -540,6 +540,7 @@
     "telegram": {
       "message_id": 191,
       "envoye_le": "2026-11-18T18:53:29+00:00"
-    }
+    },
+    "decide_le": "2026-11-18T19:31:37+00:00"
   }
 ]
