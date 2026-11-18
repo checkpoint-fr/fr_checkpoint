@@ -196,5 +196,177 @@
     ],
     "propose_le": "2026-11-18T09:41:19+00:00",
     "creneau": "actu"
+  },
+  {
+    "signature": [
+      "6",
+      "gta",
+      "highest",
+      "metacritic",
+      "rated",
+      "score",
+      "time"
+    ],
+    "titre": "GTA 6 Sets New Record As Highest-Rated Video Game of All Time",
+    "score": 2.67,
+    "nb_sources": 3,
+    "sources": [
+      "GamesRadar",
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-18T15:00:27+00:00",
+    "mots_cles": [
+      "rated",
+      "highest",
+      "metacritic",
+      "score",
+      "time",
+      "6",
+      "gta"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 Sets New Record As Highest-Rated Video Game of All Time",
+        "lien": "https://www.polygon.com/gta-6-highest-rated-game-all-time-metacritic-review-score/",
+        "resume": "Grand Theft Auto 6 is here and critics say it's one of the best games of all time, based on its 99 Metacritic score.",
+        "publie_le": "2026-11-18T15:00:27+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
+        "lien": "https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time",
+        "resume": "GTA 6 has become the joint-highest rated game of all time, following the widespread publication of reviews.",
+        "publie_le": "2026-11-18T11:47:41+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 Metacritic score makes it the highest-rated game of all time, matching OG Ocarina of Time",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-metacritic-score-makes-it-the-highest-rated-game-of-all-time-matching-the-og-zelda-ocarina-of-time/",
+        "resume": "Sounds like it's pretty good then",
+        "publie_le": "2026-11-18T11:08:56+00:00"
+      }
+    ],
+    "propose_le": "2026-11-18T17:01:00+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "19",
+      "6",
+      "against",
+      "always",
+      "darkest",
+      "deck",
+      "easy",
+      "find",
+      "goes",
+      "gta",
+      "jason",
+      "known",
+      "launches",
+      "lucia",
+      "score",
+      "side",
+      "stacked",
+      "sunniest",
+      "themselves",
+      "wrong"
+    ],
+    "titre": "Grand Theft Auto VI launches tomorrow, November 19",
+    "score": 2.36,
+    "nb_sources": 1,
+    "sources": [
+      "PlayStation Blog"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-18T16:00:23+00:00",
+    "mots_cles": [
+      "stacked",
+      "sunniest",
+      "wrong",
+      "easy",
+      "deck",
+      "darkest",
+      "known",
+      "always"
+    ],
+    "articles": [
+      {
+        "source": "PlayStation Blog",
+        "type": "officiel",
+        "langue": "en",
+        "titre": "Grand Theft Auto VI launches tomorrow, November 19",
+        "lien": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+        "resume": "Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever […]",
+        "publie_le": "2026-11-18T16:00:23+00:00"
+      }
+    ],
+    "propose_le": "2026-11-18T17:01:00+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "60",
+      "fps",
+      "gta",
+      "pro",
+      "rockstar"
+    ],
+    "titre": "GTA 6 : Rockstar confirme que le jeu ne sera jamais disponible en 60 fps sur PS5 Pro même après des mises à jour",
+    "score": 2.35,
+    "nb_sources": 2,
+    "sources": [
+      "ActuGaming",
+      "VGC"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-18T15:54:33+00:00",
+    "mots_cles": [
+      "60",
+      "fps",
+      "pro",
+      "rockstar",
+      "6",
+      "gta"
+    ],
+    "articles": [
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Rockstar says PS5 Pro can’t handle GTA 6 at 60 FPS",
+        "lien": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+        "resume": "Don't hold your breath for a 60 FPS update for GTA 6",
+        "publie_le": "2026-11-18T15:54:33+00:00"
+      },
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "GTA 6 : Rockstar confirme que le jeu ne sera jamais disponible en 60 fps sur PS5 Pro même après des mises à jour",
+        "lien": "https://www.actugaming.net/gta-6-rockstar-confirme-que-le-jeu-ne-sera-jamais-disponible-en-60-fps-sur-ps5-pro-meme-apres-des-mises-a-jour-833895/",
+        "resume": "ActuGaming.net GTA 6 : Rockstar confirme que le jeu ne sera jamais disponible en 60 fps sur PS5 Pro même après des mises à jour Toutes les consoles ne sont pas logées à la même enseigne quand il s’agit de […] L'article GTA 6 : Rockstar confirme que le jeu ne sera jamais disponible en 60 fps sur PS5 Pro même après des mises à jour est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-18T14:19:30+00:00"
+      }
+    ],
+    "propose_le": "2026-11-18T17:01:00+00:00",
+    "creneau": "gta6"
   }
 ]

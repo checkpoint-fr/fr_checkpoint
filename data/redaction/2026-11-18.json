@@ -183,5 +183,181 @@
     "creneau": "actu",
     "redige_le": "2026-11-18T09:41:19+00:00",
     "alertes": []
+  },
+  {
+    "sujet_id": "86f94c7159de",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "GTA VI bat le record du meilleur score Metacritic",
+    "sous_titre": "Le nouveau titre de Rockstar atteint 99/100, égalant le légendaire Ocarina of Time",
+    "points": [
+      {
+        "titre": "Score record",
+        "texte": "GTA VI obtient 99/100 sur Metacritic, le meilleur score jamais enregistré."
+      },
+      {
+        "titre": "Égalité historique",
+        "texte": "Ce 99 place le jeu à égalité avec The Legend of Zelda : Ocarina of Time, seul autre titre à atteindre ce score."
+      },
+      {
+        "titre": "Critiques unanimes",
+        "texte": "Plus de 150 critiques donnent une appréciation universelle, aucune note négative ou mixte n’apparaît."
+      },
+      {
+        "titre": "Avant le lancement",
+        "texte": "Le score est publié avant la sortie officielle du 19 novembre, montrant l’engouement des médias."
+      }
+    ],
+    "a_retenir": "GTA VI devient le jeu le mieux noté de tous les temps",
+    "voix": {
+      "couverture": "GTA VI décroche le score parfait de 99 sur Metacritic, un record historique",
+      "points": [
+        "Le jeu atteint 99 sur Metacritic, le meilleur score jamais vu",
+        "Il partage ce 99 avec le légendaire Ocarina of Time",
+        "Plus de cent cinquante critiques le louent, aucune note négative",
+        "Ce record arrive avant même la sortie officielle le 19 novembre"
+      ],
+      "retenir": "GTA VI devient le jeu le mieux noté de tous les temps"
+    },
+    "prononciation": {
+      "Metacritic": "Méta-kritik",
+      "Ocarina of Time": "Okarina of Time"
+    },
+    "legende": "GTA VI vient de pulvériser le record Metacritic avec un 99/100 🎮🚀🏆\n\nLe jeu atteint un score parfait, partageant la note avec le légendaire Ocarina of Time après plus de cent cinquante critiques. Aucun avis négatif n’est recensé, preuve d’une réception universelle.\n\nCette performance arrive avant même la sortie officielle le 19 novembre, annonçant un démarrage explosif pour le titre de Rockstar. Et toi, qu’en penses‑tu ? Veux‑tu le tester dès le premier jour ?\n\nSources : Polygon, IGN, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #PlayStation5 #XboxSeriesX #OpenWorld #ActionAdventure #Metacritic",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-highest-rated-game-all-time-metacritic-review-score/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-metacritic-score-makes-it-the-highest-rated-game-of-all-time-matching-the-og-zelda-ocarina-of-time/"
+      }
+    ],
+    "score_tri": 2.67,
+    "creneau": "gta6",
+    "redige_le": "2026-11-18T17:01:01+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 31.7,
+    "voix_off": true,
+    "video": "data/videos/86f94c7159de.mp4",
+    "telegram": {
+      "message_id": 180,
+      "envoye_le": "2026-11-18T17:09:25+00:00"
+    }
+  },
+  {
+    "sujet_id": "6cfd706ca7ac",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "GTA VI arrive demain sur PlayStation 5",
+    "sous_titre": "Découvre les détails sur Jason, Lucia et l'immense état de Leonida",
+    "points": [
+      {
+        "titre": "Une sortie imminente",
+        "texte": "GTA VI débarque dès demain sur PlayStation 5, disponible sur le PlayStation Store."
+      },
+      {
+        "titre": "Jason et Lucia au cœur de l'intrigue",
+        "texte": "Après un coup qui tourne mal, le duo se retrouve pris dans une vaste conspiration criminelle."
+      },
+      {
+        "titre": "Six régions à explorer",
+        "texte": "L'état de Leonida comprend Vice City, les Keys, Grassrivers, Port Gellhorn, Ambrosia et Mount Kalaga."
+      }
+    ],
+    "a_retenir": "Prépare-toi à plonger dans la plus grande évolution de la série jamais créée.",
+    "voix": {
+      "couverture": "GTA VI arrive demain sur PlayStation 5",
+      "points": [
+        "Le jeu sort dès demain et sera disponible sur le PlayStation Store",
+        "Tu suivras Jason et Lucia au milieu d'une vaste conspiration criminelle",
+        "Tu pourras explorer six régions différentes dont Vice City et les Keys"
+      ],
+      "retenir": "Prépare-toi à vivre la plus grande évolution de la série"
+    },
+    "prononciation": {},
+    "legende": "C'est l'information que tu attends depuis des années. GTA VI débarque enfin demain sur PlayStation 5 pour une aventure hors du commun.\n\nTu y incarnes Jason et Lucia, propulsés au cœur d'une ténébreuse conspiration criminelle à travers tout l'état de Leonida. Entre les rues néons de Vice City, les marécages des Keys et les secrets de Port Gellhorn, la carte s'annonce gigantesque et ultra immersive.\n\nPrêt à découvrir cette nouvelle pépite ? Dis-nous tout dans les commentaires !\n\nSources : PlayStation Blog\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #PlayStation5 #RockstarGames #ViceCity #Action #OpenWorld",
+    "sources": [
+      {
+        "nom": "PlayStation Blog",
+        "lien": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/"
+      }
+    ],
+    "score_tri": 2.36,
+    "creneau": "gta6",
+    "redige_le": "2026-11-18T17:01:01+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.4,
+    "voix_off": true,
+    "video": "data/videos/6cfd706ca7ac.mp4",
+    "telegram": {
+      "message_id": 182,
+      "envoye_le": "2026-11-18T17:09:27+00:00"
+    }
+  },
+  {
+    "sujet_id": "5425ab8d29e3",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Pas de 60 images par seconde pour GTA VI sur PS5 Pro",
+    "sous_titre": "Rockstar confirme que la console la plus puissante du marché ne fera pas tourner le jeu à 60 fps",
+    "points": [
+      {
+        "titre": "Pas de mode 60 fps prévu",
+        "texte": "Marc Chambers de chez Rockstar a confirmé que GTA VI ne proposera pas de mode 60 images par seconde, même après sa sortie."
+      },
+      {
+        "titre": "Des graphismes poussés",
+        "texte": "Le studio mise tout sur les reflets, l'éclairage global et les ombres en ray tracing, ainsi que la technologie PSSR."
+      },
+      {
+        "titre": "Un processeur trop limité",
+        "texte": "Malgré un processeur graphique amélioré, le processeur central de la PS5 Pro reste trop juste pour encaisser la simulation complexe du jeu."
+      }
+    ],
+    "a_retenir": "Il faudra se contenter de 30 images par seconde sur PS5 Pro, en attendant une éventuelle version PC.",
+    "voix": {
+      "couverture": "GTA VI ne tournera pas à soixante images par seconde sur PS5 Pro",
+      "points": [
+        "Rockstar a confirmé que le jeu restera bloqué à trente images par seconde.",
+        "Le studio privilégie le ray tracing et la fidélité visuelle avant tout.",
+        "Le processeur de la console ne suffit pas pour gérer la simulation complexe du jeu."
+      ],
+      "retenir": "Il faudra attendre une version PC pour espérer mieux."
+    },
+    "prononciation": {},
+    "legende": "C'est une douche froide pour les joueurs qui espéraient profiter de la toute dernière console de Sony pour lancer GTA VI dans les meilleures conditions. Rockstar a tranché et le jeu restera bloqué à trente images par seconde sur PS5 Pro, malgré les capacités techniques de la machine.\n\nLe studio préfère privilégier la fidélité visuelle, les effets de lumière et le ray tracing plutôt que de faire des compromis sur les graphismes pour doubler la cadence. Une décision radicale qui risque de faire parler dans la communauté.\n\nEt toi, ça te dérange de jouer à trente images par seconde sur cette console ?\n\nSources : VGC, ActuGaming\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #Rockstar #PS5Pro #PlayStation #Sony #ActuGaming",
+    "sources": [
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/"
+      },
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/gta-6-rockstar-confirme-que-le-jeu-ne-sera-jamais-disponible-en-60-fps-sur-ps5-pro-meme-apres-des-mises-a-jour-833895/"
+      }
+    ],
+    "score_tri": 2.35,
+    "creneau": "gta6",
+    "redige_le": "2026-11-18T17:01:01+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.7,
+    "voix_off": true,
+    "video": "data/videos/5425ab8d29e3.mp4",
+    "telegram": {
+      "message_id": 184,
+      "envoye_le": "2026-11-18T17:09:29+00:00"
+    }
   }
 ]
