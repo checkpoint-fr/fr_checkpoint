@@ -370,7 +370,7 @@
   },
   {
     "sujet_id": "c95df911d68c",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La scénariste principale de Clair Obscur: Expedition 33 a quitté Sandfall",
@@ -439,7 +439,8 @@
     "telegram": {
       "message_id": 189,
       "envoye_le": "2026-11-18T18:53:27+00:00"
-    }
+    },
+    "decide_le": "2026-11-18T19:31:44+00:00"
   },
   {
     "sujet_id": "c4b2cf197b39",
