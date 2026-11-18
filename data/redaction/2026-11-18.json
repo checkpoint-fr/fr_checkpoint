@@ -186,7 +186,7 @@
   },
   {
     "sujet_id": "86f94c7159de",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI bat le record du meilleur score Metacritic",
@@ -250,7 +250,8 @@
     "telegram": {
       "message_id": 180,
       "envoye_le": "2026-11-18T17:09:25+00:00"
-    }
+    },
+    "decide_le": "2026-11-18T18:11:46+00:00"
   },
   {
     "sujet_id": "6cfd706ca7ac",
