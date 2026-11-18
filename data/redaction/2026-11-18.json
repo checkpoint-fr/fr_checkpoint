@@ -68,7 +68,7 @@
   },
   {
     "sujet_id": "7f693bf0f90a",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La mise à jour 1.2 de The Blood of Dawnwalker débarque avec du neuf",
@@ -124,7 +124,8 @@
     "telegram": {
       "message_id": 175,
       "envoye_le": "2026-11-18T09:51:07+00:00"
-    }
+    },
+    "decide_le": "2026-11-18T11:11:13+00:00"
   },
   {
     "sujet_id": "3a880886f2f5",
