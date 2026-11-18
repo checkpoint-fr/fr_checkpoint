@@ -52,15 +52,7 @@
     "creneau": "actu",
     "redige_le": "2026-11-14T09:34:32+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/482eb594d9b5/01.jpg",
-      "data/visuels/482eb594d9b5/02.jpg",
-      "data/visuels/482eb594d9b5/03.jpg",
-      "data/visuels/482eb594d9b5/04.jpg",
-      "data/visuels/482eb594d9b5/05.jpg",
-      "data/visuels/482eb594d9b5/06.jpg",
-      "data/visuels/482eb594d9b5/07.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 49,
       "envoye_le": "2026-11-14T09:46:09+00:00"
@@ -109,14 +101,7 @@
     "creneau": "actu",
     "redige_le": "2026-11-14T09:34:32+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/2b95ea7c6486/01.jpg",
-      "data/visuels/2b95ea7c6486/02.jpg",
-      "data/visuels/2b95ea7c6486/03.jpg",
-      "data/visuels/2b95ea7c6486/04.jpg",
-      "data/visuels/2b95ea7c6486/05.jpg",
-      "data/visuels/2b95ea7c6486/06.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 56,
       "envoye_le": "2026-11-14T09:46:11+00:00"
@@ -170,15 +155,7 @@
     "alertes": [
       "point 2 texte : 205/180 car."
     ],
-    "images": [
-      "data/visuels/8034967ecfdb/01.jpg",
-      "data/visuels/8034967ecfdb/02.jpg",
-      "data/visuels/8034967ecfdb/03.jpg",
-      "data/visuels/8034967ecfdb/04.jpg",
-      "data/visuels/8034967ecfdb/05.jpg",
-      "data/visuels/8034967ecfdb/06.jpg",
-      "data/visuels/8034967ecfdb/07.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 64,
       "envoye_le": "2026-11-14T09:46:13+00:00"
@@ -244,7 +221,7 @@
     "alertes": [],
     "duree": 28.6,
     "voix_off": true,
-    "video": "data/videos/513e54c425fc.mp4",
+    "video": "",
     "telegram": {
       "message_id": 68,
       "envoye_le": "2026-11-14T17:04:21+00:00"
@@ -300,7 +277,7 @@
     "alertes": [],
     "duree": 25.0,
     "voix_off": true,
-    "video": "data/videos/c7cfb9adc572.mp4",
+    "video": "",
     "telegram": {
       "message_id": 70,
       "envoye_le": "2026-11-14T17:04:22+00:00"
@@ -355,14 +332,7 @@
     "creneau": "actu_soir",
     "redige_le": "2026-11-14T21:05:56+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/38b52b75dcd7/01.jpg",
-      "data/visuels/38b52b75dcd7/02.jpg",
-      "data/visuels/38b52b75dcd7/03.jpg",
-      "data/visuels/38b52b75dcd7/04.jpg",
-      "data/visuels/38b52b75dcd7/05.jpg",
-      "data/visuels/38b52b75dcd7/06.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 81,
       "envoye_le": "2026-11-14T21:15:18+00:00"
@@ -420,14 +390,7 @@
     "creneau": "actu_soir",
     "redige_le": "2026-11-14T21:05:56+00:00",
     "alertes": [],
-    "images": [
-      "data/visuels/1ca035f098c4/01.jpg",
-      "data/visuels/1ca035f098c4/02.jpg",
-      "data/visuels/1ca035f098c4/03.jpg",
-      "data/visuels/1ca035f098c4/04.jpg",
-      "data/visuels/1ca035f098c4/05.jpg",
-      "data/visuels/1ca035f098c4/06.jpg"
-    ],
+    "images": [],
     "telegram": {
       "message_id": 88,
       "envoye_le": "2026-11-14T21:15:19+00:00"
