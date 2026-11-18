@@ -255,7 +255,7 @@
   },
   {
     "sujet_id": "6cfd706ca7ac",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI arrive demain sur PlayStation 5",
@@ -303,7 +303,8 @@
     "telegram": {
       "message_id": 182,
       "envoye_le": "2026-11-18T17:09:27+00:00"
-    }
+    },
+    "decide_le": "2026-11-18T18:12:00+00:00"
   },
   {
     "sujet_id": "5425ab8d29e3",
