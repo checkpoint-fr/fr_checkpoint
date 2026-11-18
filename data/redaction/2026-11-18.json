@@ -1,0 +1,180 @@
+[
+  {
+    "sujet_id": "7d4403fda3a0",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Faut-il arrêter la saga Dragon Quest",
+    "sous_titre": "Le compositeur de Chrono Trigger estime qu'il faut tourner la page après la mort d'Akira Toriyama",
+    "points": [
+      {
+        "titre": "Un appel à stopper la licence",
+        "texte": "Sur son blog, le compositeur Yasunori Mitsuda suggère de mettre fin à Dragon Quest. Il estime qu'il vaudrait mieux laisser le créateur Yuji Horii inventer un tout nouveau RPG."
+      },
+      {
+        "titre": "L'imitation de Toriyama contestée",
+        "texte": "Cette sortie fait suite au dévoilement d'un jeu mobile dont les dessins imitent le style d'Akira Toriyama, décédé en 2024. Une démarche critiquée par une partie du public."
+      },
+      {
+        "titre": "Square Enix garde le cap",
+        "texte": "Malgré les débats autour de ces visuels et les doutes des fans, Yuji Horii et Square Enix continuent de développer la franchise, forte de ses 40 ans d'existence."
+      }
+    ],
+    "a_retenir": "Pour Yasunori Mitsuda, continuer à reproduire le style d'Akira Toriyama n'aide personne et bride la créativité",
+    "voix": {
+      "couverture": "Faut-il mettre un terme définitif à la saga culte Dragon Quest ?",
+      "points": [
+        "Le compositeur de Chrono Trigger estime que Yuji Horii devrait plutôt créer un nouveau RPG original.",
+        "L'annonce d'un épisode mobile imitant le style de feu Akira Toriyama suscite de lourdes critiques.",
+        "Square Enix continue pourtant d'exploiter activement sa licence pour célébrer ses quarante ans."
+      ],
+      "retenir": "Pour le compositeur, imiter Toriyama sans cesse empêche la série d'évoluer sainement."
+    },
+    "prononciation": {
+      "Chrono Trigger": "Krono Trigueure"
+    },
+    "legende": "Faut-il ranger Dragon Quest au placard ? C'est la question inattendue posée par Yasunori Mitsuda, célèbre compositeur de Chrono Trigger et Xenoblade Chronicles.\n\nSur son blog personnel, il réagit à l'annonce du futur jeu mobile de la franchise. Les illustrations du titre cherchent à reproduire la patte visuelle d'Akira Toriyama, disparu en 2024, ce qui a déclenché de vifs débats chez les joueurs. Pour Mitsuda, insister dans cette voie n'a plus de sens et il vaudrait mieux laisser Yūji Horii concevoir un RPG totalement inédit.\n\nDifficile d'imaginer Square Enix abandonner sa série culte, mais la question de son identité visuelle reste entière.\n\nEt toi, tu penses que Dragon Quest doit s'arrêter ou continuer sans son dessinateur d'origine ?\n\nSources : ActuGaming, Gamekult, Eurogamer, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #dragonquest #chronotrigger #akiratoriyama #squareenix #yujihorii #yasunorimitsuda #jrpg",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/le-compositeur-de-chrono-trigger-pense-que-la-saga-dragon-quest-devrait-arreter-dutiliser-le-style-dakira-toriyama-833744/"
+      },
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/dragon-quest-sans-akira-toriyama-ca-a-deja-trop-dure-selon-yasunori-mitsuda-chrono-trigger-3050873034.html"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/dragon-quest/square-enix-should-retire-the-dragon-quest-series-following-dragon-ball-creator-akira-toriyamas-death-chrono-trigger-composer-says-as-new-mobile-rpg-sparks-backlash/"
+      }
+    ],
+    "score_tri": 1.43,
+    "creneau": "actu",
+    "redige_le": "2026-11-18T09:41:19+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 32.1,
+    "voix_off": true,
+    "video": "data/videos/7d4403fda3a0.mp4",
+    "telegram": {
+      "message_id": 173,
+      "envoye_le": "2026-11-18T09:51:05+00:00"
+    }
+  },
+  {
+    "sujet_id": "7f693bf0f90a",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "La mise à jour 1.2 de The Blood of Dawnwalker débarque avec du neuf",
+    "sous_titre": "Le studio Rebel Wolves ajoute enfin le mode New Game+ très attendu par les joueurs",
+    "points": [
+      {
+        "titre": "Un mode New Game+ tant attendu",
+        "texte": "La mise à jour 1.2 débloque le mode New Game+ après avoir fini l'épilogue de l'aventure principale."
+      },
+      {
+        "titre": "Conserve ta progression",
+        "texte": "En relançant une partie, tu gardes ton niveau, tes compétences et ton inventaire pour faire de nouveaux choix."
+      },
+      {
+        "titre": "Ajustements de gameplay",
+        "texte": "Le niveau maximal passe à 100, les régions sont mieux uniformisées et les combats gagnent en équilibre."
+      }
+    ],
+    "a_retenir": "Relance une partie avec ton équipement et relève de nouveaux défis dès maintenant.",
+    "voix": {
+      "couverture": "La mise à jour un point deux de The Blood of Dawnwalker est enfin disponible",
+      "points": [
+        "Le mode New Game plus tant attendu fait enfin son apparition après l'épilogue",
+        "Tu conserves ton niveau, tes compétences et ton inventaire pour faire d'autres choix",
+        "Le niveau monte jusqu'à cent et les combats sont mieux équilibrés dans les régions"
+      ],
+      "retenir": "Reprends ton aventure dès aujourd'hui pour découvrir toutes les nouveautés"
+    },
+    "prononciation": {
+      "The Blood of Dawnwalker": "The Bloude of Done-ouokeur",
+      "Rebel Wolves": "Rebel Oulvez",
+      "Coen": "Co-ène"
+    },
+    "legende": "Le studio Rebel Wolves soigne sa communauté avec le déploiement de la mise à jour 1.2 sur PC, PS5 et Xbox Series. La grande nouveauté, c'est l'arrivée du mode New Game+ pour profiter de l'aventure sans les contraintes de temps initiales. Conserve ton niveau, ton inventaire et tes compétences pour orienter ton histoire autrement aux côtés de Coen. C'est l'occasion idéale de replonger dans le jeu et de tester de nouveaux choix de dialogue ou d'exploration. Et toi, tu vas relancer une partie pour tout explorer ?\n\nSources : ActuGaming, Reddit r/Games\n\n#checkpointfr #jeuxvideo #gaming #TheBloodOfDawnwalker #RebelWolves #PC #PS5 #XboxSeries #RPG",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/the-blood-of-dawnwalker-propose-un-peu-de-sang-neuf-avec-sa-mise-a-jour-1-2-et-son-mode-new-game-833760/"
+      },
+      {
+        "nom": "Reddit r/Games",
+        "lien": "https://www.reddit.com/r/Games/comments/1xylc2f/the_blood_of_dawnwalker_update_12_with_new_game/"
+      }
+    ],
+    "score_tri": 1.17,
+    "creneau": "actu",
+    "redige_le": "2026-11-18T09:41:19+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.9,
+    "voix_off": true,
+    "video": "data/videos/7f693bf0f90a.mp4",
+    "telegram": {
+      "message_id": 175,
+      "envoye_le": "2026-11-18T09:51:07+00:00"
+    }
+  },
+  {
+    "sujet_id": "3a880886f2f5",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "officiel",
+    "accroche": "Marvel savait pour Doctor Doom",
+    "sous_titre": "Kevin Feige s'exprime sur le changement de méchant chez les Avengers.",
+    "points": [
+      {
+        "titre": "Le changement de plan",
+        "texte": "Kevin Feige révèle que Marvel prévoyait déjà d'intégrer Doctor Doom avant le départ de Jonathan Majors."
+      },
+      {
+        "titre": "L'impact du troisième Ant-Man",
+        "texte": "Les discussions ont débuté dès le début de l'année 2023 suite à la réception mitigée du film."
+      },
+      {
+        "titre": "Le retour de Robert Downey Junior",
+        "texte": "L'acteur incarnera le grand méchant dans Avengers: Doomsday sans être une variante de Tony Stark."
+      }
+    ],
+    "a_retenir": "Avengers: Doomsday sortira en décembre 2026 pour lancer le nouveau grand affrontement.",
+    "voix": {
+      "couverture": "Marvel préparait l'arrivée de Doctor Doom bien avant le renvoi de Jonathan Majors.",
+      "points": [
+        "Le studio voulait changer de direction dès le début de l'année deux mille vingt-trois.",
+        "Le film initialement nommé The Kang Dynasty devait introduire le nouveau méchant.",
+        "Robert Downey Junior jouera ce grand adversaire dans un long-métrage prévu en décembre deux mille vingt-six."
+      ],
+      "retenir": "Le futur des Avengers se dessine enfin avec ce nouveau grand méchant."
+    },
+    "prononciation": {},
+    "legende": "Le patron de Marvel, Kevin Feige, vient de faire de grosses révélations sur les coulisses des prochains films Avengers. Il affirme que le studio préparait l'arrivée de Doctor Doom bien avant le renvoi de Jonathan Majors.\n\nLe changement a débuté dès le début de l'année 2023 suite aux résultats de Ant-Man and the Wasp: Quantumania. Le film initialement prévu sous le nom de The Kang Dynasty devait déjà préparer le terrain pour le redoutable Doctor Doom.\n\nRobert Downey Junior fera donc son grand retour dans le rôle du méchant principal pour ce long-métrage attendu pour le mois de décembre 2026.\n\nQue penses-tu de ce changement de direction artistique ?\n\nSources : Polygon, IGN, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #Marvel #AvengersDoomsday #DoctorDoom #MCU #KevinFeige #Cinema",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/avengers-doomsday-doctor-doom-kang-dynasty-switch/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/marvel-boss-kevin-feige-addresses-jonathan-majors-firing-insists-it-was-always-the-plan-to-eventually-replace-kang-with-doctor-doom"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/kevin-feige-first-approached-robert-downey-jr-about-returning-as-doctor-doom-at-the-ant-man-3-premiere-months-before-kang-was-scrapped/"
+      }
+    ],
+    "score_tri": 1.06,
+    "creneau": "actu",
+    "redige_le": "2026-11-18T09:41:19+00:00",
+    "alertes": []
+  }
+]
