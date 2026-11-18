@@ -308,7 +308,7 @@
   },
   {
     "sujet_id": "5425ab8d29e3",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Pas de 60 images par seconde pour GTA VI sur PS5 Pro",
@@ -360,6 +360,7 @@
     "telegram": {
       "message_id": 184,
       "envoye_le": "2026-11-18T17:09:29+00:00"
-    }
+    },
+    "decide_le": "2026-11-18T18:12:09+00:00"
   }
 ]
