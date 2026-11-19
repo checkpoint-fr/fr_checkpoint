@@ -304,5 +304,192 @@
     ],
     "propose_le": "2026-11-19T17:00:53+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "166",
+      "assassin",
+      "city",
+      "creed",
+      "cry",
+      "current",
+      "far",
+      "latest",
+      "lays",
+      "montreal",
+      "needs",
+      "off",
+      "priorities",
+      "production",
+      "quebec",
+      "staff",
+      "studios",
+      "ubisoft"
+    ],
+    "titre": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
+    "score": 3.8,
+    "nb_sources": 4,
+    "sources": [
+      "GamesRadar",
+      "PC Gamer",
+      "Rock Paper Shotgun",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-19T17:53:15+00:00",
+    "mots_cles": [
+      "staff",
+      "priorities",
+      "needs",
+      "current",
+      "lays",
+      "production",
+      "cry",
+      "city"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
+        "lien": "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway/",
+        "resume": "Ubisoft Montreal and Quebec are the latest to fall under the axe.",
+        "publie_le": "2026-11-19T17:53:15+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft lays off 166 devs at Assassin's Creed and Far Cry studios",
+        "lien": "https://www.gamesradar.com/games/assassin-s-creed/ubisoft-lays-off-166-devs-at-assassins-creed-and-far-cry-studios/",
+        "resume": "\"As our portfolio evolves, our production needs are changing\"",
+        "publie_le": "2026-11-19T17:02:50+00:00"
+      },
+      {
+        "source": "Rock Paper Shotgun",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios, while mumbling about \"current production priorities and business needs\"",
+        "lien": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+        "resume": "Ubisoft have laid off 166 developers, with this latest round of cuts at the Assassin's Creed and Far Cry publishers taking place at two of their studios in Eastern Canada. Both studios affected, Ubisoft Montreal and Ubisoft Quebec, had a hand in last year's Assassin's Creed Shadows , with Montreal especially being a major and long-tenured development hub for the company. Read more",
+        "publie_le": "2026-11-19T16:12:50+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft is laying off 166 staff in its Montréal and Québec City offices",
+        "lien": "https://www.videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices/",
+        "resume": "The company is downsizing some teams to fit its 'current production priorities'",
+        "publie_le": "2026-11-19T15:15:42+00:00"
+      }
+    ],
+    "propose_le": "2026-11-19T18:46:10+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "166",
+      "assassin",
+      "creed",
+      "montreal",
+      "quebec",
+      "studios",
+      "ubisoft"
+    ],
+    "titre": "Ubisoft : encore 166 licenciements à Montréal et Québec",
+    "score": 2.35,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "Gamekult"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-19T17:43:50+00:00",
+    "mots_cles": [
+      "quebec",
+      "assassin",
+      "studios",
+      "creed",
+      "montreal",
+      "166",
+      "ubisoft"
+    ],
+    "articles": [
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues",
+        "lien": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
+        "resume": "Ubisoft has confirmed more layoffs as part of its previously announced operational \"reset\", this time affecting 166 employees at its major Montréal and Québec City studios - the teams responsible for game series including Assassin's Creed and Far Cry. It says the cuts are necessary \"to ensure our resources are aligned with current production priorities and business needs.\" Read more",
+        "publie_le": "2026-11-19T17:43:50+00:00"
+      },
+      {
+        "source": "Gamekult",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Ubisoft : encore 166 licenciements à Montréal et Québec",
+        "lien": "https://www.gamekult.com/actualite/ubisoft-encore-166-licenciements-a-montreal-et-quebec-3050873082.html",
+        "resume": "Coupe, coupe et re-coupe, Ubisoft désintègre 166 postes supplémentaires dans ses studios de Montréal (Assassin's Creed Shadows) et Québec (Immortals Fenyx Rising).",
+        "publie_le": "2026-11-19T15:37:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-19T18:46:10+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "corsair",
+      "ergo",
+      "pro",
+      "sabre"
+    ],
+    "titre": "Test Corsair Sabre v3 Pro Ultralight Ergo – La première souris qui calibre seule votre visée, ça fonctionne vraiment ?",
+    "score": 2.26,
+    "nb_sources": 2,
+    "sources": [
+      "ActuGaming",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-19T17:02:10+00:00",
+    "mots_cles": [
+      "sabre",
+      "pro",
+      "ergo",
+      "corsair"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Corsair Sabre V3 Pro PureVector Ergo review",
+        "lien": "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v3-pro-purevector-ergo-review/",
+        "resume": "Machine learning sensitivity changes to help you aim.",
+        "publie_le": "2026-11-19T17:02:10+00:00"
+      },
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Test Corsair Sabre v3 Pro Ultralight Ergo – La première souris qui calibre seule votre visée, ça fonctionne vraiment ?",
+        "lien": "https://www.actugaming.net/test-corsair-sabre-v3-pro-ultralight-ergo-la-premiere-souris-qui-calibre-seule-votre-visee-ca-fonctionne-vraiment-833245/",
+        "resume": "ActuGaming.net Test Corsair Sabre v3 Pro Ultralight Ergo – La première souris qui calibre seule votre visée, ça fonctionne vraiment ? Lancée fin octobre, la nouvelle souris signée Corsair veut révolutionner ce secteur en proposant la […] L'article Test Corsair Sabre v3 Pro Ultralight Ergo – La première souris qui calibre seule votre visée, ça fonctionne vraiment ? est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-19T12:00:30+00:00"
+      }
+    ],
+    "propose_le": "2026-11-19T18:46:10+00:00",
+    "creneau": "actu_soir"
   }
 ]

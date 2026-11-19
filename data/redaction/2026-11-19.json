@@ -348,5 +348,179 @@
       "message_id": 209,
       "envoye_le": "2026-11-19T17:08:45+00:00"
     }
+  },
+  {
+    "sujet_id": "3ac054f46b46",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Nouvelle vague de licenciements chez Ubisoft",
+    "sous_titre": "L'éditeur se sépare de 166 salariés supplémentaires dans ses studios canadiens",
+    "points": [
+      {
+        "titre": "Des coupes au Canada",
+        "texte": "Ubisoft supprime cent soixante-six postes dans ses studios de Montréal et de Québec City."
+      },
+      {
+        "titre": "Des projets annulés",
+        "texte": "Ces départs touchent principalement des employés dont les projets ont été annulés ou modifiés."
+      },
+      {
+        "titre": "Une restructuration globale",
+        "texte": "L'entreprise a réduit ses effectifs d'environ onze cents personnes au cours des six derniers mois."
+      }
+    ],
+    "a_retenir": "Ubisoft poursuit sa restructuration malgré le succès d'Assassin's Creed Black Flag Resynced.",
+    "voix": {
+      "couverture": "Nouvelle vague de licenciements chez Ubisoft avec cent soixante-six postes en moins.",
+      "points": [
+        "L'éditeur réduit ses effectifs dans ses studios de Montréal et de Québec City.",
+        "Ces coupes touchent surtout des salariés dont les projets ont été annulés.",
+        "L'entreprise a perdu environ onze cents employés au cours des six derniers mois."
+      ],
+      "retenir": "Une période sombre qui continue pour les équipes du géant français."
+    },
+    "prononciation": {},
+    "legende": "La restructuration se poursuit chez l'éditeur français avec une nouvelle série de licenciements.\n\nUbisoft vient d'annoncer la suppression de cent soixante-six postes répartis entre ses studios de Montréal et de Québec City. Ces coupes concernent en grande partie des équipes rattachées à des projets qui ont été annulés ou redéfinis.\n\nMalgré de bons résultats pour Assassin's Creed Black Flag Resynced, la firme continue de réduire la taille de ses équipes pour s'aligner sur ses nouvelles priorités de production. C'est un nouveau coup dur pour les équipes après des mois difficiles.\n\nQue penses-tu de cette situation ?\n\nSources : PC Gamer, GamesRadar, Rock Paper Shotgun, VGC\n\n#checkpointfr #jeuxvideo #gaming #Ubisoft #Montreal #Quebec #AssassinCreed #FarCry #Industry",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/assassin-s-creed/ubisoft-lays-off-166-devs-at-assassins-creed-and-far-cry-studios/"
+      },
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices/"
+      }
+    ],
+    "score_tri": 3.8,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-19T18:46:11+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.2,
+    "voix_off": true,
+    "video": "data/videos/3ac054f46b46.mp4",
+    "telegram": {
+      "message_id": 214,
+      "envoye_le": "2026-11-19T18:55:08+00:00"
+    }
+  },
+  {
+    "sujet_id": "38b4ba645c53",
+    "statut": "ecarte",
+    "motif": "doublon de « Nouvelle vague de licenciements chez Ubisoft »",
+    "statut_info": "officiel",
+    "accroche": "Nouvelle vague de 166 suppressions de postes chez Ubisoft",
+    "sous_titre": "Les studios de Montréal et Québec sont touchés par ce nouveau plan de restructuration.",
+    "points": [
+      {
+        "titre": "166 postes en moins au Canada",
+        "texte": "Ubisoft confirme la suppression de 166 emplois dans ses grands studios de Montréal et de Québec."
+      },
+      {
+        "titre": "Des projets annulés ou modifiés",
+        "texte": "Ces coupes touchent principalement la production et le soutien sur des jeux annulés ou profondément remaniés."
+      },
+      {
+        "titre": "Une restructuration globale",
+        "texte": "Cette décision s'inscrit dans un plan de réorganisation plus large entamé en janvier par l'éditeur."
+      }
+    ],
+    "a_retenir": "Ubisoft ajuste ses équipes au Canada pour aligner ses ressources sur ses priorités de production.",
+    "voix": {
+      "couverture": "Nouvelle vague de suppressions de postes chez Ubisoft au Canada.",
+      "points": [
+        "Cent soixante-six emplois sont supprimés dans les studios de Montréal et Québec.",
+        "Les équipes de production et de soutien sur des projets modifiés sont particulièrement touchées.",
+        "Cette décision fait suite à plusieurs fermetures et plans de réduction de personnel."
+      ],
+      "retenir": "Ubisoft ajuste ses effectifs pour répondre aux nouvelles priorités de production."
+    },
+    "prononciation": {},
+    "legende": "La restructuration se poursuit chez Ubisoft avec l'annonce d'une nouvelle vague de suppressions de postes. Cette fois, ce sont cent soixante-six employés des studios de Montréal et de Québec qui sont touchés par ces mesures. L'éditeur explique que ces coupes sont nécessaires pour adapter ses équipes aux évolutions de son catalogue et de ses priorités de production. Une situation difficile qui s'ajoute à d'autres fermetures et réductions d'effectifs survenues plus tôt dans l'année.\n\nEt toi, que penses-tu de cette situation chez Ubisoft ?\n\nSources : Eurogamer, Gamekult\n\n#checkpointfr #jeuxvideo #gaming #Ubisoft #Montreal #Quebec #AssassinsCreed #FarCry #Industry",
+    "sources": [
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec"
+      },
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/ubisoft-encore-166-licenciements-a-montreal-et-quebec-3050873082.html"
+      }
+    ],
+    "score_tri": 2.35,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-19T18:46:11+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "b0231dc051c5",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "La nouvelle souris Corsair Sabre V3 Pro veut améliorer ton aim",
+    "sous_titre": "Equipee de la technologie PureVector et d'un poids plume, elle promet de révolutionner ta visée.",
+    "points": [
+      {
+        "titre": "Une technologie d'aide à la visée",
+        "texte": "Développée avec AimLabs, la technologie PureVector ajuste automatiquement la sensibilité selon tes mouvements."
+      },
+      {
+        "titre": "Un poids plume impressionnant",
+        "texte": "Le modèle Ergo ne pèse que quarante et un grammes, tandis que la version classique descend à trente-sept grammes."
+      },
+      {
+        "titre": "Des avis mitigés sur l'efficacité",
+        "texte": "Si certains joueurs pro valident, les tests constatent des résultats qui peuvent varier selon les utilisateurs."
+      }
+    ],
+    "a_retenir": "Une souris ultra légère et innovante, mais dont la promesse sur l'aim reste à prouver.",
+    "voix": {
+      "couverture": "Cette nouvelle souris Corsair promet d'améliorer ton aim toute seule.",
+      "points": [
+        "La technologie PureVector ajuste la sensibilité selon tes mouvements en partie.",
+        "Le modèle affiche un poids plume de seulement quarante et un grammes.",
+        "Mais attention, l'efficacité de l'aide à la visée divise encore les tests."
+      ],
+      "retenir": "Une innovation intrigante, mais est ce vraiment indispensable pour ton setup ?"
+    },
+    "prononciation": {
+      "Sabre V3 Pro": "Sébe V3 Pro",
+      "PureVector": "Pyur-Vecteur",
+      "AimLabs": "Ème-Labs"
+    },
+    "legende": "Corsair tente de réinventer le jeu compétitif avec sa nouvelle gamme de périphériques. La Sabre V3 Pro débarque avec un poids plume impressionnant et surtout une fonction inédite d'auto-adaptation de la sensibilité grâce à AimLabs. Reste à savoir si cette intelligence artificielle t'aidera vraiment à placer tes meilleurs tirs en partie. Et toi, tu as déjà testé ce genre de technologie sur ton matos ?\n\nSources : PC Gamer, ActuGaming\n\n#checkpointfr #jeuxvideo #gaming #Corsair #AimLabs #PC #Hardware #Souris",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v3-pro-purevector-ergo-review/"
+      },
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/test-corsair-sabre-v3-pro-ultralight-ergo-la-premiere-souris-qui-calibre-seule-votre-visee-ca-fonctionne-vraiment-833245/"
+      }
+    ],
+    "score_tri": 2.26,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-19T18:46:11+00:00",
+    "alertes": [],
+    "defauts_voix": [
+      "fin coupée"
+    ],
+    "duree": 25,
+    "voix_off": true,
+    "video": "data/videos/b0231dc051c5.mp4",
+    "telegram": {
+      "message_id": 216,
+      "envoye_le": "2026-11-19T18:55:10+00:00"
+    }
   }
 ]

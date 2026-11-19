@@ -1,5 +1,423 @@
 [
   {
+    "id": "990e7dc3ec580efb",
+    "source": "Journal du Geek",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 nommé aux Game Awards 2026 avant même sa sortie, comment c’est possible ?",
+    "lien": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
+    "resume": "Huit nominations, dont celle de jeu de l’année, pour un jeu que personne ne pouvait encore acheter. Ça surprend, mais l’explication est plutôt simple.",
+    "publie_le": "2026-11-19T18:36:51+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "b124f0edb40d07e1",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6/",
+    "resume": "Unlocking a cheats menu takes dozens of hours, and even then there are still heavy restrictions.",
+    "publie_le": "2026-11-19T18:35:22+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "9ebada8c271fda4a",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
+    "lien": "https://www.videogameschronicle.com/guide/gta-6-bigfoot-explained-how-to-find-bigfoot-in-gta-6/",
+    "resume": "Bigfoot stalks Jason in GTA 6... or does he?",
+    "publie_le": "2026-11-19T18:30:42+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "c3a971ef0e87c071",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Disney Plus Reveals Official Cast for Zombie Apocalypse Reboot of Classic Comic",
+    "lien": "https://www.polygon.com/disney-afterlife-with-archie-cast-revealed/",
+    "resume": "Disney’s Afterlife with Archie series has announced the cast taking over the roles after Riverdale",
+    "publie_le": "2026-11-19T18:18:48+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "27a8baa0f1419998",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "New Baldur’s Gate 3 console mods include spells, and another difficulty mode",
+    "lien": "https://www.videogameschronicle.com/news/new-baldurs-gate-3-console-mods-include-spells-and-another-difficulty-mode/",
+    "resume": "12 new mods are available on console in Baldur's Gate 3",
+    "publie_le": "2026-11-19T18:09:18+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "6a431935db59a6a8",
+    "source": "Journal du Geek",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Ne jetez surtout pas la boîte de GTA 6 : elle vaut déjà de l’argent, même vide !",
+    "lien": "https://www.journaldugeek.com/2026/11/19/ne-jetez-surtout-pas-la-boite-de-gta-6-elle-vaut-deja-de-largent-meme-vide/",
+    "resume": "GTA 6 est sorti ce jeudi 19 novembre 2026, et sa boîte ne contient pas de disque, seulement un code de téléchargement.",
+    "publie_le": "2026-11-19T18:02:30+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "010512bde147244e",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Quentin Tarantino's Near-Perfect New Netflix Thriller Could Be the Next 'Knives Out'",
+    "lien": "https://www.polygon.com/further-misadventures-cliff-booth-review/",
+    "resume": "The uncanny mix of Quentin Tarantino and David Fincher's unique styles combines to create something new, imperfect, and extremely exciting",
+    "publie_le": "2026-11-19T18:01:19+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "e3fe00ba98e3c049",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "It's time for GTA 5's last challenge: 20 more mods aimed at finally breaking it completely",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/its-time-for-gta-5s-last-challenge-20-more-mods-aimed-at-finally-breaking-it-completely/",
+    "resume": "And now the end is near, and so we face the final curtain.",
+    "publie_le": "2026-11-19T18:00:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "700fd2f649d172c8",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 VP: \"25 years on, the DNA remains\" from Rockstar's original Vice City to modern Leonida",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-from-gta-6-vp-25-years-on-the-dna-remains-from-rockstars-original-outing-to-vice-city-all-the-way-to-modern-leonida/",
+    "resume": "Vice City has changed a lot over the years - but maybe less than you think",
+    "publie_le": "2026-11-19T18:00:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "8738e3e79c7da421",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Further Mis-Adventures of Cliff Booth review: \"Fincher and Tarantino prove a perfect match\"",
+    "lien": "https://www.gamesradar.com/entertainment/thriller-movies/the-further-mis-adventures-of-cliff-booth-review/",
+    "resume": "The Further Mis-Adventures of Cliff Booth review: \"Tarantino's most playful and straightforwardly enjoyable script since Jackie Brown\"",
+    "publie_le": "2026-11-19T18:00:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "716a1ddf511ec869",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Phone apps list in GTA 6",
+    "lien": "https://www.polygon.com/gta-6-phone-apps-list-how-to-use/",
+    "resume": "Here's how to use your phone and unlock new apps in GTA 6.",
+    "publie_le": "2026-11-19T17:53:25+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "f6bbbf2de1fae72a",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
+    "lien": "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway/",
+    "resume": "Ubisoft Montreal and Quebec are the latest to fall under the axe.",
+    "publie_le": "2026-11-19T17:53:15+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "7a91c4750c817d3e",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot",
+    "lien": "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
+    "resume": "Grand Theft Auto 6 has only been out for a matter of hours, and players have already tracked down a UFO in the woods and a Bigfoot in the swamps. Read more",
+    "publie_le": "2026-11-19T17:48:50+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "f2c79d2cf0a14a22",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues",
+    "lien": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
+    "resume": "Ubisoft has confirmed more layoffs as part of its previously announced operational \"reset\", this time affecting 166 employees at its major Montréal and Québec City studios - the teams responsible for game series including Assassin's Creed and Far Cry. It says the cuts are necessary \"to ensure our resources are aligned with current production priorities and business needs.\" Read more",
+    "publie_le": "2026-11-19T17:43:50+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "c117714734b65743",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Huge New Nvidia Bug Is Ruining Gaming Hardware, Users Say",
+    "lien": "https://www.polygon.com/nvidia-graphics-driver-bug-gaming-hardware/",
+    "resume": "Nvidia released a bug in its latest driver software that can potentially damage SSDs.",
+    "publie_le": "2026-11-19T17:42:28+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "a8b66aee3142e8d9",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "This is technically the worst version of GTA 6 that we'll ever play",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/this-is-technically-the-worst-version-of-gta-6-that-well-ever-play/",
+    "resume": "Still to come: PC performance, Online, patches, more graphics settings, and next-gen consoles.",
+    "publie_le": "2026-11-19T17:40:19+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "7640c549cf0ab11b",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Space station horror-FPS Derelikt is a lively retro throwback to Alien: Resurrection, though it's better at shooting than scaring",
+    "lien": "https://www.rockpapershotgun.com/space-station-horror-fps-derelikt-is-a-lively-retro-throwback-to-alien-resurrection-though-its-better-at-shooting-than-scaring",
+    "resume": "I'm a reasonable man. I don't expect every PS1-styled, cosmic horror, nakedly Alien: Resurrection-homaging retro FPS to suffocate me under a blanket of misery. Some of the lighter moments in Derelikt, which released last week , even land: I was grinning my cheeks off as I gorged on the Eldtrich knowledge sealed within an alien obelisk, while repeatedly hanging up on the aghast scientist who kept…",
+    "publie_le": "2026-11-19T17:36:40+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "95170420905edc79",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "It looks like Rockstar co-founder Sam Houser is hiding in GTA 6 as fans find \"Little Sam\" Easter egg",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/it-sure-looks-like-rockstar-co-founder-sam-houser-is-hiding-in-gta-6-as-fans-find-little-sam-easter-egg-that-calls-back-to-gta-3/",
+    "resume": "Another Grand Theft Auto, another Easter egg",
+    "publie_le": "2026-11-19T17:31:33+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "5e52d39b2c3a5588",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6’s Best-Kept Secret Is the Most Important Part of the Game",
+    "lien": "https://www.polygon.com/gta6-prologue-secret/",
+    "resume": "Rockstar Games managed to keep one big secret with Grand Theft Auto 6, and it completely changes the story.",
+    "publie_le": "2026-11-19T17:31:18+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "0b12733e038ffcb5",
+    "source": "Journal du Geek",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 bientôt adapté en film ou en série ? La réponse du patron est sans pitié (mais drôle)",
+    "lien": "https://www.journaldugeek.com/2026/11/19/gta-6-bientot-adapte-en-film-ou-en-serie-la-reponse-du-patron-est-sans-pitie-mais-drole/",
+    "resume": "Quand on est une licence qui pèse plus de 15 milliards de dollars, forcément, Hollywood s'intéresse à nous. Film ou série, l'adaptation de GTA paraît inévitable sur le long terme. À moins que.",
+    "publie_le": "2026-11-19T17:30:01+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "dfc962fe750b98e9",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ubisoft has founded a studio dedicated to generative AI in games",
+    "lien": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
+    "resume": "Ubisoft confirms reports that it has a dedicated gen AI studio",
+    "publie_le": "2026-11-19T17:26:14+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "02a239164eb058b3",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Former Xbox and EA exec hopes GTA 6 gives \"a much-needed shot in the arm\" to devs and publishers",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/former-xbox-and-ea-exec-hopes-gta-6-gives-a-much-needed-shot-in-the-arm-to-devs-and-publishers-the-video-game-industry-could-really-use-a-moment-like-this/",
+    "resume": "Peter Moore says this is \"more than the release of a hugely anticipated game\"",
+    "publie_le": "2026-11-19T17:25:22+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "c84b04651908e3d7",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Maingear's revamped Zero range is already selling out, and I can see why",
+    "lien": "https://www.gamesradar.com/hardware/desktop-pc/maingear-zero-mk-2-review/",
+    "resume": "The revamped version of the Maingear Zero feels even more bespoke to its cable-less design philosophy.",
+    "publie_le": "2026-11-19T17:23:41+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "5f463597ac9d6729",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Even our bunch of diehard PC gamers aren't that bothered by 30 fps in GTA 6",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/even-our-bunch-of-diehard-pc-gamers-arent-that-bothered-by-30-fps-in-gta-6/",
+    "resume": "The game wears it surprisingly well, though we'll be less happy if the PC version is similarly capped.",
+    "publie_le": "2026-11-19T17:22:43+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "899a005b7138c680",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Paramount+ Plans Drop to $2.99/Month for Black Friday",
+    "lien": "https://www.ign.com/articles/paramount-plus-black-friday-deal-2026",
+    "resume": "All Paramount+ plans have dropped to $2.99/month for your first two months, including the ad-free premium plan that comes with Showtime.",
+    "publie_le": "2026-11-19T17:20:05+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "fa80f21fb945f441",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Christopher Nolan Explains Why Fans Will Never See an Odyssey Director’s Cut",
+    "lien": "https://www.polygon.com/christopher-nolan-the-odyssey-home-release-no-directors-cut/",
+    "resume": "The Odyssey’s Christopher Nolan reveals why the epic’s home release has no director’s cut even if deleted scenes exist",
+    "publie_le": "2026-11-19T17:19:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "ea6e2a1f126294f1",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 players confirm \"True Fat Jason\" and \"max weight Lucia\" aren't very fat at all",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-confirm-true-fat-jason-and-max-weight-lucia-arent-very-fat-at-all-setting-the-stage-for-the-first-pc-mod-to-super-size-them/",
+    "resume": "Heavy on the humor",
+    "publie_le": "2026-11-19T17:12:46+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "3a29387bfbcf3e0e",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6's '80s radio station is hosted by \"Weird Al\" Yankovic, the parody music legend confirms",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-80s-radio-station-is-hosted-by-weird-al-yankovic-the-parody-music-legend-confirms-as-a-long-time-fan-of-the-grand-theft-auto-franchise-i-couldnt-be-more-excited/",
+    "resume": "He also wrote some of the in-game ads",
+    "publie_le": "2026-11-19T17:11:19+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "eb4dba956c571c50",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Save £10 on GTA 6 & a PS5 Dualsense Controller In This Limited Argos Bundle",
+    "lien": "https://www.ign.com/articles/gta-6-ps5-dualsense-bundle-deal-argos",
+    "resume": "Argos has launched a limited GTA 6 and PS5 DualSense bundle for £99.98, beating Amazon's combined price by £8.56 — with the offer being available until December 3",
+    "publie_le": "2026-11-19T17:08:16+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "e66ac416a34fcf0f",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Yes, you're hearing 'Weird Al' Yankovic hosting a radio station in GTA 6",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/yes-youre-hearing-weird-al-yankovic-hosting-a-radio-station-in-gta-6/",
+    "resume": "Also hosting are Lana Del Rey, Bad Bunny, Keith Richards, and—for some reason—Jeremy Irons.",
+    "publie_le": "2026-11-19T17:07:18+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "a015971812389950",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "I just found a verrrry familiar-looking hat in GTA 6, and it was in the last place I would have expected",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/arthur-morgan-hat-location-rdr2/",
+    "resume": "Sometimes it pays to follow signs.",
+    "publie_le": "2026-11-19T17:05:50+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "de2465b5aaaa0ceb",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ignore that other game about crime that's out and burgle some ugly farmhouses in Keepsake County, a \"midwestern stealth game\" with a 2000s Cartoon Network vibe",
+    "lien": "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
+    "resume": "Is there something going on today? A lot of talk about committing crimes and the like, I just can't quite put my finger on why… Ah well, couldn't be important or interesting. What is interesting, however, is Keepsake County, a \"midwestern stealth game\" that has launched on this inauspicious day about stealing stuff from \"hideous farmhouses in the middle of nowhere.\" Read more",
+    "publie_le": "2026-11-19T17:05:40+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "e0e98b9844580620",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Charts USA : Call of Duty a-t-il une nouvelle fois sous-performé avec Modern Warfare 4 ?",
+    "lien": "https://www.gamekult.com/actualite/charts-usa-call-of-duty-a-t-il-une-nouvelle-fois-sous-performe-avec-modern-warfare-4-3050873081.html",
+    "resume": "Circana a publié son bilan de l'industrie du jeu vidéo aux États-Unis pour le mois d'octobre 2026, le dernier avant de découvrir les dégâts du double tsunami mené par Grand Theft Auto VI et The Legend of Zelda : Ocarina of Time. Mais alors que ce mois d'octobre s'annonçait sans surprise, un indice laisse penser que Call of Duty est loin d'avoir remonté la pente depuis l'an dernier.",
+    "publie_le": "2026-11-19T17:05:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "16b994684fe55773",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 : On connait enfin l’intégralité du casting du jeu, en plus de l’actrice derrière Lucia",
+    "lien": "https://www.actugaming.net/gta-6-on-connait-enfin-lintegralite-du-casting-du-jeu-en-plus-de-lactrice-derriere-lucia-834170/",
+    "resume": "ActuGaming.net GTA 6 : On connait enfin l’intégralité du casting du jeu, en plus de l’actrice derrière Lucia Avec GTA 6, Rockstar s’est montré plus secret que jamais, n’autorisant même pas son casting […] L'article GTA 6 : On connait enfin l’intégralité du casting du jeu, en plus de l’actrice derrière Lucia est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-19T17:04:55+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "3449663d572d162d",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ubisoft lays off 166 devs at Assassin's Creed and Far Cry studios",
+    "lien": "https://www.gamesradar.com/games/assassin-s-creed/ubisoft-lays-off-166-devs-at-assassins-creed-and-far-cry-studios/",
+    "resume": "\"As our portfolio evolves, our production needs are changing\"",
+    "publie_le": "2026-11-19T17:02:50+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "1aa009b755687d2a",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Corsair Sabre V3 Pro PureVector Ergo review",
+    "lien": "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v3-pro-purevector-ergo-review/",
+    "resume": "Machine learning sensitivity changes to help you aim.",
+    "publie_le": "2026-11-19T17:02:10+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "65c9aaad8269e956",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Invincible Officially Addresses Its Worst Season 4 Episode With Season 5 Reveal",
+    "lien": "https://www.polygon.com/invincible-season-5-announcement-teaser/",
+    "resume": "Mark doesn’t have time for another filler episode in a new announcement for Prime Video's Invincible season 5.",
+    "publie_le": "2026-11-19T17:01:20+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "b5277356257bc079",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Parks and Rec's Spiritual Sequel Reveals a Dark Truth About Sitcoms and Streaming",
+    "lien": "https://www.polygon.com/dig-review-peacock-amy-poehler-mike-schur/",
+    "resume": "Amy Poehler’s new sitcom is a brutal reminder that there will never be another Parks and Rec",
+    "publie_le": "2026-11-19T17:01:20+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
     "id": "ba636649eed1468b",
     "source": "VGC",
     "type": "presse",
@@ -11,6 +429,39 @@
     "collecte_le": "2026-11-19T17:00:32+00:00"
   },
   {
+    "id": "bf2342dc3fbb7e02",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Dig Review",
+    "lien": "https://www.ign.com/articles/dig-review-peacock",
+    "resume": "Amy Poehler and Mike Schur reunite for Dig, a new Peacock comedy that takes a while to get going but ultimately unearths a hilarious and thrilling mystery.",
+    "publie_le": "2026-11-19T17:00:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "22e1b8974c63a777",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Invincible Season 5 Premieres on February 17, 2027",
+    "lien": "https://www.ign.com/articles/invincible-season-5-premiers-on-february-17-2026",
+    "resume": "Invincible’s next season flies onto Prime Video on February 17, 2027, and Skybound celebrated with a cheeky trailer teasing what’s next for Mark Grayson and his superpowered compatriots.",
+    "publie_le": "2026-11-19T17:00:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "572e4ac2c178d7dd",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Xbox's Black Friday Sale is Live, Here Are the Best Deals We Could Find",
+    "lien": "https://www.ign.com/articles/xbox-black-friday-sale-is-live-2026",
+    "resume": "Xbox's Black Friday sale is live and includes discounts on games and controllers. There are no discounts on Xbox Series consoles.",
+    "publie_le": "2026-11-19T17:00:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
     "id": "036a3806978ae73a",
     "source": "ActuGaming",
     "type": "presse",
@@ -20,6 +471,50 @@
     "resume": "ActuGaming.net Carte de GTA 6 : Leonida, régions et lieux Comme promis, la région de Leonida est particulièrement grande dans GTA 6. Parcourir ces terres […] L'article Carte de GTA 6 : Leonida, régions et lieux est disponible sur ActuGaming.net",
     "publie_le": "2026-11-19T16:59:54+00:00",
     "collecte_le": "2026-11-19T17:00:32+00:00"
+  },
+  {
+    "id": "89c577b50f9190f8",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "India PM Narendra Modi Shares Viral GTA 6 vs GTA 5 Meme",
+    "lien": "https://www.ign.com/articles/narendra-modi-gta-6-vs-gta-5-meme-india",
+    "resume": "Prime Minister Narendra Modi has joined the GTA 6 launch hype with a viral meme highlighting how far India has levelled up since GTA 5 came out in 2013.",
+    "publie_le": "2026-11-19T16:57:51+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "8dbae9893478e6e4",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "As a PC gamer, of course the first thing I did in GTA 6 was try a mouse and keyboard",
+    "lien": "https://www.pcgamer.com/hardware/as-a-pc-gamer-of-course-the-first-thing-i-did-in-gta-6-was-try-a-mouse-and-keyboard/",
+    "resume": "We also gave steering wheels a go, too.",
+    "publie_le": "2026-11-19T16:57:11+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "89a45cae45ad7d0e",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Now That I've Played GTA 6 on PS5 Pro, Here's What I Want Out of the PC Version",
+    "lien": "https://www.ign.com/articles/now-that-ive-played-gta-6-on-ps5-pro-heres-what-i-want-out-of-the-pc-version",
+    "resume": "After playing GTA 6 all day yesterday on everything from the Xbox Series S up to the PS5 Pro, I'm forming a clearer picture on what a PC version of the game should look like.",
+    "publie_le": "2026-11-19T16:51:41+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
+    "id": "03df2e396f80f666",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The 2026 MacBook Air 15-Inch Laptop With New Apple M5 Processor Drops to a New Price Low for Black Friday",
+    "lien": "https://www.ign.com/articles/2026-apple-macbook-air-15-inch-laptop-deal-november-2026",
+    "resume": "The best time of year to upgrade your MacBook.",
+    "publie_le": "2026-11-19T16:50:00+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
   },
   {
     "id": "1e6ea6cd6024307b",
@@ -64,6 +559,17 @@
     "resume": "That's one way to get a long weekend.",
     "publie_le": "2026-11-19T16:42:08+00:00",
     "collecte_le": "2026-11-19T17:00:32+00:00"
+  },
+  {
+    "id": "77e65af2d9d4959f",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
+    "lien": "https://www.ign.com/articles/where-is-gta-6s-disney-world-parody-rockstar-north-co-studio-head-explains-no-show",
+    "resume": "GTA 6 lacks a parody of Disney World partially because developer Rockstar felt there wasn't a strong enough narrative justification for all the work that would have to go into meeting player expectations.",
+    "publie_le": "2026-11-19T16:42:07+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
   },
   {
     "id": "395d9030334f887d",
@@ -165,6 +671,17 @@
     "collecte_le": "2026-11-19T17:00:32+00:00"
   },
   {
+    "id": "fa72dfe71f3431fc",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 : Changez tous ces paramètres avant de débuter votre partie !",
+    "lien": "https://www.jeuxvideo.com/news/2115689/gta-6-changez-tous-ces-parametres-avant-de-debuter-votre-partie.htm",
+    "resume": "Avant de vous lancer corps et âme dans le monde de GTA VI, on vous recommande de changer ces quelques paramètres pour profiter pleinement de ce que le titre a à offrir. Ces 3 options, que ce soit pour les graphismes ou les commandes du jeu, sont à retrouver dans le menu pause puis paramètres",
+    "publie_le": "2026-11-19T16:30:08+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
+  },
+  {
     "id": "c40e0ded29c01160",
     "source": "Gamekult",
     "type": "presse",
@@ -196,6 +713,17 @@
     "resume": "As for the backlash? \"All in the name of the game big dawg\"",
     "publie_le": "2026-11-19T16:26:22+00:00",
     "collecte_le": "2026-11-19T17:00:32+00:00"
+  },
+  {
+    "id": "afef74bef9a3bbf5",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "La carte des départements français où GTA 6 cartonne... et de ceux qui s'en fichent",
+    "lien": "https://www.jeuxvideo.com/news/2115713/la-carte-des-departements-francais-ou-gta-6-cartonne-et-de-ceux-qui-s-en-fichent.htm",
+    "resume": "GTA 6 fait exploser les compteurs de recherche en France, mais cela change du tout au tout en fonction des départements…",
+    "publie_le": "2026-11-19T16:25:34+00:00",
+    "collecte_le": "2026-11-19T18:46:04+00:00"
   },
   {
     "id": "7178850eb48cae1d",
