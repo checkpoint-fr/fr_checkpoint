@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "7c42ad852ead",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "World of Warcraft bat son record de joueurs depuis 15 ans",
@@ -62,7 +62,12 @@
       "message_id": 196,
       "envoye_le": "2026-11-19T09:53:08+00:00"
     },
-    "decide_le": "2026-11-19T11:14:23+00:00"
+    "decide_le": "2026-11-19T11:14:23+00:00",
+    "instagram": {
+      "media_id": "18165705034453585",
+      "lien": "https://www.instagram.com/reel/Df6-oHPlSiL/",
+      "publie_le": "2026-11-19T11:31:48+00:00"
+    }
   },
   {
     "sujet_id": "234c3164c0ef",
