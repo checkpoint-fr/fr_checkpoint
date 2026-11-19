@@ -165,5 +165,144 @@
     ],
     "propose_le": "2026-11-19T09:43:54+00:00",
     "creneau": "actu"
+  },
+  {
+    "signature": [
+      "6",
+      "appeared",
+      "gta",
+      "post",
+      "wire"
+    ],
+    "titre": "Grand Theft Auto VI is Out Now",
+    "score": 2.1,
+    "nb_sources": 1,
+    "sources": [
+      "Xbox Wire"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-19T14:00:00+00:00",
+    "mots_cles": [
+      "wire",
+      "post",
+      "appeared",
+      "gta",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "Xbox Wire",
+        "type": "officiel",
+        "langue": "en",
+        "titre": "Grand Theft Auto VI is Out Now",
+        "lien": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now/",
+        "resume": "The post Grand Theft Auto VI is Out Now appeared first on XBOX Wire .",
+        "publie_le": "2026-11-19T14:00:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-19T17:00:53+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "arnold",
+      "gta",
+      "kill",
+      "spare"
+    ],
+    "titre": "Should you spare Arnold in GTA 6?",
+    "score": 1.96,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-19T16:39:00+00:00",
+    "mots_cles": [
+      "arnold",
+      "spare",
+      "kill",
+      "gta",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Should you spare Arnold in GTA 6?",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/should-you-spare-arnold-in-gta-6/",
+        "resume": "Your choice to spare or kill Arnold in GTA 6 has consequences",
+        "publie_le": "2026-11-19T16:39:00+00:00"
+      },
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Should you kill or spare Arnold in GTA 6?",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-arnold-kill-or-spare/",
+        "resume": "Let him leave or put an end to him.",
+        "publie_le": "2026-11-19T13:48:23+00:00"
+      }
+    ],
+    "propose_le": "2026-11-19T17:00:53+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "actors",
+      "finally",
+      "gta",
+      "jason",
+      "lucia"
+    ],
+    "titre": "‘See y’all in Leonida’: Jason’s actor finally confirms he’s in GTA 6",
+    "score": 1.77,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-19T14:56:48+00:00",
+    "mots_cles": [
+      "actors",
+      "finally",
+      "lucia",
+      "jason",
+      "gta",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "‘See y’all in Leonida’: Jason’s actor finally confirms he’s in GTA 6",
+        "lien": "https://www.videogameschronicle.com/news/see-yall-in-leonida-jasons-actor-finally-confirms-hes-in-gta-6/",
+        "resume": "Jason and Lucia's actors finally confirm they are in GTA 6",
+        "publie_le": "2026-11-19T14:56:48+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6's Jason and Lucia Actors Spotted Together in First Photo",
+        "lien": "https://www.ign.com/articles/gta-6s-jason-and-lucia-actors-spotted-together-in-first-photo",
+        "resume": "The actors behind GTA 6 protagonists Jason and Lucia have finally been pictured together, after years of speculation regarding their identities.",
+        "publie_le": "2026-11-19T14:38:41+00:00"
+      }
+    ],
+    "propose_le": "2026-11-19T17:00:53+00:00",
+    "creneau": "gta6"
   }
 ]

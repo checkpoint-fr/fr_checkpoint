@@ -186,5 +186,167 @@
       "envoye_le": "2026-11-19T09:53:11+00:00"
     },
     "decide_le": "2026-11-19T11:14:08+00:00"
+  },
+  {
+    "sujet_id": "b81d64aa6648",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "GTA VI est enfin disponible",
+    "sous_titre": "La grosse annonce vient de tomber sur le Xbox Wire",
+    "points": [
+      {
+        "titre": "Une sortie surprise",
+        "texte": "Le titre vient de débarquer officiellement selon les dernières informations partagées par Xbox."
+      },
+      {
+        "titre": "Un événement historique",
+        "texte": "L'attente touche enfin à sa fin pour tous les joueurs qui l'attendaient de pied ferme."
+      }
+    ],
+    "a_retenir": "Le jeu le plus attendu de l'année est enfin là.",
+    "voix": {
+      "couverture": "GTA VI est enfin disponible pour tous les joueurs.",
+      "points": [
+        "Le titre vient de débarquer officiellement selon Xbox.",
+        "L'attente touche enfin à sa fin pour tout le monde."
+      ],
+      "retenir": "Le jeu le plus attendu de l'année est enfin là."
+    },
+    "prononciation": {},
+    "legende": "C'est l'information que tout le monde attendait depuis des années. Le titre débarque enfin et promet de marquer durablement l'histoire du jeu vidéo avec son monde ouvert gigantesque et ses nombreuses nouveautés.\n\nLes joueurs peuvent dès à présent se lancer dans cette nouvelle aventure sur leurs machines. Prépare-toi à replonger dans des heures d'exploration intense.\n\nEt toi, tu vas y jouer dès sa sortie ?\n\nSources : Xbox Wire\n\n#checkpointfr #jeuxvideo #gaming #GTA #Xbox #RockstarGames #JeuVideo #Actualite",
+    "sources": [
+      {
+        "nom": "Xbox Wire",
+        "lien": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now/"
+      }
+    ],
+    "score_tri": 2.1,
+    "creneau": "gta6",
+    "redige_le": "2026-11-19T17:00:53+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25,
+    "voix_off": true,
+    "video": "data/videos/b81d64aa6648.mp4",
+    "telegram": {
+      "message_id": 205,
+      "envoye_le": "2026-11-19T17:08:41+00:00"
+    }
+  },
+  {
+    "sujet_id": "603b8c603fff",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Tuer ou épargner Arnold dans GTA VI",
+    "sous_titre": "Découvre les conséquences de ton premier choix moral dans le chapitre 1",
+    "points": [
+      {
+        "titre": "La mission Hey Arnold !",
+        "texte": "Durant le chapitre 1, Jason, Brian et Cal pourchassent Arnold après sa fuite en voiture près de la station radar."
+      },
+      {
+        "titre": "Épargner Arnold",
+        "texte": "Si tu l'épargnes sur le quai ou en attendant, cela nourrit ton profil criminel restraint sans autres inconvénients."
+      },
+      {
+        "titre": "Tuer Arnold",
+        "texte": "Tu peux l'exécuter à la fin ou tirer pendant la course-poursuite, ce qui influence ton profil vers la violence."
+      }
+    ],
+    "a_retenir": "Ton choix face à Arnold façonne ton profil criminel dès le début du jeu.",
+    "voix": {
+      "couverture": "Tu te demandes s'il faut tuer ou épargner Arnold dans GTA VI ?",
+      "points": [
+        "Durant le premier chapitre, tu dois pourchasser Arnold avec Jason et Brian.",
+        "Si tu décides de l'épargner, cela nourrit ton profil criminel restraint.",
+        "Tu peux aussi l'exécuter, ce qui oriente ton profil vers la violence."
+      ],
+      "retenir": "Chaque décision que tu prends façonne ton profil criminel dès le début."
+    },
+    "prononciation": {},
+    "legende": "Dans GTA VI, la première grande décision morale se présente dès le chapitre 1 lors de la mission Hey Arnold. Après une course-poursuite haletante, tu dois décider du sort d'Arnold, le partenaire d'affaires de Brian. Le laisser filer ou l'exécuter aura un impact direct sur ton profil criminel, orientant ton parcours entre violence et retenue. Et toi, tu as choisi de l'épargner ou de l'éliminer ?\n\nSources : GamesRadar, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #PS5 #XboxSeriesX #Action #OpenWorld",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/should-you-spare-arnold-in-gta-6/"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-arnold-kill-or-spare/"
+      }
+    ],
+    "score_tri": 1.96,
+    "creneau": "gta6",
+    "redige_le": "2026-11-19T17:00:53+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 27.2,
+    "voix_off": true,
+    "video": "data/videos/603b8c603fff.mp4",
+    "telegram": {
+      "message_id": 207,
+      "envoye_le": "2026-11-19T17:08:43+00:00"
+    }
+  },
+  {
+    "sujet_id": "3d03968db29b",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Les visages de Jason et Lucia enfin dévoilés",
+    "sous_titre": "Après des mois de rumeurs, Dylan Rourke et Manni L. Perez confirment leurs rôles dans GTA VI",
+    "points": [
+      {
+        "titre": "Jason = Dylan Rourke",
+        "texte": "L’acteur Dylan Rourke a confirmé qu’il incarne le protagoniste masculin Jason Duval dans GTA VI."
+      },
+      {
+        "titre": "Lucia = Manni L. Perez",
+        "texte": "Manni L. Perez, déjà nominée aux Game Awards, joue la protagoniste Lucia Caminos."
+      },
+      {
+        "titre": "Première photo officielle",
+        "texte": "Les deux acteurs ont été photographés ensemble devant le billboard du jeu, confirmant enfin leurs identités."
+      }
+    ],
+    "a_retenir": "Les visages de Jason et Lucia sont enfin connus : Dylan Rourke et Manni L. Perez donnent vie aux héros de GTA VI.",
+    "voix": {
+      "couverture": "Enfin les acteurs de Jason et Lucia sont révélés !",
+      "points": [
+        "Dylan Rourke incarne Jason Duval, le héros masculin de GTA VI.",
+        "Manni L. Perez joue Lucia Caminos, la protagoniste féminine.",
+        "Ils ont posé ensemble devant le billboard du jeu, confirmant leurs rôles."
+      ],
+      "retenir": "Jason et Lucia ont enfin leurs visages : Rourke et Perez."
+    },
+    "prononciation": {
+      "Dylan Rourke": "Dylan Rouke",
+      "Manni L. Perez": "Manni L. Pérez"
+    },
+    "legende": "Les acteurs derrière les deux protagonistes de GTA VI sont enfin révélés. Dylan Rourke confirme qu’il prête sa voix et son visage à Jason Duval, tandis que Manni L. Perez incarne Lucia Caminos, déjà saluée aux Game Awards. La photo officielle, prise devant le gigantesque billboard du jeu, montre les deux stars côte à côte, mettant fin aux mois de spéculations. Et toi, quel personnage vas‑tu incarner en premier ?\n\nSources : VGC, IGN\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #JasonDuval #LuciaCaminos #DylanRourke #ManniLPerez #ViceCity",
+    "sources": [
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/see-yall-in-leonida-jasons-actor-finally-confirms-hes-in-gta-6/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/gta-6s-jason-and-lucia-actors-spotted-together-in-first-photo"
+      }
+    ],
+    "score_tri": 1.77,
+    "creneau": "gta6",
+    "redige_le": "2026-11-19T17:00:53+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25,
+    "voix_off": true,
+    "video": "data/videos/3d03968db29b.mp4",
+    "telegram": {
+      "message_id": 209,
+      "envoye_le": "2026-11-19T17:08:45+00:00"
+    }
   }
 ]
