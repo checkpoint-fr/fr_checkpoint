@@ -237,7 +237,7 @@
   },
   {
     "sujet_id": "603b8c603fff",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Tuer ou épargner Arnold dans GTA VI",
@@ -290,11 +290,16 @@
       "message_id": 207,
       "envoye_le": "2026-11-19T17:08:43+00:00"
     },
-    "decide_le": "2026-11-19T19:23:21+00:00"
+    "decide_le": "2026-11-19T19:23:21+00:00",
+    "instagram": {
+      "media_id": "18113406110242213",
+      "lien": "https://www.instagram.com/reel/Df70tZ8le5w/",
+      "publie_le": "2026-11-19T19:24:23+00:00"
+    }
   },
   {
     "sujet_id": "3d03968db29b",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Les visages de Jason et Lucia enfin dévoilés",
@@ -349,7 +354,8 @@
     "telegram": {
       "message_id": 209,
       "envoye_le": "2026-11-19T17:08:45+00:00"
-    }
+    },
+    "decide_le": "2026-11-19T19:23:31+00:00"
   },
   {
     "sujet_id": "3ac054f46b46",
