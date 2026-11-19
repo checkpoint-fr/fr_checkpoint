@@ -359,7 +359,7 @@
   },
   {
     "sujet_id": "3ac054f46b46",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Nouvelle vague de licenciements chez Ubisoft",
@@ -420,7 +420,12 @@
       "message_id": 214,
       "envoye_le": "2026-11-19T18:55:08+00:00"
     },
-    "decide_le": "2026-11-19T19:25:06+00:00"
+    "decide_le": "2026-11-19T19:25:06+00:00",
+    "instagram": {
+      "media_id": "18082845335393400",
+      "lien": "https://www.instagram.com/reel/Df74_7lmUht/",
+      "publie_le": "2026-11-19T20:01:46+00:00"
+    }
   },
   {
     "sujet_id": "38b4ba645c53",
