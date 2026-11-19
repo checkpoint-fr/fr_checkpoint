@@ -471,7 +471,7 @@
   },
   {
     "sujet_id": "b0231dc051c5",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La nouvelle souris Corsair Sabre V3 Pro veut améliorer ton aim",
@@ -529,6 +529,7 @@
     "telegram": {
       "message_id": 216,
       "envoye_le": "2026-11-19T18:55:10+00:00"
-    }
+    },
+    "decide_le": "2026-11-19T19:24:53+00:00"
   }
 ]
