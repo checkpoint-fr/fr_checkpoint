@@ -189,7 +189,7 @@
   },
   {
     "sujet_id": "b81d64aa6648",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI est enfin disponible",
@@ -232,7 +232,8 @@
     "telegram": {
       "message_id": 205,
       "envoye_le": "2026-11-19T17:08:41+00:00"
-    }
+    },
+    "decide_le": "2026-11-19T19:23:10+00:00"
   },
   {
     "sujet_id": "603b8c603fff",
