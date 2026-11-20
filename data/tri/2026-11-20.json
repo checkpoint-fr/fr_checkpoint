@@ -152,5 +152,190 @@
     ],
     "propose_le": "2026-11-20T09:40:42+00:00",
     "creneau": "actu"
+  },
+  {
+    "signature": [
+      "2",
+      "25",
+      "36",
+      "6",
+      "billion",
+      "copies",
+      "day",
+      "estimates",
+      "gta",
+      "made",
+      "million",
+      "revenue",
+      "rockstar",
+      "sales",
+      "sold",
+      "suggest"
+    ],
+    "titre": "GTA 6 Sets New Sales Record for Rockstar Just One Day In",
+    "score": 3.7,
+    "nb_sources": 4,
+    "sources": [
+      "Eurogamer",
+      "GamesRadar",
+      "Polygon",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T15:53:55+00:00",
+    "mots_cles": [
+      "estimates",
+      "copies",
+      "suggest",
+      "sold",
+      "36",
+      "made",
+      "million",
+      "revenue"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 Sets New Sales Record for Rockstar Just One Day In",
+        "lien": "https://www.polygon.com/gta-6-sales-2-billion-dollars-ps5-xbox-series-x/",
+        "resume": "Grand Theft Auto 6 has reportedly made over $2.3 billion in revenue for Rockstar Games so far as it is now finally released.",
+        "publie_le": "2026-11-20T15:53:55+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 sales are almost at 25 million as Rockstar earns $2.36 billion in revenue, analysts estimate",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-are-almost-at-25-million-as-rockstar-earns-usd2-36-billion-in-revenue-analysts-estimate/",
+        "resume": "Most of them are on PS5, too",
+        "publie_le": "2026-11-20T11:43:21+00:00"
+      },
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
+        "lien": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
+        "resume": "Grand Theft Auto 6 is estimated to have sold nearly 25 million copies in one day, generating approximately $2.5bn in sales revenue - a staggering result that's beyond even what even observers were predicting . Read more",
+        "publie_le": "2026-11-20T11:40:30+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
+        "lien": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+        "resume": "This would easily give it the highest day one sales in entertainment history",
+        "publie_le": "2026-11-20T09:42:03+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T17:15:26+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "glitch",
+      "gta",
+      "infinite",
+      "money"
+    ],
+    "titre": "GTA 6 Players Have Already Discovered an Infinite Money Glitch",
+    "score": 1.99,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T17:08:25+00:00",
+    "mots_cles": [
+      "infinite",
+      "glitch",
+      "money",
+      "6",
+      "gta"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 Players Have Already Discovered an Infinite Money Glitch",
+        "lien": "https://www.polygon.com/gta-6-infinite-money-glitch/",
+        "resume": "Grand Theft Auto 6 players have found several ways to make money quick, but not everyone is partaking.",
+        "publie_le": "2026-11-20T17:08:25+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 Players Are Refusing to Make Use of an Infinite Money Glitch They Say Ruins the Experience",
+        "lien": "https://www.ign.com/articles/gta-6-players-multiple-money-glitches",
+        "resume": "Some GTA 6 players are refusing to make use of an infinite money glitch they say ruins the experience Rockstar set out to provide.",
+        "publie_le": "2026-11-20T13:27:48+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T17:15:26+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "find",
+      "gta",
+      "know",
+      "let",
+      "mandy",
+      "play"
+    ],
+    "titre": "GTA 6 Mandy actor bravely raises her hand: \"If you play the game, let me know if you find me\"",
+    "score": 1.81,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T15:34:07+00:00",
+    "mots_cles": [
+      "let",
+      "mandy",
+      "find",
+      "know",
+      "play",
+      "6",
+      "gta"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 Mandy actor bravely raises her hand: \"If you play the game, let me know if you find me\"",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-actor-bravely-raises-her-hand-if-you-play-the-game-let-me-know-if-you-find-me/",
+        "resume": "Lexie Shoaibi may never know peace again",
+        "publie_le": "2026-11-20T15:34:07+00:00"
+      },
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
+        "resume": "I think most players will find Mandy.",
+        "publie_le": "2026-11-20T12:26:52+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T17:15:26+00:00",
+    "creneau": "gta6"
   }
 ]

@@ -178,5 +178,192 @@
       "lien": "https://www.instagram.com/reel/Df9jW-wgh_W/",
       "publie_le": "2026-11-20T11:31:13+00:00"
     }
+  },
+  {
+    "sujet_id": "2196945b7ae7",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "GTA VI explose les records : 25 M de copies vendues en 1 jour",
+    "sous_titre": "Selon Sensor Tower, le nouveau titre de Rockstar aurait généré plus de 2,3 milliards de dollars dès le premier jour.",
+    "points": [
+      {
+        "titre": "Ventes record dès le lancement",
+        "texte": "Les estimations placent les ventes à près de 25 millions d’exemplaires, soit le plus gros démarrage jamais vu dans le secteur."
+      },
+      {
+        "titre": "Plus de 2,3 milliards de revenus",
+        "texte": "Le chiffre d’affaires estimé dépasse les 2,3 milliards de dollars, avec un prix moyen d’environ 93 dollars par copie."
+      },
+      {
+        "titre": "PS5 domine le marché",
+        "texte": "Environ 75 % des ventes proviendraient de la PlayStation 5, contre 25 % pour la Xbox Series X/S."
+      },
+      {
+        "titre": "Rockstar reste muet",
+        "texte": "Rockstar n’a encore confirmé aucun chiffre et n’a pas annoncé de version PC."
+      }
+    ],
+    "a_retenir": "GTA VI s’impose déjà comme le plus gros succès commercial de l’histoire du jeu vidéo",
+    "voix": {
+      "couverture": "GTA VI bat tous les records dès le premier jour, c’est hallucinant.",
+      "points": [
+        "Les ventes frôlent les 25 millions d’exemplaires, un record absolu.",
+        "Le revenu dépasse les 2,3 milliards de dollars, soit près de 93 dollars par copie.",
+        "La PlayStation 5 représente environ 75 % des ventes, la Xbox les 25 % restants.",
+        "Rockstar n’a encore confirmé aucun chiffre et garde le silence sur une version PC."
+      ],
+      "retenir": "GTA VI s’affirme déjà comme le plus grand succès commercial du jeu vidéo"
+    },
+    "prononciation": {
+      "Series X/S": "Séries X/S"
+    },
+    "legende": "Le nouveau blockbuster de Rockstar, GTA VI, aurait pulvérisé tous les records dès son jour de sortie. Selon les données de Sensor Tower, le jeu aurait déjà vendu près de 25 millions d’exemplaires, générant plus de 2,3 milliards de dollars de chiffre d’affaires.\n\nLa PlayStation 5 serait loin devant, représentant trois quarts des ventes, tandis que la Xbox Series X/S en emporterait le quart restant. Malgré ces chiffres astronomiques, Rockstar garde le silence et n’a pas confirmé ces estimations, ni annoncé de version PC.\n\nCes performances placent GTA VI au sommet des succès commerciaux, dépassant même les records de GTA V. Et toi, tu as déjà craqué pour le nouveau titre ?\n\nSources : Polygon, GamesRadar, Eurogamer, VGC\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #PS5 #XboxSeriesX #OpenWorld #ActionAdventure",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-sales-2-billion-dollars-ps5-xbox-series-x/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-are-almost-at-25-million-as-rockstar-earns-usd2-36-billion-in-revenue-analysts-estimate/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/"
+      }
+    ],
+    "score_tri": 3.7,
+    "creneau": "gta6",
+    "redige_le": "2026-11-20T17:15:26+00:00",
+    "alertes": [
+      "sous_titre : 116/110 car."
+    ],
+    "defauts_voix": [],
+    "duree": 31.7,
+    "voix_off": true,
+    "video": "data/videos/2196945b7ae7.mp4",
+    "telegram": {
+      "message_id": 229,
+      "envoye_le": "2026-11-20T17:24:07+00:00"
+    }
+  },
+  {
+    "sujet_id": "08667bb9eb15",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Des failles d'argent infini découvertes dans GTA VI",
+    "sous_titre": "Des joueurs partagent déjà des astuces pour devenir riches très vite, mais beaucoup refusent de les utiliser",
+    "points": [
+      {
+        "titre": "Des méthodes pour faire fortune",
+        "texte": "Des astuces tournent en ligne pour amasser du cash rapidement, comme piller le dépôt d'Apollo Aggregates ou exploiter des bugs de respawn."
+      },
+      {
+        "titre": "Un bug de mission exploité",
+        "texte": "En braquant des magasins puis en relançant une mission avant de la quitter, certains forcent le butin et les caisses à réapparaître instantanément."
+      },
+      {
+        "titre": "Une partie de la communauté refuse",
+        "texte": "Beaucoup de joueurs rejettent ces techniques sur les réseaux, estimant que cela gâche l'immersion et l'économie du jeu."
+      }
+    ],
+    "a_retenir": "Rockstar devrait rapidement corriger ces failles qui cassent la progression voulue par les développeurs.",
+    "voix": {
+      "couverture": "Des failles d'argent infini ont déjà été découvertes dans GTA VI.",
+      "points": [
+        "Des astuces tournent en ligne pour amasser du cash rapidement dès le début du jeu.",
+        "Certains joueurs exploitent des bugs de mission pour faire réapparaître le butin des magasins à l'infini.",
+        "Beaucoup de fans refusent ces méthodes pour ne pas gâcher l'immersion et l'économie."
+      ],
+      "retenir": "Rockstar devrait logiquement corriger ces failles très bientôt."
+    },
+    "prononciation": {},
+    "legende": "Tu attends le jeu depuis treize ans pour le terminer en trichant ? Des failles d'argent infini ont déjà été dénichées dans GTA VI. Entre des astuces de pillage et des bugs de mission pour faire respawn les magasins, certains trouvent des moyens de farmer le cash sans effort.\n\nMais surprise, une grande partie de la communauté refuse catégoriquement d'utiliser ces méthodes. Pour beaucoup, cela ruine l'économie du jeu, supprime toute progression et casse l'histoire de Lucia et Jason.\n\nEt toi, tu préfères jouer normalement ou tu testeras ces failles ?\n\nSources : Polygon, IGN\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #PS5 #XboxSeriesX #ActualiteJeuxVideo #OpenWorld",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-infinite-money-glitch/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/gta-6-players-multiple-money-glitches"
+      }
+    ],
+    "score_tri": 1.99,
+    "creneau": "gta6",
+    "redige_le": "2026-11-20T17:15:26+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.2,
+    "voix_off": true,
+    "video": "data/videos/08667bb9eb15.mp4",
+    "telegram": {
+      "message_id": 231,
+      "envoye_le": "2026-11-20T17:24:11+00:00"
+    }
+  },
+  {
+    "sujet_id": "fd395da6e1d1",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Lexie Shoaibi incarne Mandy dans GTA VI",
+    "sous_titre": "L’actrice révèle sur Instagram qu’elle prête sa voix et capture le mouvement de Mandy",
+    "points": [
+      {
+        "titre": "Mandy : nouvelle voix officielle",
+        "texte": "Lexie Shoaibi a confirmé sur Instagram qu’elle incarne Mandy, assurant voix et capture de mouvements dans GTA VI."
+      },
+      {
+        "titre": "Une rencontre dérangeante",
+        "texte": "On croise Mandy dès les premières missions, quand Jason doit récupérer son loyer et réparer son évier bloqué, révélant un côté inquiétant."
+      },
+      {
+        "titre": "Chercheuse de Mandy",
+        "texte": "Shoaibi lance un défi aux joueurs : « Si vous la trouvez dans le jeu, dites‑le moi », créant déjà un petit club de fans qui la repèrent."
+      }
+    ],
+    "a_retenir": "Mandy attend que tu la découvres dans les rues de Vice City",
+    "voix": {
+      "couverture": "Lexie Shoaibi révèle qu’elle incarne Mandy dans GTA VI",
+      "points": [
+        "Lexie Shoaibi confirme être la voix et le motion capture de Mandy.",
+        "Mandy apparaît tôt, quand Jason récupère son loyer et répare son évier.",
+        "Shoaibi lance un défi : si tu la trouves, préviens‑la."
+      ],
+      "retenir": "Mandy attend que tu la découvres dans les rues de Vice City"
+    },
+    "prononciation": {
+      "Vice City": "Vais Si‑ti"
+    },
+    "legende": "Lexie Shoaibi a enfin levé le voile sur son rôle dans GTA VI ! L’actrice a annoncé sur Instagram qu’elle prête sa voix et fait la capture de mouvement de Mandy, la nouvelle figure énigmatique du jeu. Mandy apparaît dès les premières missions, quand Jason doit récupérer le loyer et débloquer son évier, et son comportement dérangeant – même un doigt découpé – intrigue les joueurs. Les fans se sont déjà organisés pour la traquer, créant un petit club de chasseurs de personnages. Et toi, tu as déjà repéré Mandy dans le jeu ?\n\nSources : GamesRadar, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #Mandy #LexieShoaibi #ViceCity #OpenWorld #ActionAdventure",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-actor-bravely-raises-her-hand-if-you-play-the-game-let-me-know-if-you-find-me/"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/"
+      }
+    ],
+    "score_tri": 1.81,
+    "creneau": "gta6",
+    "redige_le": "2026-11-20T17:15:26+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 24.7,
+    "voix_off": true,
+    "video": "data/videos/fd395da6e1d1.mp4",
+    "telegram": {
+      "message_id": 233,
+      "envoye_le": "2026-11-20T17:24:14+00:00"
+    }
   }
 ]
