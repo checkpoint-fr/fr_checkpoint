@@ -373,5 +373,134 @@
       "envoye_le": "2026-11-20T17:24:14+00:00"
     },
     "decide_le": "2026-11-20T18:06:39+00:00"
+  },
+  {
+    "sujet_id": "5b6a5946271f",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "officiel",
+    "accroche": "",
+    "sous_titre": "",
+    "points": [],
+    "a_retenir": "",
+    "voix": {
+      "couverture": "",
+      "points": [],
+      "retenir": ""
+    },
+    "prononciation": {},
+    "legende": "\n\nSources : Polygon, IGN\n\n#checkpointfr #jeuxvideo #gaming",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/yellowjackets-season-4-episode-1-ending-explained/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/yellowjackets-season-4-episode-1-premiere-review"
+      }
+    ],
+    "score_tri": 1.81,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-20T18:45:32+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "172c267c6c04",
+    "statut": "ecarte",
+    "motif": "réponse de l'IA incomplète",
+    "statut_info": "officiel",
+    "accroche": "La fin approche pour Deltarune",
+    "sous_titre": "Toby Fox donne des nouvelles rassurantes sur le développement des chapitres six et sept.",
+    "points": [],
+    "a_retenir": "Le créateur a enfin l'impression de savoir ce qu'il fait et promet une aventure sans fins multiples.",
+    "voix": {
+      "couverture": "La fin se rapproche enfin pour le développement de Deltarune.",
+      "points": [
+        "Le chapitre six est structurellement complet et jouable du début à la fin.",
+        "Le travail sur le septième et dernier chapitre vient de commencer.",
+        "Ce nouveau chapitre va enfin s'attaquer aux mystères principaux du jeu."
+      ],
+      "retenir": "Toby Fox promet une conclusion maîtrisée sans fins multiples."
+    },
+    "prononciation": {
+      "Deltarune": "Deltaroune",
+      "Toby Fox": "Tobi Foxe"
+    },
+    "legende": "La fin de Deltarune se précise enfin pour les joueurs. Toby Fox a partagé une mise au point sur l'avancement de son jeu de rôle épisodique, et les nouvelles sont très bonnes. Le chapitre six est désormais complet dans sa structure, ce qui signifie que l'aventure peut être jouée d'un bout à l'autre même si certains passages manquent encore de finition. 🕹️\n\nEn parallèle, les équipes ont officiellement commencé à travailler sur le septième chapitre. Le créateur a confié avoir beaucoup de confiance pour cette dernière ligne droite, expliquant savoir enfin exactement où il va après toutes ces années de développement. Finies les aventures totalement loufoques, place aux mystères principaux. 📈\n\nEt toi, tu as suivi l'aventure depuis le début ?\n\nSources : Polygon, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #Deltarune #TobyFox #IndieGame #RPG #PC #Switch #PlayStation",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/deltarune-chapter-6-7-finale-update-toby-fox/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/rpg/deltarune-chapter-6-is-now-structurally-complete-and-as-work-on-chapter-7-begins-toby-fox-says-i-actually-feel-like-i-know-what-im-doing-this-time/"
+      }
+    ],
+    "score_tri": 1.75,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-20T18:45:32+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "63e8e719166b",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "La Steam Machine de Valve enfin dispo sans reservation",
+    "sous_titre": "Le modèle cinq cent douze gigas tombe la liste d'attente, mais le deux téraos galère.",
+    "points": [
+      {
+        "titre": "Fin de la liste d'attente pour le cinq cent douze gigas",
+        "texte": "Le modèle d'entrée de gamme de la Steam Machine avec son contrôleur s'achète désormais directement sans réservation."
+      },
+      {
+        "titre": "Des tensions persistantes sur le modèle deux téraos",
+        "texte": "Valve a fini d'envoyer les invitations d'achat mais la production reste très limitée à cause des pénuries de composants."
+      },
+      {
+        "titre": "La crise de la mémoire pèse sur les futurs prix",
+        "texte": "Les coûts de la RAM et du stockage augmentent à des niveaux inédits, menaçant les tarifs et les stocks de l'an prochain."
+      }
+    ],
+    "a_retenir": "Valve promet plus d'infos en janvier sur la production et les prix de la machine.",
+    "voix": {
+      "couverture": "La Steam Machine est enfin disponible sans reservation sur le store",
+      "points": [
+        "Le modele cinq cent douze gigas se commande directement sans liste d'attente",
+        "Le modele deux téraos reste sous tension malgre la fin des invitations",
+        "La crise de la memoire menace les futurs prix et les stocks de Valve"
+      ],
+      "retenir": "Valve donnera plus de details en janvier sur l'avenir de sa machine"
+    },
+    "prononciation": {},
+    "legende": "Bonne nouvelle si tu voulais t'équiper, la Steam Machine se libère enfin de son système de réservation contraignant ! Le modèle de cinq cent douze gigas est désormais accessible directement sur le store sans liste d'attente. Par contre, c'est une autre histoire pour la version deux téraos. À cause d'une crise de la mémoire qui dure et de coûts de stockage qui flambent, Valve galère à s'approvisionner et prévient que de nouvelles hausses de prix pourraient arriver dès le mois de janvier. La production reste donc très encadrée pour l'instant. \n\nEt toi, tu comptes craquer pour cette machine ou tu attends que la situation se calme ?\n\nSources : GamesRadar, IGN\n\n#checkpointfr #jeuxvideo #gaming #SteamMachine #Valve #PC #Hardware #Steam #Tech",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/hardware/desktop-pc/you-can-now-order-the-steam-machine-without-a-reservation-but-the-2tb-model-could-see-further-price-increases-in-the-new-year/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited"
+      }
+    ],
+    "score_tri": 1.51,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-20T18:45:32+00:00",
+    "alertes": [
+      "point 1 titre : 55/40 car.",
+      "point 2 titre : 51/40 car.",
+      "point 3 titre : 47/40 car."
+    ],
+    "defauts_voix": [],
+    "duree": 26.8,
+    "voix_off": true,
+    "video": "data/videos/63e8e719166b.mp4",
+    "telegram": {
+      "message_id": 238,
+      "envoye_le": "2026-11-20T18:50:55+00:00"
+    }
   }
 ]

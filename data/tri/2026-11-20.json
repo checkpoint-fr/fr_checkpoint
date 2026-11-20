@@ -337,5 +337,154 @@
     ],
     "propose_le": "2026-11-20T17:15:26+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "1",
+      "4",
+      "episode",
+      "season",
+      "yellowjackets"
+    ],
+    "titre": "Yellowjackets Season 4 Episode 1 Ending Explained: What Did Natalie See?",
+    "score": 1.81,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T17:01:20+00:00",
+    "mots_cles": [
+      "yellowjackets",
+      "1",
+      "episode",
+      "season",
+      "4"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Yellowjackets Season 4 Episode 1 Ending Explained: What Did Natalie See?",
+        "lien": "https://www.polygon.com/yellowjackets-season-4-episode-1-ending-explained/",
+        "resume": "'Yellowjackets' has already thrown a twist at the audience in its premiere episode with a third timeline. What is happening at camp?",
+        "publie_le": "2026-11-20T17:01:20+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Yellowjackets Season 4, Episode 1 Review",
+        "lien": "https://www.ign.com/articles/yellowjackets-season-4-episode-1-premiere-review",
+        "resume": "Review: As Yellowjackets enters Season 4, the end can’t come soon enough.",
+        "publie_le": "2026-11-20T08:00:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T18:45:32+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "6",
+      "7",
+      "chapter",
+      "deltarune",
+      "end",
+      "work"
+    ],
+    "titre": "Undertale Creator Officially Teases the End of Deltarune",
+    "score": 1.75,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T16:27:25+00:00",
+    "mots_cles": [
+      "deltarune",
+      "work",
+      "chapter",
+      "7",
+      "end",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Undertale Creator Officially Teases the End of Deltarune",
+        "lien": "https://www.polygon.com/deltarune-chapter-6-7-finale-update-toby-fox/",
+        "resume": "Undertale’s Toby Fox has revealed that Deltarune’s finale is almost here as work on Chapter 6 and 7 picks up",
+        "publie_le": "2026-11-20T16:27:25+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Deltarune Chapter 6 is now \"structurally complete\" as work on Chapter 7 begins",
+        "lien": "https://www.gamesradar.com/games/rpg/deltarune-chapter-6-is-now-structurally-complete-and-as-work-on-chapter-7-begins-toby-fox-says-i-actually-feel-like-i-know-what-im-doing-this-time/",
+        "resume": "Everything is playable \"from the beginning to the end,\" but some parts are still \"undercooked\"",
+        "publie_le": "2026-11-20T13:01:28+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T18:45:32+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "buy",
+      "machine",
+      "reservation",
+      "valve",
+      "without"
+    ],
+    "titre": "You can now order the Steam Machine without a reservation, but the 2TB model could be in trouble",
+    "score": 1.51,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "IGN"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T13:54:57+00:00",
+    "mots_cles": [
+      "reservation",
+      "buy",
+      "without",
+      "valve",
+      "machine"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "You can now order the Steam Machine without a reservation, but the 2TB model could be in trouble",
+        "lien": "https://www.gamesradar.com/hardware/desktop-pc/you-can-now-order-the-steam-machine-without-a-reservation-but-the-2tb-model-could-see-further-price-increases-in-the-new-year/",
+        "resume": "Valve says you can now buy a 512GB Steam Machine with no reservation, but it doesn't have the best news about the 2TB model.",
+        "publie_le": "2026-11-20T13:54:57+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "You Can Now Buy the Steam Machine Without a Reservation – But Supplies Are Limited",
+        "lien": "https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited",
+        "resume": "Back when the Steam Machine first came out in June, it was in short supply, due to the limited amount of hardware Valve was able to get its hands on (thanks, RAM crisis). But now, about 5 months after launch, you can finally just buy a Steam Machine.",
+        "publie_le": "2026-11-19T22:34:28+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T18:45:32+00:00",
+    "creneau": "actu_soir"
   }
 ]
