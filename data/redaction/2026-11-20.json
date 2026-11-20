@@ -310,7 +310,7 @@
   },
   {
     "sujet_id": "fd395da6e1d1",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Lexie Shoaibi incarne Mandy dans GTA VI",
@@ -364,6 +364,7 @@
     "telegram": {
       "message_id": 233,
       "envoye_le": "2026-11-20T17:24:14+00:00"
-    }
+    },
+    "decide_le": "2026-11-20T18:06:39+00:00"
   }
 ]
