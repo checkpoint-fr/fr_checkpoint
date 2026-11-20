@@ -181,7 +181,7 @@
   },
   {
     "sujet_id": "2196945b7ae7",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "GTA VI explose les records : 25 M de copies vendues en 1 jour",
@@ -250,7 +250,8 @@
     "telegram": {
       "message_id": 229,
       "envoye_le": "2026-11-20T17:24:07+00:00"
-    }
+    },
+    "decide_le": "2026-11-20T18:07:21+00:00"
   },
   {
     "sujet_id": "08667bb9eb15",
