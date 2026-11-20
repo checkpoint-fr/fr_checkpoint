@@ -445,7 +445,7 @@
   },
   {
     "sujet_id": "63e8e719166b",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La Steam Machine de Valve enfin dispo sans reservation",
@@ -501,6 +501,7 @@
     "telegram": {
       "message_id": 238,
       "envoye_le": "2026-11-20T18:50:55+00:00"
-    }
+    },
+    "decide_le": "2026-11-20T19:59:39+00:00"
   }
 ]
