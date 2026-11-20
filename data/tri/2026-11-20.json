@@ -1,0 +1,156 @@
+[
+  {
+    "signature": [
+      "christopher",
+      "deleted",
+      "director",
+      "nolan",
+      "odyssey",
+      "scenes"
+    ],
+    "titre": "Christopher Nolan won't release The Odyssey deleted scenes because he doesn’t \"believe in director's cuts\"",
+    "score": 1.06,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-19T22:43:51+00:00",
+    "mots_cles": [
+      "deleted",
+      "director",
+      "scenes",
+      "odyssey",
+      "christopher",
+      "nolan"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Christopher Nolan won't release The Odyssey deleted scenes because he doesn’t \"believe in director's cuts\"",
+        "lien": "https://www.gamesradar.com/entertainment/fantasy-movies/christopher-nolan-says-hell-never-release-any-of-the-deleted-scenes-from-the-odyssey-because-he-doesnt-believe-in-directors-cuts/",
+        "resume": "Christopher Nolan's The Odyssey is headed back to theaters",
+        "publie_le": "2026-11-19T22:43:51+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Christopher Nolan Explains Why Fans Will Never See an Odyssey Director’s Cut",
+        "lien": "https://www.polygon.com/christopher-nolan-the-odyssey-home-release-no-directors-cut/",
+        "resume": "The Odyssey’s Christopher Nolan reveals why the epic’s home release has no director’s cut even if deleted scenes exist",
+        "publie_le": "2026-11-19T17:19:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T09:40:42+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "dedicated",
+      "generative",
+      "studio",
+      "ubisoft"
+    ],
+    "titre": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
+    "score": 0.99,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-19T21:34:57+00:00",
+    "mots_cles": [
+      "generative",
+      "dedicated",
+      "studio",
+      "ubisoft"
+    ],
+    "articles": [
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
+        "lien": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+        "resume": "Assassin’s Creed developer Ubisoft has created a new subsidiary called Motherbrain, a studio dedicated specifically to the implementation of generative AI in its games.",
+        "publie_le": "2026-11-19T21:34:57+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft has founded a studio dedicated to generative AI in games",
+        "lien": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/",
+        "resume": "Ubisoft confirms reports that it has a dedicated gen AI studio",
+        "publie_le": "2026-11-19T17:26:14+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T09:40:42+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "2tb",
+      "constrained",
+      "costs",
+      "especially",
+      "machine",
+      "memory",
+      "says",
+      "storage",
+      "valve"
+    ],
+    "titre": "Valve may raise Steam Machine prices yet again: 'Memory and storage costs continue to increase at unprecedented levels'",
+    "score": 0.97,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-19T21:10:22+00:00",
+    "mots_cles": [
+      "storage",
+      "constrained",
+      "especially",
+      "costs",
+      "2tb",
+      "valve",
+      "memory",
+      "machine"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Valve may raise Steam Machine prices yet again: 'Memory and storage costs continue to increase at unprecedented levels'",
+        "lien": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels/",
+        "resume": "The 2TB model will be \"especially constrained\": Valve has closed the waitlist and says it doesn't know how many it will be able to make, or at what price they'll be sold.",
+        "publie_le": "2026-11-19T21:10:22+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Valve says \"memory and storage costs\" are so bad it won't do Steam Machine waitlists anymore",
+        "lien": "https://www.gamesradar.com/games/valve-says-memory-and-storage-costs-are-so-bad-it-wont-do-steam-machine-waitlists-anymore-as-it-doesnt-know-how-many-it-can-make-or-what-theyll-cost/",
+        "resume": "2TB Steam Machines will be \"especially constrained\"",
+        "publie_le": "2026-11-19T19:51:04+00:00"
+      }
+    ],
+    "propose_le": "2026-11-20T09:40:42+00:00",
+    "creneau": "actu"
+  }
+]

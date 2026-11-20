@@ -1,0 +1,175 @@
+[
+  {
+    "sujet_id": "5089ed82e9ba",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "officiel",
+    "accroche": "Pas de version longue pour The Odyssey",
+    "sous_titre": "Christopher Nolan explique pourquoi ses scènes coupées ne verront jamais le jour.",
+    "points": [
+      {
+        "titre": "Pas de director's cut",
+        "texte": "Christopher Nolan a confirmé qu'il ne croyait pas aux versions longues et qu'il souhaitait assumer pleinement le film sorti en salles."
+      },
+      {
+        "titre": "Des scènes à la poubelle",
+        "texte": "Le réalisateur a précisé que de nombreuses scènes coupées ont fini à la corbeille et que personne ne les verra jamais."
+      },
+      {
+        "titre": "Un tri en amont",
+        "texte": "Nolan évite de tourner du superflu pour des raisons financières et logistiques, préférant faire le tri dès l'écriture."
+      }
+    ],
+    "a_retenir": "The Odyssey sort en vidéo sans bonus, et son réalisateur ne sortira aucune version longue.",
+    "voix": {
+      "couverture": "Christopher Nolan refuse de sortir une version longue de The Odyssey",
+      "points": [
+        "Le réalisateur affirme qu'il ne croit pas aux versions longues",
+        "Il indique que les scènes coupées ont fini à la poubelle",
+        "Il préfère faire le tri en amont pour éviter les tournages superflus"
+      ],
+      "retenir": "Il n'y aura donc aucun bonus vidéo ni scène inédite pour les spectateurs"
+    },
+    "prononciation": {
+      "The Odyssey": "Di Odisseï"
+    },
+    "legende": "Mauvaise nouvelle pour les fans de Christopher Nolan qui espéraient découvrir des scènes inédites de The Odyssey en version physique. Le réalisateur a fermé la porte à toute version longue ou director's cut, affirmant vouloir assumer uniquement le montage final découvert en salles. Il a expliqué faire le tri dès l'écriture du scénario pour éviter de tourner des plans inutiles et coûteux en plein air. Les séquences coupées resteront donc invisibles pour le public, malgré la sortie récente du film en format domestique. Et toi, tu regrettes l'absence de scènes coupées dans les éditions physiques ?\n\nSources : GamesRadar, Polygon\n\n#checkpointfr #jeuxvideo #gaming #TheOdyssey #ChristopherNolan #Cinema #Film #Bluray #ActualiteCinema",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/entertainment/fantasy-movies/christopher-nolan-says-hell-never-release-any-of-the-deleted-scenes-from-the-odyssey-because-he-doesnt-believe-in-directors-cuts/"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/christopher-nolan-the-odyssey-home-release-no-directors-cut/"
+      }
+    ],
+    "score_tri": 1.06,
+    "creneau": "actu",
+    "redige_le": "2026-11-20T09:40:42+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "57434da14138",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Ubisoft lance Motherbrain, un studio dédié à l'IA générative",
+    "sous_titre": "L'éditeur français officialise sa nouvelle filiale dans son dernier rapport financier.",
+    "points": [
+      {
+        "titre": "Le projet Motherbrain",
+        "texte": "Cette nouvelle filiale se concentre sur l'intelligence artificielle pour l'innovation de gameplay et le support aux créateurs."
+      },
+      {
+        "titre": "Derrière le projet Teammates",
+        "texte": "Motherbrain est l'équipe à l'origine de Teammates, une expérience jouable en vue subjective avec des compagnons robotiques gérés par IA."
+      },
+      {
+        "titre": "Un nouveau modèle d'entreprise",
+        "texte": "Cette annonce s'inscrit dans le cadre du nouveau modèle opérationnel d'Ubisoft, alors que l'entreprise fait face à des vagues de licenciements."
+      }
+    ],
+    "a_retenir": "Ubisoft fonde Motherbrain, un studio entièrement consacré à l'intégration de l'intelligence artificielle dans ses jeux.",
+    "voix": {
+      "couverture": "Ubisoft lance Motherbrain, un studio entièrement dédié à l'intelligence artificielle générative.",
+      "points": [
+        "Cette nouvelle filiale a pour mission de développer des technologies d'intelligence artificielle pour le gameplay.",
+        "L'équipe est déjà derrière Teammates, un jeu immersif avec des compagnons gérés par IA.",
+        "Cette annonce arrive alors que l'éditeur restructure ses équipes et fait face à des licenciements."
+      ],
+      "retenir": "Ubisoft fonde un studio spécialisé en IA pour transformer ses futures expériences de jeu."
+    },
+    "prononciation": {
+      "Motherbrain": "Modeurre-brène",
+      "Teammates": "Timmteusse",
+      "Assassin's Creed": "Assassine-s Kri-de"
+    },
+    "legende": "Ubisoft persiste et signe avec l'intelligence artificielle générative. L'éditeur français vient d'officialiser la création de Motherbrain, une filiale entièrement dédiée à cette technologie pour le développement de ses futurs jeux. \n\nDéjà à l'œuvre sur l'expérience Teammates avec des compagnons dotés d'une IA vocale, ce nouveau studio a pour objectif de concevoir des technologies propriétaires destinées à aider les créateurs. \n\nCette annonce intervient en pleine restructuration pour l'entreprise, qui déploie son nouveau modèle opérationnel tout en traversant une période de réductions d'effectifs dans ses studios.\n\nEt toi, que penses-tu de l'arrivée de l'IA dans les jeux vidéo ?\n\nSources : IGN, VGC\n\n#checkpointfr #jeuxvideo #gaming #Ubisoft #Motherbrain #Teammates #AssassinCreed #Actualite #JV",
+    "sources": [
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/"
+      }
+    ],
+    "score_tri": 0.99,
+    "creneau": "actu",
+    "redige_le": "2026-11-20T09:40:42+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 33.0,
+    "voix_off": true,
+    "video": "data/videos/57434da14138.mp4",
+    "telegram": {
+      "message_id": 222,
+      "envoye_le": "2026-11-20T09:47:33+00:00"
+    }
+  },
+  {
+    "sujet_id": "8d9d23d9abbb",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Valve bloque la liste d'attente de la Steam Machine de 2 To",
+    "sous_titre": "La hausse des coûts de la mémoire et du stockage complique la production des machines.",
+    "points": [
+      {
+        "titre": "Fin de la liste d'attente pour les 2 To",
+        "texte": "Valve ferme la liste d'attente pour le modèle deux téraoctets car il y a plus de personnes inscrites que d'unités disponibles."
+      },
+      {
+        "titre": "Le modèle 512 Go reste disponible",
+        "texte": "Toutes les réservations pour la version cinq cent douze gigas ont été honorées et le stock restant s'achète directement."
+      },
+      {
+        "titre": "Des coûts en hausse constante",
+        "texte": "Valve indique que les prix de la mémoire et du stockage augmentent à des niveaux sans précédent."
+      },
+      {
+        "titre": "Des augmentations de prix possibles",
+        "texte": "À cause de ces tensions sur les composants, l'entreprise ne sait pas encore à quel prix elle pourra proposer ses futures unités."
+      }
+    ],
+    "a_retenir": "Valve ne sait pas encore combien de machines pourront être produites ni à quel prix elles seront vendues.",
+    "voix": {
+      "couverture": "Valve bloque la liste d'attente pour la version deux téraoctets de la Steam Machine.",
+      "points": [
+        "La liste d'attente pour le modèle de deux téraoctets est fermée faute de stock suffisant.",
+        "Le modèle de cinq cent douze gigas reste disponible directement tant qu'il y a du stock.",
+        "Les coûts de la mémoire et du stockage augmentent à des niveaux inédits.",
+        "Valve ignore encore combien de machines pourront être fabriquées et à quel tarif."
+      ],
+      "retenir": "La production reste incertaine face à la hausse des coûts des composants."
+    },
+    "prononciation": {
+      "Steam Machine": "Stim Machin"
+    },
+    "legende": "La situation se complique sérieusement du côté de chez Valve concernant la production de sa machine. Alors que le modèle de base s'achète directement jusqu'à épuisement des stocks, la version grand format fait face à de grosses difficultés.\n\nEn cause, l'explosion des coûts de la mémoire et du stockage qui freine nettement la fabrication. Valve a donc pris la décision radicale de fermer la liste d'attente pour le modèle deux téraoctets, faute de visibilité sur les volumes à venir.\n\nImpossible pour l'instant de savoir quand la situation va se débloquer, ni si les prix devront être revus à la hausse dans les prochains mois. \n\nEt toi, tu as pu te procurer ta machine ou tu attendais patiemment ton tour ?\n\nSources : PC Gamer, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #Valve #SteamMachine #PC #Hardware #Tech #Actualite",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/valve-says-memory-and-storage-costs-are-so-bad-it-wont-do-steam-machine-waitlists-anymore-as-it-doesnt-know-how-many-it-can-make-or-what-theyll-cost/"
+      }
+    ],
+    "score_tri": 0.97,
+    "creneau": "actu",
+    "redige_le": "2026-11-20T09:40:42+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 30.7,
+    "voix_off": true,
+    "video": "data/videos/8d9d23d9abbb.mp4",
+    "telegram": {
+      "message_id": 224,
+      "envoye_le": "2026-11-20T09:47:35+00:00"
+    }
+  }
+]
