@@ -255,7 +255,7 @@
   },
   {
     "sujet_id": "08667bb9eb15",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Des failles d'argent infini découvertes dans GTA VI",
@@ -308,7 +308,12 @@
       "message_id": 231,
       "envoye_le": "2026-11-20T17:24:11+00:00"
     },
-    "decide_le": "2026-11-20T18:07:15+00:00"
+    "decide_le": "2026-11-20T18:07:15+00:00",
+    "instagram": {
+      "media_id": "18502584448111108",
+      "lien": "https://www.instagram.com/reel/Df-TboJlOad/",
+      "publie_le": "2026-11-20T18:31:15+00:00"
+    }
   },
   {
     "sujet_id": "fd395da6e1d1",
