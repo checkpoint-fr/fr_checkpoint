@@ -1,0 +1,120 @@
+[
+  {
+    "sujet_id": "359ff8c8ec8e",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "Jensen Huang accuse de menaces et d'humiliations chez Nvidia",
+    "sous_titre": "Une enquête du New York Times dévoile le management violent de l'ex-PDG.",
+    "points": [
+      {
+        "titre": "Des menaces violentes",
+        "texte": "Selon une enquête, Jensen Huang aurait menacé des employés de mort et de violence verbale extrême depuis les années deux mille."
+      },
+      {
+        "titre": "L'humiliation comme méthode",
+        "texte": "Il estimait ne plus pouvoir motiver ses équipes avec de l'argent et utilisait l'humiliation publique pour exiger plus de travail."
+      },
+      {
+        "titre": "Un accord secret à un million",
+        "texte": "Un ancien responsable des ressources humaines a touché plus d'un million de dollars après avoir dénoncé ce comportement menaçant."
+      }
+    ],
+    "a_retenir": "L'ex-PDG conteste les accusations alors qu'il cherche à revenir à la tête de Nvidia.",
+    "voix": {
+      "couverture": "L'ancien patron de Nvidia, Jensen Huang, visé par de lourdes accusations.",
+      "points": [
+        "Il aurait menacé des salariés avec des propos extrêmement violents.",
+        "L'humiliation publique servait à motiver les équipes selon les témoignages.",
+        "Un ancien cadre a perçu plus d'un million de dollars après un accord."
+      ],
+      "retenir": "L'ex dirigeant conteste ces faits alors qu'il souhaite revenir dans l'entreprise."
+    },
+    "prononciation": {
+      "Nvidia": "En-vid-ia"
+    },
+    "legende": "Une affaire explosive secoue l'univers de la tech. D'après un rapport du New York Times, l'ancien patron de Nvidia, Jensen Huang, aurait passé des décennies à humilier et menacer ses salariés. Entre insultes publiques, menaces physiques et climat de peur permanent, ces méthodes brutales visaient selon lui à pousser les équipes au maximum. Un ancien responsable des ressources humaines aurait même obtenu un accord financier de plus d'un million de dollars après avoir contesté sa conduite. Jensen Huang nie ces faits, au moment même où certains soutiennent son retour à la direction de l'entreprise. Et toi, que penses-tu de ces révélations ?\n\nSources : IGN, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #Nvidia #JensenHuang #Tech #Hardware #Business #Actualite",
+    "sources": [
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/jensen-huang-verbal-abuse-allegations"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/"
+      }
+    ],
+    "score_tri": 1.03,
+    "creneau": "actu",
+    "redige_le": "2026-11-21T09:31:38+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 27.6,
+    "voix_off": true,
+    "video": "data/videos/359ff8c8ec8e.mp4",
+    "telegram": {
+      "message_id": 243,
+      "envoye_le": "2026-11-21T09:39:21+00:00"
+    }
+  },
+  {
+    "sujet_id": "4758c6acda01",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Faux produits Final Fantasy 7 : treize arrestations à Shanghai",
+    "sous_titre": "La police chinoise a saisi l'équivalent de trois cent mille dollars de fausses figurines de Tifa.",
+    "points": [
+      {
+        "titre": "Des contrefaçons très réalistes",
+        "texte": "Des acheteurs ont alerté la police en mai dernier après avoir reçu des figurines de Tifa Lockhart non conformes aux produits officiels de Square Enix."
+      },
+      {
+        "titre": "Des accessoires en plus",
+        "texte": "Les contrefacteurs vendaient ces fausses pièces plus cher que les vraies en ajoutant des visages et des mains interchangeables absents des modèles originaux."
+      },
+      {
+        "titre": "Une vaste opération policière",
+        "texte": "Au total, treize personnes ont été arrêtées et font l'objet d'une enquête pour infraction aux droits des marques."
+      }
+    ],
+    "a_retenir": "La police de Shanghai a déjà saisi pour dix millions et demi de dollars de faux jouets cette année.",
+    "voix": {
+      "couverture": "Treize personnes arrêtées en Chine pour un trafic de fausses figurines Final Fantasy sept.",
+      "points": [
+        "Des acheteurs ont repéré des contrefaçons de Tifa Lockhart non autorisées par Square Enix.",
+        "Les vendeurs rajoutaient des visages et des mains pour faire grimper les prix.",
+        "Trois cent mille dollars de marchandises ont été saisis lors de cette intervention."
+      ],
+      "retenir": "Les autorités chinoises traquent activement tous les faux produits dérivés cette année."
+    },
+    "prononciation": {
+      "Final Fantasy 7": "Faïnal Fantasi Sèvène",
+      "Tifa Lockhart": "Tifa Lokhart",
+      "Square Enix": "Skouare Eniks"
+    },
+    "legende": "Aïe, ça ne rigole pas du tout avec les contrefaçons en Chine ! Treize personnes ont récemment été arrêtées à Shanghai suite à un trafic de fausses figurines de Tifa issues de Final Fantasy 7. Les produits, presque identiques aux originaux mais vendus sans l'autorisation de Square Enix, étaient même livrés avec des accessoires supplémentaires pour attirer les acheteurs. Une descente qui s'inscrit dans une série de coups de filet menés par les autorités locales contre les arnaques de produits dérivés. Et toi, tu fais attention à l'authenticité de tes figurines ? 🎮\n\nSources : GamesRadar, Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #FinalFantasy7 #TifaLockhart #SquareEnix #Shanghai #Figurine #JeuVideo",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-tifa-lockhart-counterfeit-figure-scheme-leads-to-13-arrests-and-usd300-000-in-seized-assets/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested"
+      }
+    ],
+    "score_tri": 0.94,
+    "creneau": "actu",
+    "redige_le": "2026-11-21T09:31:38+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.9,
+    "voix_off": true,
+    "video": "data/videos/4758c6acda01.mp4",
+    "telegram": {
+      "message_id": 245,
+      "envoye_le": "2026-11-21T09:39:23+00:00"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "signature": [
+      "ceo",
+      "decades",
+      "employees",
+      "head",
+      "huang",
+      "jensen",
+      "nvidia",
+      "off",
+      "rip"
+    ],
+    "titre": "Jensen Huang Allegedly Threatened Nvidia Workers and Told Employee He Would Rip Off the Top of Their Head and 'Pee on Your Brain'",
+    "score": 1.03,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T22:06:55+00:00",
+    "mots_cles": [
+      "employees",
+      "rip",
+      "head",
+      "huang",
+      "jensen",
+      "decades",
+      "ceo",
+      "nvidia"
+    ],
+    "articles": [
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Jensen Huang Allegedly Threatened Nvidia Workers and Told Employee He Would Rip Off the Top of Their Head and 'Pee on Your Brain'",
+        "lien": "https://www.ign.com/articles/jensen-huang-verbal-abuse-allegations",
+        "resume": "Former Nvidia CEO Jensen Huang allegedly threatened employees with violence and \"humiliated\" them for decades.",
+        "publie_le": "2026-11-20T22:06:55+00:00"
+      },
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "NYT report documents ex-Nvidia CEO Jensen Huang's decades of berating employees: 'He said he would rip both arms off a subordinate and beat the person over the head to death with them'",
+        "lien": "https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/",
+        "resume": "Huang claims \"he couldn’t motivate them simply with money\".",
+        "publie_le": "2026-11-20T16:52:44+00:00"
+      }
+    ],
+    "propose_le": "2026-11-21T09:31:38+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "13",
+      "7",
+      "fantasy",
+      "final",
+      "police",
+      "shanghai",
+      "tifa"
+    ],
+    "titre": "Final Fantasy 7 Tifa counterfeit figure scheme leads to 13 arrests and $300,000 in seized assets",
+    "score": 0.94,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "GamesRadar"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-20T20:24:49+00:00",
+    "mots_cles": [
+      "shanghai",
+      "13",
+      "tifa",
+      "police",
+      "final",
+      "fantasy",
+      "7"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Final Fantasy 7 Tifa counterfeit figure scheme leads to 13 arrests and $300,000 in seized assets",
+        "lien": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-tifa-lockhart-counterfeit-figure-scheme-leads-to-13-arrests-and-usd300-000-in-seized-assets/",
+        "resume": "Shanghai police have reportedly made 140 arrests this year alone related to counterfeit toys",
+        "publie_le": "2026-11-20T20:24:49+00:00"
+      },
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation",
+        "lien": "https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested",
+        "resume": "Chinese police have arrested 13 individuals in Shanghai allegedly involved in a bootleg Final Fantasy 7 Tifa figurine business, after consumers reported the operation. They are currently being investigated on suspicion of selling infringing reproductions. Read more",
+        "publie_le": "2026-11-20T16:39:30+00:00"
+      }
+    ],
+    "propose_le": "2026-11-21T09:31:38+00:00",
+    "creneau": "actu"
+  }
+]
