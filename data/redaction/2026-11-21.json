@@ -243,7 +243,7 @@
   },
   {
     "sujet_id": "6dc4baf3fa97",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Faut-il serrer la main de Mattia dans GTA VI",
@@ -291,6 +291,7 @@
     "telegram": {
       "message_id": 254,
       "envoye_le": "2026-11-21T17:12:40+00:00"
-    }
+    },
+    "decide_le": "2026-11-21T17:51:22+00:00"
   }
 ]
