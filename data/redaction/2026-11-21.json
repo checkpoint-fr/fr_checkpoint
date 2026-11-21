@@ -59,7 +59,7 @@
   },
   {
     "sujet_id": "4758c6acda01",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Faux produits Final Fantasy 7 : treize arrestations à Shanghai",
@@ -115,6 +115,7 @@
     "telegram": {
       "message_id": 245,
       "envoye_le": "2026-11-21T09:39:23+00:00"
-    }
+    },
+    "decide_le": "2026-11-21T10:59:25+00:00"
   }
 ]
