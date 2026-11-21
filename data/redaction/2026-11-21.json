@@ -187,7 +187,7 @@
   },
   {
     "sujet_id": "e4daf8c86e89",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Le code secret du coffre de La Cascara dans GTA VI",
@@ -238,7 +238,8 @@
     "telegram": {
       "message_id": 252,
       "envoye_le": "2026-11-21T17:12:38+00:00"
-    }
+    },
+    "decide_le": "2026-11-21T17:51:16+00:00"
   },
   {
     "sujet_id": "6dc4baf3fa97",
