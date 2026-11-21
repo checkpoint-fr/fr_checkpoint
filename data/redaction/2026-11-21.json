@@ -360,7 +360,7 @@
   },
   {
     "sujet_id": "57299c435e49",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "L'après Persona 6 arrivera plus vite selon Atlus",
@@ -415,6 +415,11 @@
       "message_id": 261,
       "envoye_le": "2026-11-21T18:55:30+00:00"
     },
-    "decide_le": "2026-11-21T19:30:00+00:00"
+    "decide_le": "2026-11-21T19:30:00+00:00",
+    "instagram": {
+      "media_id": "17927889801440195",
+      "lien": "https://www.instagram.com/reel/DgBCqCqgJ72/",
+      "publie_le": "2026-11-21T20:02:29+00:00"
+    }
   }
 ]
