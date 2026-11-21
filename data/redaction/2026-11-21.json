@@ -301,7 +301,7 @@
   },
   {
     "sujet_id": "e7e4fbbc05eb",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Pourquoi le film Blade a capoté selon son premier réalisateur",
@@ -355,7 +355,8 @@
     "telegram": {
       "message_id": 259,
       "envoye_le": "2026-11-21T18:55:28+00:00"
-    }
+    },
+    "decide_le": "2026-11-21T19:29:45+00:00"
   },
   {
     "sujet_id": "57299c435e49",
