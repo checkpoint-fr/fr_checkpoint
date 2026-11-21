@@ -126,7 +126,7 @@
   },
   {
     "sujet_id": "cd873cd5dc05",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI pulvérise tous les records de l'histoire du divertissement",
@@ -182,7 +182,8 @@
     "telegram": {
       "message_id": 250,
       "envoye_le": "2026-11-21T17:12:36+00:00"
-    }
+    },
+    "decide_le": "2026-11-21T17:51:08+00:00"
   },
   {
     "sujet_id": "e4daf8c86e89",
