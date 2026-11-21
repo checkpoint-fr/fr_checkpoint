@@ -123,5 +123,172 @@
       "envoye_le": "2026-11-21T09:39:23+00:00"
     },
     "decide_le": "2026-11-21T10:59:25+00:00"
+  },
+  {
+    "sujet_id": "cd873cd5dc05",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "GTA VI pulvérise tous les records de l'histoire du divertissement",
+    "sous_titre": "Des chiffres complètement fous pour les premières 24 heures de commercialisation",
+    "points": [
+      {
+        "titre": "32,5 millions de précommandes",
+        "texte": "Le studio annonce un chiffre historique de précommandes, sans compter les ventes directes du jour de sortie."
+      },
+      {
+        "titre": "3,79 milliards de dollars",
+        "texte": "C'est le montant astronomique généré par le jeu, pulvérisant le lancement de GTA V et ses 850 millions."
+      },
+      {
+        "titre": "Plus fort que le cinéma",
+        "texte": "Le titre surclasse le box-office mondial et s'impose comme le plus gros lancement culturel de tous les temps."
+      }
+    ],
+    "a_retenir": "Un démarrage stratosphérique qui fait entrer le jeu dans une autre dimension.",
+    "voix": {
+      "couverture": "GTA VI pulvérise tous les records de l'histoire du divertissement.",
+      "points": [
+        "Le jeu enregistre trente-deux virgule cinq millions de précommandes, un record absolu.",
+        "Il génère trois milliards sept cent quatre-vingt-dix millions de dollars dès son premier jour.",
+        "Il surpasse le cinéma et devient le plus gros lancement culturel de tous les temps."
+      ],
+      "retenir": "Un démarrage stratosphérique qui fait entrer le jeu dans une autre dimension."
+    },
+    "prononciation": {},
+    "legende": "Le retour à Vice City restera gravé dans l'histoire. En seulement vingt-quatre heures, le jeu signé Rockstar Games a tout emporté sur son passage avec des ventes et des recettes totalement inédites. Des millions de joueurs ont répondu présents pour ce qui s'annonce déjà comme le phénomène culturel de la décennie. 🎮\n\nCes scores historiques dépassent de loin tout ce que l'industrie du jeu vidéo et le cinéma ont pu connaître jusqu'à présent. Et ce n'est que le début puisque les ventes en boutique s'ajoutent à ce raz-de-marée de précommandes.\n\nEt toi, tu fais partie des millions de joueurs qui ont replongé à Vice City ? Dis-le-nous en commentaire ! 👇\n\nSources : JV, ActuGaming, Gamekult\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #ViceCity #TakeTwo #PlayStation #Xbox #GamingNews",
+    "sources": [
+      {
+        "nom": "JV",
+        "lien": "https://www.jeuxvideo.com/news/2116125/les-chiffres-de-gta-6-donnent-deja-le-tournis-3-79-milliards-de-dollars-et-32-5-millions-d-unites-vendus.htm"
+      },
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/gta-6-record-lancement-834441/"
+      },
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/gta-6-entre-dans-l-histoire-du-divertissement-avec-32-5-millions-d-exemplaires-precommandes-et-3-8-milliards-de-dollars-generes-en-24-heures-3050873105.html"
+      }
+    ],
+    "score_tri": 2.16,
+    "creneau": "gta6",
+    "redige_le": "2026-11-21T17:00:50+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 27.9,
+    "voix_off": true,
+    "video": "data/videos/cd873cd5dc05.mp4",
+    "telegram": {
+      "message_id": 250,
+      "envoye_le": "2026-11-21T17:12:36+00:00"
+    }
+  },
+  {
+    "sujet_id": "e4daf8c86e89",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Le code secret du coffre de La Cascara dans GTA VI",
+    "sous_titre": "Découvre comment piller ce motel en ruine et récupérer un max de butin.",
+    "points": [
+      {
+        "titre": "Le code du coffre",
+        "texte": "Le code fixe pour ouvrir le coffre situé au dernier étage du motel en ruine de La Cascara est 6969."
+      },
+      {
+        "titre": "Un braquage très rentable",
+        "texte": "Ce braquage à Port Gellhorn cache une mitrailleuse légère, un lance-grenades, une arme unique et un véhicule rare."
+      },
+      {
+        "titre": "Le meilleur pistolet discret",
+        "texte": "Rends-toi dans la pièce voisine du coffre pour récupérer la Scrapped VF5C, une mitraillette silencieuse idéale pour éliminer les ennemis en douce."
+      }
+    ],
+    "a_retenir": "Pense à emmener Jason pour transporter tout le butin et repars au volant de la Vapid Firebug Dominator !",
+    "voix": {
+      "couverture": "Tu cherches le code du coffre de La Cascara dans GTA VI ?",
+      "points": [
+        "Le code fixe pour ouvrir ce coffre situé au dernier étage est le six neuf six neuf.",
+        "Ce braquage à Port Gellhorn cache une mitrailleuse, un lance-grenades et un véhicule unique.",
+        "Tu trouveras aussi une mitraillette silencieuse dans la pièce voisine pour éliminer les ennemis en douce."
+      ],
+      "retenir": "Emmène Jason avec toi pour tout piller et repars au volant de la voiture garée devant."
+    },
+    "prononciation": {
+      "Scrapped VF5C": "Skrappeut V F Cinq Cé",
+      "Vapid Firebug Dominator": "Vapide Faïrebougue Dominator"
+    },
+    "legende": "Tu prépares tes futurs braquages sur GTA VI ? Un article dévoile comment vider le motel en ruine de La Cascara à Port Gellhorn. Entre le code du coffre, les armes planquées comme le lance-grenades ou la mitraillette silencieuse, et le véhicule rouge et noir garé devant, ce braquage s'annonce ultra lucratif.\n\nN'oublie pas d'emmener Jason avec toi pour ne rater aucun sac de butin, car il y a largement de quoi faire le plein de cash et de drogues.\n\nEt toi, tu as hâte de tester ce braquage ? 🎮\n\nSources : PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #PortGellhorn #Jason #OpenWorld #Action #PlayStation5 #XboxSeriesX",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/"
+      }
+    ],
+    "score_tri": 0.98,
+    "creneau": "gta6",
+    "redige_le": "2026-11-21T17:00:50+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 27.9,
+    "voix_off": true,
+    "video": "data/videos/e4daf8c86e89.mp4",
+    "telegram": {
+      "message_id": 252,
+      "envoye_le": "2026-11-21T17:12:38+00:00"
+    }
+  },
+  {
+    "sujet_id": "6dc4baf3fa97",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Faut-il serrer la main de Mattia dans GTA VI",
+    "sous_titre": "Ce choix crucial au début d'une mission cache une petite surprise.",
+    "points": [
+      {
+        "titre": "Un choix en apparence important",
+        "texte": "Au début de la mission Day Release, tu as l'occasion de serrer la main de Mattia, ce qui semble être une décision marquante pour la suite."
+      },
+      {
+        "titre": "Aucun impact sur les missions",
+        "texte": "Que tu acceptes ou refuses de lui serrer la main, cela ne change absolument rien aux événements de la mission."
+      },
+      {
+        "titre": "Même constat avec la drogue",
+        "texte": "Refuser ou accepter les drogues proposées par Mattia dans le club de nuit n'entraîne aucune répercussion notable sur l'histoire."
+      }
+    ],
+    "a_retenir": "Tes choix avec Mattia n'ont aucun impact à long terme, la suite de l'histoire reste identique.",
+    "voix": {
+      "couverture": "Faut-il serrer la main de Mattia dans GTA VI ?",
+      "points": [
+        "Au début de la mission Day Release, tu peux choisir de serrer la main de Mattia.",
+        "Mais que tu acceptes ou non, cela ne change absolument rien au déroulement de la mission.",
+        "Même chose pour la drogue en boîte de nuit, tes choix n'ont aucun impact à long terme."
+      ],
+      "retenir": "Tes choix avec Mattia ne changent rien, la suite de l'aventure reste la même."
+    },
+    "prononciation": {},
+    "legende": "Tu te demandes si tes choix ont vraiment un impact dans GTA VI ? Un détail précis de la mission Day Release vient d'être analysé de près par les joueurs. Serrer la main de Mattia ou refuser sa proposition de drogue en boîte de nuit donne l'impression d'influencer l'aventure. En réalité, le jeu se déroule exactement de la même manière peu importe ta décision, et le boulot mentionné reste de toute façon incontournable. Une petite info bonne à savoir pour aborder cette mission sereinement. Et toi, tu as fait quoi face à Mattia ?\n\nSources : GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #Jason #Lucia #Action #OpenWorld",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mattia/"
+      }
+    ],
+    "score_tri": 0.98,
+    "creneau": "gta6",
+    "redige_le": "2026-11-21T17:00:50+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.7,
+    "voix_off": true,
+    "video": "data/videos/6dc4baf3fa97.mp4",
+    "telegram": {
+      "message_id": 254,
+      "envoye_le": "2026-11-21T17:12:40+00:00"
+    }
   }
 ]

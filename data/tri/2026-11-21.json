@@ -107,5 +107,172 @@
     ],
     "propose_le": "2026-11-21T09:31:38+00:00",
     "creneau": "actu"
+  },
+  {
+    "signature": [
+      "3",
+      "32",
+      "5",
+      "6",
+      "79",
+      "chiffres",
+      "divertissement",
+      "dollars",
+      "gta",
+      "heures",
+      "histoire",
+      "interactive",
+      "milliards",
+      "millions",
+      "precommandes",
+      "take"
+    ],
+    "titre": "Les chiffres de GTA 6 donnent déjà le tournis : 3,79 milliards de dollars et 32,5 millions d’unités vendus",
+    "score": 2.16,
+    "nb_sources": 3,
+    "sources": [
+      "ActuGaming",
+      "Gamekult",
+      "JV"
+    ],
+    "langues": [
+      "fr"
+    ],
+    "dernier_article": "2026-11-21T11:18:54+00:00",
+    "mots_cles": [
+      "precommandes",
+      "divertissement",
+      "chiffres",
+      "interactive",
+      "dollars",
+      "milliards",
+      "millions",
+      "heures"
+    ],
+    "articles": [
+      {
+        "source": "JV",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Les chiffres de GTA 6 donnent déjà le tournis : 3,79 milliards de dollars et 32,5 millions d’unités vendus",
+        "lien": "https://www.jeuxvideo.com/news/2116125/les-chiffres-de-gta-6-donnent-deja-le-tournis-3-79-milliards-de-dollars-et-32-5-millions-d-unites-vendus.htm",
+        "resume": "Quarante-huit heures après le retour tant attendu à Vice City, Take-Two Interactive et Rockstar Games dévoilent les premiers bilans commerciaux de Grand Theft Auto VI. Avec 3,79 milliards de dollars générés dès son jour de lancement et 32,5 millions d'exemplaires écoulés avant même sa sortie, le titre...",
+        "publie_le": "2026-11-21T11:18:54+00:00"
+      },
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "GTA 6 réalise le plus gros lancement de toute l’histoire du divertissement avec 32,5 millions de précommandes et 3,79 milliards de dollars récoltés",
+        "lien": "https://www.actugaming.net/gta-6-record-lancement-834441/",
+        "resume": "ActuGaming.net GTA 6 réalise le plus gros lancement de toute l’histoire du divertissement avec 32,5 millions de précommandes et 3,79 milliards de dollars récoltés Tout le monde se doutait que GTA 6 allait avoir droit à un gros lancement. […] L'article GTA 6 réalise le plus gros lancement de toute l’histoire du divertissement avec 32,5 millions de précommandes et 3,79 milliards de dollars récoltés…",
+        "publie_le": "2026-11-20T20:17:31+00:00"
+      },
+      {
+        "source": "Gamekult",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "GTA 6 entre dans l'histoire du divertissement avec 32,5 millions d'exemplaires précommandés et 3,8 milliards de dollars générés en 24 heures",
+        "lien": "https://www.gamekult.com/actualite/gta-6-entre-dans-l-histoire-du-divertissement-avec-32-5-millions-d-exemplaires-precommandes-et-3-8-milliards-de-dollars-generes-en-24-heures-3050873105.html",
+        "resume": "« Les chiffres parleront d'eux-mêmes », avait prévenu Strauss Zelnick, le PDG de Take-Two Interactive, dans le cadre de la présentation des résultats financiers du groupe précédant de quelques jours la sortie de Grand Theft Auto VI. Il ne mentait pas.",
+        "publie_le": "2026-11-20T20:07:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-21T17:00:50+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "cascara",
+      "code",
+      "floor",
+      "gta",
+      "motel",
+      "open",
+      "ruined",
+      "safe",
+      "top"
+    ],
+    "titre": "GTA 6 La Cascara Motel safe code",
+    "score": 0.98,
+    "nb_sources": 1,
+    "sources": [
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-21T16:36:30+00:00",
+    "mots_cles": [
+      "open",
+      "top",
+      "floor",
+      "motel",
+      "ruined",
+      "cascara",
+      "safe",
+      "code"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6 La Cascara Motel safe code",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/",
+        "resume": "Open the safe on the top floor of this ruined motel.",
+        "publie_le": "2026-11-21T16:36:30+00:00"
+      }
+    ],
+    "propose_le": "2026-11-21T17:00:50+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "gta",
+      "hand",
+      "important",
+      "mattia",
+      "moment",
+      "quite",
+      "seems",
+      "shake",
+      "shaking"
+    ],
+    "titre": "Should you shake Mattia's hand in GTA 6?",
+    "score": 0.98,
+    "nb_sources": 1,
+    "sources": [
+      "GamesRadar"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-21T16:38:21+00:00",
+    "mots_cles": [
+      "mattia",
+      "hand",
+      "seems",
+      "important",
+      "shaking",
+      "shake",
+      "moment",
+      "quite"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Should you shake Mattia's hand in GTA 6?",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mattia/",
+        "resume": "Shaking Mattia's hand seems like quite an important moment in GTA 6",
+        "publie_le": "2026-11-21T16:38:21+00:00"
+      }
+    ],
+    "propose_le": "2026-11-21T17:00:50+00:00",
+    "creneau": "gta6"
   }
 ]
