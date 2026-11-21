@@ -274,5 +274,113 @@
     ],
     "propose_le": "2026-11-21T17:00:50+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "bassam",
+      "blade",
+      "canceled",
+      "director",
+      "marvel",
+      "movie",
+      "tariq"
+    ],
+    "titre": "Former Blade Director Reveals What Went Wrong With The Ill-Fated Marvel Movie",
+    "score": 1.84,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-21T17:17:13+00:00",
+    "mots_cles": [
+      "movie",
+      "canceled",
+      "tariq",
+      "bassam",
+      "blade",
+      "director",
+      "marvel"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Former Blade Director Reveals What Went Wrong With The Ill-Fated Marvel Movie",
+        "lien": "https://www.polygon.com/blade-movie-director-comments-no-script/",
+        "resume": "\"It was funny and strange to start casting and building without a proper script,\" director Bassam Tariq said of his work on the canceled Blade movie",
+        "publie_le": "2026-11-21T17:17:13+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Blade Director Says He Walked Away From Marvel's Canceled Movie Because 'Life's Too Short to Make S**t Films'",
+        "lien": "https://www.ign.com/articles/blade-director-says-he-walked-away-from-marvels-canceled-movie-because-lifes-too-short-to-make-st-films",
+        "resume": "Director Bassam Tariq has opened up about why he exited Marvel's Blade movie, saying, \"life's too short to make s**t films.\"",
+        "publie_le": "2026-11-21T17:05:23+00:00"
+      }
+    ],
+    "propose_le": "2026-11-21T18:46:00+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "5",
+      "6",
+      "atlus",
+      "long",
+      "persona",
+      "seven",
+      "won",
+      "years"
+    ],
+    "titre": "Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6",
+    "score": 1.56,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-21T14:31:07+00:00",
+    "mots_cles": [
+      "atlus",
+      "seven",
+      "long",
+      "persona",
+      "5",
+      "won",
+      "years",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6",
+        "lien": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
+        "resume": "\"Persona 6 is not the end\".",
+        "publie_le": "2026-11-21T14:31:07+00:00"
+      },
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
+        "lien": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
+        "resume": "Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to. Read more",
+        "publie_le": "2026-11-20T19:23:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-21T18:46:00+00:00",
+    "creneau": "actu_soir"
   }
 ]

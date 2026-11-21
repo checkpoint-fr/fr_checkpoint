@@ -298,5 +298,121 @@
       "envoye_le": "2026-11-21T17:12:40+00:00"
     },
     "decide_le": "2026-11-21T17:51:22+00:00"
+  },
+  {
+    "sujet_id": "e7e4fbbc05eb",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Pourquoi le film Blade a capoté selon son premier réalisateur",
+    "sous_titre": "Bassam Tariq balance sur les coulisses chaotiques du projet avorté de Marvel",
+    "points": [
+      {
+        "titre": "Un tournage sans script solide",
+        "texte": "Annoncé en 2019, le film a commencé son casting et sa pré-production sans même avoir un scénario complet et valide."
+      },
+      {
+        "titre": "Une perte de crédibilité",
+        "texte": "Le réalisateur Bassam Tariq explique qu'il devait vendre des rôles aux acteurs en espérant que le texte final suive, ce qui est très dangereux."
+      },
+      {
+        "titre": "Le choix de tout quitter",
+        "texte": "Parti en 2022, il estime que la vie est trop courte pour faire de mauvais films et réclame un contrôle total sur ses scénarios."
+      }
+    ],
+    "a_retenir": "Le film Blade est finalement annulé après des années de galères et de changements de réalisateurs.",
+    "voix": {
+      "couverture": "Pourquoi le film Blade a totalement capoté selon son premier réalisateur",
+      "points": [
+        "Le projet a commencé son casting sans même avoir de scénario complet.",
+        "Le réalisateur devait inventer des rôles en espérant que le texte final suive.",
+        "Il a préféré quitter le navire pour garder son intégrité."
+      ],
+      "retenir": "Le film Blade est finalement annulé après des années de galères."
+    },
+    "prononciation": {
+      "Blade": "Blèd"
+    },
+    "legende": "Le destin du film Blade chez Marvel continue de faire parler. L'ancien réalisateur Bassam Tariq est revenu sur son départ du projet, révélant des conditions de travail pour le moins surprenantes. Il a notamment expliqué avoir dû lancer le casting et construire le film sans même avoir de scénario solide entre les mains.\n\nUne situation intenable pour le cinéaste, qui a préféré jeter l'éponge pour préserver son intégrité face aux acteurs. Depuis, le projet a accumulé les retards et les départs avant d'être définitivement annulé par le studio.\n\nEt toi, tu regrettes de ne jamais voir ce film ?\n\nSources : Polygon, IGN\n\n#checkpointfr #jeuxvideo #gaming #Marvel #Blade #MCU #Disney #Cinema #Superheros",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/blade-movie-director-comments-no-script/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/blade-director-says-he-walked-away-from-marvels-canceled-movie-because-lifes-too-short-to-make-st-films"
+      }
+    ],
+    "score_tri": 1.84,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-21T18:46:00+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 24.3,
+    "voix_off": true,
+    "video": "data/videos/e7e4fbbc05eb.mp4",
+    "telegram": {
+      "message_id": 259,
+      "envoye_le": "2026-11-21T18:55:28+00:00"
+    }
+  },
+  {
+    "sujet_id": "57299c435e49",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "L'après Persona 6 arrivera plus vite selon Atlus",
+    "sous_titre": "Le studio veut réduire l'attente interminable entre les épisodes principaux de sa saga de RPG culte.",
+    "points": [
+      {
+        "titre": "Une attente record",
+        "texte": "Sept ans après Persona 5 Royal, Persona 6 n'a toujours aucune date de sortie officielle."
+      },
+      {
+        "titre": "Persona 6 n'est pas la fin",
+        "texte": "Le producteur Kazuhisa Wada promet que les joueurs n'attendront pas aussi longtemps pour le jeu suivant."
+      },
+      {
+        "titre": "Des projets très lourds",
+        "texte": "Créer de tels RPG prend au moins cinq ans, mais Atlus cherche des moyens d'accélérer ses développements."
+      }
+    ],
+    "a_retenir": "Atlus promet de raccourcir les délais de développement pour la suite de Persona 6.",
+    "voix": {
+      "couverture": "Tu attends Persona 6 ? Atlus promet que la suite arrivera bien plus vite.",
+      "points": [
+        "Sept ans après Persona 5 Royal, le sixième épisode n'a toujours aucune date.",
+        "Le producteur Kazuhisa Wada assure pourtant que le jeu suivant ne prendra pas autant de temps.",
+        "Ces gros jeux demandent au moins cinq ans, mais l'équipe veut désormais accélérer la cadence."
+      ],
+      "retenir": "Atlus s'engage à réduire l'attente pour le futur de la saga Persona."
+    },
+    "prononciation": {
+      "Kazuhisa Wada": "Kazouhissa Ouada"
+    },
+    "legende": "Tu trouves le temps long en attendant Persona 6 ? Bonne nouvelle, la suite devrait arriver plus vite !\n\nSept ans se sont déjà écoulés depuis Persona 5 Royal, et le prochain épisode majeur se fait toujours désirer. Mais dans une interview récente, le producteur général Kazuhisa Wada a tenu à rassurer les fans : « Persona 6 n'est pas la fin » et l'équipe travaille pour réduire l'attente sur les projets suivants.\n\nConcevoir des RPG d'une telle ampleur demande au moins cinq ans de travail, mais Atlus veut optimiser sa production pour répondre aux attentes sans faire patienter sa communauté une décennie entière.\n\nEt toi, tu attends Persona 6 avec impatience ?\n\nSources : PC Gamer, Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #persona6 #persona5 #persona5royal #atlus #pstudio #jrpg #rpg",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus"
+      }
+    ],
+    "score_tri": 1.56,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-21T18:46:00+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 28.4,
+    "voix_off": true,
+    "video": "data/videos/57299c435e49.mp4",
+    "telegram": {
+      "message_id": 261,
+      "envoye_le": "2026-11-21T18:55:30+00:00"
+    }
   }
 ]

@@ -1,5 +1,137 @@
 [
   {
+    "id": "876280e9181638b2",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 The Final Flush mission walkthrough",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/",
+    "resume": "How to start and complete The Final Flush optional mission in GTA 6.",
+    "publie_le": "2026-11-21T18:14:45+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "9d2d8f3b2f157b5c",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
+    "lien": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+    "resume": "\"You can't help but take it a little bit personally\".",
+    "publie_le": "2026-11-21T18:00:00+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "7f9e4f0a005b0691",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "\"Let's do with witches what I did with Assassins!\": AC pioneer on making 1666: Amsterdam",
+    "lien": "https://www.gamesradar.com/games/rpg/lets-do-with-witches-what-i-did-with-assassins-patrice-desilets-assassins-creed-pioneer-on-ongoing-making-of-1666-amsterdam/",
+    "resume": "From Ezio Auditore to 17th century witch hunts, Patrice Désilets talks 1666 Amsterdam's devilish origins, everchanging mechanics, and the process of making a game with a community",
+    "publie_le": "2026-11-21T18:00:00+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "dfd280d61a86887d",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
+    "lien": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+    "resume": "Toby Fox is a purposefully mysterious person. It was probably a wise choice on his part, obfuscating his current appearance with everyone's favourite annoying dog, essentially never speaking aloud in livestreams and instead using a text-to-speech bot, and posting only when there's notable enough Deltarune updates of if it would be very funny. But as it turns out, that sense of mystery extends to…",
+    "publie_le": "2026-11-21T17:54:00+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "c9243845b3a95627",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie’s apartment",
+    "lien": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in-boobies-apartment/",
+    "resume": "Unlock the laptop in Chapter 3 with this guide",
+    "publie_le": "2026-11-21T17:50:46+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "80c4e5b23ae97117",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Welcome to Vice City mission walkthrough",
+    "lien": "https://www.videogameschronicle.com/guide/gta-6-welcome-to-vice-city-mission-walkthrough/",
+    "resume": "How to complete the Welcome to Vice City mission in GTA 6",
+    "publie_le": "2026-11-21T17:39:31+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "fcc3260c6b9e6dae",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "How to steal the BF Bandito in GTA 6",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
+    "resume": "Track down this white off-roader for Moses.",
+    "publie_le": "2026-11-21T17:34:25+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "dda0cde9349c2a1f",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
+    "lien": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
+    "resume": "A rating for the unannounced Nioh 3 Complete Edition has popped up on Korea's Game Rating and Administration Committee ( GRAC ). Read more",
+    "publie_le": "2026-11-21T17:19:50+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "a8c4cd965adb35aa",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Former Blade Director Reveals What Went Wrong With The Ill-Fated Marvel Movie",
+    "lien": "https://www.polygon.com/blade-movie-director-comments-no-script/",
+    "resume": "\"It was funny and strange to start casting and building without a proper script,\" director Bassam Tariq said of his work on the canceled Blade movie",
+    "publie_le": "2026-11-21T17:17:13+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "d9609ee0d48c6b04",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
+    "lien": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
+    "resume": "Keeping our streets safe.",
+    "publie_le": "2026-11-21T17:08:06+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "d2a4ed991f16856c",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Blade Director Says He Walked Away From Marvel's Canceled Movie Because 'Life's Too Short to Make S**t Films'",
+    "lien": "https://www.ign.com/articles/blade-director-says-he-walked-away-from-marvels-canceled-movie-because-lifes-too-short-to-make-st-films",
+    "resume": "Director Bassam Tariq has opened up about why he exited Marvel's Blade movie, saying, \"life's too short to make s**t films.\"",
+    "publie_le": "2026-11-21T17:05:23+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
+    "id": "639e91bb0ea9950a",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody",
+    "lien": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
+    "resume": "I'd almost forgotten what it was like.",
+    "publie_le": "2026-11-21T17:00:00+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
     "id": "2d9fab3e68743b1c",
     "source": "Polygon",
     "type": "presse",
@@ -20,6 +152,17 @@
     "resume": "The original Darkest Dungeon may have gotten some new DLC earlier this year , but that doesn't mean that Red Hook Studios are abandoning their sequel. No, in fact the next bit of DLC for Darkest Dungeon 2 was teased only a couple of weeks ago, with a new trailer shared today actually showing off what it's all about. Read more",
     "publie_le": "2026-11-21T16:53:00+00:00",
     "collecte_le": "2026-11-21T17:00:43+00:00"
+  },
+  {
+    "id": "806fefd230c3e3f4",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Growler de Vanessa GTA VI : Où trouver cette excellente voiture au chapitre 3 ?",
+    "lien": "https://www.jeuxvideo.com/news/2116156/growler-de-vanessa-gta-vi-ou-trouver-cette-excellente-voiture-au-chapitre-3.htm",
+    "resume": "Découvrez comment obtenir l'une des meilleures voitures pour débuter le chapitre 3 de GTA VI. Liée à une petite mission secondaire liée au PC de l'appartement que l'on vous prête à Vice City, la Growler de Vanessa est très simple à obtenir. On voit comment faire dans ce guide.",
+    "publie_le": "2026-11-21T16:50:07+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
   },
   {
     "id": "937d26243134126f",
@@ -187,6 +330,17 @@
     "collecte_le": "2026-11-21T17:00:43+00:00"
   },
   {
+    "id": "ec61b66c491d7730",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "8 ans après sa sortie, le meilleur jeu Dragon Ball Z de tous les temps va être amélioré : pourquoi refuse-t-il de mourir ?",
+    "lien": "https://www.jeuxvideo.com/news/2115092/8-ans-apres-sa-sortie-le-meilleur-jeu-dragon-ball-z-de-tous-les-temps-va-etre-ameliore-pourquoi-refuse-t-il-de-mourir.htm",
+    "resume": "Huit ans après son lancement, Dragon Ball FighterZ reste le meilleur jeu de Dragon Ball Z et continue d’être joué. Alors que d'autres titres sont paru entre temps, Bandai Namco vient d’officialiser l’arrivée prochaine d’une nouvelle mise à jour d’équilibrage.",
+    "publie_le": "2026-11-21T16:15:08+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
+  },
+  {
     "id": "8002c8cee4b76544",
     "source": "ActuGaming",
     "type": "presse",
@@ -218,6 +372,17 @@
     "resume": "GTA 6 did not seem to have much of an effect on platforms it was not available on",
     "publie_le": "2026-11-21T16:05:15+00:00",
     "collecte_le": "2026-11-21T17:00:43+00:00"
+  },
+  {
+    "id": "51d07cca4f572d54",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "J'ai résisté à World of Warcraft pendant 22 ans, mais j'ai craqué pour Forever : mon avis de noob",
+    "lien": "https://www.jeuxvideo.com/news/2115989/j-ai-resiste-a-world-of-warcraft-pendant-22-ans-mais-j-ai-craque-pour-forever-mon-avis-de-noob.htm",
+    "resume": "World of Warcraft Forever est sorti et… je dois l’admettre, je me suis laissé aspirer dans le vortex. En 22 ans, je n’y avais jamais plongé, mais Wow Forever a réussi là où les autres extensions et même Classic n’avait pas réussi à me convaincre.",
+    "publie_le": "2026-11-21T16:00:08+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
   },
   {
     "id": "02e828afee83fca8",
@@ -284,6 +449,17 @@
     "resume": "And find a new gun, lots of pills and plenty of cash.",
     "publie_le": "2026-11-21T15:51:59+00:00",
     "collecte_le": "2026-11-21T17:00:43+00:00"
+  },
+  {
+    "id": "f6b87f4e56d30508",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 : Comment réussir un braquage de banque ?",
+    "lien": "https://www.jeuxvideo.com/news/2116146/gta-6-comment-reussir-un-braquage-de-banque.htm",
+    "resume": "Les braquages de banque sont un excellent moyen d'engranger énormément d'argent en très peu de temps dans GTA VI. Mais c'est aussi une activité à très haut risque, que vous ne pourrez réussir qu'en ayant suffisamment avancé dans les chapitres de l'histoire.",
+    "publie_le": "2026-11-21T15:51:07+00:00",
+    "collecte_le": "2026-11-21T18:45:53+00:00"
   },
   {
     "id": "26b1a1203bc0ac6f",
