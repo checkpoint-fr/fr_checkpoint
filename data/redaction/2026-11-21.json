@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "359ff8c8ec8e",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "Jensen Huang accuse de menaces et d'humiliations chez Nvidia",
@@ -56,7 +56,12 @@
       "message_id": 243,
       "envoye_le": "2026-11-21T09:39:21+00:00"
     },
-    "decide_le": "2026-11-21T10:59:34+00:00"
+    "decide_le": "2026-11-21T10:59:34+00:00",
+    "instagram": {
+      "media_id": "18135396955854249",
+      "lien": "https://www.instagram.com/reel/DgAILHygM05/",
+      "publie_le": "2026-11-21T11:31:20+00:00"
+    }
   },
   {
     "sujet_id": "4758c6acda01",
