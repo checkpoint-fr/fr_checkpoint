@@ -57,7 +57,7 @@
   },
   {
     "sujet_id": "2109bac383c0",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "La pire fonctionnalité de GTA VI qui agace déjà les joueurs",
@@ -108,7 +108,12 @@
       "message_id": 270,
       "envoye_le": "2026-11-22T17:09:21+00:00"
     },
-    "decide_le": "2026-11-22T18:23:43+00:00"
+    "decide_le": "2026-11-22T18:23:43+00:00",
+    "instagram": {
+      "media_id": "18111189626337430",
+      "lien": "https://www.instagram.com/reel/DgDdBOxicu2/",
+      "publie_le": "2026-11-22T18:31:11+00:00"
+    }
   },
   {
     "sujet_id": "1935c17f522f",
