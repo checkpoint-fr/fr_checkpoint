@@ -1,39 +1,5 @@
 [
   {
-    "date": "2026-11-19T17:00:53+00:00",
-    "titre": "Grand Theft Auto VI is Out Now",
-    "mots": [
-      "6",
-      "appeared",
-      "gta",
-      "post",
-      "wire"
-    ]
-  },
-  {
-    "date": "2026-11-19T17:00:53+00:00",
-    "titre": "Should you spare Arnold in GTA 6?",
-    "mots": [
-      "6",
-      "arnold",
-      "gta",
-      "kill",
-      "spare"
-    ]
-  },
-  {
-    "date": "2026-11-19T17:00:53+00:00",
-    "titre": "‘See y’all in Leonida’: Jason’s actor finally confirms he’s in GTA 6",
-    "mots": [
-      "6",
-      "actors",
-      "finally",
-      "gta",
-      "jason",
-      "lucia"
-    ]
-  },
-  {
     "date": "2026-11-19T18:46:10+00:00",
     "titre": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
     "mots": [
@@ -367,6 +333,31 @@
       "net",
       "personne",
       "vue"
+    ]
+  },
+  {
+    "date": "2026-11-22T18:45:21+00:00",
+    "titre": "The Binding of Isaac removes AI-generated music from new update",
+    "mots": [
+      "binding",
+      "dev",
+      "generated",
+      "isaac",
+      "music",
+      "nicalis",
+      "removed",
+      "removes",
+      "repentance"
+    ]
+  },
+  {
+    "date": "2026-11-22T18:45:21+00:00",
+    "titre": "American Psycho Reboot Is 'Not Happening,' Director Says",
+    "mots": [
+      "american",
+      "director",
+      "happening",
+      "psycho"
     ]
   }
 ]

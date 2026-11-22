@@ -145,5 +145,110 @@
     "creneau": "gta6",
     "redige_le": "2026-11-22T17:00:32+00:00",
     "alertes": []
+  },
+  {
+    "sujet_id": "b2a852823980",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "The Binding of Isaac retire en urgence des musiques créées par IA",
+    "sous_titre": "Découvertes par la communauté dans la mise à jour Repentance+, ces pistes ont provoqué un tollé sur Steam",
+    "points": [
+      {
+        "titre": "Des pistes Suno démasquées",
+        "texte": "Un joueur a prouvé dans les fichiers du jeu que les morceaux d'un défi secret sur le thème de GTA VI avaient été créés avec l'intelligence artificielle Suno."
+      },
+      {
+        "titre": "Le créateur plaide l'ignorance",
+        "texte": "Edmund McMillen a affirmé qu'il ignorait totalement la présence de ces musiques générées artificiellement et a promis leur retrait immédiat."
+      },
+      {
+        "titre": "Pluie d'avis négatifs sur Steam",
+        "texte": "Le studio Nicalis a déployé un patch correctif sur PC, mais la colère des joueurs a fait chuter les évaluations récentes du jeu à seulement 8 % d'avis positifs."
+      }
+    ],
+    "a_retenir": "Face à la fronde des joueurs, les développeurs ont supprimé les morceaux incriminés sans expliquer leur présence.",
+    "voix": {
+      "couverture": "Scandale sur The Binding of Isaac : des musiques générées par IA ont été supprimées.",
+      "points": [
+        "Des joueurs ont découvert des morceaux créés par Suno dans un défi secret inspiré de GTA VI.",
+        "Le créateur du jeu, Edmund McMillen, affirme qu'il ignorait totalement la présence de ces musiques.",
+        "Nicalis a retiré les pistes incriminées sur PC, mais les évaluations Steam se sont effondrées."
+      ],
+      "retenir": "Une réaction rapide du studio, qui peine pourtant à calmer la colère des joueurs."
+    },
+    "prononciation": {
+      "The Binding of Isaac": "Ze Baïndingue of Aïzak",
+      "Suno": "Souno",
+      "Edmund McMillen": "Edmeund Meuk-Milène",
+      "Nicalis": "Nikalis"
+    },
+    "legende": "Mauvaise surprise pour les fans de The Binding of Isaac. Alors que la mise à jour Repentance+ ajoutait une run spéciale en clin d'œil à GTA VI, des joueurs ont découvert que les nouvelles musiques provenaient de l'intelligence artificielle Suno.\n\nEdmund McMillen, le créateur du jeu culte, a assuré sur les réseaux sociaux qu'il n'était absolument pas au courant de cet ajout. Le studio Nicalis a réagi rapidement en publiant un correctif sur PC pour retirer les fichiers en question, en attendant le déploiement sur consoles.\n\nMais le mal est fait : la page Steam a subi une vague de protestations, plongeant les évaluations récentes à seulement 8 % d'avis positifs.\n\nTu comprends la colère des joueurs face à l'usage de l'intelligence artificielle ?\n\nSources : GamesRadar, Eurogamer, IGN\n\n#checkpointfr #jeuxvideo #gaming #TheBindingOfIsaac #BindingOfIsaac #IsaacRepentance #Nicalis #EdmundMcMillen #Roguelike #Steam",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/roguelike/the-binding-of-isaac-removes-ai-generated-music-from-new-update-and-designer-edmund-mcmillen-is-looking-into-how-that-happened/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing"
+      }
+    ],
+    "score_tri": 2.39,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-22T18:45:21+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 31.6,
+    "voix_off": true,
+    "video": "data/videos/b2a852823980.mp4",
+    "telegram": {
+      "message_id": 275,
+      "envoye_le": "2026-11-22T18:48:04+00:00"
+    }
+  },
+  {
+    "sujet_id": "b232b3434302",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "officiel",
+    "accroche": "Le remake d'American Psycho par Luca Guadagnino est annulé",
+    "sous_titre": "Le réalisateur confirme qu'il ne réalisera pas cette nouvelle adaptation",
+    "points": [
+      {
+        "titre": "Projet abandonné",
+        "texte": "Luca Guadagnino a déclaré dans un podcast que sa nouvelle version d'American Psycho ne verra finalement pas le jour, malgré un scénario jugé fantastique."
+      }
+    ],
+    "a_retenir": "Le projet d'adaptation cinématographique d'American Psycho par Luca Guadagnino ne se fera pas.",
+    "voix": {
+      "couverture": "Le projet de remake d'American Psycho est officiellement abandonné par Luca Guadagnino.",
+      "points": [
+        "Le réalisateur a annoncé que son adaptation du roman culte ne se fera pas."
+      ],
+      "retenir": "Cette nouvelle version cinématographique est donc totalement à l'arrêt pour le moment."
+    },
+    "prononciation": {
+      "American Psycho": "Amérikane Saïko"
+    },
+    "legende": "Mauvaise nouvelle pour le cinéma : le réalisateur Luca Guadagnino a confirmé l'abandon de son projet d'adaptation d'American Psycho.\n\nBien qu'un scénario complet ait été rédigé par Scott Z. Burns, le cinéaste a indiqué que le film ne se concrétisera pas sous sa direction. Le roman de Bret Easton Ellis ne reviendra donc pas tout de suite sur grand écran.\n\nTu aurais aimé voir une nouvelle version du film ?\n\nSources : Polygon, IGN\n\n#checkpointfr #jeuxvideo #gaming #americanpsycho #lucaguadagnino #cinema #film #patrickbateman",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/american-psycho-reboot-movie-update-luca-guadagnino/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/american-psycho-remake-from-director-luca-guadagnino-no-longer-happening"
+      }
+    ],
+    "score_tri": 1.93,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-22T18:45:21+00:00",
+    "alertes": []
   }
 ]

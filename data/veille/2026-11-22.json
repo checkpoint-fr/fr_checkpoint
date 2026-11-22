@@ -1,5 +1,236 @@
 [
   {
+    "id": "43b3a87a893bd65b",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Feng Shui – GTA 6",
+    "lien": "https://www.actugaming.net/soluce-feng-shui-gta-6-834715/",
+    "resume": "ActuGaming.net Feng Shui – GTA 6 Dans GTA 6, le retour prochain de Lucia pousse Jason et Cal à préparer un […] L'article Feng Shui – GTA 6 est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-22T18:43:26+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "1add0558fcba1d19",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 discourse is already suffering from the flat earther effect",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
+    "resume": "Didn't you hear? You can't even steal cars anymore.",
+    "publie_le": "2026-11-22T18:43:01+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "02dde4b92f87447e",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
+    "lien": "https://www.polygon.com/gta-6-easter-eggs/",
+    "resume": "Grand Theft Auto 6 features tons of celebrity cameos, pop-culture references, and nods to past Rockstar games. Here are a few of our faves.",
+    "publie_le": "2026-11-22T18:42:14+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "0c7e187dd6da8770",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Island Dreams – GTA 6",
+    "lien": "https://www.actugaming.net/soluce-island-dreams-gta-6-834714/",
+    "resume": "ActuGaming.net Island Dreams – GTA 6 Dans le cadre de la mission « Island Dreams » de GTA 6, un certain Kenton a […] L'article Island Dreams – GTA 6 est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-22T18:41:23+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "a93292eb3322ed95",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Hé, Arnold ! – GTA 6",
+    "lien": "https://www.actugaming.net/soluce-he-arnold-gta-6-834713/",
+    "resume": "ActuGaming.net Hé, Arnold ! – GTA 6 La mission « Hé, Arnold ! » de GTA 6 vous emmenera faire la connaissance d’un drôle […] L'article Hé, Arnold ! – GTA 6 est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-22T18:40:10+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "336fb0aa94edcff6",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6: Full Alien UFO questline walkthrough",
+    "lien": "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/",
+    "resume": "How to unlock and complete the alien UFO easter egg questline in Grand Theft Auto 6",
+    "publie_le": "2026-11-22T18:25:15+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "7715dd8297a00362",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Rockstar Says Jason's Viral Personality in GTA 6 Comes From Steve McQueen and Real-Life Veterans",
+    "lien": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+    "resume": "Rockstar Games has opened up about GTA 6 protagonist Jason's viral personality and the two specific inspirations that helped bring him to life.",
+    "publie_le": "2026-11-22T18:15:04+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "1a58470b81df4619",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "American Psycho Reboot Is 'Not Happening,' Director Says",
+    "lien": "https://www.polygon.com/american-psycho-reboot-movie-update-luca-guadagnino/",
+    "resume": "We won't be getting a version of American Psycho from the director of Challengers",
+    "publie_le": "2026-11-22T18:09:46+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "29ebe92a0a054e60",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
+    "lien": "https://www.polygon.com/gta-6-hell-event-port-hellhorn-circles-of-hell-hellspawn-comshot/",
+    "resume": "In this guide, you learn all you need to start the Hell event in GTA 6 and go fight demons in Doom style to earn a unique weapon.",
+    "publie_le": "2026-11-22T18:05:11+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "f59a44917d1a2956",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Six Years Too Late, Next-Gen Finally Arrives with GTA 6",
+    "lien": "https://www.polygon.com/patch-notes-gta-6-next-gen/",
+    "resume": "Grand Theft Auto 6 is the best reason to buy a PS5 or Xbox Series X, but it might be the last time a game makes us feel this way",
+    "publie_le": "2026-11-22T18:00:18+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "360954c061f5b152",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Which GTA 6 radio station is your favourite so far?",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/",
+    "resume": "The music of Leonida is so damn good.",
+    "publie_le": "2026-11-22T18:00:00+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "a8def3b3a487eeb6",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The making of GTA 5: How the GTA 6 predecessor helped Rockstar pave the way for its return to Vice City with Jason and Lucia",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/the-making-of-gta-5-how-the-gta-6-predecessor-helped-rockstar-pave-the-way-for-its-return-to-vice-city-with-jason-and-lucia/",
+    "resume": "Co-studio head Aaron Garbut explains world design, three main characters, and bringing Los Santos to life",
+    "publie_le": "2026-11-22T18:00:00+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "6fab44a5e103649f",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
+    "resume": "And not just for GTA 6 Online, right? Right?",
+    "publie_le": "2026-11-22T17:51:53+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "3e8e5c2ff2dca966",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Reynolds Kit Car locations in GTA 6: How to restore the fourth car in Wyman's Car Collection",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
+    "resume": "Here's how you can find all the spare parts needed to restore the Reynolds in GTA 6",
+    "publie_le": "2026-11-22T17:49:13+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "57153e2577c2dbc3",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Forget the Lighthouse, GTA 6’s Best Minigame Is a Full-Blown Zombie Shooter That Will Take You Hours To Beat",
+    "lien": "https://www.ign.com/articles/forget-the-lighthouse-gta-6s-best-minigame-is-a-full-blown-zombie-shooter-that-will-take-you-hours-to-beat",
+    "resume": "Yes, we know you're all playing GTA 6, but don't forget to check out Street Trash 3: Dezombifier, the certified banger on Jason's JoySystem console.",
+    "publie_le": "2026-11-22T17:30:00+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "baa739d4668072b7",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Deux jeux, portant le même nom et sortis en même temps, font équipe pour sortir sur Switch",
+    "lien": "https://www.gamekult.com/actualite/deux-jeux-portant-le-meme-nom-et-sortis-en-meme-temps-font-equipe-pour-sortir-sur-switch-3050872912.html",
+    "resume": "Le plus grand concours de circonstances se trouve ici : deux jeux, chacun intitulé Piece by Piece mais sans aucun lien, sortent dans le même bundle sur Switch. Le pack a été possible grâce à l'entente entre les deux développeurs, qui n'avaient pourtant pas prévu de collaborer.",
+    "publie_le": "2026-11-22T17:25:00+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "3985e303066c0eff",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Christopher Nolan's Mystery Thriller Masterpiece Is Officially Being Removed from Netflix",
+    "lien": "https://www.polygon.com/memento-leaving-netflix-december-2026/",
+    "resume": "The director's 2001 breakthrough film established many of the techniques and themes he's used throughout his career",
+    "publie_le": "2026-11-22T17:23:18+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "8249e5ffcfb07737",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Mamba GT Locations: How to restore the third car in Wyman's Car Collection",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+    "resume": "You need to locate four Mamba GT scraps to get Wyman to restore this sweet sports car for you",
+    "publie_le": "2026-11-22T17:13:21+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "af6e2e9f1352caa0",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "How to steal the Declasse Vamos in GTA 6",
+    "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
+    "resume": "Grab the code to unlock the garage and steal the car for Moses.",
+    "publie_le": "2026-11-22T17:04:39+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "3a3df95e4427fefd",
+    "source": "Journal du Geek",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 : 7 lieux sans ennemis pour gagner plus de 35 000 dollars et des armes (bazooka, lance-grenades etc…)",
+    "lien": "https://www.journaldugeek.com/2026/11/22/gta-6-7-lieux-sans-ennemis-pour-gagner-plus-de-35-000-dollars-et-des-armes-bazooka-lance-grenades-etc/",
+    "resume": "Découvrez notre guide des planques à découvrir dès le début du jeu dans GTA 6 pour avoir de l'argent et des armes sans risques !",
+    "publie_le": "2026-11-22T17:03:57+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "f0d1e9343828d537",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Riata locations: How to restore the second car in Wyman's Classic Car Collection",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
+    "resume": "The second car in Wyman's Classic Car Collection is a lush '70s Riata and it can be yours if you can head to these three locations",
+    "publie_le": "2026-11-22T17:01:30+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
     "id": "8f1915ddf50dc955",
     "source": "Polygon",
     "type": "presse",
@@ -9,6 +240,17 @@
     "resume": "The Odyssey's effects team reveals how they built a 36-foot Cyclops puppet and hauled it up a mountain to film inside a cave in Greece.",
     "publie_le": "2026-11-22T17:00:19+00:00",
     "collecte_le": "2026-11-22T17:00:26+00:00"
+  },
+  {
+    "id": "a74105bc3b3cb347",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'",
+    "lien": "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too/",
+    "resume": "The fantasy novelist guides us through the games on his PC.",
+    "publie_le": "2026-11-22T17:00:00+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
   },
   {
     "id": "6bf3adec95745925",
@@ -42,6 +284,28 @@
     "resume": "Sunrise on the Reaping had a strong opening box office haul this weekend, re-establishing The Hunger Games as a box office giant.",
     "publie_le": "2026-11-22T16:49:49+00:00",
     "collecte_le": "2026-11-22T17:00:26+00:00"
+  },
+  {
+    "id": "1a12fa943bc5c643",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Meilleures voitures GTA 6 : Liste et emplacement des voitures uniques de la carte de Léonida",
+    "lien": "https://www.jeuxvideo.com/news/2116235/meilleures-voitures-gta-6-liste-et-emplacement-des-voitures-uniques-de-la-carte-de-leonida.htm",
+    "resume": "Découvrez notre liste des voitures uniques, les meilleures de la carte de GTA VI, dans ce nouveau chapitre de notre soluce complète de GTA VI. Cela vous aidera à remplir votre garage de bolides que vous ne trouverez absolument nulle part ailleurs.",
+    "publie_le": "2026-11-22T16:43:07+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "aadcc64526fa35b4",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "American Psycho Remake From Director Luca Guadagnino No Longer Happening",
+    "lien": "https://www.ign.com/articles/american-psycho-remake-from-director-luca-guadagnino-no-longer-happening",
+    "resume": "Director Luca Guadagnino has confirmed his American Psycho remake is officially dead.",
+    "publie_le": "2026-11-22T16:41:30+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
   },
   {
     "id": "e835f63f5b07b82e",
@@ -108,6 +372,28 @@
     "resume": "Plus you can experience it all from the comfort of your campervan.",
     "publie_le": "2026-11-22T16:00:00+00:00",
     "collecte_le": "2026-11-22T17:00:26+00:00"
+  },
+  {
+    "id": "9af1a48161147de6",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Lamborghini Urus en or GTA 6 : Où trouver la voiture unique de Casanova Island ?",
+    "lien": "https://www.jeuxvideo.com/news/2116228/lamborghini-urus-en-or-gta-6-ou-trouver-la-voiture-unique-de-casanova-island.htm",
+    "resume": "Si vous êtes allés jusque Vespucci Island pour récupérer la voiture de Fast and Furious dans GTA VI, vous allez peut-être vouloir faire un détour par Casanova Island pour aller chercher un autre modèle unique : le Lamborghini Urus en or.",
+    "publie_le": "2026-11-22T15:57:08+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
+  },
+  {
+    "id": "cb05a5890941e599",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Prise du Kraken Disney Dreamlight Valley : comment préparer cette recette 4 étoile ?",
+    "lien": "https://www.jeuxvideo.com/news/2115990/prise-du-kraken-disney-dreamlight-valley-comment-preparer-cette-recette-4-etoile.htm",
+    "resume": "Vous avez besoin de la recette de la Prise du Kraken pour la quête principale du nouveau DLC de Disney Dreamlight Valley ? Vous êtes au bon endroit : ce guide contient toutes les informations nécessaires pour trouver les ingrédients et cuisiner ce plat à 4 étoiles !",
+    "publie_le": "2026-11-22T15:56:09+00:00",
+    "collecte_le": "2026-11-22T18:45:15+00:00"
   },
   {
     "id": "998ef1c42729952d",
