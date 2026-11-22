@@ -148,7 +148,7 @@
   },
   {
     "sujet_id": "b2a852823980",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "The Binding of Isaac retire en urgence des musiques créées par IA",
@@ -209,6 +209,12 @@
     "telegram": {
       "message_id": 275,
       "envoye_le": "2026-11-22T18:48:04+00:00"
+    },
+    "decide_le": "2026-11-22T21:18:34+00:00",
+    "instagram": {
+      "media_id": "18156541531499465",
+      "lien": "https://www.instagram.com/reel/DgDwV8qgJCE/",
+      "publie_le": "2026-11-22T21:20:09+00:00"
     }
   },
   {
