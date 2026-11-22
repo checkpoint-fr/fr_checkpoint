@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "db1e056fea61",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Un ancien de Rockstar juge les graphismes de GTA VI",
@@ -52,7 +52,8 @@
     "telegram": {
       "message_id": 268,
       "envoye_le": "2026-11-22T17:09:19+00:00"
-    }
+    },
+    "decide_le": "2026-11-22T18:23:32+00:00"
   },
   {
     "sujet_id": "2109bac383c0",
