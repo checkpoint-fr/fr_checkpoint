@@ -123,7 +123,11 @@
     }
   },
   "2026-11-22": {
-    "actu": {},
+    "actu": {
+      "recherche": "2026-11-22T09:32:48+00:00",
+      "publication": "aucun sujet",
+      "cloture": "aucun sujet"
+    },
     "gta6": {},
     "actu_soir": {}
   }
