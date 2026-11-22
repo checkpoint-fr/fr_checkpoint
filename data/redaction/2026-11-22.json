@@ -1,0 +1,142 @@
+[
+  {
+    "sujet_id": "db1e056fea61",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Un ancien de Rockstar juge les graphismes de GTA VI",
+    "sous_titre": "Après 12 ans au studio, un artiste d'environnement partage son avis sur le monde ouvert",
+    "points": [
+      {
+        "titre": "Un regard d'expert",
+        "texte": "David O'Reilly a travaillé 12 ans chez Rockstar sur Red Dead Redemption 2, GTA V et GTA VI avant de partir en 2023. Il analyse désormais les décors sur sa chaîne Game World Art."
+      },
+      {
+        "titre": "Un rendu presque parfait",
+        "texte": "L'artiste qualifie les visuels de GTA VI de globalement époustouflants et presque sans défaut, estimant le jeu supérieur à Crimson Desert sur le plan artistique."
+      },
+      {
+        "titre": "Le détail des rivières",
+        "texte": "Passionné par l'eau, il admet toutefois préférer les rivières de Red Dead Redemption 2, un élément sur lequel il avait énormément travaillé à l'époque."
+      }
+    ],
+    "a_retenir": "Un hommage appuyé au monde ouvert de GTA VI par l'un de ses anciens créateurs",
+    "voix": {
+      "couverture": "Un ancien artiste de Rockstar donne son avis sans filtre sur GTA VI.",
+      "points": [
+        "David O'Reilly a bossé douze ans chez Rockstar avant d'analyser les jeux sur YouTube.",
+        "Il trouve la direction artistique de GTA VI époustouflante et bien au-dessus de Crimson Desert.",
+        "Mais cet obsédé de l'eau préfère quand même les rivières de Red Dead Redemption 2."
+      ],
+      "retenir": "Un regard fascinant sur la création du monde ouvert le plus attendu."
+    },
+    "prononciation": {
+      "David O'Reilly": "Dévid O'Raïli",
+      "Crimson Desert": "Krimzone Dézeurte"
+    },
+    "legende": "Que pense un créateur de décors de son propre jeu une fois sorti ? Après 12 ans chez Rockstar, David O'Reilly a pris du recul pour analyser le monde de GTA VI sur sa chaîne YouTube.\n\nS'il juge le rendu globalement époustouflant et presque irréprochable, ce spécialiste des environnements garde une petite préférence pour les cours d'eau de Red Dead Redemption 2, dont la création était devenue sa spécialité.\n\nEt toi, quel détail visuel t'impressionne le plus dans les mondes ouverts de Rockstar ?\n\nSources : PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #RedDeadRedemption2 #OpenWorld #JeuxVideo",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/"
+      }
+    ],
+    "score_tri": 0.99,
+    "creneau": "gta6",
+    "redige_le": "2026-11-22T17:00:32+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 27.0,
+    "voix_off": true,
+    "video": "data/videos/db1e056fea61.mp4",
+    "telegram": {
+      "message_id": 268,
+      "envoye_le": "2026-11-22T17:09:19+00:00"
+    }
+  },
+  {
+    "sujet_id": "2109bac383c0",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "La pire fonctionnalité de GTA VI qui agace déjà les joueurs",
+    "sous_titre": "Déposer ou retirer de l'argent dans GTA VI relève du parcours du combattant",
+    "points": [
+      {
+        "titre": "Une cachette sous le plancher",
+        "texte": "Au début du jeu, Jason n'a pas de compte en banque et cache ses billets sous le plancher de sa chambre."
+      },
+      {
+        "titre": "Un curseur infernal",
+        "texte": "Pour gérer son magot avec la croix directionnelle, le compteur s'emballe beaucoup trop vite et rend le choix de la somme pénible."
+      },
+      {
+        "titre": "L'application BuckMe et les distributeurs",
+        "texte": "Même après avoir débloqué l'application bancaire BuckMe et accédé aux distributeurs, l'interface de dépôt utilise le même système."
+      }
+    ],
+    "a_retenir": "Un correctif serait le bienvenu pour régler cette interface de gestion d'argent capricieuse.",
+    "voix": {
+      "couverture": "La pire fonctionnalité de GTA VI énerve déjà tout le monde",
+      "points": [
+        "Jason commence le jeu sans compte en banque et planque ses billets sous le plancher",
+        "Le compteur pour choisir la somme avec la manette s'emballe et devient incontrôlable",
+        "Même avec l'application bancaire et les distributeurs, l'interface reste aussi pénible"
+      ],
+      "retenir": "Un correctif rapide serait vraiment indispensable pour corriger ce problème"
+    },
+    "prononciation": {},
+    "legende": "La gestion de l'argent liquide dans GTA VI donne des sueurs froides à de nombreux joueurs. Entre la planque de Jason sous le plancher et l'utilisation des distributeurs automatiques une fois l'application BuckMe débloquée, le système de sélection des montants avec la croix directionnelle manque cruellement de précision. Les chiffres défilent lentement avant de s'emballer brusquement, rendant chaque dépôt ou retrait inutilement complexe. Un petit correctif pour affiner tout ça ne serait vraiment pas de refus. Et toi, tu galères aussi avec cette interface ?\n\nSources : Polygon\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #Leonida #Jason #Lucia #Action",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-stash-box-atm-money/"
+      }
+    ],
+    "score_tri": 0.97,
+    "creneau": "gta6",
+    "redige_le": "2026-11-22T17:00:32+00:00",
+    "alertes": [
+      "point 3 titre : 41/40 car."
+    ],
+    "defauts_voix": [],
+    "duree": 27.1,
+    "voix_off": true,
+    "video": "data/videos/2109bac383c0.mp4",
+    "telegram": {
+      "message_id": 270,
+      "envoye_le": "2026-11-22T17:09:21+00:00"
+    }
+  },
+  {
+    "sujet_id": "1935c17f522f",
+    "statut": "ecarte",
+    "motif": "réponse de l'IA incomplète",
+    "statut_info": "officiel",
+    "accroche": "Tout savoir sur Mandy dans GTA VI",
+    "sous_titre": "Ce personnage fait parler mais peut-on vraiment aller plus loin avec elle",
+    "points": [],
+    "a_retenir": "Impossible de tromper Lucia dans GTA VI, Jason reste fidèle",
+    "voix": {
+      "couverture": "Tu te demandes qui est Mandy dans GTA VI et ce qu'elle cache ?",
+      "points": [
+        "Elle apparaît au chapitre un quand Jason vient récupérer un loyer.",
+        "Malgré ses avances en bikini, il est impossible de coucher avec elle.",
+        "Jason et Lucia sont les seuls partenaires possibles du jeu."
+      ],
+      "retenir": "Impossible de tromper Lucia, Jason reste totalement fidèle."
+    },
+    "prononciation": {},
+    "legende": "Mandy est devenue l'un des personnages les plus commentés du chapitre un de GTA VI. Installée à Key Lento, elle réclame la visite de Jason lors de la mission Plomberie. Jalouse de Lucia, elle multiplie les avances en bikini pendant que Jason répare son évier. Mais malgré ses tentatives, il est totalement impossible de coucher avec elle ou d'entamer une romance. Le jeu ne permet aucune infidélité à Jason, qui reste exclusivement avec Lucia. Une fois l'évier réparé, Mandy s'isole et cache un mystère que l'on peut entrapercevoir en regardant par sa fenêtre. Et toi, tu as remarqué ce détail en jouant ?\n\nSources : ActuGaming\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #Rockstar #Jason #Lucia #ActuGaming",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/mandy-gta-6-834710/"
+      }
+    ],
+    "score_tri": 0.95,
+    "creneau": "gta6",
+    "redige_le": "2026-11-22T17:00:32+00:00",
+    "alertes": []
+  }
+]

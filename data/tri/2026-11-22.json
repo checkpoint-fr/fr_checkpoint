@@ -1,1 +1,165 @@
-[]
+[
+  {
+    "signature": [
+      "2",
+      "6",
+      "artist",
+      "better",
+      "breaks",
+      "celebrate",
+      "dead",
+      "environment",
+      "former",
+      "generally",
+      "gta",
+      "literal",
+      "might",
+      "red",
+      "rivers",
+      "rockstar",
+      "silence",
+      "spent",
+      "stunning",
+      "want",
+      "working",
+      "world",
+      "years"
+    ],
+    "titre": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+    "score": 0.99,
+    "nb_sources": 1,
+    "sources": [
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-22T16:55:10+00:00",
+    "mots_cles": [
+      "better",
+      "working",
+      "artist",
+      "red",
+      "environment",
+      "literal",
+      "might",
+      "breaks"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
+        "resume": "\"I want to celebrate this world that I spent literal years working on.\"",
+        "publie_le": "2026-11-22T16:55:10+00:00"
+      }
+    ],
+    "propose_le": "2026-11-22T17:00:32+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "asap",
+      "atms",
+      "box",
+      "counterintuitive",
+      "depositing",
+      "feature",
+      "fiddly",
+      "gta",
+      "money",
+      "needs",
+      "patched",
+      "shockingly",
+      "stash",
+      "withdrawing",
+      "worst"
+    ],
+    "titre": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
+    "score": 0.97,
+    "nb_sources": 1,
+    "sources": [
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-22T16:30:17+00:00",
+    "mots_cles": [
+      "shockingly",
+      "feature",
+      "patched",
+      "asap",
+      "worst",
+      "counterintuitive",
+      "needs",
+      "depositing"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
+        "lien": "https://www.polygon.com/gta-6-stash-box-atm-money/",
+        "resume": "Depositing and withdrawing money from your stash box and ATMs is shockingly fiddly and counterintuitive in GTA 6.",
+        "publie_le": "2026-11-22T16:30:17+00:00"
+      }
+    ],
+    "propose_le": "2026-11-22T17:00:32+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "actugaming",
+      "gta",
+      "net",
+      "personne",
+      "vue"
+    ],
+    "titre": "Mandy GTA 6 : Peut-on coucher avec elle et que cache-elle ?",
+    "score": 0.95,
+    "nb_sources": 1,
+    "sources": [
+      "ActuGaming"
+    ],
+    "langues": [
+      "fr"
+    ],
+    "dernier_article": "2026-11-22T16:10:13+00:00",
+    "mots_cles": [
+      "personne",
+      "vue",
+      "net",
+      "actugaming",
+      "gta",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Mandy GTA 6 : Peut-on coucher avec elle et que cache-elle ?",
+        "lien": "https://www.actugaming.net/mandy-gta-6-834710/",
+        "resume": "ActuGaming.net Mandy GTA 6 : Peut-on coucher avec elle et que cache-elle ? Personne ne l’avait vue dans les bandes-annonces, et pourtant Mandy est devenue l’un des personnages […] L'article Mandy GTA 6 : Peut-on coucher avec elle et que cache-elle ? est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-22T16:10:13+00:00"
+      },
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Vue FPS dans GTA 6 : comment jouer à la première personne ?",
+        "lien": "https://www.actugaming.net/vue-fps-premiere-personne-gta-6-834637/",
+        "resume": "ActuGaming.net Vue FPS dans GTA 6 : comment jouer à la première personne ? GTA 6 est un jeu qui se joue à la troisième personne, sans surprise. Mais […] L'article Vue FPS dans GTA 6 : comment jouer à la première personne ? est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-21T22:34:45+00:00"
+      }
+    ],
+    "propose_le": "2026-11-22T17:00:32+00:00",
+    "creneau": "gta6"
+  }
+]
