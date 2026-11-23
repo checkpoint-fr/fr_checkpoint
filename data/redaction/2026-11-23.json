@@ -233,7 +233,172 @@
     "redige_le": "2026-11-23T17:17:54+00:00",
     "alertes": [],
     "defauts_voix": [
-      "blanc ou passage répété après « CE-10-82-55-1, »"
+      "blanc ou passage répété après « CE108255.1 »"
     ]
+  },
+  {
+    "sujet_id": "132d5fc9bd02",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Deborah Ann Woll sera Faye dans la serie God of War d'Amazon",
+    "sous_titre": "L'actrice reprend son role du jeu video pour la future adaptation en live-action.",
+    "points": [
+      {
+        "titre": "Un retour officiel",
+        "texte": "Deborah Ann Woll, apercue dans God of War Ragnarok, incarnera de nouveau Faye dans la serie live-action preparee par Amazon Prime Video."
+      },
+      {
+        "titre": "Un casting solide",
+        "texte": "Elle rejoint Dave Bautista en Kratos, Callum Vinson en Atreus, Mandy Patinkin en Odin et Ólafur Darri Ólafsson en Thor."
+      },
+      {
+        "titre": "Prochainement en jeu",
+        "texte": "L'actrice retrouvera aussi le role de Faye dans God of War Laufey, un jeu prevu pour le mois de mai de l'an prochain."
+      }
+    ],
+    "a_retenir": "Amazon a commande deux saisons pour cette serie qui adaptera l'epoque nordique des jeux.",
+    "voix": {
+      "couverture": "Deborah Ann Woll jouera Faye dans la serie God of War d'Amazon.",
+      "points": [
+        "L'actrice reprend le role qu'elle tenait deja dans les jeux video.",
+        "Elle rejoint Dave Bautista en Kratos et plusieurs autres grands noms.",
+        "Tu la retrouveras aussi dans le jeu God of War Laufey prevu en mai."
+      ],
+      "retenir": "Amazon a commande deux saisons pour adapter l'epoque nordique des jeux."
+    },
+    "prononciation": {
+      "Deborah Ann Woll": "Déborah Anne Voule",
+      "God of War": "Gode ô Ouare",
+      "Dave Bautista": "Dève Botista",
+      "Callum Vinson": "Caleme Vinsone",
+      "Mandy Patinkin": "Mandi Patinkine",
+      "Ólafur Darri Ólafsson": "Olafeur Dari Olafssoune",
+      "God of War Laufey": "Gode ô Ouare Lofé"
+    },
+    "legende": "La serie live-action God of War d'Amazon continue de preciser son casting cinq etoiles ! Amazon a officialise l'arrivee de Deborah Ann Woll pour incarner Faye, la femme de Kratos et mere d'Atreus. Une excellente nouvelle pour les fans puisque l'actrice connait deja parfaitement le personnage pour l'avoir joue dans les jeux.\n\nCôté tournage, la production a repris avec Dave Bautista dans le rôle principal après une blessure de l'ancien acteur. La serie couvrira l'ere nordique tandis que les spectateurs et joueurs retrouveront aussi le personnage dans le jeu God of War Laufey.\n\nEt toi, tu as hâte de découvrir cette adaptation en série ?\n\nSources : Eurogamer, Polygon, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #GodOfWar #Amazon #PlayStation #SonySantaMonica #Series #Acteur",
+    "sources": [
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/god-of-war-amazon-prime-deborah-ann-woll-faye-cast/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/entertainment/fantasy-shows/god-tier-casting-alert-deborah-ann-woll-will-once-again-play-faye-in-god-of-wars-tv-show/"
+      }
+    ],
+    "score_tri": 2.9,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-23T18:45:23+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.7,
+    "voix_off": true,
+    "video": "data/videos/132d5fc9bd02.mp4",
+    "telegram": {
+      "message_id": 293,
+      "envoye_le": "2026-11-23T18:52:09+00:00"
+    }
+  },
+  {
+    "sujet_id": "59925d14f10a",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "officiel",
+    "accroche": "",
+    "sous_titre": "",
+    "points": [],
+    "a_retenir": "",
+    "voix": {
+      "couverture": "",
+      "points": [],
+      "retenir": ""
+    },
+    "prononciation": {},
+    "legende": "\n\nSources : Polygon, GamesRadar, IGN\n\n#checkpointfr #jeuxvideo #gaming",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/avengers-doomsday-hailee-steinfeld-hawkeye-return/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-adds-one-more-cast-chair-reveal-and-its-a-potential-young-avenger/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/kate-bishop-actress-hailee-steinfeld-confirmed-for-avengers-doomsday"
+      }
+    ],
+    "score_tri": 2.43,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-23T18:45:23+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "036b51b332f4",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Clair Obscur Expedition 33 : goodies officiels et tournée mondiale",
+    "sous_titre": "Le RPG de Sandfall Interactive lance sa boutique officielle et annonce de grands concerts",
+    "points": [
+      {
+        "titre": "La nouvelle boutique officielle",
+        "texte": "Tu peux y trouver des vêtements comme une marinière à cent deux euros et un béret, ou encore le Set Monolithe en précommande."
+      },
+      {
+        "titre": "Le Set Monolithe et vinyles",
+        "texte": "Cette édition sans le jeu propose une statuette, un artbook et un steelbook, aux côtés du vinyle et d'un ouvrage artistique."
+      },
+      {
+        "titre": "Une tournée mondiale en deux mille vingt-sept",
+        "texte": "Le concert symphonique du jeu reviendra avec une tournée mondiale passant par l'Europe, le Royaume-Uni et les États-Unis."
+      }
+    ],
+    "a_retenir": "De quoi prolonger l'aventure avec style et en musique dès les prochaines semaines.",
+    "voix": {
+      "couverture": "Le RPG Clair Obscur Expedition 33 lance sa boutique officielle et une grande tournée.",
+      "points": [
+        "Tu peux dès à présent acheter des vêtements dérivés et précommander de superbes objets collectors.",
+        "Le Set Monolithe regroupe une statuette et un artbook, en attendant l'été prochain.",
+        "Le concert symphonique reviendra en deux mille vingt-sept pour une tournée mondiale."
+      ],
+      "retenir": "Le studio gâte sa communauté avec de nouveaux produits et des concerts."
+    },
+    "prononciation": {
+      "Clair Obscur Expedition 33": "Klair Obscur Expedition 33",
+      "Sandfall Interactive": "Sandfall Interaktiv",
+      "A Painted Symphony": "E Péntid Simfoni"
+    },
+    "legende": "Les fans du RPG de Sandfall Interactive ont de quoi se faire plaisir. Le studio vient d'ouvrir sa boutique officielle en ligne avec son lot de produits dérivés. Au programme : des vêtements aux couleurs du jeu, dont une marinière et un béret, mais aussi des vinyles et le fameux Set Monolithe en précommande pour l'été prochain.\n\nEn parallèle, la série de concerts symphoniques A Painted Symphony s'offre une tournée mondiale pour deux mille vingt-sept. Après un passage réussi en Europe, le spectacle s'étendra notamment aux États-Unis pour faire vivre la bande originale acclamée du jeu sur scène.\n\nEt toi, tu craques pour les goodies ou tu attends le concert ?\n\nSources : ActuGaming, Polygon\n\n#checkpointfr #jeuxvideo #gaming #ClairObscurExpedition33 #SandfallInteractive #RPG #PC #PS5 #XboxSeries #Goodies #Concert",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/boutique-en-ligne-clair-obscur-expedition-33-835233/"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/clair-obscur-expedition-33-painted-symphony-2027-dates-locations/"
+      }
+    ],
+    "score_tri": 2.24,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-23T18:45:23+00:00",
+    "alertes": [
+      "point 3 titre : 45/40 car."
+    ],
+    "defauts_voix": [],
+    "duree": 29.3,
+    "voix_off": true,
+    "video": "data/videos/036b51b332f4.mp4",
+    "telegram": {
+      "message_id": 295,
+      "envoye_le": "2026-11-23T18:52:11+00:00"
+    }
   }
 ]

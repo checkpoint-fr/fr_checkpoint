@@ -212,5 +212,186 @@
     ],
     "propose_le": "2026-11-23T17:17:54+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "amazon",
+      "ann",
+      "casts",
+      "deborah",
+      "faye",
+      "god",
+      "prime",
+      "reprise",
+      "role",
+      "war",
+      "woll"
+    ],
+    "titre": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series",
+    "score": 2.9,
+    "nb_sources": 3,
+    "sources": [
+      "Eurogamer",
+      "GamesRadar",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-23T18:09:50+00:00",
+    "mots_cles": [
+      "reprise",
+      "casts",
+      "prime",
+      "deborah",
+      "god",
+      "ann",
+      "faye",
+      "woll"
+    ],
+    "articles": [
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series",
+        "lien": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series",
+        "resume": "After appearing in both God of War Ragnarok and next year's God of War Laufey, Deborah Ann Woll is about to reprise her role as Faye in Amazon Prime Video's upcoming live-action series. Read more",
+        "publie_le": "2026-11-23T18:09:50+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "God of War TV Series Officially Casts the Perfect Faye",
+        "lien": "https://www.polygon.com/god-of-war-amazon-prime-deborah-ann-woll-faye-cast/",
+        "resume": "Amazon Prime Video's God of War series has cast Deborah Ann Woll. She'll reprise her role of Faye from the PlayStation games.",
+        "publie_le": "2026-11-23T17:46:26+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "God-tier casting alert: Deborah Ann Woll will once again play Faye in God of War's TV show",
+        "lien": "https://www.gamesradar.com/entertainment/fantasy-shows/god-tier-casting-alert-deborah-ann-woll-will-once-again-play-faye-in-god-of-wars-tv-show/",
+        "resume": "Faye is joining the pantheon on Amazon",
+        "publie_le": "2026-11-23T17:26:02+00:00"
+      }
+    ],
+    "propose_le": "2026-11-23T18:45:23+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "avengers",
+      "bishop",
+      "cast",
+      "confirmed",
+      "doomsday",
+      "hailee",
+      "kate",
+      "steinfeld"
+    ],
+    "titre": "Avengers: Doomsday Will Officially Bring Back One of the MCU's Best Heroes",
+    "score": 2.43,
+    "nb_sources": 3,
+    "sources": [
+      "GamesRadar",
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-23T15:08:15+00:00",
+    "mots_cles": [
+      "kate",
+      "bishop",
+      "hailee",
+      "confirmed",
+      "steinfeld",
+      "cast",
+      "avengers",
+      "doomsday"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Avengers: Doomsday Will Officially Bring Back One of the MCU's Best Heroes",
+        "lien": "https://www.polygon.com/avengers-doomsday-hailee-steinfeld-hawkeye-return/",
+        "resume": "Hailee Steinfeld has been confirmed to return as Hawkeye in December's Avengers: Doomsday as the massive cast continues to grow.",
+        "publie_le": "2026-11-23T15:08:15+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Avengers: Doomsday adds one more cast chair reveal – and it's a potential Young Avenger",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-adds-one-more-cast-chair-reveal-and-its-a-potential-young-avenger/",
+        "resume": "Kate Bishop actor Hailee Steinfeld announced the news on social media",
+        "publie_le": "2026-11-23T10:50:15+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Kate Bishop Actress Hailee Steinfeld Confirmed for Avengers: Doomsday",
+        "lien": "https://www.ign.com/articles/kate-bishop-actress-hailee-steinfeld-confirmed-for-avengers-doomsday",
+        "resume": "Marvel Studios has confirmed Kate Bishop actress Hailee Steinfeld as a last-minute addition to the cast of Avengers: Doomsday.",
+        "publie_le": "2026-11-23T01:50:13+00:00"
+      }
+    ],
+    "propose_le": "2026-11-23T18:45:23+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "33",
+      "clair",
+      "expedition",
+      "obscur"
+    ],
+    "titre": "Une boutique en ligne centrée sur Clair Obscur: Expedition 33 vient d’ouvrir, avec des tas de goodies à acheter",
+    "score": 2.24,
+    "nb_sources": 2,
+    "sources": [
+      "ActuGaming",
+      "Polygon"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-23T16:50:17+00:00",
+    "mots_cles": [
+      "clair",
+      "33",
+      "expedition",
+      "obscur"
+    ],
+    "articles": [
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Une boutique en ligne centrée sur Clair Obscur: Expedition 33 vient d’ouvrir, avec des tas de goodies à acheter",
+        "lien": "https://www.actugaming.net/boutique-en-ligne-clair-obscur-expedition-33-835233/",
+        "resume": "ActuGaming.net Une boutique en ligne centrée sur Clair Obscur: Expedition 33 vient d’ouvrir, avec des tas de goodies à acheter Avec le succès de Clair Obscur: Expedition 33, on aurait pu penser que cette initiative […] L'article Une boutique en ligne centrée sur Clair Obscur: Expedition 33 vient d’ouvrir, avec des tas de goodies à acheter est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-23T16:50:17+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Clair Obscur: Expedition 33 ‘A Painted Symphony’ Officially Returns in 2027",
+        "lien": "https://www.polygon.com/clair-obscur-expedition-33-painted-symphony-2027-dates-locations/",
+        "resume": "Clair Obscur: Expedition 33's acclaimed Painted Symphony concert series is getting a world tour in 2027",
+        "publie_le": "2026-11-23T04:06:17+00:00"
+      }
+    ],
+    "propose_le": "2026-11-23T18:45:23+00:00",
+    "creneau": "actu_soir"
   }
 ]
