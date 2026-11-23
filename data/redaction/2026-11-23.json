@@ -245,7 +245,7 @@
   },
   {
     "sujet_id": "132d5fc9bd02",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Deborah Ann Woll sera Faye dans la serie God of War d'Amazon",
@@ -310,7 +310,12 @@
       "message_id": 293,
       "envoye_le": "2026-11-23T18:52:09+00:00"
     },
-    "decide_le": "2026-11-23T19:25:56+00:00"
+    "decide_le": "2026-11-23T19:25:56+00:00",
+    "instagram": {
+      "media_id": "18124618264945269",
+      "lien": "https://www.instagram.com/reel/DgGMFUwlbL-/",
+      "publie_le": "2026-11-23T20:00:58+00:00"
+    }
   },
   {
     "sujet_id": "59925d14f10a",
