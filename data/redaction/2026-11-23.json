@@ -66,7 +66,7 @@
   },
   {
     "sujet_id": "b30183c1658e",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Le hacker de GTA VI libéré sous surveillance",
@@ -127,6 +127,12 @@
     "telegram": {
       "message_id": 286,
       "envoye_le": "2026-11-23T17:25:56+00:00"
+    },
+    "decide_le": "2026-11-23T19:25:02+00:00",
+    "instagram": {
+      "media_id": "17932218072180876",
+      "lien": "https://www.instagram.com/reel/DgGIEUNjKG3/",
+      "publie_le": "2026-11-23T19:25:52+00:00"
     }
   },
   {
