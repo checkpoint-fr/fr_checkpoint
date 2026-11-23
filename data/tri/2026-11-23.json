@@ -47,5 +47,170 @@
     ],
     "propose_le": "2026-11-23T09:30:59+00:00",
     "creneau": "actu"
+  },
+  {
+    "signature": [
+      "2022",
+      "6",
+      "again",
+      "don",
+      "gta",
+      "hacker",
+      "happen",
+      "let",
+      "released"
+    ],
+    "titre": "\"Don't let this happen again\": GTA 6 hacker who pleaded guilty to 2022 Rockstar Games breach released under supervision",
+    "score": 1.94,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "Rock Paper Shotgun"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-23T16:48:00+00:00",
+    "mots_cles": [
+      "let",
+      "happen",
+      "again",
+      "2022",
+      "released",
+      "hacker",
+      "don",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "Rock Paper Shotgun",
+        "type": "presse",
+        "langue": "en",
+        "titre": "\"Don't let this happen again\": GTA 6 hacker who pleaded guilty to 2022 Rockstar Games breach released under supervision",
+        "lien": "https://www.rockpapershotgun.com/dont-let-this-happen-again-gta-6-hacker-who-pleaded-guilty-to-2022-rockstar-games-breach-released-under-supervision",
+        "resume": "A hacker who pleaded guilty to the 2022 hacking breach of Rockstar Games, which resulted in a bunch of mid-development clips of GTA 6 in action leaking onto the net , has been released under supervision. The hacker, Arion Kurtaj, has also a five year long serious crime prevention order which will restrict what he can do online. Read more",
+        "publie_le": "2026-11-23T16:48:00+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Judge Lets Hacker Behind Massive GTA 6 Leak of 2022 Go Free With a Warning: 'Don't Let This Happen Again'",
+        "lien": "https://www.ign.com/articles/gta-6-hacker-free-after-time-served-over-2022-cyber-attack",
+        "resume": "The hacker behind the massive GTA 6 leak in September 2022 has been released on license with a strong warning from the judge.",
+        "publie_le": "2026-11-23T16:19:33+00:00"
+      }
+    ],
+    "propose_le": "2026-11-23T17:17:54+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "good",
+      "gta",
+      "long",
+      "lucia",
+      "overdue",
+      "rockstar",
+      "says",
+      "women"
+    ],
+    "titre": "GTA 6's Lucia is \"long overdue,\" ex-Rockstar dev says, as representation of women hasn't \"been good\"",
+    "score": 1.9,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-23T16:23:54+00:00",
+    "mots_cles": [
+      "long",
+      "overdue",
+      "women",
+      "good",
+      "lucia",
+      "says",
+      "rockstar",
+      "6"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6's Lucia is \"long overdue,\" ex-Rockstar dev says, as representation of women hasn't \"been good\"",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-lucia-is-long-overdue-og-grand-theft-auto-lead-says-because-rockstars-representation-of-women-has-not-been-good/",
+        "resume": "A sign of \"maturation\"",
+        "publie_le": "2026-11-23T16:23:54+00:00"
+      },
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA's treatment of women 'has not been good', says Rockstar vet delighted by 'long overdue' female protagonist in GTA 6",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/gtas-treatment-of-women-has-not-been-good-says-rockstar-vet-delighted-by-long-overdue-female-protagonist-in-gta-6/",
+        "resume": "Lucia has stans everywhere.",
+        "publie_le": "2026-11-23T12:15:35+00:00"
+      }
+    ],
+    "propose_le": "2026-11-23T17:17:54+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "1",
+      "108255",
+      "6",
+      "comment",
+      "erreur",
+      "gta",
+      "regler"
+    ],
+    "titre": "Erreur CE-108255-1 GTA 6 sur PS5 : comment régler le plantage ?",
+    "score": 1.8,
+    "nb_sources": 2,
+    "sources": [
+      "ActuGaming",
+      "Gameblog"
+    ],
+    "langues": [
+      "fr"
+    ],
+    "dernier_article": "2026-11-23T15:29:36+00:00",
+    "mots_cles": [
+      "108255",
+      "regler",
+      "erreur",
+      "1",
+      "comment",
+      "6",
+      "gta"
+    ],
+    "articles": [
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Erreur CE-108255-1 GTA 6 sur PS5 : comment régler le plantage ?",
+        "lien": "https://www.actugaming.net/erreur-ce-108255-1-gta-6-ps5-835135/",
+        "resume": "ActuGaming.net Erreur CE-108255-1 GTA 6 sur PS5 : comment régler le plantage ? Même avec sa taille immense, GTA 6 est sorti dans un état technique relativement stable, […] L'article Erreur CE-108255-1 GTA 6 sur PS5 : comment régler le plantage ? est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-23T15:29:36+00:00"
+      },
+      {
+        "source": "Gameblog",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Comment régler l'erreur CE-108255-1 dans GTA 6 ? Les joueurs PS5 vivent un enfer depuis la sortie du jeu à cause de ce crash",
+        "lien": "https://www.gameblog.fr/jeu-video/ed/news/gta-6-erreur-ce-108255-1-ps5-solution-727298?utm_source=RSS",
+        "resume": "De nombreux joueurs PS5 font les frais d'une très pénible erreur CE-108255-1 qui provoque des crashes intempestifs sur GTA 6, voici comment y remédier.",
+        "publie_le": "2026-11-23T09:54:55+00:00"
+      }
+    ],
+    "propose_le": "2026-11-23T17:17:54+00:00",
+    "creneau": "gta6"
   }
 ]

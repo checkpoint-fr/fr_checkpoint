@@ -63,5 +63,177 @@
       "lien": "https://www.instagram.com/reel/DgFR0F8Dhsk/",
       "publie_le": "2026-11-23T11:31:51+00:00"
     }
+  },
+  {
+    "sujet_id": "b30183c1658e",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Le hacker de GTA VI libéré sous surveillance",
+    "sous_titre": "Arion Kurtaj, responsable du gros leak de 2022, sort de prison mais doit respecter de strictes conditions",
+    "points": [
+      {
+        "titre": "Libération sous licence",
+        "texte": "Le hacker a été libéré après avoir purgé la majeure partie d’une peine de sept ans, mais il reste sous contrôle judiciaire."
+      },
+      {
+        "titre": "Restrictions en ligne",
+        "texte": "Un Serious Crime Prevention Order de cinq ans lui interdit d’utiliser Telegram et Discord, entre autres plateformes."
+      },
+      {
+        "titre": "Le rappel du juge",
+        "texte": "Le magistrat l’a averti : « Don’t let this happen again », rappelant les dangers du hacking pour les jeunes."
+      },
+      {
+        "titre": "90 clips volés",
+        "texte": "Le piratage a diffusé 90 séquences inédites de GTA VI, coûtant à Rockstar environ 5 millions de dollars en réparations."
+      }
+    ],
+    "a_retenir": "Sa libération impose des restrictions pour éviter un nouveau scandale GTA VI",
+    "voix": {
+      "couverture": "Le hacker de GTA VI est libéré, mais sous surveillance stricte",
+      "points": [
+        "Après sept ans de prison, il sort sous licence judiciaire",
+        "Il ne pourra plus utiliser Telegram ni Discord pendant cinq ans",
+        "Le juge l’a averti de ne plus jamais recommencer",
+        "Le piratage avait déjà diffusé 90 séquences, coûtant 5 millions à Rockstar"
+      ],
+      "retenir": "Sa libération impose des restrictions pour éviter un nouveau scandale GTA VI"
+    },
+    "prononciation": {
+      "Telegram": "Téligrâm",
+      "Discord": "Diskord",
+      "Rockstar Games": "Rokstar Jeux"
+    },
+    "legende": "Le hacker qui a tout fait exploser pour GTA VI est enfin libéré, mais sous haute surveillance.\n\nArion Kurtaj, 21 ans, a avoué le piratage qui a fuité 90 clips du futur GTA VI en 2022. Après avoir purgé la majeure partie d’une peine de sept ans, le tribunal l’a remis en liberté conditionnelle.\n\nIl devra pendant cinq ans respecter un Serious Crime Prevention Order qui lui interdit d’utiliser les messageries Telegram et Discord, afin d’empêcher tout nouveau contact avec des groupes de hackers.\n\nLe juge a conclu avec un avertissement clair : « Don’t let this happen again », rappelant les risques que le hacking représente pour les jeunes. Rockstar a estimé le préjudice à 5 millions de dollars.\n\nEt toi, que penses‑tu de ces mesures pour protéger les futurs jeux ?\n\nSources : Rock Paper Shotgun, IGN\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #TakeTwo #OpenWorld #ActionAdventure #Cybersecurity",
+    "sources": [
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/dont-let-this-happen-again-gta-6-hacker-who-pleaded-guilty-to-2022-rockstar-games-breach-released-under-supervision"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/gta-6-hacker-free-after-time-served-over-2022-cyber-attack"
+      }
+    ],
+    "score_tri": 1.94,
+    "creneau": "gta6",
+    "redige_le": "2026-11-23T17:17:54+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 29.7,
+    "voix_off": true,
+    "video": "data/videos/b30183c1658e.mp4",
+    "telegram": {
+      "message_id": 286,
+      "envoye_le": "2026-11-23T17:25:56+00:00"
+    }
+  },
+  {
+    "sujet_id": "f9719b0a0086",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "GTA VI : enfin une protagoniste féminine, Lucia",
+    "sous_titre": "Un ancien de Rockstar confirme que Lucia, héroïne hispanique, était prévue depuis longtemps",
+    "points": [
+      {
+        "titre": "Lucia, première héroïne féminine",
+        "texte": "Après plus d'une décennie, GTA VI introduit Lucia Caminos, la première femme jouable de la série moderne."
+      },
+      {
+        "titre": "Choix du duo : Lucia ou Jason",
+        "texte": "Le jeu propose de choisir entre la nouvelle héroïne Lucia et le protagoniste masculin Jason."
+      },
+      {
+        "titre": "Un choix longtemps attendu",
+        "texte": "Brian Baglow, vétéran de Rockstar, estime que l’arrivée d’une femme hispanique était « long, long overdue »."
+      },
+      {
+        "titre": "Vers une meilleure représentation",
+        "texte": "Il voit ce choix comme un signe de maturation de la représentation des femmes dans la franchise."
+      }
+    ],
+    "a_retenir": "GTA VI marque enfin une vraie avancée pour la représentation féminine",
+    "voix": {
+      "couverture": "GTA VI enfin une héroïne féminine, ça change la donne !",
+      "points": [
+        "GTA VI introduit Lucia Caminos, la première femme jouable depuis les débuts de la série.",
+        "Tu pourras choisir entre Lucia et le protagoniste masculin Jason.",
+        "L’ancien de Rockstar, Brian Baglow, dit que c’est longtemps attendu.",
+        "Il voit ce choix comme un signe de maturation de la représentation des femmes."
+      ],
+      "retenir": "Une vraie avancée pour la diversité dans GTA VI."
+    },
+    "prononciation": {
+      "Lucia Caminos": "Lousia Caminos",
+      "Brian Baglow": "Braïan Baglou"
+    },
+    "legende": "🎮 GTA VI vient enfin bouleverser la tradition avec Lucia, première héroïne féminine depuis les débuts de la série. \n\n👩‍💻 Ce duo jouable, Lucia ou Jason, répond à une attente de longue date. L’ancien de Rockstar, Brian Baglow, le décrit comme « long, long overdue », signe d’une maturité nouvelle pour le studio. \n\n🤔 Tu penses que ce tournant va vraiment changer la façon dont les jeux traitent les personnages féminins ?\n\nSources : GamesRadar, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #LuciaCaminos #OpenWorld #ActionAdventure #PS5 #XboxSeriesX",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-lucia-is-long-overdue-og-grand-theft-auto-lead-says-because-rockstars-representation-of-women-has-not-been-good/"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/gtas-treatment-of-women-has-not-been-good-says-rockstar-vet-delighted-by-long-overdue-female-protagonist-in-gta-6/"
+      }
+    ],
+    "score_tri": 1.9,
+    "creneau": "gta6",
+    "redige_le": "2026-11-23T17:17:54+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 29.2,
+    "voix_off": true,
+    "video": "data/videos/f9719b0a0086.mp4",
+    "telegram": {
+      "message_id": 288,
+      "envoye_le": "2026-11-23T17:25:58+00:00"
+    }
+  },
+  {
+    "sujet_id": "8bab9e8eb908",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Erreur CE-108255-1 : le crash qui bloque GTA VI sur PS5",
+    "sous_titre": "Un bug générique de la PS5 fait crasher GTA VI dès certaines séquences, aucune solution officielle à ce jour",
+    "points": [
+      {
+        "titre": "Crash CE-108255-1",
+        "texte": "Le code CE-108255-1 fait planter le jeu et te renvoie au menu de la console."
+      },
+      {
+        "titre": "PS5 concernées",
+        "texte": "Le problème touche surtout les PS5 standard, Digital et Slim, avec quelques cas sur le Pro."
+      },
+      {
+        "titre": "Solutions temporaires",
+        "texte": "Aucun patch officiel n’est sorti ; essaye de vider le cache, reconstruire la BDD ou réinstaller le jeu."
+      }
+    ],
+    "a_retenir": "",
+    "voix": {},
+    "prononciation": {},
+    "legende": "\n\nSources : ActuGaming, Gameblog\n\n#checkpointfr #jeuxvideo #gaming",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/erreur-ce-108255-1-gta-6-ps5-835135/"
+      },
+      {
+        "nom": "Gameblog",
+        "lien": "https://www.gameblog.fr/jeu-video/ed/news/gta-6-erreur-ce-108255-1-ps5-solution-727298?utm_source=RSS"
+      }
+    ],
+    "score_tri": 1.8,
+    "creneau": "gta6",
+    "redige_le": "2026-11-23T17:17:54+00:00",
+    "alertes": [],
+    "defauts_voix": [
+      "blanc ou passage répété après « CE-10-82-55-1, »"
+    ]
   }
 ]
