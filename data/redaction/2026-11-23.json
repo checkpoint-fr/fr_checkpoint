@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "3785903b8d1e",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "Nioh 3 Complete Edition reperee dans les classifications",
@@ -57,6 +57,11 @@
       "message_id": 281,
       "envoye_le": "2026-11-23T09:32:23+00:00"
     },
-    "decide_le": "2026-11-23T11:07:15+00:00"
+    "decide_le": "2026-11-23T11:07:15+00:00",
+    "instagram": {
+      "media_id": "18156156934535053",
+      "lien": "https://www.instagram.com/reel/DgFR0F8Dhsk/",
+      "publie_le": "2026-11-23T11:31:51+00:00"
+    }
   }
 ]
