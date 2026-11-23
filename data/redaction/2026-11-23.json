@@ -131,7 +131,7 @@
   },
   {
     "sujet_id": "f9719b0a0086",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "GTA VI : enfin une protagoniste féminine, Lucia",
@@ -191,7 +191,8 @@
     "telegram": {
       "message_id": 288,
       "envoye_le": "2026-11-23T17:25:58+00:00"
-    }
+    },
+    "decide_le": "2026-11-23T19:24:57+00:00"
   },
   {
     "sujet_id": "8bab9e8eb908",
