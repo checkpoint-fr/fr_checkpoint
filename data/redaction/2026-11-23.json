@@ -245,7 +245,7 @@
   },
   {
     "sujet_id": "132d5fc9bd02",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Deborah Ann Woll sera Faye dans la serie God of War d'Amazon",
@@ -309,7 +309,8 @@
     "telegram": {
       "message_id": 293,
       "envoye_le": "2026-11-23T18:52:09+00:00"
-    }
+    },
+    "decide_le": "2026-11-23T19:25:56+00:00"
   },
   {
     "sujet_id": "59925d14f10a",
@@ -348,7 +349,7 @@
   },
   {
     "sujet_id": "036b51b332f4",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Clair Obscur Expedition 33 : goodies officiels et tournée mondiale",
@@ -406,6 +407,7 @@
     "telegram": {
       "message_id": 295,
       "envoye_le": "2026-11-23T18:52:11+00:00"
-    }
+    },
+    "decide_le": "2026-11-23T19:25:55+00:00"
   }
 ]
