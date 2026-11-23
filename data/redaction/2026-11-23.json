@@ -1,0 +1,61 @@
+[
+  {
+    "sujet_id": "3785903b8d1e",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "Nioh 3 Complete Edition reperee dans les classifications",
+    "sous_titre": "Une version complete du jeu a ete classee en Coree et au Japon selon des fuites",
+    "points": [
+      {
+        "titre": "Apparition officielle dans les fichiers",
+        "texte": "L organisme coreen GRAC et l organisme japonais CERO ont liste le jeu, suggerant une sortie prochaine de cette edition complete."
+      },
+      {
+        "titre": "Le contenu attendu",
+        "texte": "Cette version regrouperait le jeu de base ainsi que les deux contenus additionnels du jeu d action."
+      },
+      {
+        "titre": "Une sortie prevue pour bientot",
+        "texte": "Le calendrier pourrait coincider avec le premier anniversaire du jeu et la sortie du second DLC prevue en fevrier."
+      }
+    ],
+    "a_retenir": "Koei Tecmo n a pas encore officialise cette edition complete pour le moment.",
+    "voix": {
+      "couverture": "Nioh 3 Complete Edition vient d apparaitre dans les fichiers de classification.",
+      "points": [
+        "L organisme coreen et l organisme japonais ont liste une edition complete du jeu.",
+        "Celle ci devrait regrouper le jeu de base et tous les contenus additionnels.",
+        "La sortie pourrait arriver des le mois de fevrier prochain."
+      ],
+      "retenir": "Koei Tecmo n a pas encore officialise l information."
+    },
+    "prononciation": {
+      "Nioh 3": "Nio troi",
+      "Complete Edition": "Complite Édition"
+    },
+    "legende": "Une fuite suggere l arrivee prochaine d une version complete pour Nioh 3. D apres des documents recents reperes en Coree et au Japon, le jeu d action pourrait bien beneficier d une compilation regroupant l aventure originale et ses differents contenus additionnels. Koei Tecmo n a pas encore fait d annonce officielle, mais ce type d apparition precede souvent une officialisation. Et toi, tu attendais cette edition complete pour te lancer ?\n\nSources : ActuGaming, Gamekult\n\n#checkpointfr #jeuxvideo #gaming #Nioh3 #KoeiTecmo #ActionRPG #PlayStation #PC #JeuVideo",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/nioh-3-devrait-ressortir-dans-une-edition-plus-complete-qui-vient-detre-enregistree-en-coree-835124/"
+      },
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/nioh-3-complete-edition-apparait-dans-les-bases-de-classification-coreenne-et-japonaise-3050873127.html"
+      }
+    ],
+    "score_tri": 1.96,
+    "creneau": "actu",
+    "redige_le": "2026-11-23T09:30:59+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 24.8,
+    "voix_off": true,
+    "video": "data/videos/3785903b8d1e.mp4",
+    "telegram": {
+      "message_id": 281,
+      "envoye_le": "2026-11-23T09:32:23+00:00"
+    }
+  }
+]
