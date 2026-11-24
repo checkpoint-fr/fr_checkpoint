@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "77fe43d1020a",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Banjo‑Kazooie rejoint le portefeuille d’Activision",
@@ -58,7 +58,8 @@
     "telegram": {
       "message_id": 301,
       "envoye_le": "2026-11-24T09:57:03+00:00"
-    }
+    },
+    "decide_le": "2026-11-24T11:45:08+00:00"
   },
   {
     "sujet_id": "d9d9f9c8a157",
