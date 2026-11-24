@@ -251,7 +251,7 @@
   },
   {
     "sujet_id": "3202e6e30f55",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "Le fichier exécutable Xbox de GTA VI fuit en ligne",
@@ -310,7 +310,8 @@
     "telegram": {
       "message_id": 313,
       "envoye_le": "2026-11-24T17:24:30+00:00"
-    }
+    },
+    "decide_le": "2026-11-24T19:35:24+00:00"
   },
   {
     "sujet_id": "b0adba0d8f66",
