@@ -366,5 +366,186 @@
     "creneau": "gta6",
     "redige_le": "2026-11-24T17:15:16+00:00",
     "alertes": []
+  },
+  {
+    "sujet_id": "8518a416f83b",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Wave Race: Blue Storm débarque sur Switch Online",
+    "sous_titre": "Le titre phare de la GameCube rejoint le catalogue Switch Online + Pack additionnel",
+    "points": [
+      {
+        "titre": "Disponible maintenant",
+        "texte": "Wave Race: Blue Storm est ajouté à la bibliothèque, accessible aux abonnés du service."
+      },
+      {
+        "titre": "Multijoueur local",
+        "texte": "Joue avec jusqu’à quatre amis en écran scindé, comme à l’époque GameCube."
+      },
+      {
+        "titre": "Météo dynamique",
+        "texte": "Le jeu propose des conditions météo variables – soleil, pluie, brouillard – qui modifient visibilité et hauteur des vagues."
+      },
+      {
+        "titre": "Modes variés",
+        "texte": "En plus du championnat, tu as Time Attack, Stunt, Free Roam et le multijoueur."
+      }
+    ],
+    "a_retenir": "Revivez la vague de nostalgie et domptez les vagues dès aujourd’hui",
+    "voix": {
+      "couverture": "Wave Race: Blue Storm débarque enfin sur Switch Online, prépare ta planche",
+      "points": [
+        "Le jeu est disponible dès maintenant pour les abonnés du Pack additionnel",
+        "Joue en multijoueur jusqu’à quatre joueurs en écran partagé, comme à l’époque GameCube",
+        "La météo dynamique change le niveau d’eau, la visibilité et la hauteur des vagues",
+        "En plus du championnat, découvre les modes Time Attack, Stunt et Free Roam"
+      ],
+      "retenir": "Revivez la vague de nostalgie et domptez les vagues dès aujourd’hui"
+    },
+    "prononciation": {
+      "Time Attack": "Taïme Attak",
+      "Free Roam": "Free Roam"
+    },
+    "legende": "Wave Race: Blue Storm fait son grand retour sur Nintendo Switch Online ! Le classique de 2001, lancé avec la GameCube, vient d’être ajouté au Pack additionnel, accessible dès maintenant aux abonnés.\n\nLe jeu te propose des courses en solo ou à quatre en écran partagé, avec une météo qui change en cours de partie – soleil, pluie, brouillard – et qui affecte la visibilité et la hauteur des vagues. En plus du mode championnat, tu peux tester le Time Attack, le Stunt ou explorer librement les circuits.\n\nC’est l’occasion de revivre les sensations de la GameCube et de rider les vagues depuis ton salon. Et toi, prêt à prendre la vague ?\n\nSources : Gamekult, Polygon, IGN, VGC\n\n#checkpointfr #jeuxvideo #gaming #WaveRaceBlueStorm #Nintendo #Switch #GameCube #RacingGame #NintendoSwitchOnline #ExpansionPack",
+    "sources": [
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/wave-race-blue-storm-le-jeu-de-lancement-de-la-gamecube-refait-surface-pour-les-abonnes-nintendo-switch-online-3050873161.html"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/wave-race-blue-storm-nintendo-switch-online/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/nintendo-switch-online-just-got-a-long-awaited-update-alongside-another-gamecube-classic"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/"
+      }
+    ],
+    "score_tri": 3.85,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-24T18:46:02+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 32.7,
+    "voix_off": true,
+    "video": "data/videos/8518a416f83b.mp4",
+    "telegram": {
+      "message_id": 318,
+      "envoye_le": "2026-11-24T18:56:26+00:00"
+    }
+  },
+  {
+    "sujet_id": "0bf7bd3164a3",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Mass Effect: Universe aurait résolu les fins de ME3",
+    "sous_titre": "Le projet annulé promettait de répondre aux destins des coéquipiers et aux multiples issues de Mass Effect 3",
+    "points": [
+      {
+        "titre": "Des fins de ME3 enfin conciliées",
+        "texte": "Selon la rédactrice Cat Valente, l’équipe voulait gérer les multiples issues de Mass Effect 3 sans décevoir aucun joueur, en trouvant une solution équilibrée."
+      },
+      {
+        "titre": "Un saut de 600 ans, qui revient ?",
+        "texte": "L’histoire aurait eu lieu six siècles après la trilogie, ce qui laisse vivre les Asari et Krogan. Liara T’Soni et Grunt étaient donc pressentis pour revenir."
+      },
+      {
+        "titre": "Qui ne pourrait pas revenir",
+        "texte": "Humains, Salariens, Turiens et Quariens sont trop éphémères pour survivre 600 ans, ils étaient donc exclus du casting."
+      },
+      {
+        "titre": "Les synthétiques incertains",
+        "texte": "Le sort d’EDI et d’autres IA restait flou, la fin de ME3 influençant leur éventuelle présence dans l’univers."
+      }
+    ],
+    "a_retenir": "Mass Effect : Universe aurait pu offrir une conclusion unifiée et ramener nos vieux compagnons",
+    "voix": {
+      "couverture": "Mass Effect: Universe aurait pu résoudre les fins de ME3, voici ce qu’on sait",
+      "points": [
+        "Les auteurs voulaient une solution aux multiples issues de ME3 qui ne déplaît à personne",
+        "L’histoire se déroulerait six cents ans après la trilogie, laissant vivre les Asari et Krogan",
+        "Humains, Salariens, Turiens et Quariens seraient trop jeunes pour survivre ce laps de temps",
+        "Le sort d’EDI et des IA reste incertain, la fin de ME3 influençant leur rôle"
+      ],
+      "retenir": "Mass Effect : Universe aurait pu offrir une conclusion unifiée et ramener nos vieux compagnons"
+    },
+    "prononciation": {
+      "Mass Effect": "Mass Éféct",
+      "Liara T’Soni": "Liara T‑Soni",
+      "Mass Effect: Universe": "Mass Éféct Universe",
+      "BioWare": "BioWèrde"
+    },
+    "legende": "Le projet qui aurait pu sauver la saga Mass Effect revient enfin sous les projecteurs.\n\nLors d’un AMA Reddit, la rédactrice Cat Valente a expliqué que BioWare voulait résoudre les multiples issues de Mass Effect 3 sans froisser aucun fan, en cherchant une solution équilibrée. Le jeu, prévu 600 ans après la trilogie, aurait permis à des personnages à longue espérance de vie comme Liara T’Soni ou le Krogan Grunt de revenir, tandis que les humains, Salariens, Turiens ou Quariens seraient trop jeunes.\n\nLe sort des IA comme EDI reste flou, la fin de ME3 influençant leur présence éventuelle.\n\nEt toi, quel personnage aimerais‑tu revoir dans Mass Effect : Universe ?\n\nSources : Polygon, PC Gamer, IGN, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #MassEffect #BioWare #RPG #SciFi #MassEffectUniverse #GamingNews",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/mass-effect-universe-returning-squad-members-mass-effect-3-ending/"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/mass-effect/mass-effect-writer-says-as-a-fan-i-would-have-been-happy-with-the-solution-they-came-up-with-for-me3s-endings-in-me-universe/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/mass-effect-universe-trilogy-endings-squadmate-fates"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/mass-effect/mass-effect-universe-would-clean-up-mass-effect-3s-endings-in-a-way-that-wouldnt-piss-everyone-off-writer-says/"
+      }
+    ],
+    "score_tri": 3.31,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-24T18:46:02+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 38.9,
+    "voix_off": true,
+    "video": "data/videos/0bf7bd3164a3.mp4",
+    "telegram": {
+      "message_id": 320,
+      "envoye_le": "2026-11-24T18:56:27+00:00"
+    }
+  },
+  {
+    "sujet_id": "59d0d7b1b20a",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": null,
+    "accroche": "",
+    "sous_titre": "",
+    "points": [],
+    "a_retenir": "",
+    "voix": {
+      "couverture": "",
+      "points": [],
+      "retenir": ""
+    },
+    "prononciation": {},
+    "legende": "\n\nSources : Polygon, IGN, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/avengers-doomsday-bucky-fate-sebastian-stan/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/sebastian-stan-bucky-fate-avengers-doomsday"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/sebastian-stan-adds-fuel-to-the-speculation-that-bucky-will-die-in-avengers-doomsday-maybe-its-time/"
+      }
+    ],
+    "score_tri": 2.84,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-24T18:46:02+00:00",
+    "alertes": []
   }
 ]

@@ -331,5 +331,243 @@
     ],
     "propose_le": "2026-11-24T17:15:16+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "added",
+      "another",
+      "blue",
+      "classic",
+      "expansion",
+      "gamecube",
+      "library",
+      "online",
+      "pack",
+      "race",
+      "storm",
+      "wave"
+    ],
+    "titre": "Wave Race Blue Storm : le jeu de lancement de la GameCube refait surface pour les abonnés Nintendo Switch Online",
+    "score": 3.85,
+    "nb_sources": 4,
+    "sources": [
+      "Gamekult",
+      "IGN",
+      "Polygon",
+      "VGC"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-24T16:05:00+00:00",
+    "mots_cles": [
+      "expansion",
+      "classic",
+      "library",
+      "pack",
+      "added",
+      "another",
+      "storm",
+      "race"
+    ],
+    "articles": [
+      {
+        "source": "Gamekult",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Wave Race Blue Storm : le jeu de lancement de la GameCube refait surface pour les abonnés Nintendo Switch Online",
+        "lien": "https://www.gamekult.com/actualite/wave-race-blue-storm-le-jeu-de-lancement-de-la-gamecube-refait-surface-pour-les-abonnes-nintendo-switch-online-3050873161.html",
+        "resume": "Troisième et dernier volet de la franchise, Wave Race : Blue Storm est de retour aujourd'hui dans le cadre de l'abonnement Nintendo Switch Online + Pack additionnel.",
+        "publie_le": "2026-11-24T16:05:00+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Nintendo Switch Online Adds Another GameCube Classic",
+        "lien": "https://www.polygon.com/wave-race-blue-storm-nintendo-switch-online/",
+        "resume": "Nintendo just added the 2001 jetski racer Wave Race: Blue Storm to the Nintendo Switch Online + Expansion Pack library.",
+        "publie_le": "2026-11-24T15:31:50+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Nintendo Switch Online Just Got a Long-Awaited Update, Alongside Another GameCube Classic",
+        "lien": "https://www.ign.com/articles/nintendo-switch-online-just-got-a-long-awaited-update-alongside-another-gamecube-classic",
+        "resume": "GameCube launch title Wave Race: Blue Storm is now available via the Nintendo Switch Online + Expansion Pack service, alongside a long-awaited new feature.",
+        "publie_le": "2026-11-24T10:00:45+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Wave Race Blue Storm is the 12th GameCube game to be added to Switch Online’s library",
+        "lien": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/",
+        "resume": "It's the first time Nintendo's racing sequel has been re-released in 25 years",
+        "publie_le": "2026-11-24T09:31:36+00:00"
+      }
+    ],
+    "propose_le": "2026-11-24T18:46:02+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "3",
+      "addressed",
+      "bioware",
+      "canceled",
+      "effect",
+      "ending",
+      "endings",
+      "fates",
+      "mass",
+      "says",
+      "universe",
+      "writer"
+    ],
+    "titre": "Canceled Mass Effect Addressed Squad Members’ Fates, Writer Reveals",
+    "score": 3.31,
+    "nb_sources": 4,
+    "sources": [
+      "GamesRadar",
+      "IGN",
+      "PC Gamer",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-24T15:28:58+00:00",
+    "mots_cles": [
+      "addressed",
+      "fates",
+      "ending",
+      "endings",
+      "writer",
+      "canceled",
+      "bioware",
+      "mass"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Canceled Mass Effect Addressed Squad Members’ Fates, Writer Reveals",
+        "lien": "https://www.polygon.com/mass-effect-universe-returning-squad-members-mass-effect-3-ending/",
+        "resume": "A writer on the canceled Mass Effect: Universe hinted at how the game would handle returning characters and Mass Effect 3's ending.",
+        "publie_le": "2026-11-24T15:28:58+00:00"
+      },
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Mass Effect writer says 'as a fan I would have been happy with the solution' they came up with for ME3's endings in ME Universe",
+        "lien": "https://www.pcgamer.com/games/mass-effect/mass-effect-writer-says-as-a-fan-i-would-have-been-happy-with-the-solution-they-came-up-with-for-me3s-endings-in-me-universe/",
+        "resume": "My personal solution would be playable elcor main character. Can't go wrong with that.",
+        "publie_le": "2026-11-24T15:14:07+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Mass Effect Universe Would Have Answered Trilogy Ending Questions and Squadmate Fates, Writer Says",
+        "lien": "https://www.ign.com/articles/mass-effect-universe-trilogy-endings-squadmate-fates",
+        "resume": "BioWare's canceled Mass Effect Universe would have addressed Mass Effect 3's controversial endings and the fates of Shepard's squadmates.",
+        "publie_le": "2026-11-24T12:08:22+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Mass Effect Universe would \"clean up\" Mass Effect 3's endings and try not to \"piss everyone off\"",
+        "lien": "https://www.gamesradar.com/games/mass-effect/mass-effect-universe-would-clean-up-mass-effect-3s-endings-in-a-way-that-wouldnt-piss-everyone-off-writer-says/",
+        "resume": "The canceled BioWare RPG inherited quite a mess",
+        "publie_le": "2026-11-23T19:07:01+00:00"
+      }
+    ],
+    "propose_le": "2026-11-24T18:46:02+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "adds",
+      "avengers",
+      "barnes",
+      "bucky",
+      "doomsday",
+      "fan",
+      "fate",
+      "fuel",
+      "maybe",
+      "mcu",
+      "sebastian",
+      "stan",
+      "time"
+    ],
+    "titre": "Avengers: Doomsday Star Teases Ominous Fate for His Character",
+    "score": 2.84,
+    "nb_sources": 3,
+    "sources": [
+      "GamesRadar",
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-24T17:49:12+00:00",
+    "mots_cles": [
+      "fuel",
+      "fate",
+      "barnes",
+      "mcu",
+      "adds",
+      "sebastian",
+      "maybe",
+      "bucky"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Avengers: Doomsday Star Teases Ominous Fate for His Character",
+        "lien": "https://www.polygon.com/avengers-doomsday-bucky-fate-sebastian-stan/",
+        "resume": "Avengers: Doomsday star Sebastian Stan has recently made comments hinting that \"maybe it's time\" for his character Bucky to, well, exit the MCU.",
+        "publie_le": "2026-11-24T17:49:12+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "'Maybe It's Time': Sebastian Stan Fuels Fears Over Bucky's Fate in Avengers: Doomsday",
+        "lien": "https://www.ign.com/articles/sebastian-stan-bucky-fate-avengers-doomsday",
+        "resume": "Sebastian Stan has fueled MCU fan fears that Bucky Barnes could meet his end in Avengers: Doomsday after dropping a cryptic comment that \"maybe it's time.\"",
+        "publie_le": "2026-11-24T13:05:19+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Sebastian Stan adds fuel to the speculation that Bucky will die in Avengers: Doomsday: \"Maybe it's time\"",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/sebastian-stan-adds-fuel-to-the-speculation-that-bucky-will-die-in-avengers-doomsday-maybe-its-time/",
+        "resume": "We could be saying goodbye to Bucky Barnes in Avengers: Doomsday",
+        "publie_le": "2026-11-24T11:21:07+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Avengers: Doomsday final trailer adds more fuel to Steve Rogers fan theory",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-final-trailer-adds-more-fuel-to-steve-rogers-fan-theory/",
+        "resume": "Avengers: Doomsday hits theaters on December 18",
+        "publie_le": "2026-11-23T21:45:02+00:00"
+      }
+    ],
+    "propose_le": "2026-11-24T18:46:02+00:00",
+    "creneau": "actu_soir"
   }
 ]
