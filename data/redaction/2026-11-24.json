@@ -1,0 +1,184 @@
+[
+  {
+    "sujet_id": "77fe43d1020a",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Banjo‑Kazooie rejoint le portefeuille d’Activision",
+    "sous_titre": "Une offre d’emploi LinkedIn d’Activision cite Banjo‑Kazooie parmi ses licences majeures",
+    "points": [
+      {
+        "titre": "Offre d’emploi officielle",
+        "texte": "Activision a publié sur LinkedIn une recherche de Product Manager pour un titre premium, listant Banjo‑Kazooie avec Halo, Crash et Spyro."
+      },
+      {
+        "titre": "Pas de confirmation de jeu",
+        "texte": "L’annonce ne précise pas quel projet sera développé, aucune indication que le futur titre sera Banjo‑Kazooie."
+      },
+      {
+        "titre": "Historique de la série",
+        "texte": "Le dernier jeu, Banjo‑Kazooie : Nuts & Bolts, est sorti en 2008 sur Xbox 360, et Toys for Bob avait déjà exprimé son envie de travailler sur la franchise."
+      }
+    ],
+    "a_retenir": "Banjo‑Kazooie est dans le portefeuille d’Activision, mais son futur reste à définir",
+    "voix": {
+      "couverture": "Banjo‑Kazooie vient d’être ajouté aux licences d’Activision",
+      "points": [
+        "Activision a posté une offre d’emploi citant Banjo‑Kazooie avec Halo et Crash",
+        "L’annonce ne révèle pas quel jeu sera développé, aucune confirmation officielle",
+        "Le dernier titre de la série date de 2008, et Toys for Bob avait déjà manifesté son intérêt"
+      ],
+      "retenir": "Banjo‑Kazooie est dans le portefeuille d’Activision, mais son futur reste à définir"
+    },
+    "prononciation": {
+      "Banjo-Kazooie": "Bannjo‑Kazouï",
+      "Spyro": "Spai-ro",
+      "Crash Bandicoot": "Crash Bandicout",
+      "Toys for Bob": "Toys for Bob"
+    },
+    "legende": "Une offre d’emploi LinkedIn d’Activision vient de faire parler la communauté : Banjo‑Kazooie apparaît parmi les licences du groupe.\nCette annonce pour un Product Manager mentionne la franchise aux côtés de Halo, Crash Bandicoot ou Spyro, mais ne détaille pas le projet à venir.\nLe dernier opus, Banjo‑Kazooie : Nuts & Bolts, date de 2008, et Toys for Bob avait déjà exprimé son envie de travailler sur la série.\nQu’en penses‑tu, on va enfin revoir le duo de la forêt ?\n\nSources : Gamekult, ActuGaming\n\n#checkpointfr #jeuxvideo #gaming #BanjoKazooie #Activision #Xbox #Rare #ToysForBob #Platformer #GamingNews",
+    "sources": [
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/voyez-y-un-signe-si-vous-voulez-mais-dans-une-nouvelle-offre-d-emploi-activision-se-presente-comme-la-maison-de-banjo-kazooie-3050873143.html"
+      },
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/une-offre-demploi-chez-activision-laisse-esperer-un-retour-de-banjo-kazooie-835221/"
+      }
+    ],
+    "score_tri": 1.88,
+    "creneau": "actu",
+    "redige_le": "2026-11-24T09:50:46+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 27.3,
+    "voix_off": true,
+    "video": "data/videos/77fe43d1020a.mp4",
+    "telegram": {
+      "message_id": 301,
+      "envoye_le": "2026-11-24T09:57:03+00:00"
+    }
+  },
+  {
+    "sujet_id": "d9d9f9c8a157",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "La fin de BioWare causée par la mauvaise gestion d'EA selon un ex",
+    "sous_titre": "Mark Darrah pointe du doigt la pression financière exercée sur le studio",
+    "points": [
+      {
+        "titre": "Des choix par défaut",
+        "texte": "Mark Darrah explique qu'EA mettait la pression pour atteindre les objectifs financiers, poussant le studio à choisir les options les moins pires."
+      },
+      {
+        "titre": "Des décisions sous contrainte",
+        "texte": "L'utilisation du moteur Frostbite, le développement express de Dragon Age 2 ou la sortie d'Anthem résultent de cette pression."
+      },
+      {
+        "titre": "La fermeture du studio",
+        "texte": "BioWare a été fermé par EA peu de temps après le rachat de l'éditeur par un groupe d'investisseurs privés."
+      }
+    ],
+    "a_retenir": "Le studio a subi une pression constante pour choisir entre des options toutes désastreuses.",
+    "voix": {
+      "couverture": "La fin de BioWare serait due au management d'Electronic Arts selon un ancien développeur.",
+      "points": [
+        "Mark Darrah affirme que le studio choisissait toujours la moins pire des options face à la pression.",
+        "Des jeux comme Dragon Age 2 ou Anthem ont pâti de ces objectifs financiers intenables.",
+        "Le studio a finalement été fermé par l'éditeur après plusieurs échecs."
+      ],
+      "retenir": "EA a poussé le studio à bout avec des choix impossibles à éviter."
+    },
+    "prononciation": {
+      "BioWare": "Baïo-Ouare",
+      "Mark Darrah": "Mark Darra",
+      "Frostbite": "Froste-baïte",
+      "Dragon Age 2": "Draguonne Édj deuce",
+      "Anthem": "Ann-thème"
+    },
+    "legende": "La fermeture du studio BioWare continue de faire parler en coulisses. Mark Darrah, ancien responsable de la franchise Dragon Age, a pris la parole pour dénoncer la gestion d'EA. Selon lui, le studio a été poussé à bout par une pression financière constante, le forçant à accepter des choix impossibles à refuser sur le long terme.\n\nDes projets comme Dragon Age 2 ou Anthem ont ainsi pâti de calendriers intenables et de décisions dictées par la maison mère. Une situation qui relance le débat sur la liberté des créateurs face aux géants de l'industrie.\n\nEt toi, que penses-tu de la gestion des studios par EA ?\n\nSources : GamesRadar, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #BioWare #DragonAge #MassEffect #Anthem #ElectronicArts #RPG",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/dragon-age/former-dragon-age-lead-says-ea-mismanagement-killed-bioware-by-forcing-it-into-terrible-choices-they-made-us-do-something/"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/"
+      }
+    ],
+    "score_tri": 0.8,
+    "creneau": "actu",
+    "redige_le": "2026-11-24T09:50:46+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 29.1,
+    "voix_off": true,
+    "video": "data/videos/d9d9f9c8a157.mp4",
+    "telegram": {
+      "message_id": 303,
+      "envoye_le": "2026-11-24T09:57:06+00:00"
+    }
+  },
+  {
+    "sujet_id": "82bd91071977",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Jensen Huang de retour chez Nvidia",
+    "sous_titre": "Moins de deux semaines après sa démission, le PDG récupère son poste",
+    "points": [
+      {
+        "titre": "Un retour immédiat",
+        "texte": "Le conseil d'administration a voté à l'unanimité pour réintégrer Jensen Huang comme PDG, président et directeur, avec effet immédiat."
+      },
+      {
+        "titre": "Le feu vert du gouvernement",
+        "texte": "L'entreprise affirme avoir consulté les hautes sphères du gouvernement américain, jugeant que ce retour ne pose aucun risque pour la sécurité nationale."
+      },
+      {
+        "titre": "Une enquête maintenue",
+        "texte": "Le comité indépendant formé pour enquêter sur les accusations visant Huang et une tentative d'ingérence étrangère poursuivra son travail jusqu'au bout."
+      }
+    ],
+    "a_retenir": "Jensen Huang reprend les commandes de Nvidia après onze jours d'absence, malgré le scandale.",
+    "voix": {
+      "couverture": "Coup de theatre, Jensen Huang de retour chez Nvidia !",
+      "points": [
+        "Le conseil d'administration a vote a l'unanimite pour le réintégrer a son poste avec effet immediat.",
+        "La direction assure avoir l'aval du gouvernement américain pour écarter tout risque de sécurité.",
+        "Une enquête indépendante est tout de même maintenue pour faire toute la lumière sur cette affaire."
+      ],
+      "retenir": "Il aura fallu seulement onze jours pour que le patron retrouve son siège."
+    },
+    "prononciation": {
+      "Nvidia": "En-vidia",
+      "Jensen Huang": "Djen-sen Hou-ang"
+    },
+    "legende": "Coup de théâtre dans le milieu de la tech et du jeu vidéo ! Jensen Huang retrouve officiellement son poste de PDG chez Nvidia, à peine onze jours après son départ. \n\nCette décision fait suite à un vote unanime du conseil d'administration, qui estime après discussions que le dirigeant dispose toujours des compétences nécessaires pour mener l'entreprise. L'avis du gouvernement américain a également pesé, l'exécutif ne voyant aucun risque sécuritaire dans ce retour en trombe. \n\nPendant son absence, les produits de la marque, cruciaux pour le jeu vidéo et l'industrie, sont restés au cœur des attentions. L'enquête interne sur le scandale et les accusations récentes va quant à elle se poursuivre. \n\nEt toi, que penses-tu de ce retour rapide ?\n\nSources : Polygon, Rock Paper Shotgun\n\n#checkpointfr #jeuxvideo #gaming #Nvidia #JensenHuang #PC #Hardware #Tech #Actualite",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/nvidia-reinstates-ceo-jensen-huang-spy-scandal/"
+      },
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea"
+      }
+    ],
+    "score_tri": 0.72,
+    "creneau": "actu",
+    "redige_le": "2026-11-24T09:50:46+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 30.1,
+    "voix_off": true,
+    "video": "data/videos/82bd91071977.mp4",
+    "telegram": {
+      "message_id": 305,
+      "envoye_le": "2026-11-24T09:57:08+00:00"
+    }
+  }
+]

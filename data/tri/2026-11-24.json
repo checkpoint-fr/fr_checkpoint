@@ -1,0 +1,159 @@
+[
+  {
+    "signature": [
+      "activision",
+      "banjo",
+      "emploi",
+      "kazooie",
+      "offre"
+    ],
+    "titre": "Voyez-y un signe si vous voulez, mais dans une nouvelle offre d'emploi, Activision se présente comme \"la maison de Banjo-Kazooie\"",
+    "score": 1.88,
+    "nb_sources": 2,
+    "sources": [
+      "ActuGaming",
+      "Gamekult"
+    ],
+    "langues": [
+      "fr"
+    ],
+    "dernier_article": "2026-11-24T08:45:00+00:00",
+    "mots_cles": [
+      "emploi",
+      "offre",
+      "activision",
+      "banjo",
+      "kazooie"
+    ],
+    "articles": [
+      {
+        "source": "Gamekult",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Voyez-y un signe si vous voulez, mais dans une nouvelle offre d'emploi, Activision se présente comme \"la maison de Banjo-Kazooie\"",
+        "lien": "https://www.gamekult.com/actualite/voyez-y-un-signe-si-vous-voulez-mais-dans-une-nouvelle-offre-d-emploi-activision-se-presente-comme-la-maison-de-banjo-kazooie-3050873143.html",
+        "resume": "Une nouvelle offre d'emploi publiée sur la page LinkedIn d'Activision cite Banjo-Kazooie parmi les licences désormais associées à l'éditeur. Difficile dès lors de ne pas alimenter des spéculations sur un éventuel nouveau jeu de la série.",
+        "publie_le": "2026-11-24T08:45:00+00:00"
+      },
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Une offre d’emploi chez Activision laisse espérer un retour de Banjo-Kazooie",
+        "lien": "https://www.actugaming.net/une-offre-demploi-chez-activision-laisse-esperer-un-retour-de-banjo-kazooie-835221/",
+        "resume": "ActuGaming.net Une offre d’emploi chez Activision laisse espérer un retour de Banjo-Kazooie En fêtant ses 25 ans, Xbox a fait le point sur ce qu’il appelle des […] L'article Une offre d’emploi chez Activision laisse espérer un retour de Banjo-Kazooie est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-23T16:05:29+00:00"
+      }
+    ],
+    "propose_le": "2026-11-24T09:50:46+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "age",
+      "bioware",
+      "dragon",
+      "former",
+      "options",
+      "table",
+      "terrible"
+    ],
+    "titre": "Former Dragon Age lead says EA mismanagement killed BioWare by forcing it into terrible choices",
+    "score": 0.8,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-23T18:00:57+00:00",
+    "mots_cles": [
+      "terrible",
+      "options",
+      "table",
+      "age",
+      "dragon",
+      "bioware",
+      "former"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Former Dragon Age lead says EA mismanagement killed BioWare by forcing it into terrible choices",
+        "lien": "https://www.gamesradar.com/games/dragon-age/former-dragon-age-lead-says-ea-mismanagement-killed-bioware-by-forcing-it-into-terrible-choices-they-made-us-do-something/",
+        "resume": "\"The reality is that the options on the table were all terrible,\" Mark Darrah says",
+        "publie_le": "2026-11-23T18:00:57+00:00"
+      },
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Dragon Age's former boss explains that poor management from EA led to BioWare shutting down because 'the options on the table were all terrible'",
+        "lien": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/",
+        "resume": "\"Did they make us make Dragon Age 2? No. But they made us do something.\"",
+        "publie_le": "2026-11-23T14:30:08+00:00"
+      }
+    ],
+    "propose_le": "2026-11-24T09:50:46+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "board",
+      "ceo",
+      "huang",
+      "jensen",
+      "less",
+      "nvidia",
+      "resigned",
+      "weeks"
+    ],
+    "titre": "Nvidia Board Reinstates CEO Jensen Huang Less than 2 Weeks after He Resigned",
+    "score": 0.72,
+    "nb_sources": 2,
+    "sources": [
+      "Polygon",
+      "Rock Paper Shotgun"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-23T16:13:15+00:00",
+    "mots_cles": [
+      "resigned",
+      "weeks",
+      "board",
+      "less",
+      "ceo",
+      "huang",
+      "jensen",
+      "nvidia"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Nvidia Board Reinstates CEO Jensen Huang Less than 2 Weeks after He Resigned",
+        "lien": "https://www.polygon.com/nvidia-reinstates-ceo-jensen-huang-spy-scandal/",
+        "resume": "Nvidia is reinstating Jensen Huang as CEO shortly after he stepped down once his affair with a Chinese spy came to light.",
+        "publie_le": "2026-11-23T16:13:15+00:00"
+      },
+      {
+        "source": "Rock Paper Shotgun",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea",
+        "lien": "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
+        "resume": "Yep, he's back. Less than two weeks after Jensen Huang resigned from being CEO of Nvidia following reports of multiple affairs , the company's board have reinstated him \"effective immediately\". Read more",
+        "publie_le": "2026-11-23T15:10:20+00:00"
+      }
+    ],
+    "propose_le": "2026-11-24T09:50:46+00:00",
+    "creneau": "actu"
+  }
+]
