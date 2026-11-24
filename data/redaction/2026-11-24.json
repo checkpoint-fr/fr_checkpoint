@@ -376,7 +376,7 @@
   },
   {
     "sujet_id": "8518a416f83b",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Wave Race: Blue Storm débarque sur Switch Online",
@@ -445,7 +445,12 @@
       "message_id": 318,
       "envoye_le": "2026-11-24T18:56:26+00:00"
     },
-    "decide_le": "2026-11-24T19:37:27+00:00"
+    "decide_le": "2026-11-24T19:37:27+00:00",
+    "instagram": {
+      "media_id": "18350612704253901",
+      "lien": "https://www.instagram.com/reel/DgIw7naDJdk/",
+      "publie_le": "2026-11-24T20:01:29+00:00"
+    }
   },
   {
     "sujet_id": "0bf7bd3164a3",
