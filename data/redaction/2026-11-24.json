@@ -188,5 +188,183 @@
       "lien": "https://www.instagram.com/reel/DgH4QeDjfPa/",
       "publie_le": "2026-11-24T11:46:14+00:00"
     }
+  },
+  {
+    "sujet_id": "4af6d52b52a2",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "GTA VI pulvérise tous les records sur PlayStation",
+    "sous_titre": "Sony dévoile des chiffres historiques pour le lancement du jeu de Rockstar.",
+    "points": [
+      {
+        "titre": "Plus de 39 millions de joueurs",
+        "texte": "Sony annonce que plus de 39 millions de joueurs uniques ont découvert l'histoire de Jason et Lucia sur PS5."
+      },
+      {
+        "titre": "Un temps de jeu astronomique",
+        "texte": "Les joueurs ont cumulé 683 millions d'heures de jeu, avec une moyenne de 17,4 heures par personne."
+      },
+      {
+        "titre": "Des ventes de consoles en hausse",
+        "texte": "Sony a enregistré un pic record de nouvelles connexions de PS5, le jeu étant le premier lancé sur 70 pour cent d'entre elles."
+      }
+    ],
+    "a_retenir": "GTA VI devient officiellement le plus grand lancement de l'histoire de PlayStation.",
+    "voix": {
+      "couverture": "GTA VI explose tous les records historiques sur PlayStation.",
+      "points": [
+        "Plus de trente-neuf millions de joueurs ont déjà lancé l'aventure sur PS5.",
+        "Le temps de jeu cumulé dépasse les six cent quatre-vingt-trois millions d'heures.",
+        "Le jeu a provoqué un pic historique de ventes et de connexions pour les consoles neuves."
+      ],
+      "retenir": "C'est le plus grand lancement de toute l'histoire de PlayStation."
+    },
+    "prononciation": {},
+    "legende": "Sony vient de officialiser les chiffres fous du lancement de GTA VI sur sa console. Le titre signe tout simplement le plus gros démarrage de l'histoire de la marque sur trois décennies. Des millions de joueurs se sont rués sur l'aventure de Jason et Lucia, battant tous les records de connexion et de temps de jeu dès les premiers jours. \n\nC'est un raz-de-marée historique qui booste même les ventes de la machine de Sony. Entre les milliards de dollars engrangés dès le premier jour et cette domination totale sur toutes les statistiques, le jeu de Rockstar marque durablement l'histoire du jeu vidéo.\n\nEt toi, tu as déjà passé combien d'heures sur GTA VI ?\n\nSources : GamesRadar, IGN, VGC\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #PS5 #PlayStation #Sony #ActualiteGaming",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/gta-6-was-biggest-launch-in-playstation-history"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/"
+      }
+    ],
+    "score_tri": 2.08,
+    "creneau": "gta6",
+    "redige_le": "2026-11-24T17:15:16+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.8,
+    "voix_off": true,
+    "video": "data/videos/4af6d52b52a2.mp4",
+    "telegram": {
+      "message_id": 311,
+      "envoye_le": "2026-11-24T17:24:29+00:00"
+    }
+  },
+  {
+    "sujet_id": "3202e6e30f55",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "Le fichier exécutable Xbox de GTA VI fuit en ligne",
+    "sous_titre": "Le leakur Cyberleek aurait mis en ligne le .exe d’une version Xbox non confirmée",
+    "points": [
+      {
+        "titre": "Fuite du .exe Xbox de GTA VI",
+        "texte": "Le leakur Cyberleek aurait publié le fichier exécutable principal d’une version Xbox supposée, qualifiée de « cadeau de Noël »."
+      },
+      {
+        "titre": "Légitimité incertaine",
+        "texte": "Aucun test indépendant n’a confirmé que le fichier fonctionne ; il pourrait s’avérer être un malware ou un faux."
+      },
+      {
+        "titre": "Objectif des dévs communautaires",
+        "texte": "Cyberleek veut que les projets open‑source de recompilation et d’émulation utilisent le .exe, en échange de dons en cryptomonnaie."
+      },
+      {
+        "titre": "Réaction de Rockstar",
+        "texte": "Rockstar et Take‑Two ont qualifié les fuites d’« heartbreaking » et poursuivent les auteurs depuis août."
+      }
+    ],
+    "a_retenir": "Fuite non vérifiée, mais elle alimente les rumeurs d’un port PC bientôt",
+    "voix": {
+      "couverture": "Un .exe Xbox de GTA VI a fuité, mais est‑il réel ?",
+      "points": [
+        "Cyberleek aurait publié le fichier exécutable principal d’une version Xbox, le qualifiant de cadeau de Noël.",
+        "Aucun test n’a confirmé son fonctionnement, il pourrait s’avérer être un simple malware.",
+        "Le but est d’alimenter les projets de recompilation open‑source, en échange de dons en crypto.",
+        "Rockstar et Take‑Two ont qualifié les fuites d’« heartbreaking » et continuent de traquer les leakurs."
+      ],
+      "retenir": "Fuite non vérifiée, mais elle alimente les rumeurs d’un port PC bientôt"
+    },
+    "prononciation": {
+      "Project Leonida": "Project Léonida"
+    },
+    "legende": "Un .exe Xbox de GTA VI a atterri sur le net, mais à quel point est‑il fiable ?\nLe leakur connu sous le nom de Cyberleek a publié ce qu’il décrit comme un « cadeau de Noël », le fichier exécutable principal d’une version Xbox non confirmée. Il espère que les projets open‑source de recompilation et d’émulation s’en serviront, tout en sollicitant des dons en cryptomonnaie.\nRockstar et sa maison-mère Take‑Two ont dénoncé ces fuites comme « heartbreaking » et continuent de traquer les auteurs depuis plusieurs mois. En attendant une confirmation officielle, la communauté reste divisée entre espoir d’un port PC rapide et méfiance face à un possible malware.\nEt toi, que penses‑tu de cette fuite ?\n\nSources : Rock Paper Shotgun, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #Rockstar #Xbox #PC #leak #modding #cryptocurrency",
+    "sources": [
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/"
+      }
+    ],
+    "score_tri": 1.45,
+    "creneau": "gta6",
+    "redige_le": "2026-11-24T17:15:16+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 34.6,
+    "voix_off": true,
+    "video": "data/videos/3202e6e30f55.mp4",
+    "telegram": {
+      "message_id": 313,
+      "envoye_le": "2026-11-24T17:24:30+00:00"
+    }
+  },
+  {
+    "sujet_id": "b0adba0d8f66",
+    "statut": "ecarte",
+    "motif": "doublon de « GTA VI pulvérise tous les records sur PlayStation »",
+    "statut_info": "officiel",
+    "accroche": "GTA VI : 39 millions de joueurs PS5 en 4 jours",
+    "sous_titre": "Sony dévoile les stats record du lancement de GTA VI sur PlayStation 5",
+    "points": [
+      {
+        "titre": "39 M de joueurs uniques",
+        "texte": "En quatre jours, plus de 39 millions de joueurs différents ont lancé GTA VI sur PS5, le plus gros démarrage jamais enregistré."
+      },
+      {
+        "titre": "683 M d’heures de jeu",
+        "texte": "Ces joueurs ont cumulé 683 millions d’heures, soit une moyenne de 17,4 heures par compte en seulement quatre jours."
+      },
+      {
+        "titre": "Record de joueurs simultanés",
+        "texte": "GTA VI a battu le précédent record du nombre de joueurs connectés en même temps sur une console PlayStation."
+      },
+      {
+        "titre": "Boost des ventes PS5",
+        "texte": "Le titre a été installé sur 70 % des nouvelles PS5, provoquant le plus grand pic quotidien de consoles connectées hors période de fêtes."
+      }
+    ],
+    "a_retenir": "GTA VI devient le plus grand system seller de l’histoire de PlayStation.",
+    "voix": {
+      "couverture": "GTA VI explose les compteurs : 39 millions de joueurs sur PS5 en quatre jours",
+      "points": [
+        "Plus de 39 millions de joueurs uniques ont lancé GTA VI sur PS5 en seulement quatre jours.",
+        "Ils ont accumulé 683 millions d’heures de jeu, soit une moyenne de 17,4 heures chacun.",
+        "Le jeu a établi un nouveau record de joueurs simultanés sur PlayStation.",
+        "GTA VI a été installé sur 70 % des nouvelles PS5, boostant les ventes consoles."
+      ],
+      "retenir": "GTA VI devient le plus grand system seller de l’histoire de PlayStation"
+    },
+    "prononciation": {
+      "Rockstar Games": "Rocks-tar Guèmes"
+    },
+    "legende": "Sony vient de publier des chiffres hallucinants : plus de 39 millions de joueurs uniques ont démarré GTA VI sur PS5 en seulement quatre jours. En plus, ils ont cumulé 683 millions d’heures de jeu, soit une moyenne de 17,4 heures par joueur. Le jeu a même battu le record de joueurs simultanés et a été installé sur 70 % des nouvelles PS5, boostant les ventes de la console. Ce lancement confirme que GTA VI est le plus grand system seller de l’histoire de PlayStation. Et toi, tu as déjà rejoint la folie ?\n\nSources : Journal du Geek, Gamekult\n\n#checkpointfr #jeuxvideo #gaming #GTAVi #RockstarGames #PlayStation5 #PS5 #SystemSeller #OpenWorld #GamingStats",
+    "sources": [
+      {
+        "nom": "Journal du Geek",
+        "lien": "https://www.journaldugeek.com/2026/11/24/gta-6-playstation-est-le-grand-gagnant-de-cette-histoire/"
+      },
+      {
+        "nom": "Gamekult",
+        "lien": "https://www.gamekult.com/actualite/gta-6-la-folie-des-stats-continue-avec-deja-39-millions-de-joueurs-rien-que-sur-ps5-revele-sony-3050873156.html"
+      }
+    ],
+    "score_tri": 1.4,
+    "creneau": "gta6",
+    "redige_le": "2026-11-24T17:15:16+00:00",
+    "alertes": []
   }
 ]
