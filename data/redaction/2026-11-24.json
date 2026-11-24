@@ -449,7 +449,7 @@
   },
   {
     "sujet_id": "0bf7bd3164a3",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Mass Effect: Universe aurait résolu les fins de ME3",
@@ -519,7 +519,8 @@
     "telegram": {
       "message_id": 320,
       "envoye_le": "2026-11-24T18:56:27+00:00"
-    }
+    },
+    "decide_le": "2026-11-24T19:37:34+00:00"
   },
   {
     "sujet_id": "59d0d7b1b20a",
