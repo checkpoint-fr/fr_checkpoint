@@ -191,7 +191,7 @@
   },
   {
     "sujet_id": "4af6d52b52a2",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI pulvérise tous les records sur PlayStation",
@@ -247,6 +247,12 @@
     "telegram": {
       "message_id": 311,
       "envoye_le": "2026-11-24T17:24:29+00:00"
+    },
+    "decide_le": "2026-11-24T19:35:33+00:00",
+    "instagram": {
+      "media_id": "17919200541493651",
+      "lien": "https://www.instagram.com/reel/DgIuDrCCZi0/",
+      "publie_le": "2026-11-24T19:36:21+00:00"
     }
   },
   {
