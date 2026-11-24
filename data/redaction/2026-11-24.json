@@ -126,7 +126,7 @@
   },
   {
     "sujet_id": "82bd91071977",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Jensen Huang de retour chez Nvidia",
@@ -181,6 +181,12 @@
     "telegram": {
       "message_id": 305,
       "envoye_le": "2026-11-24T09:57:08+00:00"
+    },
+    "decide_le": "2026-11-24T11:45:25+00:00",
+    "instagram": {
+      "media_id": "18121716701044672",
+      "lien": "https://www.instagram.com/reel/DgH4QeDjfPa/",
+      "publie_le": "2026-11-24T11:46:14+00:00"
     }
   }
 ]
