@@ -63,7 +63,7 @@
   },
   {
     "sujet_id": "d9d9f9c8a157",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "La fin de BioWare causée par la mauvaise gestion d'EA selon un ex",
@@ -121,7 +121,8 @@
     "telegram": {
       "message_id": 303,
       "envoye_le": "2026-11-24T09:57:06+00:00"
-    }
+    },
+    "decide_le": "2026-11-24T11:45:15+00:00"
   },
   {
     "sujet_id": "82bd91071977",
