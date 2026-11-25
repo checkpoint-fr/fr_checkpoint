@@ -356,7 +356,7 @@
   },
   {
     "sujet_id": "b248070bb131",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Le silence est brise pour le DLC de Hollow Knight: Silksong",
@@ -427,11 +427,12 @@
     "telegram": {
       "message_id": 340,
       "envoye_le": "2026-11-25T18:53:16+00:00"
-    }
+    },
+    "decide_le": "2026-11-25T20:02:29+00:00"
   },
   {
     "sujet_id": "2afeb047d125",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Diablo 4 garde le meilleur de la saison 15 pour la saison 16",
@@ -506,11 +507,12 @@
     "telegram": {
       "message_id": 342,
       "envoye_le": "2026-11-25T18:53:18+00:00"
-    }
+    },
+    "decide_le": "2026-11-25T20:02:30+00:00"
   },
   {
     "sujet_id": "691ca47b2624",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Nvidia corrige enfin le bug des SSD sur son nouveau pilote graphique",
@@ -562,6 +564,12 @@
     "telegram": {
       "message_id": 344,
       "envoye_le": "2026-11-25T18:53:20+00:00"
+    },
+    "decide_le": "2026-11-25T20:02:30+00:00",
+    "instagram": {
+      "media_id": "18392200771227582",
+      "lien": "https://www.instagram.com/reel/DgLV_0hBMEl/",
+      "publie_le": "2026-11-25T20:03:47+00:00"
     }
   }
 ]
