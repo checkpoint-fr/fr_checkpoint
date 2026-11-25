@@ -165,5 +165,186 @@
     "creneau": "actu",
     "redige_le": "2026-11-25T09:54:09+00:00",
     "alertes": []
+  },
+  {
+    "sujet_id": "3b1285511373",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "Le port IA de GTA VI sur PC : le plus gros feu d’artifice jamais",
+    "sous_titre": "Un groupe de jeunes codeurs tente de recompilier le jeu avec l’IA, avant d’être stoppé par Rockstar",
+    "points": [
+      {
+        "titre": "Leonida, le projet IA",
+        "texte": "Le recompilateur, baptisé Leonida, utilise Claude et Antigravity pour transformer le code Xbox de GTA VI en version PC."
+      },
+      {
+        "titre": "Un démarrage réussi, puis un arrêt",
+        "texte": "Les développeurs ont fait tourner le jeu sur PC, mais une mise en demeure de Rockstar a fait fermer le Discord et supprimer le repo."
+      },
+      {
+        "titre": "Coûts d’IA astronomiques",
+        "texte": "Les participants, dont un ado de 15 ans, dépensaient des centaines voire des milliers de dollars en frais d’usage d’IA."
+      },
+      {
+        "titre": "Fuite du build Xbox",
+        "texte": "Le tout repose sur la fuite du build Xbox de GTA VI publiée par le leaker Cyberleek la semaine dernière."
+      }
+    ],
+    "a_retenir": "Les ports IA non officiels restent bloqués, malgré un boot provisoire sur PC.",
+    "voix": {
+      "couverture": "Un port IA de GTA VI sur PC, le plus gros feu d’artifice jamais",
+      "points": [
+        "Leonida utilise les IA Claude et Antigravity pour transformer le code Xbox de GTA VI en version PC.",
+        "Le jeu a même pu démarrer sur PC, mais Rockstar a fait fermer le Discord et le repo.",
+        "Les développeurs, dont un ado de 15 ans, dépensaient des centaines à des milliers de dollars en IA.",
+        "Tout repose sur la fuite du build Xbox de GTA VI publiée par Cyberleek la semaine dernière."
+      ],
+      "retenir": "Les ports IA non officiels restent bloqués, malgré un boot provisoire sur PC"
+    },
+    "prononciation": {
+      "Leonida": "Léonida",
+      "Claude": "Klôd",
+      "Antigravity": "Antigravité",
+      "Take Two Interactive": "Ték Tou Interactiv"
+    },
+    "legende": "Un port IA de GTA VI sur PC, c’est le chaos total !\nDes codeurs, dont un ado de 15 ans, ont utilisé les IA Claude et Antigravity pour transformer le build Xbox fuité en version PC. Le projet, nommé Leonida, a même réussi à faire démarrer le jeu.\nMais Rockstar et Take‑Two ont réagi : le serveur Discord a été fermé, le dépôt GitHub supprimé et les développeurs ont dû abandonner.\nEt toi, tu tenterais de porter GTA VI sur PC avec l’IA ?\n\nSources : GamesRadar, Rock Paper Shotgun\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #PC #AI #Modding #TakeTwo #Leonida #Cyberleek",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-race-is-the-most-ridiculous-dumpster-fire-ever-says-former-destiny-2-dev-just-a-bunch-of-kids-hitting-their-head-on-a-wall/"
+      },
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever"
+      }
+    ],
+    "score_tri": 1.67,
+    "creneau": "gta6",
+    "redige_le": "2026-11-25T17:59:17+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 40.9,
+    "voix_off": true,
+    "video": "data/videos/3b1285511373.mp4",
+    "telegram": {
+      "message_id": 333,
+      "envoye_le": "2026-11-25T18:06:57+00:00"
+    }
+  },
+  {
+    "sujet_id": "61913c0910cc",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Max Verstappen a passé 40h sur GTA VI pendant le GP de Vegas",
+    "sous_titre": "Le champion du monde F1 a enchaîné les courses et les braquages virtuels pendant le week‑end.",
+    "points": [
+      {
+        "titre": "40h de GTA VI en plein week‑end",
+        "texte": "Verstappen a déclaré avoir joué plus de quarante heures sur GTA VI, entre les séances d’entraînement et les courses, pendant le Grand Prix de Las Vegas."
+      },
+      {
+        "titre": "Victoire au GP malgré le jeu",
+        "texte": "Le pilote a tout de même remporté le Grand Prix de Las Vegas, prouvant que les sessions de jeu n’ont pas nui à ses performances sur la piste."
+      },
+      {
+        "titre": "Minecraft relégué aux oubliettes",
+        "texte": "Il a avoué avoir « complètement oublié » comment jouer à Minecraft, même s’il devait streamer la partie bientôt."
+      },
+      {
+        "titre": "80 % de l’histoire déjà terminée",
+        "texte": "Selon lui, il a déjà bouclé les quatre‑vingts pour cent de la trame principale, en zappant surtout les cinématiques qu’il trouve ennuyeuses."
+      }
+    ],
+    "a_retenir": "",
+    "voix": {},
+    "prononciation": {},
+    "legende": "\n\nSources : PC Gamer, IGN\n\n#checkpointfr #jeuxvideo #gaming",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix"
+      }
+    ],
+    "score_tri": 1.61,
+    "creneau": "gta6",
+    "redige_le": "2026-11-25T17:59:17+00:00",
+    "alertes": [],
+    "defauts_voix": []
+  },
+  {
+    "sujet_id": "48a0425f9e09",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "Un portail vers Vice City dans GTA VI",
+    "sous_titre": "Un créateur a découvert comment voyager dans le temps vers Vice City grâce à un Easter egg complexe",
+    "points": [
+      {
+        "titre": "Portail temporel vers Vice City",
+        "texte": "En activant le tour radio de Key Lento, puis en suivant 12 sous‑stations LPL dans l’ordre exact, on ouvre un portail qui ramène le jeu à l’esthétique PS2 de Vice City."
+      },
+      {
+        "titre": "Récompenses rétro",
+        "texte": "Le secret débloque la chemise emblématique de Tommy Vercetti et une moto Malibu exclusive, rappelant les classiques de GTA VI."
+      },
+      {
+        "titre": "Pas de fast‑travel",
+        "texte": "Utiliser le service RydeMe ou laisser Jason/Lucia conduire réinitialise l’épreuve, il faut donc parcourir les routes manuellement."
+      },
+      {
+        "titre": "Découverte par Memeio",
+        "texte": "Le créateur de contenu Memeio a mis trois jours à décrypter la séquence, grâce à un indice sonore provenant de Vice City."
+      }
+    ],
+    "a_retenir": "Un Easter egg qui te fait revivre Vice City, mais il faut se lancer à l’ancienne, sans raccourcis",
+    "voix": {
+      "couverture": "Un portail secret te ramène dans Vice City, mais c’est un vrai défi",
+      "points": [
+        "Active la tour de Key Lento, puis visite 12 sous‑stations dans l’ordre pour ouvrir le portail.",
+        "Le secret te donne la chemise de Tommy Vercetti et une moto Malibu exclusive.",
+        "Évite le fast‑travel : RydeMe ou l’auto‑pilotage réinitialisent l’épreuve.",
+        "Memeio a mis trois jours à décoder le code grâce à un indice sonore de Vice City."
+      ],
+      "retenir": "Revivez Vice City, mais seulement si tu te lances à l’ancienne."
+    },
+    "prononciation": {
+      "Key Lento": "Ki Lento",
+      "Vice City": "Vais Si-ti",
+      "Memeio": "Mémé-io",
+      "RydeMe": "Rai-d Me"
+    },
+    "legende": "Un portail secret vers Vice City se cache dans GTA VI, et il ne suffit pas de zapper pour le découvrir.\nPour activer l’évent, il faut d’abord allumer la tour radio de Key Lento, puis visiter douze sous‑stations LPL dans l’ordre exact. Chaque station porte une lettre ; une fois assemblées, elles forment le code « Life Is Passing Me By », qui ouvre le portail rétro à la sauce PS2.\nLe résultat : la chemise de Tommy Vercetti et une moto Malibu exclusive, comme un clin d’œil aux premiers GTA.\nAttention, le fast‑travel via RydeMe ou l’auto‑pilotage annule l’épreuve, alors prépare‑toi à conduire manuellement.\nEt toi, tu tenterais de revivre Vice City à l’ancienne ?\n\nSources : GamesRadar, Polygon, VGC\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #PS5 #XboxSeriesX #OpenWorld #ViceCity #RetroEasterEgg",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-vice-city-portal-easter-egg-location-walkthrough-how-to-open/"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/guide/gta-6-vice-city-retro-easter-egg-walkthrough-rewards/"
+      }
+    ],
+    "score_tri": 1.14,
+    "creneau": "gta6",
+    "redige_le": "2026-11-25T17:59:17+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 33.5,
+    "voix_off": true,
+    "video": "data/videos/48a0425f9e09.mp4",
+    "telegram": {
+      "message_id": 335,
+      "envoye_le": "2026-11-25T18:06:58+00:00"
+    }
   }
 ]

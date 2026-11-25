@@ -159,5 +159,184 @@
     ],
     "propose_le": "2026-11-25T09:54:09+00:00",
     "creneau": "actu"
+  },
+  {
+    "signature": [
+      "6",
+      "bungie",
+      "dev",
+      "dumpster",
+      "ever",
+      "fire",
+      "former",
+      "gta",
+      "ridiculous",
+      "unofficial"
+    ],
+    "titre": "Unofficial GTA 6 PC race is the \"most ridiculous dumpster fire ever,\" says former Destiny 2 dev",
+    "score": 1.67,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "Rock Paper Shotgun"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-25T14:53:40+00:00",
+    "mots_cles": [
+      "dev",
+      "bungie",
+      "dumpster",
+      "fire",
+      "unofficial",
+      "ridiculous",
+      "ever",
+      "former"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Unofficial GTA 6 PC race is the \"most ridiculous dumpster fire ever,\" says former Destiny 2 dev",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-race-is-the-most-ridiculous-dumpster-fire-ever-says-former-destiny-2-dev-just-a-bunch-of-kids-hitting-their-head-on-a-wall/",
+        "resume": "The ex-Bungie dev speculates those involved could be spending thousands of dollars on their AI usage",
+        "publie_le": "2026-11-25T14:53:40+00:00"
+      },
+      {
+        "source": "Rock Paper Shotgun",
+        "type": "presse",
+        "langue": "en",
+        "titre": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+        "lien": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
+        "resume": "One of the creators of an unofficial AI-generated PC \"port\" of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have already stepped in to shut down the project, though the fearful work of slop-and-pasting GTA 6 to PC appears to be continuing in other hands. Titled \"Leonida\", after the game's setting, the port is a recompilation – that is, a translation of the game's original code…",
+        "publie_le": "2026-11-25T10:38:50+00:00"
+      }
+    ],
+    "propose_le": "2026-11-25T17:59:17+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "40",
+      "6",
+      "grand",
+      "gta",
+      "hours",
+      "las",
+      "max",
+      "prix",
+      "vegas",
+      "verstappen"
+    ],
+    "titre": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
+    "score": 1.61,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-25T14:15:51+00:00",
+    "mots_cles": [
+      "prix",
+      "vegas",
+      "max",
+      "40",
+      "verstappen",
+      "las",
+      "hours",
+      "grand"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/",
+        "resume": "What's your excuse?",
+        "publie_le": "2026-11-25T14:15:51+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+        "lien": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
+        "resume": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.",
+        "publie_le": "2026-11-24T23:49:50+00:00"
+      }
+    ],
+    "propose_le": "2026-11-25T17:59:17+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "city",
+      "complete",
+      "easter",
+      "egg",
+      "gta",
+      "rewards",
+      "vice"
+    ],
+    "titre": "GTA 6's coolest Easter egg so far is so intricate that only real Vice City sickos would ever find it",
+    "score": 1.14,
+    "nb_sources": 3,
+    "sources": [
+      "GamesRadar",
+      "Polygon",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-25T01:12:38+00:00",
+    "mots_cles": [
+      "complete",
+      "egg",
+      "easter",
+      "rewards",
+      "vice",
+      "city",
+      "6",
+      "gta"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6's coolest Easter egg so far is so intricate that only real Vice City sickos would ever find it",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/",
+        "resume": "And people who read this article",
+        "publie_le": "2026-11-25T01:12:38+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Vice City portal Easter egg location in GTA 6",
+        "lien": "https://www.polygon.com/gta-6-vice-city-portal-easter-egg-location-walkthrough-how-to-open/",
+        "resume": "Here's how to start and complete the Vice City portal easter egg in GTA 6 and the rewards you receive from it.",
+        "publie_le": "2026-11-24T22:11:43+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "GTA 6: Full Vice City retro easter egg walkthrough, all rewards",
+        "lien": "https://www.videogameschronicle.com/guide/gta-6-vice-city-retro-easter-egg-walkthrough-rewards/",
+        "resume": "Everything you need to complete the retro Vice City easter egg in Grand Theft Auto 6",
+        "publie_le": "2026-11-24T19:35:02+00:00"
+      }
+    ],
+    "propose_le": "2026-11-25T17:59:17+00:00",
+    "creneau": "gta6"
   }
 ]
