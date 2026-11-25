@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "49dc67a152c5",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "The Witcher 4 : un partenariat marketing avec PlayStation",
@@ -61,7 +61,8 @@
     "telegram": {
       "message_id": 326,
       "envoye_le": "2026-11-25T09:57:38+00:00"
-    }
+    },
+    "decide_le": "2026-11-25T11:12:47+00:00"
   },
   {
     "sujet_id": "082724f142e9",
