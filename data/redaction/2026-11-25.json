@@ -279,7 +279,7 @@
   },
   {
     "sujet_id": "48a0425f9e09",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "Un portail vers Vice City dans GTA VI",
@@ -345,7 +345,8 @@
     "telegram": {
       "message_id": 335,
       "envoye_le": "2026-11-25T18:06:58+00:00"
-    }
+    },
+    "decide_le": "2026-11-25T20:01:29+00:00"
   },
   {
     "sujet_id": "b248070bb131",
