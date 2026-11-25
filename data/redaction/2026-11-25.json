@@ -346,5 +346,215 @@
       "message_id": 335,
       "envoye_le": "2026-11-25T18:06:58+00:00"
     }
+  },
+  {
+    "sujet_id": "b248070bb131",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Le silence est brise pour le DLC de Hollow Knight: Silksong",
+    "sous_titre": "Team Cherry annonce une presentation speciale ce vendredi 27 novembre pour parler de Sea of Sorrow",
+    "points": [
+      {
+        "titre": "Un live nomme Cherry Time",
+        "texte": "Team Cherry organise une presentation speciale ce vendredi 27 novembre a 16 heures sur YouTube pour donner des nouvelles de son jeu."
+      },
+      {
+        "titre": "Le point sur Sea of Sorrow",
+        "texte": "Le studio promet une mise a jour sur son DLC nomme Sea of Sorrow, qui doit ajouter de nouvelles zones, des boss et des outils."
+      },
+      {
+        "titre": "Une sortie prevue en 2026",
+        "texte": "Ce contenu doit normalement arriver gratuitement cette annee pour tous les possesseurs du jeu de base sur toutes les plateformes."
+      }
+    ],
+    "a_retenir": "Le mystere va enfin se lever sur ce DLC tres attendu apres des mois de silence radio.",
+    "voix": {
+      "couverture": "Le silence est enfin brise pour le DLC de Hollow Knight: Silksong.",
+      "points": [
+        "Team Cherry organise un live nomme Cherry Time ce vendredi 27 novembre a seize heures.",
+        "Le studio va enfin donner des nouvelles de son extension Sea of Sorrow.",
+        "Ce contenu gratuit doit normalement sortir cette annee avec de nouvelles zones et des boss."
+      ],
+      "retenir": "On saura enfin si le DLC sort bientot ou s il est repousse."
+    },
+    "prononciation": {
+      "Hollow Knight: Silksong": "Rolo Naïte Silksongue",
+      "Sea of Sorrow": "Si ouf Soro"
+    },
+    "legende": "Le silence radio est enfin termine du cote de chez Team Cherry. Apres des mois d'attente, le studio rompt le mutisme et annonce un livestream intitule Cherry Time, prevu pour ce vendredi 27 novembre a 16 heures sur YouTube. Au programme : des annonces et surtout des nouvelles tant attendues du DLC Sea of Sorrow pour Hollow Knight: Silksong.\n\nAnnoncee comme une extension gratuite a theme nautique, cette nouveauté doit apporter de nouvelles zones a explorer ainsi que de redoutables boss a affronter. Avec une fenetre de sortie fixee a 2026, cette presentation devrait enfin nous offrir une date de sortie precise, ou malheureusement lever le doute sur un eventuel report.\n\nEt toi, tu attends ce DLC avec impatience ?\n\nSources : VGC, Polygon, ActuGaming, Eurogamer, IGN, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #HollowKnightSilksong #TeamCherry #Metroidvania #PC #NintendoSwitch #PlayStation #Xbox",
+    "sources": [
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/team-cherry-will-share-an-update-on-silksongs-dlc-on-november-27/"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/hollow-knight-silksong-sea-of-sorrow-team-cherry-time/"
+      },
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/le-dlc-de-hollow-knight-silksong-se-rapproche-team-cherry-va-prendre-la-parole-en-fin-de-semaine-836001/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/hollow-knight-silksong-dev-gets-into-the-direct-business-with-cherry-time-special-presentation"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/action/hollow-knight-silksong-sea-of-sorrow-update-coming-this-week-as-team-cherry-teases-exciting-announcements-in-its-own-nintendo-direct-style-showcase/"
+      }
+    ],
+    "score_tri": 6.21,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-25T18:45:41+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 29.9,
+    "voix_off": true,
+    "video": "data/videos/b248070bb131.mp4",
+    "telegram": {
+      "message_id": 340,
+      "envoye_le": "2026-11-25T18:53:16+00:00"
+    }
+  },
+  {
+    "sujet_id": "2afeb047d125",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Diablo 4 garde le meilleur de la saison 15 pour la saison 16",
+    "sous_titre": "Blizzard annonce la saison « Season of Tyrael’s Gambit », tout en rendant permanents les contenus les plus appréciés de la saison 15",
+    "points": [
+      {
+        "titre": "Nouvelle saison, même date",
+        "texte": "Season of Tyrael’s Gambit débute le 1 décembre 2026, marquant la 16ᵉ saison de Diablo 4."
+      },
+      {
+        "titre": "Contenus nostalgiques permanents",
+        "texte": "Old Tristram, le livre de Deckard Cain, le combat du Conseil des Prime Evil et les boss Moophisto et Uber Diablo restent accessibles en permanence."
+      },
+      {
+        "titre": "Objets et donjons conservés",
+        "texte": "Les Legacy Uniques comme le sceau d’Annihilus, le charme Hellfire Torch et les donjons Capstone (Torment 10+) sont désormais permanents."
+      },
+      {
+        "titre": "Ce qui partira",
+        "texte": "Les objets craftables exclusifs à la saison 15 ne reviendront pas, il faut donc les récupérer avant la fin de la saison."
+      }
+    ],
+    "a_retenir": "Diablo 4 transforme les meilleurs souvenirs de la saison 15 en contenu permanent.",
+    "voix": {
+      "couverture": "Blizzard lance la saison 16 et garde le meilleur de la saison 15.",
+      "points": [
+        "Season of Tyrael’s Gambit commence le 1 décembre 2026, marquant la 16ᵉ saison de Diablo 4.",
+        "Old Tristram, les livres de Deckard Cain, le combat du Conseil des Prime Evil et les boss Moophisto et Uber Diablo restent permanents.",
+        "Les Legacy Uniques comme le sceau d’Annihilus, le charme Hellfire Torch et les donjons Capstone (Torment 10+) sont conservés.",
+        "Les objets craftables exclusifs à la saison 15 disparaîtront, alors récupère‑les avant la fin."
+      ],
+      "retenir": "Le meilleur de la saison 15 devient permanent dans Diablo 4."
+    },
+    "prononciation": {
+      "Season of Tyrael’s Gambit": "Sizôn ov Ti‑rielz Gambit",
+      "Old Tristram": "Old Tristram",
+      "Deckard Cain": "Deckard Cain",
+      "Prime Evil Council": "Prime Evil Council",
+      "Moophisto": "Moophisto",
+      "Uber Diablo": "Uber Diablo",
+      "Legacy Uniques": "Legacy Uniques",
+      "Annihilus Seal": "Annihilus Seal",
+      "Hellfire Torch Charm": "Hellfire Torch Charm",
+      "Capstone Dungeons": "Capstone Dungeons",
+      "Torment": "Torment"
+    },
+    "legende": "Diablo 4 ne lâche rien : la saison 16 garde le meilleur de la saison 15. Blizzard a dévoilé la saison « Season of Tyrael’s Gambit », qui démarre le 1 décembre 2026. Old Tristram, les livres de Deckard Cain, le combat du Conseil des Prime Evil, Moophisto et Uber Diablo seront maintenant permanents, tout comme les Legacy Uniques et les donjons Capstone (Torment 10+). En revanche, les objets craftables exclusifs à la saison 15 disparaîtront, alors profite‑en avant qu’ils ne partent. Quelle fonctionnalité de la saison 15 veux‑tu voir rester pour toujours ?\n\nSources : Polygon, Eurogamer, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #Diablo4 #Blizzard #SeasonOfTyraelsGambit #LiveService #ARPG #Season16",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/diablo-4-season-16-changes-season-15-content/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/diablo/diablo-4s-nostalgia-heavy-season-15-was-so-good-that-blizzard-is-making-a-lot-of-it-permanent/"
+      }
+    ],
+    "score_tri": 2.79,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-25T18:45:41+00:00",
+    "alertes": [
+      "sous_titre : 132/110 car."
+    ],
+    "defauts_voix": [],
+    "duree": 41.2,
+    "voix_off": true,
+    "video": "data/videos/2afeb047d125.mp4",
+    "telegram": {
+      "message_id": 342,
+      "envoye_le": "2026-11-25T18:53:18+00:00"
+    }
+  },
+  {
+    "sujet_id": "691ca47b2624",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Nvidia corrige enfin le bug des SSD sur son nouveau pilote graphique",
+    "sous_titre": "Le driver 621.40 règle le problème d'écriture excessive qui menaçait ton stockage",
+    "points": [
+      {
+        "titre": "La fin du bug des SSD",
+        "texte": "La version 621.40 règle les écritures massives dans le fichier nvlog.nvlgstg qui pouvaient user ton SSD en arrière-plan."
+      },
+      {
+        "titre": "Des correctifs précédents insuffisants",
+        "texte": "Un précédent hotfix avait réduit le problème au démarrage mais la surchauffe persistait après de longues heures d'utilisation."
+      },
+      {
+        "titre": "Optimisations et autres correctifs",
+        "texte": "Ce nouveau pilote apporte aussi des améliorations pour Dawn of War 4, Assetto Corsa Rally et Where Winds Meet."
+      }
+    ],
+    "a_retenir": "Le nouveau pilote Nvidia 621.40 est disponible pour sauver tes SSD et optimiser tes jeux.",
+    "voix": {
+      "couverture": "Nvidia déploie enfin un correctif pour sauver ton SSD",
+      "points": [
+        "Le pilote 621.40 stoppe les écritures en boucle du fichier journal",
+        "Le précédent correctif n'avait pas totalement réglé ce souci de stockage",
+        "Cette mise à jour apporte aussi des optimisations pour plusieurs jeux"
+      ],
+      "retenir": "Mets à jour ton pilote pour jouer l'esprit tranquille"
+    },
+    "prononciation": {},
+    "legende": "Nvidia déploie enfin une solution définitive pour son dernier pilote graphique qui faisait des sueurs froides aux joueurs PC. La version 621.40 s'attaque au fameux bug d'écriture excessive qui s'acharnait sur les SSD en arrière-plan. Après un premier hotfix insuffisant, ce patch corrige cette fuite de données agaçante. Le pilote en profite pour intégrer des optimisations pour plusieurs jeux récents. Et toi, as-tu rencontré ce problème sur ton PC ?\n\nSources : Rock Paper Shotgun, PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #Nvidia #GeForce #PC #Hardware #Driver #SSD",
+    "sources": [
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort"
+      },
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/"
+      }
+    ],
+    "score_tri": 1.85,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-25T18:45:41+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 23.8,
+    "voix_off": true,
+    "video": "data/videos/691ca47b2624.mp4",
+    "telegram": {
+      "message_id": 344,
+      "envoye_le": "2026-11-25T18:53:20+00:00"
+    }
   }
 ]

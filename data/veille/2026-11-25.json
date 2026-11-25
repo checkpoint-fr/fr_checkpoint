@@ -1,5 +1,115 @@
 [
   {
+    "id": "4b6fd380c24bf945",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "skate. : E.A. fait machine arrière et supprime définitivement ses saisons et son battle pass dès le 1er décembre",
+    "lien": "https://www.gamekult.com/actualite/skate-e-a-fait-machine-arriere-et-supprime-definitivement-ses-saisons-et-son-battle-pass-des-le-1er-decembre-3050873189.html",
+    "resume": "Après une première année de rodage dans les rues de San Vansterdam, Electronic Arts et le studio Full Circle font machine arrière sur l'un des réflexes les plus tenaces du modèle jeu-service : dès le 1er décembre prochain, skate. tirera un trait définitif sur son système de saisons ainsi que sur son skate.Pass. Cette bascule vers un déploiement plus souple sera inaugurée par la mise à jour 0.33,…",
+    "publie_le": "2026-11-25T18:41:00+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "b39f89f3ab9394e4",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "How to whistle to distract enemies in GTA 6",
+    "lien": "https://www.polygon.com/gta-6-whistle-how-to-distract-npcs/",
+    "resume": "Here's how to whistle in GTA 6 and when you can whistle, one of the best skills to use if you plan on hiding from enemies and taking them by surprise.",
+    "publie_le": "2026-11-25T18:39:58+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "c74d2ec21420e8e6",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Dropout’s Most Unhinged Show Officially Returns with New Trailer",
+    "lien": "https://www.polygon.com/dropout-very-important-people-season-4-trailer-vic-michaelis/",
+    "resume": "Dropout released a new trailer for the Vic Michaelis-led improvised talk show Very Important People, and season 4 premieres in December.",
+    "publie_le": "2026-11-25T18:34:08+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "a0f69cfaeb4cb634",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Marbelle Hotel location and safe code: How to find the Silent Hill Easter egg",
+    "lien": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
+    "resume": "Where to find GTA 6's Silent Hill Easter egg",
+    "publie_le": "2026-11-25T18:33:36+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "f61992f5f587c0e6",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Players Are Running Into a Game-Breaking Bug",
+    "lien": "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/",
+    "resume": "GTA 6 players are running into a game-breaking bug that makes it impossible to progress the story.",
+    "publie_le": "2026-11-25T18:32:07+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "bb7711bae6cf7c2f",
+    "source": "Journal du Geek",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 – Comment découvrir les backrooms de Leonida et obtenir une amélioration permanente ?",
+    "lien": "https://www.journaldugeek.com/2026/11/25/gta-6-comment-decouvrir-les-backrooms-de-leonida-et-obtenir-une-amelioration-permanente/",
+    "resume": "Rockstar Games propose sa propre version des backrooms de Leonida dans GTA 6, voici où et comment y accéder !",
+    "publie_le": "2026-11-25T18:32:03+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "98ef008c0f18d74d",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The era of Switch 2 piracy is here as new hack allows jailbroken consoles to play dumped games",
+    "lien": "https://www.gamesradar.com/games/the-era-of-switch-2-piracy-is-here-as-new-hack-allows-jailbroken-consoles-to-play-dumped-games-in-a-nightmare-scenario-for-nintendo/",
+    "resume": "nx2-relink is upon us",
+    "publie_le": "2026-11-25T18:17:15+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "b327cc5965681b0f",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+    "lien": "https://www.polygon.com/gta-6-leak-pc-port-settings-ps5-pro-ultra-medium-graphics-cards-price/",
+    "resume": "A new leak gives PC players a sense of what to expect from Grand Theft Auto 6 with souped-up settings that aren't possible on PS5 Pro or Xbox",
+    "publie_le": "2026-11-25T18:10:10+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "6b839b868a3d4af0",
+    "source": "Journal du Geek",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Test Razer Tartarus V2 Pro : le pavé gaming qui méritait un plus grand temps de cuisson",
+    "lien": "https://www.journaldugeek.com/test/test-razer-tartarus-v2-pro-le-pave-gaming-qui-meritait-un-plus-grand-temps-de-cuisson/",
+    "resume": "Le pavé à une main de Razer revient avec des switchs analogiques, un stick et un repose-poignet réglable dans tous les sens.",
+    "publie_le": "2026-11-25T18:09:30+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
+    "id": "21b1e06b405727f0",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Warren Spector: \"I don't think you can look at Zelda: Breath of the Wild and not see Deus Ex\"",
+    "lien": "https://www.gamesradar.com/games/the-legend-of-zelda/quote-of-the-day-by-legendary-dev-warren-spector-i-dont-think-you-can-look-at-zelda-breath-of-the-wild-and-not-see-a-little-bit-of-deus-ex/",
+    "resume": "\"I've always wanted to try, even if I fail, to change things\"",
+    "publie_le": "2026-11-25T18:00:00+00:00",
+    "collecte_le": "2026-11-25T18:45:34+00:00"
+  },
+  {
     "id": "0afbf1be99592f4f",
     "source": "Eurogamer",
     "type": "presse",
