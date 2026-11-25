@@ -1,0 +1,163 @@
+[
+  {
+    "signature": [
+      "4",
+      "marketing",
+      "projekt",
+      "witcher"
+    ],
+    "titre": "The Witcher 4 : Sony et CD Projekt main dans la main pour le marketing",
+    "score": 2.21,
+    "nb_sources": 2,
+    "sources": [
+      "Gamekult",
+      "IGN"
+    ],
+    "langues": [
+      "en",
+      "fr"
+    ],
+    "dernier_article": "2026-11-25T07:45:00+00:00",
+    "mots_cles": [
+      "marketing",
+      "witcher",
+      "projekt",
+      "4"
+    ],
+    "articles": [
+      {
+        "source": "Gamekult",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "The Witcher 4 : Sony et CD Projekt main dans la main pour le marketing",
+        "lien": "https://www.gamekult.com/actualite/the-witcher-4-sony-et-cd-projekt-main-dans-la-main-pour-le-marketing-3050873173.html",
+        "resume": "Bien placé dans la liste des jeux les plus attendus de ces prochaines années, The Witcher 4 ne naviguera pas tout seul dans les eaux troubles du marketing. Même si le jeu de CD Projekt n'en a sans doute pas besoin, il pourra manifestement s'appuyer sur les solides épaules d'un partenaire de taille : PlayStation.",
+        "publie_le": "2026-11-25T07:45:00+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "PlayStation Secures Marketing Agreement for The Witcher 4",
+        "lien": "https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
+        "resume": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4.",
+        "publie_le": "2026-11-24T19:59:13+00:00"
+      }
+    ],
+    "propose_le": "2026-11-25T09:54:09+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "capcom",
+      "dinosaur",
+      "down",
+      "exoprimal",
+      "next",
+      "shooter",
+      "shutting",
+      "year"
+    ],
+    "titre": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
+    "score": 1.98,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-25T09:44:40+00:00",
+    "mots_cles": [
+      "shutting",
+      "dinosaur",
+      "shooter",
+      "capcom",
+      "exoprimal",
+      "down",
+      "next",
+      "year"
+    ],
+    "articles": [
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
+        "lien": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
+        "resume": "Sad news dinosaur lovers. Exoprimal - Capcom's third-person sci-fi shooter with a Jurassic twist - will be shutting down next year. With its closure, the game will no longer be playable, even for those who've got it downloaded. Read more",
+        "publie_le": "2026-11-25T09:44:40+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Capcom’s online dinosaur shooter Exoprimal is officially shutting down next year",
+        "lien": "https://www.videogameschronicle.com/news/capcoms-online-dinosaur-shooter-exoprimal-is-officially-shutting-down-next-year/",
+        "resume": "The game will no longer be playable once Capcom turns off its server",
+        "publie_le": "2026-11-25T09:41:13+00:00"
+      }
+    ],
+    "propose_le": "2026-11-25T09:54:09+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "4",
+      "power",
+      "prime",
+      "rings",
+      "season"
+    ],
+    "titre": "The Rings of Power season 4 release date speculation, cast, story, and more news",
+    "score": 1.93,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "IGN"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-25T09:17:08+00:00",
+    "mots_cles": [
+      "prime",
+      "rings",
+      "power",
+      "season",
+      "4"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The Rings of Power season 4 release date speculation, cast, story, and more news",
+        "lien": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-4-release-date-cast-story-trailer-news/",
+        "resume": "When will we return to the Lord of the Rings prequel? Here's everything we know about The Rings of Power season 4",
+        "publie_le": "2026-11-25T09:17:08+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Rings of Power Renewed By Amazon For Season 4",
+        "lien": "https://www.ign.com/articles/rings-of-power-renewed-by-amazon-for-season-4",
+        "resume": "Rings of Power season 3 has just wrapped up, but the show has just been renewed for season 4 at Prime Video.",
+        "publie_le": "2026-11-24T18:21:06+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Prime Video officially confirms The Rings of Power season 4",
+        "lien": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/prime-video-officially-confirms-the-rings-of-power-season-4/",
+        "resume": "Filming will begin in the spring",
+        "publie_le": "2026-11-24T18:15:00+00:00"
+      }
+    ],
+    "propose_le": "2026-11-25T09:54:09+00:00",
+    "creneau": "actu"
+  }
+]
