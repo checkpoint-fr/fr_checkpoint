@@ -168,7 +168,7 @@
   },
   {
     "sujet_id": "3b1285511373",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "Le port IA de GTA VI sur PC : le plus gros feu d’artifice jamais",
@@ -230,7 +230,8 @@
     "telegram": {
       "message_id": 333,
       "envoye_le": "2026-11-25T18:06:57+00:00"
-    }
+    },
+    "decide_le": "2026-11-25T20:01:38+00:00"
   },
   {
     "sujet_id": "61913c0910cc",
@@ -279,7 +280,7 @@
   },
   {
     "sujet_id": "48a0425f9e09",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "Un portail vers Vice City dans GTA VI",
@@ -346,7 +347,12 @@
       "message_id": 335,
       "envoye_le": "2026-11-25T18:06:58+00:00"
     },
-    "decide_le": "2026-11-25T20:01:29+00:00"
+    "decide_le": "2026-11-25T20:01:29+00:00",
+    "instagram": {
+      "media_id": "17881150209566945",
+      "lien": "https://www.instagram.com/reel/DgLV1tdMGCq/",
+      "publie_le": "2026-11-25T20:02:25+00:00"
+    }
   },
   {
     "sujet_id": "b248070bb131",
