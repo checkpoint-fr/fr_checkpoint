@@ -66,7 +66,7 @@
   },
   {
     "sujet_id": "082724f142e9",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Exoprimal : Capcom annonce la fin du jeu",
@@ -120,7 +120,8 @@
     "telegram": {
       "message_id": 328,
       "envoye_le": "2026-11-25T09:57:40+00:00"
-    }
+    },
+    "decide_le": "2026-11-25T11:12:51+00:00"
   },
   {
     "sujet_id": "7b2a914cded3",
