@@ -62,7 +62,7 @@
   },
   {
     "sujet_id": "89c0d0803f44",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La mise à jour 1.9.0 de Mario Kart World est dispo sur Switch 2",
@@ -118,7 +118,8 @@
     "telegram": {
       "message_id": 353,
       "envoye_le": "2026-11-26T09:56:39+00:00"
-    }
+    },
+    "decide_le": "2026-11-26T11:04:02+00:00"
   },
   {
     "sujet_id": "571b6dea04e4",
