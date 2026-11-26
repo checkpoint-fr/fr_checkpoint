@@ -333,7 +333,7 @@
   },
   {
     "sujet_id": "a181f3e7aa4d",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Ubisoft et l'IA generative",
@@ -385,7 +385,8 @@
     "telegram": {
       "message_id": 366,
       "envoye_le": "2026-11-26T18:51:40+00:00"
-    }
+    },
+    "decide_le": "2026-11-26T20:22:07+00:00"
   },
   {
     "sujet_id": "75555dd71ded",
