@@ -179,5 +179,149 @@
     "creneau": "actu",
     "redige_le": "2026-11-26T09:50:34+00:00",
     "alertes": []
+  },
+  {
+    "sujet_id": "f751b8c20086",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Vote syndical chez Rockstar Games : le non l'emporte",
+    "sous_titre": "Soixante-quinze pour cent des employés ont voté contre la reconnaissance syndicale",
+    "points": [
+      {
+        "titre": "Un vote rejeté à grande majorité",
+        "texte": "Environ seize cents employés ont participé au scrutin organisé par le syndicat international des travailleurs de Grande-Bretagne. Soixante-quinze pour cent ont voté contre la reconnaissance officielle."
+      },
+      {
+        "titre": "La réaction de la direction",
+        "texte": "Jennifer Kolbe, responsable de l'édition chez Rockstar, salue ce résultat qui témoigne selon elle du soutien de l'équipe pour maintenir un dialogue direct et ouvert avec la direction."
+      },
+      {
+        "titre": "Le syndicat ne baisse pas les bras",
+        "texte": "Le syndicat affirme que ce résultat n'est pas un signal pour reculer. Il compte continuer à se mobiliser pour de meilleures conditions de travail et plus de transparence."
+      }
+    ],
+    "a_retenir": "Malgré l'échec de ce vote, le syndicat compte bien poursuivre son combat pour les droits des salariés.",
+    "voix": {
+      "couverture": "Chez Rockstar Games, le vote pour la reconnaissance syndicale a finalement échoué.",
+      "points": [
+        "Soixante-quinze pour cent des salariés ont voté contre la reconnaissance officielle du syndicat.",
+        "La direction salue un choix qui favorise le dialogue direct et la collaboration.",
+        "Le syndicat annonce qu'il ne va pas baisser les bras et continuera de se battre."
+      ],
+      "retenir": "Le combat pour les conditions de travail chez le créateur de GTA VI continue malgré tout."
+    },
+    "prononciation": {},
+    "legende": "C'est un vote qui faisait beaucoup parler en coulisses. Chez Rockstar Games, les salariés ont voté à une large majorité contre la reconnaissance officielle d'un syndicat, avec soixante-quinze pour cent de non lors de ce scrutin. Malgré cet échec, le syndicat promet de ne pas lâcher l'affaire et de continuer à se battre pour les conditions de travail, la transparence sur les salaires ou encore les heures supplémentaires. Du côté de la direction, on se réjouit de ce choix qui privilégie un dialogue direct et des relations de travail basées sur la collaboration. Et toi, que penses-tu de cette décision des équipes ?\n\nSources : Rock Paper Shotgun, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #RockstarGames #GTA6 #IWGB #Industry #Devs #Travail #Actu",
+    "sources": [
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/this-isnt-a-sign-to-retreat-rockstars-historic-union-vote-has-failed-with-75-voting-against-but-the-organisers-are-going-to-keep-fighting"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/following-gta-6-release-rockstar-workers-vote-against-union-recognition-deal-but-those-in-favor-vow-to-keep-fighting/"
+      }
+    ],
+    "score_tri": 1.96,
+    "creneau": "gta6",
+    "redige_le": "2026-11-26T17:00:13+00:00",
+    "alertes": [
+      "point 1 texte : 201/180 car.",
+      "point 2 texte : 183/180 car."
+    ],
+    "defauts_voix": [],
+    "duree": 26.5,
+    "voix_off": true,
+    "video": "data/videos/f751b8c20086.mp4",
+    "telegram": {
+      "message_id": 358,
+      "envoye_le": "2026-11-26T17:07:08+00:00"
+    }
+  },
+  {
+    "sujet_id": "0af7a6b6d78e",
+    "statut": "ecarte",
+    "motif": "réponse de l'IA incomplète",
+    "statut_info": "confirme",
+    "accroche": "GTA VI sur Xbox One : le test technique tombe",
+    "sous_titre": "Digital Foundry analyse le streaming de GTA VI sur l'ancienne console de Microsoft",
+    "points": [],
+    "a_retenir": "GTA VI tournant en streaming sur Xbox One s'avère être une surprise technique plutôt solide.",
+    "voix": {
+      "couverture": "Jouer à GTA VI sur Xbox One, c'est possible grâce au streaming.",
+      "points": [
+        "Digital Foundry qualifie le résultat de performance remarquable de la part de Microsoft.",
+        "L'image reste très proche de la version Series S malgré un léger flou.",
+        "La latence est bien gérée, même si l'on note de petits soucis de fluidité."
+      ],
+      "retenir": "C'est la porte d'entrée la moins chère pour lancer le jeu."
+    },
+    "prononciation": {},
+    "legende": "Jouer à GTA VI sur une ancienne console, c'est désormais possible grâce au cloud. D'après une analyse de Digital Foundry, faire tourner le jeu en streaming sur Xbox One s'avère être une sacrée surprise. Même si l'image est un peu plus floue comparée à la version Xbox Series S, la technique utilisée offre un rendu tout à fait honorable et un coût d'entrée bien plus bas. Microsoft a visiblement optimisé ses serveurs pour réduire la latence et la compression au maximum, rendant l'expérience fluide et surprenante au quotidien. Et toi, tu penses quoi de cette idée de jouer aux nouveaux jeux sur ton vieux matériel ?\n\nSources : VGC\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #XboxOne #XboxSeriesS #DigitalFoundry #CloudGaming #Microsoft #RockstarGames",
+    "sources": [
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/"
+      }
+    ],
+    "score_tri": 0.98,
+    "creneau": "gta6",
+    "redige_le": "2026-11-26T17:00:13+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "f509a99ac2d5",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "GTA VI s'inspire du système d'honneur de Red Dead Redemption 2",
+    "sous_titre": "Rockstar détaille les choix offerts aux joueurs dans le futur jeu.",
+    "points": [
+      {
+        "titre": "Des choix au-delà de la violence",
+        "texte": "Selon Rob Nelson de Rockstar, les mécaniques du jeu permettent d'interagir avec le monde autrement qu'avec des armes."
+      },
+      {
+        "titre": "Le profil criminel",
+        "texte": "Le jeu évalue tes escapades à Leonida et attribue une note comme Professionnel, Violent ou Irrécupérable."
+      },
+      {
+        "titre": "Inspiration Red Dead",
+        "texte": "Ce système s'inspire directement du système d'honneur de Red Dead Redemption 2 pour offrir plus de liberté."
+      }
+    ],
+    "a_retenir": "GTA VI veut aller plus loin dans la sophistication des mécaniques et l'agentivité du joueur.",
+    "voix": {
+      "couverture": "GTA VI va s'inspirer de Red Dead Redemption 2 pour ses mécaniques.",
+      "points": [
+        "Le studio veut donner aux joueurs des choix au-delà de la simple violence.",
+        "Un système de profil criminel évalue tes actes et tes escapades à Leonida.",
+        "Cette liberté s'inspire directement du système d'honneur de Red Dead Redemption 2."
+      ],
+      "retenir": "Le jeu pousse encore plus loin la sophistication des mécaniques en monde ouvert."
+    },
+    "prononciation": {
+      "Red Dead Redemption 2": "Rèd Dède Rémpémplchène Deu"
+    },
+    "legende": "Tu te demandes comment ton comportement sera jugé dans le prochain jeu de Rockstar ? Les développeurs viennent d'en dire plus sur les mécaniques qui t'attendent à Leonida. \n\nRob Nelson, le responsable du développement chez Rockstar, explique que les choix des joueurs s'inspirent directement de ce qui a été fait dans Red Dead Redemption 2. Le profil criminel du jeu évaluera tes actions, qu'elles soient furtives ou purement violentes, pour t'attribuer une note allant de professionnel à irrécupérable. \n\nUne belle façon de laisser plus de liberté dans ton approche du crime. Et toi, quel genre de criminel tu penses être dans le jeu ?\n\nSources : PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #RedDeadRedemption2 #Leonida #OpenWorld #ActuGaming",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/aspects-of-gta-6-are-inspired-by-red-dead-redemption-2s-honor-system-because-its-player-agency-was-a-hard-thing-to-ignore-and-walk-away-from/"
+      }
+    ],
+    "score_tri": 0.97,
+    "creneau": "gta6",
+    "redige_le": "2026-11-26T17:00:13+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 27.3,
+    "voix_off": true,
+    "video": "data/videos/f509a99ac2d5.mp4",
+    "telegram": {
+      "message_id": 360,
+      "envoye_le": "2026-11-26T17:07:14+00:00"
+    }
   }
 ]
