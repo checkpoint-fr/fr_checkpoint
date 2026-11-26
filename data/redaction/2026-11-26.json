@@ -1,0 +1,176 @@
+[
+  {
+    "sujet_id": "d12b77e5686f",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Les jeux PS Plus de décembre sont enfin dévoilés",
+    "sous_titre": "Découvre les trois titres offerts dès le mardi 1er décembre pour les abonnés",
+    "points": [
+      {
+        "titre": "Tony Hawk’s Pro Skater 3+4",
+        "texte": "Retrouve la franchise de skate légendaire avec des parcs inédits, des figures améliorées et une résolution en 4K."
+      },
+      {
+        "titre": "Dragon Ball Xenoverse 2",
+        "texte": "Plonge dans l'action avec des combats épiques, la création de ton propre personnage et des modes multijoueurs en ligne."
+      },
+      {
+        "titre": "Amnesia: The Bunker",
+        "texte": "Affronte tes peurs dans un bunker de la Première Guerre mondiale avec une seule balle dans ton revolver et une menace constante."
+      }
+    ],
+    "a_retenir": "Récupère les jeux avant le lundi 4 janvier et n'oublie pas ceux de novembre jusqu'au 30 novembre.",
+    "voix": {
+      "couverture": "Voici les trois jeux offerts sur le PlayStation Plus pour le mois de décembre.",
+      "points": [
+        "Le premier jeu est Tony Hawk's Pro Skater 3+4 pour faire du skate en 4K.",
+        "Le second est Dragon Ball Xenoverse 2 pour des combats épiques et multijoueurs.",
+        "Et enfin, Amnesia: The Bunker te plonge dans une ambiance horrifique en pleine guerre."
+      ],
+      "retenir": "Tu as jusqu'au quatre janvier pour ajouter ces jeux à ta bibliothèque."
+    },
+    "prononciation": {
+      "Tony Hawk's Pro Skater 3+4": "Toni霍ks Pro Skater troi plus katr",
+      "Dragon Ball Xenoverse 2": "Draguon Boll Zénovèrs deu",
+      "Amnesia: The Bunker": "Amnésia Ze Beunkeur"
+    },
+    "legende": "Sony vient d'annoncer la sélection des jeux offerts pour le mois de décembre sur le PlayStation Plus. Les abonnés pourront ainsi profiter de trois nouveaux titres dès le mardi 1er décembre et jusqu'au lundi 4 janvier. Entre sensations fortes sur une planche de roulettes, combats explosifs dans l'univers de Son Goku et survie horrifique dans le noir, il y en aura pour tous les goûts. Pense bien à les ajouter à ta bibliothèque pour les conserver tant que ton abonnement reste actif.\n\nAttention, il te reste jusqu'au lundi 30 novembre pour récupérer les jeux du mois de novembre comme Dead Island 2 ou Tomb Raider IV – VI Remastered.\n\nQuel jeu de cette nouvelle sélection te donne le plus envie de lancer ta console ?\n\nSources : VGC, PlayStation Blog\n\n#checkpointfr #jeuxvideo #gaming #PSPlus #TonyHawksProSkater #DragonBallXenoverse2 #AmnesiaTheBunker #Sony #PS4 #PS5",
+    "sources": [
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/"
+      },
+      {
+        "nom": "PlayStation Blog",
+        "lien": "https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/"
+      }
+    ],
+    "score_tri": 1.81,
+    "creneau": "actu",
+    "redige_le": "2026-11-26T09:50:34+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 23.9,
+    "voix_off": true,
+    "video": "data/videos/d12b77e5686f.mp4",
+    "telegram": {
+      "message_id": 351,
+      "envoye_le": "2026-11-26T09:56:38+00:00"
+    }
+  },
+  {
+    "sujet_id": "89c0d0803f44",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "La mise à jour 1.9.0 de Mario Kart World est dispo sur Switch 2",
+    "sous_titre": "Nintendo déploie un patch gratuit avec de nouveaux circuits et des fonctionnalités inédites",
+    "points": [
+      {
+        "titre": "Huit circuits remixés",
+        "texte": "La version 1.9.0 ajoute huit tracés alternatifs, avec des variantes inversées et de nouveaux layouts pour des cartes bien connues."
+      },
+      {
+        "titre": "Nouveaux rallyes et replay",
+        "texte": "Le mode Survie gagne deux parcours avec Feather Rally et Lucky Cat Rally. Un mode Replay fait aussi son arrivée."
+      },
+      {
+        "titre": "Les fans restent divisés",
+        "texte": "Malgré ce contenu gratuit, les joueurs regrettent l'absence d'options pour jouer en ligne uniquement en trois tours."
+      }
+    ],
+    "a_retenir": "Nintendo livre du contenu gratuit, mais les joueurs attendent toujours le retour des courses classiques en trois tours.",
+    "voix": {
+      "couverture": "La mise à jour un point neuf point zéro de Mario Kart World est enfin disponible.",
+      "points": [
+        "Le patch gratuit ajoute huit circuits remixés avec des variantes inversées et de nouveaux tracés.",
+        "Le mode Survie gagne deux parcours inédits et un menu Replay fait son apparition.",
+        "Malgré ces nouveautés, les fans regrettent toujours l'absence de courses classiques en trois tours."
+      ],
+      "retenir": "Nintendo offre du contenu, mais les joueurs veulent du vrai neuf."
+    },
+    "prononciation": {},
+    "legende": "La mise à jour 1.9.0 de Mario Kart World vient de débarquer sur Switch 2 ! Nintendo propose un patch gratuit bien fourni avec huit circuits remixés, des variantes inversées et deux nouveaux tracés pour le mode Survie. Un menu Replay fait enfin son apparition pour revoir vos meilleures courses.\n\nMais tout le monde n'est pas totalement comblé. Si ces ajouts font plaisir, la communauté espère toujours une option pour retrouver les courses classiques en trois tours, sans passer par les intermissions du monde ouvert.\n\nEt toi, tu as testé ces nouveaux circuits ? 🎮\n\nSources : Polygon, Journal du Geek, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #MarioKartWorld #Nintendo #Switch2 #NintendoSwitch #MarioKart #Course",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/mario-kart-world-1-9-0-update-new-courses-new-features/"
+      },
+      {
+        "nom": "Journal du Geek",
+        "lien": "https://www.journaldugeek.com/2026/11/25/la-mise-a-jour-1-9-0-de-mario-kart-world-vient-de-sortir-sur-switch-2-mais-quand-est-ce-quon-retrouve-les-vraies-courses-en-3-tours/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/super-mario/mario-kart-world-patch-adds-8-new-tracks-but-theyre-all-sequels-to-nintendos-old-maps-and-fans-arent-sure-how-they-feel-update-of-2s/"
+      }
+    ],
+    "score_tri": 1.29,
+    "creneau": "actu",
+    "redige_le": "2026-11-26T09:50:34+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 29.2,
+    "voix_off": true,
+    "video": "data/videos/89c0d0803f44.mp4",
+    "telegram": {
+      "message_id": 353,
+      "envoye_le": "2026-11-26T09:56:39+00:00"
+    }
+  },
+  {
+    "sujet_id": "571b6dea04e4",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "officiel",
+    "accroche": "LEGO annonce quatre nouveaux sets Harry Potter",
+    "sous_titre": "Découvre les premières boîtes inspirées de la nouvelle série HBO.",
+    "points": [
+      {
+        "titre": "Quatre sets révélés",
+        "texte": "LEGO dévoile quatre boîtes basées sur la future série télévisée HBO, avec une sortie prévue pour le premier janvier."
+      },
+      {
+        "titre": "Des lieux cultes revisités",
+        "texte": "La gamme propose notamment la maison de Privet Drive, la salle commune de Gryffindor et le Hogwarts Express."
+      },
+      {
+        "titre": "Des réactions partagées",
+        "texte": "Certains fans se montrent enthousiastes face à ces nouveautés, tandis que d'autres comparent le design aux versions précédentes."
+      }
+    ],
+    "a_retenir": "Quatre nouveaux sets LEGO Harry Potter inspirés de la série HBO sortent le premier janvier.",
+    "voix": {
+      "couverture": "LEGO annonce quatre nouveaux sets Harry Potter inspirés de la série HBO",
+      "points": [
+        "Quatre nouvelles boîtes inspirées de la série HBO sortent le premier janvier.",
+        "Retrouve Privet Drive, la salle commune de Gryffindor et le Hogwarts Express.",
+        "Ces nouveaux designs divisent déjà la communauté entre fans séduits et critiques."
+      ],
+      "retenir": "Quatre nouveaux sets LEGO Harry Potter inspirés de la série HBO sortent le premier janvier."
+    },
+    "prononciation": {
+      "Harry Potter": "Harri Pottèr",
+      "HBO": "Aitch-Bi-Oua",
+      "Gryffindor": "Grifindor",
+      "Hogwarts Express": "Hogwarts Express",
+      "Privet Drive": " Privet Draïv"
+    },
+    "legende": "LEGO vient de dévoiler quatre nouveaux sets inspirés de la série télévisée Harry Potter produite par HBO. Cette première vague comprend notamment la maison de Privet Drive, la célèbre salle commune de Gryffindor ainsi que le Hogwarts Express.\n\nSi certains fans saluent ces nouveaux détails, d'autres membres de la communauté restent plus mitigés, trouvant les ressemblances avec les précédents modèles un peu trop nombreuses. Deux de ces boîtes sont déjà disponibles en précommande avant leur sortie officielle.\n\nEt toi, que penses-tu de ces nouvelles boîtes LEGO ?\n\nSources : IGN, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #LEGO #HarryPotter #HBO #Gryffindor #HogwartsExpress #PrivetDrive",
+    "sources": [
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/lego-announces-4-new-sets-based-on-the-harry-potter-hbo-series"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/toys-collectibles/new-lego-harry-potter-sets-remake-old-favorites-but-some-fans-think-they-look-like-bootlegs-of-the-originals/"
+      }
+    ],
+    "score_tri": 0.94,
+    "creneau": "actu",
+    "redige_le": "2026-11-26T09:50:34+00:00",
+    "alertes": []
+  }
+]
