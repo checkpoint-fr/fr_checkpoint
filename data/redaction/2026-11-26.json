@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "d12b77e5686f",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Les jeux PS Plus de décembre sont enfin dévoilés",
@@ -57,7 +57,8 @@
     "telegram": {
       "message_id": 351,
       "envoye_le": "2026-11-26T09:56:38+00:00"
-    }
+    },
+    "decide_le": "2026-11-26T11:03:58+00:00"
   },
   {
     "sujet_id": "89c0d0803f44",
