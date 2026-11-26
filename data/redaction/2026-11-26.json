@@ -272,7 +272,7 @@
   },
   {
     "sujet_id": "f509a99ac2d5",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI s'inspire du système d'honneur de Red Dead Redemption 2",
@@ -322,6 +322,7 @@
     "telegram": {
       "message_id": 360,
       "envoye_le": "2026-11-26T17:07:14+00:00"
-    }
+    },
+    "decide_le": "2026-11-26T18:38:01+00:00"
   }
 ]
