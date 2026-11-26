@@ -1,5 +1,324 @@
 [
   {
+    "id": "21d5e47b6d3be5e6",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ubisoft denies requiring developers to use generative AI",
+    "lien": "https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/",
+    "resume": "Ubisoft says it encourages developers to use gen AI, rather than mandate it",
+    "publie_le": "2026-11-26T18:42:04+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "b877b5ba73d46c3a",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'",
+    "lien": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/",
+    "resume": "Aeternum Game Studios does have a question, though: \"Is it just us, or does the universe have it in for us?\"",
+    "publie_le": "2026-11-26T18:31:22+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "d12ce52872568d8d",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The best Lego Black Friday deals 2026, found by experts",
+    "lien": "https://www.gamesradar.com/live/news/best-lego-black-friday-deals-and-discounts-2026/",
+    "resume": "The sale is slashing prices on all kinds of sets from Star Wars, Marvel, Pokemon, and more, so our experts are rounding up the best offers they can find from this year's Black Friday Lego deals",
+    "publie_le": "2026-11-26T18:27:30+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "67a509af560b88c5",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Sculptures WAiNK GTA 6 : emplacement des 23 lieux à scanner",
+    "lien": "https://www.actugaming.net/emplacement-sculptures-waink-gta-6-834142/",
+    "resume": "ActuGaming.net Sculptures WAiNK GTA 6 : emplacement des 23 lieux à scanner Dans GTA 6, si vous souhaitez parvenir au taux de complétion maximal, vous devrez notamment […] L'article Sculptures WAiNK GTA 6 : emplacement des 23 lieux à scanner est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-26T18:23:21+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "0c903fc48ddd8655",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "En marge de la sortie de GTA 6, la reconnaissance syndicale chez Rockstar n’aura finalement pas lieu",
+    "lien": "https://www.actugaming.net/en-marge-de-la-sortie-de-gta-6-la-reconnaissance-syndicale-chez-rockstar-naura-finalement-pas-lieu-836370/",
+    "resume": "ActuGaming.net En marge de la sortie de GTA 6, la reconnaissance syndicale chez Rockstar n’aura finalement pas lieu Chez Rockstar, tous les yeux étaient braqués sur le lancement de GTA 6, mais pas […] L'article En marge de la sortie de GTA 6, la reconnaissance syndicale chez Rockstar n’aura finalement pas lieu est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-26T18:20:08+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "5342e420351169fa",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
+    "lien": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands",
+    "resume": "Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata still believes that fun games need to be \"crafted by human hands.\" Read more",
+    "publie_le": "2026-11-26T18:14:30+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "925aef7fbcb8fcf2",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Cartes Les Légendes de Ratface GTA 6 : où trouver les 36 cartes ?",
+    "lien": "https://www.actugaming.net/cartes-legendes-de-ratface-gta-6-833995/",
+    "resume": "ActuGaming.net Cartes Les Légendes de Ratface GTA 6 : où trouver les 36 cartes ? Récupérer toutes les cartes à collectionner représente un défi de longue haleine, notamment pour atteindre […] L'article Cartes Les Légendes de Ratface GTA 6 : où trouver les 36 cartes ? est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-26T18:13:08+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "07e2ff3c10ce2d35",
+    "source": "VGC",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ubisoft defends calling Skull & Bones a ‘quadruple-A’ game in lawsuit",
+    "lien": "https://www.videogameschronicle.com/news/ubisoft-defends-calling-skull-bones-a-quadruple-a-game-in-lawsuit/",
+    "resume": "Ubisoft argues that the \"quadruple-A\" comments were just Yves Guillemot's opinion",
+    "publie_le": "2026-11-26T18:06:45+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "73a3804d4f7d378a",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "La réédition Melty Blood : Twi-Lumina détaille son contenu, entre nouvelle histoire et contrôles modernes",
+    "lien": "https://www.gamekult.com/actualite/la-reedition-melty-blood-twi-lumina-detaille-son-contenu-entre-nouvelle-histoire-et-controles-modernes-3050873205.html",
+    "resume": "Après le succès commercial de Melty Blood : Type Lumina, qui a réussi à écouler 500 000 copies bien qu'il s'adresse ostensiblement à une niche des jeux de combat, French-Bread remet le couvert avec la suite narrative Melty Blood : Twi-Lumina. Annoncé par surprise en mai 2026 durant l'EVO Japan, il revient aujourd'hui avec une autre bande-annonce sortie de nulle part qui fait le point sur le…",
+    "publie_le": "2026-11-26T18:03:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "6e529311f234dd20",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The 14 Best Star Wars Games of All Time, Ranked",
+    "lien": "https://www.polygon.com/best-star-wars-games/",
+    "resume": "Out of the many Star Wars games released over the years, these fantastic titles deserve your attention now and forever.",
+    "publie_le": "2026-11-26T18:01:21+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "033c3ba341743427",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Sorry Jason And Lucia, These 5 GTA 6 Side Characters Steal Every Scene They're In",
+    "lien": "https://www.polygon.com/gta-6-best-side-characters/",
+    "resume": "Jason and Lucia aren’t GTA 6's only great characters, as these 5 have really endeared themselves to Polygon’s writers",
+    "publie_le": "2026-11-26T18:00:18+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "63e64ed80bdace1d",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-knew-some-gta-6-players-would-reject-the-criminal-profile-system-but-assures-you-can-still-do-whatever-you-wanted-to-do-before/",
+    "resume": "Grand Theft Auto 6 \"opens a new range of choices and decisions\"",
+    "publie_le": "2026-11-26T18:00:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "a7aca1ba1ac6cf4a",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Quote of the Day by Stranger Than Heaven director: \"Age and career length are not deciding factors\"",
+    "lien": "https://www.gamesradar.com/games/jrpg/quote-of-the-day-by-stranger-than-heaven-director-age-and-career-length-are-not-deciding-factors/",
+    "resume": "Mikinobu Abe says RGG Studio lets younger devs' creativity speak for itself",
+    "publie_le": "2026-11-26T18:00:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "079711a8f8c320db",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Warhammer 40,000: Space Marine 2's latest updates introduces a Weekly Clash mode that shakes up PvP with some constricting modifiers",
+    "lien": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
+    "resume": "In as booming a monster truck rally commentator voice as you can imagine: ARE YOU READY TO GET DECIMATED??? Yes? Yippee! Because I've got some good news for you. The latest update for Warhammer 40,000: Space Marine 2 is here, appropriately dubbed the Decimation update, which adds in a new mode and more. Read more",
+    "publie_le": "2026-11-26T17:58:30+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "e295ddc5c6a13b6b",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "L’équipe derrière Final Fantasy Resonance est surprise de voir le jeu être si bien reçu par le public",
+    "lien": "https://www.actugaming.net/lequipe-derriere-final-fantasy-resonance-est-surprise-de-voir-le-jeu-etre-si-bien-recu-par-le-public-836347/",
+    "resume": "ActuGaming.net L’équipe derrière Final Fantasy Resonance est surprise de voir le jeu être si bien reçu par le public Pendant longtemps, Square Enix a délaissé le système des combats au tour par tour dans […] L'article L’équipe derrière Final Fantasy Resonance est surprise de voir le jeu être si bien reçu par le public est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-26T17:56:52+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "fc9be50d57a51c14",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Dirt Dash, la réponse de Namco à Sega Rally est désormais disponible sur consoles",
+    "lien": "https://www.gamekult.com/actualite/dirt-dash-la-reponse-de-namco-a-sega-rally-est-desormais-disponible-sur-consoles-3050873208.html",
+    "resume": "Hamster a décidément trouvé un filon depuis son passage à la 3e dimension. Aujourd'hui, la gamme Arcade Archives accueille un énième jeu d'arcade 3D de Namco en la personne de Dirt Dash, que les joueurs peuvent (re)découvrir sur leur console 30 ans plus tard.",
+    "publie_le": "2026-11-26T17:45:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "29e86d81e7926a51",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Modder behind AI-powered The Last of Us 2 multiplayer project says\"there ain't much\" Sony can do",
+    "lien": "https://www.gamesradar.com/games/the-last-of-us/modder-behind-ai-powered-the-last-of-us-2-multiplayer-project-says-there-aint-much-sony-can-do-even-if-they-do-shut-me-down/",
+    "resume": "Pandora's Box is open",
+    "publie_le": "2026-11-26T17:38:02+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "90838c35bcba5470",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Black Friday SSD deals 2026",
+    "lien": "https://www.pcgamer.com/black-friday-ssd-deals/",
+    "resume": "Black Friday has already begun, making it the perfect time to scout out the ultimate storage upgrade.",
+    "publie_le": "2026-11-26T17:33:16+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "18987e038f5e4a32",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 players fix the weather system themselves after Rockstar's latest patch left them hanging",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-fix-the-weather-system-themselves-after-rockstars-latest-patch-left-them-hanging-its-super-easy-and-takes-like-two-minutes/",
+    "resume": "Yes, \"it is indeed solvable,\" at least on PS5",
+    "publie_le": "2026-11-26T17:31:27+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "6cea3109ae99d338",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
+    "lien": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
+    "resume": "Grand Theft Auto 6 has had a huge effect on physical game sales in the UK, despite not actually containing a disc in the box. Read more",
+    "publie_le": "2026-11-26T17:30:30+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "336369e5c504a3b6",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Agenda - GeForce Now : le service de cloud gaming de NVIDIA accueille 12 jeux supplémentaires",
+    "lien": "https://www.gamekult.com/actualite/geforce-now-le-service-de-cloud-gaming-de-nvidia-accueille-12-jeux-supplementaires-3050873214.html",
+    "resume": "Qui dit jeudi, dit bulletin hebdomadaire pour les abonnés GeForce Now. Pour cette dernière semaine de novembre, NVIDIA continue de surfer sur les offres du Black Friday mais ajoute également une douzaine de nouveaux titres dans le catalogue de son service de cloud gaming.",
+    "publie_le": "2026-11-26T17:30:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "65a9f3d3f597d64d",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Developers Have Voted Against Unionization by 75% to 25%",
+    "lien": "https://www.polygon.com/rockstar-game-workers-union-vote-gta-6/",
+    "resume": "Rockstar Games workers have rejected a union deal with the IWGB as Grand Theft Auto 6 breaks records",
+    "publie_le": "2026-11-26T17:16:26+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "7ce311a1956bce0b",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Amazon Has an Asus ROG Flow Z13 Ultra-Portable Gaming Laptop for (Way) Below $2,000 for Black Friday",
+    "lien": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-black-friday-sale-2026",
+    "resume": "2.56 pound convertible with impressive gaming chops.",
+    "publie_le": "2026-11-26T17:10:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "8762193b58e81d08",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Ubisoft games aren't \"required to use generative AI,\" Assassin's Creed publisher says following reports",
+    "lien": "https://www.gamesradar.com/games/ubisoft-games-arent-required-to-use-generative-ai-assassins-creed-publisher-says-after-reports-emerge-that-devs-have-to-justify-not-using-it-in-pitches/",
+    "resume": "Teams reportedly have to say why they don't need the tools",
+    "publie_le": "2026-11-26T17:08:53+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "bd72968340c3f699",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+    "lien": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
+    "resume": "Among the many, many side activities you can do in GTA 6 , there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission , Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts…",
+    "publie_le": "2026-11-26T17:07:50+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "856d44843c911cfa",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Witcher 3 Remastered's latest patch takes aim at mods nicking all of Geralt's possessions, disappearing buildings and an outbreak of \"overly bright red\" NPC leg areas",
+    "lien": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas",
+    "resume": "The Witcher 3 Remastered continues to recieve tweaks ahead of the Songs of the Past expansion arriving next year to whisk Gerry from the River off on a fresh adventure. Following some bloomin' improvements in October , its latest patch does a bunch of skill and mutation balancing, alongside further technical tweaks and fixes for some funky bugs. Read more",
+    "publie_le": "2026-11-26T17:00:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "bba8ae6150c572e2",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet",
+    "lien": "https://www.ign.com/articles/github-tweet-gta-6-anyps5-repo-microsoft",
+    "resume": "In a post that’s since been deleted, Microsoft-owned code and software collaboration site GitHub celebrated the AnyPS5 repo “passing 58k stars” from users on the platform as a result of the launch of GTA 6. GitHub even told followers \"Happy GTA VImas!\" in a tweet that will almost certainly have infurated Rockstar Games, parent company Take-Two, PlayStation, and Xbox.",
+    "publie_le": "2026-11-26T16:59:16+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "1d542abc6740b2f8",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "I would die for this Razer Hello Kitty & Friends wired gaming keyboard, but now I don't have to thanks to this Black Friday deal",
+    "lien": "https://www.pcgamer.com/hardware/gaming-keyboards/i-would-die-for-this-razer-hello-kitty-and-friends-wired-gaming-keyboard-but-now-i-dont-have-to-thanks-to-this-black-friday-deal/",
+    "resume": "Anything for you Hello Kitty.",
+    "publie_le": "2026-11-26T16:58:45+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "0bb74537b19a398e",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Blizzard steps in as World of Warcraft: Forever fans exploit Alterac Valley for reputation",
+    "lien": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-steps-in-as-world-of-warcraft-forever-fans-exploit-alterac-valley-for-reputation-but-pvp-players-think-its-a-little-too-late/",
+    "resume": "\"Grats to everyone who got Exalted already\"",
+    "publie_le": "2026-11-26T16:58:20+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
     "id": "a54d75c099cc13ec",
     "source": "GamesRadar",
     "type": "presse",
@@ -66,6 +385,17 @@
     "collecte_le": "2026-11-26T17:00:06+00:00"
   },
   {
+    "id": "78d19ef8a1ed2eeb",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Best Black Friday Deals Worth Browsing on Thanksgiving Day",
+    "lien": "https://www.ign.com/articles/black-friday-sales-2026-best-deals-live",
+    "resume": "",
+    "publie_le": "2026-11-26T16:30:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
     "id": "6726a5dd480f9cbf",
     "source": "PC Gamer",
     "type": "presse",
@@ -99,6 +429,39 @@
     "collecte_le": "2026-11-26T17:00:06+00:00"
   },
   {
+    "id": "11bf3b540911ab8d",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Axolotl DLC Disney Dreamlight Valley : Comment apprivoiser cette nouvelle bestiole de la Mer des souvenirs ?",
+    "lien": "https://www.jeuxvideo.com/news/2117083/axolotl-dlc-disney-dreamlight-valley-comment-apprivoiser-cette-nouvelle-bestiole-de-la-mer-des-souvenirs.htm",
+    "resume": "Les axolotls débarquent dans le DLC The Keepsake Sea de Disney Dreamlight Valley : vous pouvez les débloquer dans le troisième biome de l'extension, le Royaume oublié. Découvrez la liste complète des variantes, leurs horaires d'apparition et la méthode exacte pour les apprivoiser facilement.",
+    "publie_le": "2026-11-26T16:22:32+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "6a4f66d8833687a8",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Plongée GTA 6 : Où trouver des trésors et comment progresser dans les quêtes de Kenton ?",
+    "lien": "https://www.jeuxvideo.com/news/2117266/plongee-gta-6-ou-trouver-des-tresors-et-comment-progresser-dans-les-quetes-de-kenton.htm",
+    "resume": "Les fonds marins de l'État de Leonida regorgent d'épaves oubliées et de trésors enfouis qui n'attendent que votre détecteur de métal. Découvrez comment débloquer l'équipement de plongée, maîtriser les commandes sous-marines et survivre face aux requins dans Grand Theft Auto VI.",
+    "publie_le": "2026-11-26T16:20:09+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "4a621fc45f38f22d",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Notre test du meilleur jeu inclus dans GTA 6 : Tenebrae Lux et comment y jouer",
+    "lien": "https://www.jeuxvideo.com/news/2117010/notre-test-du-meilleur-jeu-inclus-dans-gta-6-tenebrae-lux-et-comment-y-jouer.htm",
+    "resume": "Sur la console de Jason et Lucia, Rockstar Games cache bien plus qu’un simple clin d’œil humoristique. Sous ses airs de parodie des jeux indépendants d’auteur, Tenebrae Lux dissimule un véritable casse-tête capable de nous faire oublier GTA 6. On a testé l’expérience pour vous.",
+    "publie_le": "2026-11-26T16:15:09+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
     "id": "c2b57231ab09e042",
     "source": "PC Gamer",
     "type": "presse",
@@ -130,6 +493,17 @@
     "resume": "The Epic Games Store has a selection of free PC games that changes every week. The latest free offering will be available until Dec. 3.",
     "publie_le": "2026-11-26T16:11:23+00:00",
     "collecte_le": "2026-11-26T17:00:06+00:00"
+  },
+  {
+    "id": "1abf99bad53c08b5",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
+    "lien": "https://www.ign.com/articles/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing",
+    "resume": "Rockstar has explained why some extra violent weapons like chainsaws and katanas are missing from GTA 6.",
+    "publie_le": "2026-11-26T16:09:17+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
   },
   {
     "id": "4109b804c55e5f5d",
@@ -218,6 +592,39 @@
     "resume": "\"This isn't a sign to retreat, it's a sign to double down on what we stand for,\" says the IWGB Rockstar Games Workers Union",
     "publie_le": "2026-11-26T15:51:10+00:00",
     "collecte_le": "2026-11-26T17:00:06+00:00"
+  },
+  {
+    "id": "efb4deef52b2feb9",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Digital Nintendo Switch and Switch 2 Games Are $30 for Black Friday",
+    "lien": "https://www.ign.com/articles/digital-nintendo-switch-and-switch-2-games-are-30-for-black-friday",
+    "resume": "",
+    "publie_le": "2026-11-26T15:49:15+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "169f36890e5315d7",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Score Palworld, V Rising, Subnautica: Below Zero, and More with This Humble Survival of the Fittest Bundle",
+    "lien": "https://www.ign.com/articles/score-palworld-v-rising-subnautica-below-zero-and-more-with-this-humble-survival-of-the-fittest-bundle",
+    "resume": "",
+    "publie_le": "2026-11-26T15:49:00+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
+  },
+  {
+    "id": "62b63abc972e2566",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Spider-Man: Brand New Day Rerelease Includes a Scene Cut From Avengers: Doomsday",
+    "lien": "https://www.ign.com/articles/spider-man-brand-new-day-rerelease-includes-a-scene-cut-from-avengers-doomsday",
+    "resume": "Spider-Man: Brand New Day rerelease includes a scene cut from Avengers: Doomsday, according to a new report.",
+    "publie_le": "2026-11-26T15:44:17+00:00",
+    "collecte_le": "2026-11-26T18:45:21+00:00"
   },
   {
     "id": "e95e9d74e4f12567",

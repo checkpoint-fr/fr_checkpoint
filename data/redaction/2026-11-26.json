@@ -330,5 +330,173 @@
       "lien": "https://www.instagram.com/reel/DgNxEv_OT8m/",
       "publie_le": "2026-11-26T18:38:52+00:00"
     }
+  },
+  {
+    "sujet_id": "a181f3e7aa4d",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Ubisoft et l'IA generative",
+    "sous_titre": "Les equipes doivent-elles vraiment l'utiliser pour tous les nouveaux projets ?",
+    "points": [
+      {
+        "titre": "La rumeur des pitchs",
+        "texte": "Selon une fuite, les studios devaient expliquer comment ils utilisaient l'intelligence artificielle ou justifier leur refus pour obtenir le feu vert."
+      },
+      {
+        "titre": "La reponse d'Ubisoft",
+        "texte": "L'editeur dement l'obligation d'utiliser l'IA generative et encourage ses equipes a explorer son utilite sans l'imposer."
+      },
+      {
+        "titre": "L'initiative Motherbrain",
+        "texte": "Une division interne nommee Motherbrain a ete creee pour developper l'usage et la recherche autour de cette technologie."
+      }
+    ],
+    "a_retenir": "Ubisoft encourage l'IA sans la rendre obligatoire pour ses developpeurs.",
+    "voix": {
+      "couverture": "Ubisoft impose-t-il vraiment l'intelligence artificielle a ses developpeurs ?",
+      "points": [
+        "Une fuite indiquait que les equipes devaient justifier l'absence d'IA dans leurs projets.",
+        "L'editeur a dementi ces rumeurs en affirmant que la technologie n'est pas obligatoire.",
+        "Une structure nommee Motherbrain explore tout de meme son integration."
+      ],
+      "retenir": "Chaque equipe choisit d'utiliser ou non ces nouveaux outils."
+    },
+    "prononciation": {},
+    "legende": "Une rumeur agitait la Toile concernant l'utilisation obligatoire de l'intelligence artificielle genérative chez Ubisoft pour les nouveaux projets. D'apres des sources anonymes, les equipes devaient absolument integrer cette techno ou se justifier en detail aupres de la direction.\n\nFace a ces bruits de couloir, l'editeur a tenu a clarifier la situation en affirmant que l'usage n'est pas requis de maniere obligatoire. Chaque equipe reste libre de decider si l'outil apporte une vraie valeur ajoutee a son jeu.\n\nEt toi, que penses-tu de l'arrivee de l'intelligence artificielle dans la creation de jeux ?\n\nSources : GamesRadar, Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #Ubisoft #AssassinCreed #FarCry #Actualite #Industrie #Developpement",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/ubisoft-games-arent-required-to-use-generative-ai-assassins-creed-publisher-says-after-reports-emerge-that-devs-have-to-justify-not-using-it-in-pitches/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail"
+      }
+    ],
+    "score_tri": 1.82,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-26T18:45:28+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.8,
+    "voix_off": true,
+    "video": "data/videos/a181f3e7aa4d.mp4",
+    "telegram": {
+      "message_id": 366,
+      "envoye_le": "2026-11-26T18:51:40+00:00"
+    }
+  },
+  {
+    "sujet_id": "75555dd71ded",
+    "statut": "ecarte",
+    "motif": "hors sujet (pas du jeu vidéo)",
+    "statut_info": "officiel",
+    "accroche": "Spider-Man de retour au cinema avec des scenes inedites",
+    "sous_titre": "Le film revient en salles en decembre avec une scene coupee d'Avengers: Doomsday",
+    "points": [
+      {
+        "titre": "Un retour en salles limite",
+        "texte": "Le long-mettrage revient pour une duree limitee a partir du quatre decembre avec de nouvelles sequences et surprises."
+      },
+      {
+        "titre": "Une scene bonus d'Avengers",
+        "texte": "Une scene supprimee du prochain film Avengers sera ajoutee pour preparer le terrain au grand crossover."
+      },
+      {
+        "titre": "Le retour de Claire Temple",
+        "texte": "Rosario Dawson reprend son role de Claire Temple aux cotes de Tom Holland dans une scene inedite integree au film."
+      }
+    ],
+    "a_retenir": "Le film revient bientot en salles avec des bonus inedits et des indices sur la suite du Marvel Cinematic Universe.",
+    "voix": {
+      "couverture": "Spider-Man revient au cinema en decembre avec des scenes inedites",
+      "points": [
+        "Le film ressort en salles des le quatre decembre pour une duree limitee.",
+        "Une scene coupee d'Avengers: Doomsday sera ajoutee pour preparer le crossover.",
+        "Rosario Dawson fait son retour en incarnant de nouveau Claire Temple."
+      ],
+      "retenir": "Une occasion parfaite pour decouvrir ces nouveautes avant le prochain Avengers."
+    },
+    "prononciation": {
+      "Spider-Man: Brand New Day": "Spaïdeur-Man Brande Niou Dé",
+      "Avengers: Doomsday": "Avènejeurz Doumzday",
+      "Claire Temple": "Klère Témpeul",
+      "Tom Holland": "Tome Hollande",
+      "Rosario Dawson": "Rozario Dossone"
+    },
+    "legende": "Le film Spider-Man: Brand New Day s'apprete a faire son retour dans les salles oscillees en decembre prochain avec des surprises de taille. Cette nouvelle version en edition etendue integrera une scene bonus directement supprimee d'Avengers: Doomsday pour introduire le multivers. Les fans pourront egalement decouvrir une scene avec Tom Holland et Rosario Dawson qui reprend son role de Claire Temple vu dans les series Netflix. Une belle occasion pour le public de replonger dans les salles avant la sortie du prochain Avengers prevue pour la mi-decembre. Et toi, tu iras le revoir au cinema ?\n\nSources : GamesRadar, IGN\n\n#checkpointfr #jeuxvideo #gaming #SpiderManBrandNewDay #Marvel #MCU #TomHolland #Cinema #Film",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-re-release-has-a-bonus-scene-that-was-removed-from-avengers-doomsday/"
+      },
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/spider-man-brand-new-day-rerelease-includes-a-scene-cut-from-avengers-doomsday"
+      }
+    ],
+    "score_tri": 1.7,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-26T18:45:28+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "7d8eae601914",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "David Fincher assume l'usage de l'intelligence artificielle",
+    "sous_titre": "Le réalisateur a utilisé l'IA pour le film The Further Mis-Adventures of Cliff Booth",
+    "points": [
+      {
+        "titre": "Une utilisation ciblée",
+        "texte": "David Fincher a confirmé avoir employé l'intelligence artificielle en post-production pour synchroniser le jeu des acteurs et les dialogues."
+      },
+      {
+        "titre": "Moins de prises",
+        "texte": "L'outil a permis de fusionner la meilleure performance visuelle avec la meilleure prise audio sans multiplier les tournages."
+      },
+      {
+        "titre": "Une vision d'avenir critiquée",
+        "texte": "Ses déclarations sur l'utilisation future de ces technologies dans le cinéma ont provoqué de vives réactions en ligne."
+      }
+    ],
+    "a_retenir": "David Fincher défend l'IA pour gagner du temps, malgré la polémique.",
+    "voix": {
+      "couverture": "David Fincher assume l'utilisation de l'intelligence artificielle au cinéma.",
+      "points": [
+        "Le réalisateur a utilisé l'intelligence artificielle pour synchroniser les dialogues et les expressions.",
+        "Cette méthode évite de multiplier les prises de vue et réduit le temps de tournage.",
+        "Ses déclarations sur l'avenir de la technologie ont provoqué une forte polémique."
+      ],
+      "retenir": "Le réalisateur défend son choix technologique malgré la controverse."
+    },
+    "prononciation": {
+      "The Further Mis-Adventures of Cliff Booth": "Zeu Feurzeur Miz-Aventchureuze of Kliffe Bouuze"
+    },
+    "legende": "Le réalisateur David Fincher se retrouve au cœur d'une vive polémique après des révélations sur son dernier projet. Pour The Further Mis-Adventures of Cliff Booth, le metteur en scène a eu recours à l'intelligence artificielle pour ajuster les mouvements de lèvres et les dialogues des acteurs en post-production. Une méthode assumée pour éviter de multiplier les prises sur le plateau.\n\nMais ce sont surtout ses propos sur l'avenir de la réalisation et l'automatisation de certains métiers qui ont provoqué un tollé sur les réseaux sociaux. De nombreux cinéphiles et professionnels s'inquiètent de cette vision jugée dystopique.\n\nEt toi, que penses-tu de l'usage de l'IA au cinéma ?\n\nSources : IGN, Polygon\n\n#checkpointfr #jeuxvideo #gaming #DavidFincher #TheFurtherMisAdventuresofCliffBooth #Netflix #BradPitt #QuentinTarantino #Cinema #IA #Hollywood",
+    "sources": [
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/the-further-mis-adventures-of-cliff-booth-director-david-fincher-sparks-backlash-for-wildly-dystopian-vision-of-ai-powered-filmmaking"
+      },
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/the-further-misadventures-of-cliff-booth-david-fincher-ai/"
+      }
+    ],
+    "score_tri": 1.4,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-26T18:45:28+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 28.5,
+    "voix_off": true,
+    "video": "data/videos/7d8eae601914.mp4",
+    "telegram": {
+      "message_id": 368,
+      "envoye_le": "2026-11-26T18:51:42+00:00"
+    }
   }
 ]

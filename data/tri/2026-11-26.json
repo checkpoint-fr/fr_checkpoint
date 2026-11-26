@@ -326,5 +326,166 @@
     ],
     "propose_le": "2026-11-26T17:00:13+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "don",
+      "generative",
+      "publisher",
+      "reportedly",
+      "teams",
+      "ubisoft",
+      "use"
+    ],
+    "titre": "Ubisoft games aren't \"required to use generative AI,\" Assassin's Creed publisher says following reports",
+    "score": 1.82,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "GamesRadar"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-26T17:08:53+00:00",
+    "mots_cles": [
+      "teams",
+      "reportedly",
+      "publisher",
+      "don",
+      "use",
+      "generative",
+      "ubisoft"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft games aren't \"required to use generative AI,\" Assassin's Creed publisher says following reports",
+        "lien": "https://www.gamesradar.com/games/ubisoft-games-arent-required-to-use-generative-ai-assassins-creed-publisher-says-after-reports-emerge-that-devs-have-to-justify-not-using-it-in-pitches/",
+        "resume": "Teams reportedly have to say why they don't need the tools",
+        "publie_le": "2026-11-26T17:08:53+00:00"
+      },
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
+        "lien": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
+        "resume": "Ubisoft is clearly serious about implementing generative-AI deeply into the game development process. The French publisher now expects teams pitching new project ideas to be prepared to explain how gen-AI will help with developing the game.Teams who don't want to use gen-AI will need to clearly justify their reasoning to the higher-ups. Read more",
+        "publie_le": "2026-11-26T12:15:40+00:00"
+      }
+    ],
+    "propose_le": "2026-11-26T18:45:28+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "avengers",
+      "brand",
+      "day",
+      "doomsday",
+      "man",
+      "scene",
+      "spider"
+    ],
+    "titre": "Spider-Man: Brand New Day re-release has a \"bonus\" scene that was removed from Avengers: Doomsday",
+    "score": 1.7,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "IGN"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-26T15:56:50+00:00",
+    "mots_cles": [
+      "spider",
+      "scene",
+      "man",
+      "brand",
+      "avengers",
+      "day",
+      "doomsday"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Spider-Man: Brand New Day re-release has a \"bonus\" scene that was removed from Avengers: Doomsday",
+        "lien": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-re-release-has-a-bonus-scene-that-was-removed-from-avengers-doomsday/",
+        "resume": "There are brand new scenes in Brand New Day",
+        "publie_le": "2026-11-26T15:56:50+00:00"
+      },
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Spider-Man: Brand New Day Rerelease Includes a Scene Cut From Avengers: Doomsday",
+        "lien": "https://www.ign.com/articles/spider-man-brand-new-day-rerelease-includes-a-scene-cut-from-avengers-doomsday",
+        "resume": "Spider-Man: Brand New Day rerelease includes a scene cut from Avengers: Doomsday, according to a new report.",
+        "publie_le": "2026-11-26T15:44:17+00:00"
+      }
+    ],
+    "propose_le": "2026-11-26T18:45:28+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "adventures",
+      "booth",
+      "cliff",
+      "david",
+      "director",
+      "fincher",
+      "further",
+      "mis"
+    ],
+    "titre": "The Further Mis-Adventures of Cliff Booth Director David Fincher Sparks Backlash for 'Wildly Dystopian' Vision of AI-powered Filmmaking",
+    "score": 1.4,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-26T12:32:15+00:00",
+    "mots_cles": [
+      "david",
+      "cliff",
+      "further",
+      "fincher",
+      "adventures",
+      "booth",
+      "mis",
+      "director"
+    ],
+    "articles": [
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The Further Mis-Adventures of Cliff Booth Director David Fincher Sparks Backlash for 'Wildly Dystopian' Vision of AI-powered Filmmaking",
+        "lien": "https://www.ign.com/articles/the-further-mis-adventures-of-cliff-booth-director-david-fincher-sparks-backlash-for-wildly-dystopian-vision-of-ai-powered-filmmaking",
+        "resume": "Director David Fincher has sparked a backlash after setting out what some have called a “dystopian” vision for AI-fueled filmmaking, amid controversy over AI use in Netflix movie The Further Mis-Adventures of Cliff Booth.",
+        "publie_le": "2026-11-26T12:32:15+00:00"
+      },
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The Further Mis-Adventures of Cliff Booth Director Explains His Use of AI",
+        "lien": "https://www.polygon.com/the-further-misadventures-of-cliff-booth-david-fincher-ai/",
+        "resume": "Commonly known for his high take count, David Fincher now uses AI to shorten production, as seen in The Further Misadventures of Cliff Booth.",
+        "publie_le": "2026-11-26T12:14:03+00:00"
+      }
+    ],
+    "propose_le": "2026-11-26T18:45:28+00:00",
+    "creneau": "actu_soir"
   }
 ]
