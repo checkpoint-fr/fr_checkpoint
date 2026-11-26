@@ -48,7 +48,7 @@
     "defauts_voix": [],
     "duree": 27.0,
     "voix_off": true,
-    "video": "data/videos/db1e056fea61.mp4",
+    "video": "",
     "telegram": {
       "message_id": 268,
       "envoye_le": "2026-11-22T17:09:19+00:00"
@@ -103,7 +103,7 @@
     "defauts_voix": [],
     "duree": 27.1,
     "voix_off": true,
-    "video": "data/videos/2109bac383c0.mp4",
+    "video": "",
     "telegram": {
       "message_id": 270,
       "envoye_le": "2026-11-22T17:09:21+00:00"
@@ -205,7 +205,7 @@
     "defauts_voix": [],
     "duree": 31.6,
     "voix_off": true,
-    "video": "data/videos/b2a852823980.mp4",
+    "video": "",
     "telegram": {
       "message_id": 275,
       "envoye_le": "2026-11-22T18:48:04+00:00"
