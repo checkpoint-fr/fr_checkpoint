@@ -182,7 +182,7 @@
   },
   {
     "sujet_id": "f751b8c20086",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "Vote syndical chez Rockstar Games : le non l'emporte",
@@ -237,7 +237,8 @@
     "telegram": {
       "message_id": 358,
       "envoye_le": "2026-11-26T17:07:08+00:00"
-    }
+    },
+    "decide_le": "2026-11-26T18:38:06+00:00"
   },
   {
     "sujet_id": "0af7a6b6d78e",
@@ -272,7 +273,7 @@
   },
   {
     "sujet_id": "f509a99ac2d5",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "GTA VI s'inspire du système d'honneur de Red Dead Redemption 2",
@@ -323,6 +324,11 @@
       "message_id": 360,
       "envoye_le": "2026-11-26T17:07:14+00:00"
     },
-    "decide_le": "2026-11-26T18:38:01+00:00"
+    "decide_le": "2026-11-26T18:38:01+00:00",
+    "instagram": {
+      "media_id": "18104585663389845",
+      "lien": "https://www.instagram.com/reel/DgNxEv_OT8m/",
+      "publie_le": "2026-11-26T18:38:52+00:00"
+    }
   }
 ]
