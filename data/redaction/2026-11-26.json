@@ -444,7 +444,7 @@
   },
   {
     "sujet_id": "7d8eae601914",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "David Fincher assume l'usage de l'intelligence artificielle",
@@ -498,6 +498,12 @@
     "telegram": {
       "message_id": 368,
       "envoye_le": "2026-11-26T18:51:42+00:00"
+    },
+    "decide_le": "2026-11-26T20:22:13+00:00",
+    "instagram": {
+      "media_id": "17966007966254170",
+      "lien": "https://www.instagram.com/reel/DgN8_Z0O4MG/",
+      "publie_le": "2026-11-26T20:23:01+00:00"
     }
   }
 ]
