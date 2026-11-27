@@ -269,5 +269,176 @@
       "envoye_le": "2026-11-27T17:09:05+00:00"
     },
     "decide_le": "2026-11-27T17:43:13+00:00"
+  },
+  {
+    "sujet_id": "24e703d606b7",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "rumeur",
+    "accroche": "Le remake de The Simpsons Hit & Run déjà annulé",
+    "sous_titre": "Un projet secret de New Radical Games vient d'être stoppé selon un développeur",
+    "points": [
+      {
+        "titre": "Un retour inattendu",
+        "texte": "Le studio Radical Entertainment est revenu cette année sous le nom de New Radical Games, relançant les rumeurs d'un remake."
+      },
+      {
+        "titre": "Des indices évidents",
+        "texte": "Le créateur Matt Groening avait laissé entendre cet été lors de la conférence D23 que le jeu original allait faire son retour."
+      },
+      {
+        "titre": "Un projet stoppé",
+        "texte": "Le designer Darren Evenson a annoncé sur LinkedIn que leur projet secret venait d'être annulé, le poussant à chercher du travail."
+      }
+    ],
+    "a_retenir": "Le mystérieux projet de New Radical Games est annulé, brisant les espoirs d'un retour du jeu culte.",
+    "voix": {
+      "couverture": "Le remake de The Simpsons Hit and Run est déjà annulé",
+      "points": [
+        "Le studio d'origine est de retour cette année sous un nouveau nom avec des indices sur son site",
+        "Le créateur Matt Groening avait même laissé entendre son retour cet été",
+        "Mais un développeur vient d'annoncer que leur grand projet secret a été stoppé"
+      ],
+      "retenir": "Un coup dur pour les fans qui attendaient ce retour avec impatience."
+    },
+    "prononciation": {
+      "The Simpsons Hit and Run": "Deue Zîmpsone Hite hanne Rane",
+      "New Radical Games": "Nou Rädical Guéms",
+      "Radical Entertainment": "Rädical Enterteinmenne",
+      "Darren Evenson": "Darene Évensonne",
+      "Matt Groening": "Matte Grouningue"
+    },
+    "legende": "C'est la douche froide pour les fans de la célèbre famille jaune. Le remake tant espéré de The Simpsons Hit & Run pourrait bien être tombé à l'eau suite à l'annulation d'un projet secret chez New Radical Games. Entre les indices laissés par Matt Groening cet été et le retour du studio d'origine, tout laissait présager un come-back légendaire. Malheureusement, la dure réalité de l'industrie du jeu vidéo en a décidé autrement.\n\nHeureusement ou malheureusement, le studio a aussi développé par le passé le jeu Scarface, ce qui laisse planer un très léger doute sur la nature exacte du projet annulé. Mais les clins d'œil glissés dans le message du développeur laissent peu de place au doute pour beaucoup.\n\nEt toi, tu y croyais au retour de ce jeu culte ?\n\nSources : Eurogamer, VGC\n\n#checkpointfr #jeuxvideo #gaming #TheSimpsonsHitAndRun #TheSimpsons #NewRadicalGames #RadicalEntertainment #RetroGaming #ActuGaming",
+    "sources": [
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled"
+      },
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/"
+      }
+    ],
+    "score_tri": 1.93,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-27T18:45:38+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.9,
+    "voix_off": true,
+    "video": "data/videos/24e703d606b7.mp4",
+    "telegram": {
+      "message_id": 388,
+      "envoye_le": "2026-11-27T18:52:37+00:00"
+    }
+  },
+  {
+    "sujet_id": "cb97f140ce60",
+    "statut": "ecarte",
+    "motif": "doublon de « Le remake de The Simpsons Hit & Run déjà annulé »",
+    "statut_info": "rumeur",
+    "accroche": "Le retour de The Simpsons Hit & Run tombe à l'eau",
+    "sous_titre": "D'après de récentes fuites, le studio New Radical Games aurait vu son jeu secret annulé.",
+    "points": [
+      {
+        "titre": "Un studio fondé par des vétérans",
+        "texte": "New Radical Games a été fondé plus tôt cette année par d'anciens développeurs de Radical Entertainment, le studio d'origine."
+      },
+      {
+        "titre": "Une annulation brutale",
+        "texte": "Plusieurs employés ont annoncé sur LinkedIn que leur projet secret venait d'être annulé par l'éditeur."
+      },
+      {
+        "titre": "Le doute plane sur le remake",
+        "texte": "Les fans soupçonnaient le studio de préparer un retour du jeu culte, évoqué en août dernier par Matt Groening."
+      }
+    ],
+    "a_retenir": "Le mystérieux projet des anciens créateurs est annulé, brisant les espoirs des fans.",
+    "voix": {
+      "couverture": "Le retour de The Simpsons Hit et Run est déjà compromis",
+      "points": [
+        "Le studio New Radical Games a été fondé par des anciens du jeu d'origine",
+        "Plusieurs développeurs ont annoncé sur LinkedIn que leur projet secret a été annulé",
+        "Le remake tant espéré par les fans s'éloigne donc un peu plus"
+      ],
+      "retenir": "Un coup dur pour les fans qui attendaient ce retour depuis des années"
+    },
+    "prononciation": {
+      "The Simpsons Hit et Run": "Zeu Simp-sonne Hite anne Rounne"
+    },
+    "legende": "C'est une bien triste nouvelle pour les nostalgiques de Springfield. Alors que le créateur de la série Matt Groening avait laissé entendre cet été qu'un retour du jeu culte était prévu, le studio New Radical Games vient apparemment de voir son projet secret passer à la trappe. Des développeurs ont partagé leur déception sur les réseaux suite à cette annulation brutale par l'éditeur.\n\nBien que le lien officiel n'ait jamais été totalement confirmé, la présence d'anciens de Radical Entertainment dans ce studio laissait espérer un come-back inespéré après vingt-trois ans d'attente. Les joueurs devront donc encore patienter, ou se contenter de rejouer à l'original.\n\nEt toi, tu espérais aussi revoir ce jeu culte sur nos machines ?\n\nSources : Rock Paper Shotgun, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #TheSimpsonsHitAndRun #TheSimpsons #NewRadicalGames #RadicalEntertainment #RetroGaming #Leak",
+    "sources": [
+      {
+        "nom": "Rock Paper Shotgun",
+        "lien": "https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/open-world/fans-fear-for-simpsons-hit-and-run-remake-after-unannounced-game-from-veterans-behind-the-og-is-canceled-months-after-series-creator-matt-groening-teased-a-comeback/"
+      }
+    ],
+    "score_tri": 1.81,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-27T18:45:38+00:00",
+    "alertes": []
+  },
+  {
+    "sujet_id": "3146e8f5042d",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Du nouveau pour The Witcher 3",
+    "sous_titre": "Le RPG de CD Projekt Red passe en version 5.02 avec plein de mods et de correctifs",
+    "points": [
+      {
+        "titre": "Plus de quarante mods",
+        "texte": "La mise à jour ajoute plus de quarante mods multiplateformes, dont de nouvelles quêtes et des options cosmétiques pour Geralt."
+      },
+      {
+        "titre": "Des bugs corrigés",
+        "texte": "Le patch règle de nombreux soucis techniques, des bugs de mode photo, des problèmes d'éclairage et des plantages sur toutes les machines."
+      },
+      {
+        "titre": "Le futur de la franchise",
+        "texte": "Le studio prépare aussi la suite avec le prochain jeu de la saga et une nouvelle trilogie centrée sur Ciri."
+      }
+    ],
+    "a_retenir": "Une mise à jour massive qui améliore l'expérience des joueurs sur toutes les plateformes.",
+    "voix": {
+      "couverture": "Une grosse mise à jour vient de tomber pour The Witcher 3",
+      "points": [
+        "Le patch apporte plus de quarante nouveaux mods multiplateformes accessibles à tous",
+        "Plusieurs correctifs viennent régler des bugs techniques et des soucis d'éclairage",
+        "Le studio prépare activement la suite avec de futurs projets très attendus"
+      ],
+      "retenir": "Le célèbre sorceleur n'a pas fini de faire parler de lui"
+    },
+    "prononciation": {
+      "The Witcher 3": "Ze Ouitcher Troie",
+      "CD Projekt Red": "Sé Dé Projèk-T Rèd"
+    },
+    "legende": "CD Projekt Red régale les joueurs avec une grosse mise à jour pour le troisième volet des aventures du célèbre sorceleur. Au programme sur toutes les plateformes, pas moins de quarante nouveaux mods multiplateformes pour personnaliser ton expérience de jeu, avec par exemple des yeux luisants pour Geralt ou de nouvelles quêtes narratives.\n\nCe patch apporte aussi son lot de correctifs indispensables pour stabiliser le jeu, régler des soucis d'éclairage et éliminer des bugs agaçants qui gâchaient parfois les parties. De quoi patienter sagement en attendant les prochains gros projets du studio.\n\nEt toi, tu vas relancer le jeu pour tester ces nouveautés ?\n\nSources : Polygon, Eurogamer\n\n#checkpointfr #jeuxvideo #gaming #TheWitcher3 #CDProjektRed #Geralt #RPG #PC #PS5 #XboxSeriesX",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/witcher-3-remastered-cross-platform-mod-support/"
+      },
+      {
+        "nom": "Eurogamer",
+        "lien": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs"
+      }
+    ],
+    "score_tri": 1.65,
+    "creneau": "actu_soir",
+    "redige_le": "2026-11-27T18:45:38+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 24.8,
+    "voix_off": true,
+    "video": "data/videos/3146e8f5042d.mp4",
+    "telegram": {
+      "message_id": 390,
+      "envoye_le": "2026-11-27T18:52:39+00:00"
+    }
   }
 ]

@@ -1,5 +1,269 @@
 [
   {
+    "id": "531c0140474370e6",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Players Are Not, In Fact, Eating Good",
+    "lien": "https://www.polygon.com/gta-6-food-restaurants/",
+    "resume": "GTA 6's Jason and Lucia don't get much chance to savor Leonida's finest foods, and that's a shame",
+    "publie_le": "2026-11-27T18:35:30+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "938f5abbfb8391b8",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+    "lien": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
+    "resume": "These GTA 6 fans only need liquid courage to pull off professional heists with no casualties in Rockstar's open-world game",
+    "publie_le": "2026-11-27T18:27:39+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "1f8c694a71f04bc2",
+    "source": "PC Gamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Good coffee is one of our last comforts in a cruel universe, which is why I'm tempted by this Black Friday coffee grinder deal",
+    "lien": "https://www.pcgamer.com/hardware/good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe-which-is-why-im-tempted-by-this-black-friday-coffee-grinder-deal/",
+    "resume": "The PC in PC Gamer stands for \"pourover coffee.\"",
+    "publie_le": "2026-11-27T18:23:33+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "517d2afeca7c9508",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "'Pokémon Winds and Waves' Fans Will End 2026 On A Good Note",
+    "lien": "https://www.polygon.com/pokemon-winds-waves-starters-ponbom-gecqua-browt-plush/",
+    "resume": "Fans of Pokémon starters Browt, Pombon and Gecqua have something to look forward to before 2026 ends, ahead of Winds and Waves' release",
+    "publie_le": "2026-11-27T18:22:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "4d8f83112703f522",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "25 things you probably missed in GTA 6",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
+    "resume": "There are plenty of extra controls and hidden mechanics in GTA 6 that aren't made clear, so let us bring you up to speed",
+    "publie_le": "2026-11-27T18:12:39+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "da871f08aac1e543",
+    "source": "Eurogamer",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+    "lien": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
+    "resume": "A rumored remake of The Simpsons: Hit & Run (the internet's most-wanted video game revival) may be in trouble. Read more",
+    "publie_le": "2026-11-27T18:08:20+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "b612dd1da8ca23d7",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Hitman : World of Assassination rencontre 007 : First Light et invite Lenny Kravitz",
+    "lien": "https://www.gamekult.com/actualite/hitman-world-of-assassination-rencontre-007-first-light-et-invite-lenny-kravitz-3050873237.html",
+    "resume": "Snoop Dogg, Eminem, le vidéaste Jacksepticeye, Bruce Lee, Milla Jovovich... IO Interactive multiplie les invités de marque dans Hitman : World of Assassination et ce n'était clairement qu'une question de temps avant que Bawma, avatar de Lenny Kravitz dans leur autre jeu du moment 007 First Light, finisse par s'inviter dans la partie en tant que cible temporaire. Ce moment est arrivé.",
+    "publie_le": "2026-11-27T18:03:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "928c3611dc567839",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
+    "lien": "https://www.polygon.com/gta-6-racing-vs-forza-horizon-6/",
+    "resume": "Rockstar's Grand Theft Auto 6 makes a stab at being a proper racing game, but the competition from Playground's series can't be beat",
+    "publie_le": "2026-11-27T18:00:18+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "db51806725975148",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Quote of the Day from CEO behind friendslop hits Peak and Content Warning: \"Losing is terrible\"",
+    "lien": "https://www.gamesradar.com/games/co-op/quote-of-the-day-from-ceo-behind-friendslop-hits-peak-and-content-warning-losing-is-terrible/",
+    "resume": "My goodness, why didn't I think of that?",
+    "publie_le": "2026-11-27T18:00:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "542d2778ed15ea0e",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "BioWare RPGs were \"just an afterthought\" to EA, which really wanted The Old Republic, producer says",
+    "lien": "https://www.gamesradar.com/games/mmo/biowares-rpgs-were-just-an-afterthought-to-ea-which-wanted-star-wars-the-old-republic-and-hated-it-for-failing-to-deliver-world-of-warcraft-numbers-dragon-age-producer-says/",
+    "resume": "BioWare \"basically had no money left\" before it was sold to private equity and then EA",
+    "publie_le": "2026-11-27T17:52:01+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "df00885b2a0ca9cc",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "6 Upcoming Steam Games To Wishlist For Life After GTA 6",
+    "lien": "https://www.polygon.com/wishlister-nov-27/",
+    "resume": "Grand Theft Auto 6 is obviously dominated playtime right now, but there are plenty of upcoming Steam games to wishlist for when you're done.",
+    "publie_le": "2026-11-27T17:45:36+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "52e2692577420bbf",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 PC Port Takes a Massive Leap Forward in Just Days",
+    "lien": "https://www.polygon.com/gta-6-pc-port-update-progress-unofficial-cyberleek-leak/",
+    "resume": "GTA 6's ongoing PC port progress is unrecognizable after just a few days, with some builds including working multiplayer",
+    "publie_le": "2026-11-27T17:44:33+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "4819762c431c3d96",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "EA's Iron Man game may finally resurface at The Game Awards, internet sleuths think",
+    "lien": "https://www.gamesradar.com/games/action/eas-iron-man-game-may-finally-resurface-at-the-game-awards-after-4-years-of-silence-internet-sleuths-believe/",
+    "resume": "Motive Studio's been working on the release since 2022",
+    "publie_le": "2026-11-27T17:39:13+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "efa0754171e7816d",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 Lucia actor \"dedicated almost a decade\" to bringing Rockstar's new protagonist to life",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lucia-actor-dedicated-almost-a-decade-to-bringing-rockstars-new-protagonist-to-life-and-its-been-a-whirlwind-for-her-since-launch/",
+    "resume": "\"I am beyond grateful\"",
+    "publie_le": "2026-11-27T17:36:04+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "b7f4025864d22658",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Hollow Knight: Silksong : Team Cherry dévoile la date de sortie du DLC Sea of Sorrow, et c’est pour très bientôt",
+    "lien": "https://www.actugaming.net/hollow-knight-silksong-date-sortie-dlc-836609/",
+    "resume": "ActuGaming.net Hollow Knight: Silksong : Team Cherry dévoile la date de sortie du DLC Sea of Sorrow, et c’est pour très bientôt Sorti en septembre 2025 après une fiévreuse attente, Hollow Knight: Silksong a su convaincre les […] L'article Hollow Knight: Silksong : Team Cherry dévoile la date de sortie du DLC Sea of Sorrow, et c’est pour très bientôt est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-27T17:35:57+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "d5b839b0510132fa",
+    "source": "Rock Paper Shotgun",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026",
+    "lien": "https://www.rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026",
+    "resume": "Between Matthew McConaughey , the flesh cathedrals , the space bears , FemJun and the tragedy of Biggs \"The Bolt\" Keil , the pre-release reveals for Mass Effect -like space RPG Exodus have been a real emotional rollercoaster. It's almost disappointing to learn that the recommended PC system specs are just sort of… fine. Broadly within expectations, by 2026 standards, anyway. Read more",
+    "publie_le": "2026-11-27T17:30:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "bd4dff4c5ea64d7a",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "GTA 6 sales estimates place it as the 13th best-selling game ever",
+    "lien": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+    "resume": "53 million puts it above any Call of Duty game",
+    "publie_le": "2026-11-27T17:17:46+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "fb72340123d44c84",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Black Friday : les jeux Nintendo Switch 2 qu'on vous conseille vraiment de ne pas laisser passer",
+    "lien": "https://www.jeuxvideo.com/news/2117401/black-friday-les-jeux-nintendo-switch-2-qu-on-vous-conseille-vraiment-de-ne-pas-laisser-passer.htm",
+    "resume": "Pour le Black Friday 2026, les premières vraies réductions sur les jeux Nintendo Switch 2 arrivent sur Amazon. Entre les exclusivités Nintendo, habituellement vendues au prix fort, les gros titres d'éditeurs tiers et les offres sur le matériel, il devient vite difficile de tout trier. Voici la liste...",
+    "publie_le": "2026-11-27T17:17:01+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "6950c0834b1aecf1",
+    "source": "GamesRadar",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Currys Black Friday sale offers reliable gaming headsets under £50",
+    "lien": "https://www.gamesradar.com/hardware/headsets-headphones/currys-black-friday-sales-has-brought-some-solid-gaming-headsets-below-gbp50-with-some-extra-perks-thrown-in-too/",
+    "resume": "There are various pairs of gaming headsets reduced in the Currys Black Friday sales, including some affordable sets now under £50.",
+    "publie_le": "2026-11-27T17:15:04+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "c9f26e7695414ad2",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Alienware Makes Some of the Best OLED Gaming Monitors Around and They're All on Sale for Black Friday",
+    "lien": "https://www.ign.com/articles/alienware-gaming-monitor-deals-black-friday-sale-2026",
+    "resume": "Backed by a 3 year warranty that covers OLED burn-in.",
+    "publie_le": "2026-11-27T17:10:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "63d6bb70852e962b",
+    "source": "Gamekult",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GitHub célèbre par mégarde l'émulation PS5 de GTA 6... et supprime vite son tweet",
+    "lien": "https://www.gamekult.com/actualite/github-celebre-par-megarde-l-emulation-ps5-de-gta-6-et-supprime-vite-son-tweet-3050873240.html",
+    "resume": "L'équipe en charge des réseaux sociaux de GitHub s'est offert un dérapage assez lunaire sur X en vantant ouvertement l'essor d'un émulateur PlayStation 5 dopé par la sortie de Grand Theft Auto VI, avant de faire disparaître la publication en urgence. Un impair d'autant plus drôle que la plateforme collaborative appartient à Microsoft, concurrent direct de Sony.",
+    "publie_le": "2026-11-27T17:08:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "3c7fb48407e500a8",
+    "source": "ActuGaming",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "EA Sports FC 27 dévoile la deuxième équipe Thunderstruck",
+    "lien": "https://www.actugaming.net/ea-sports-fc-27-devoile-la-deuxieme-equipe-thunderstruck-836625/",
+    "resume": "ActuGaming.net EA Sports FC 27 dévoile la deuxième équipe Thunderstruck EA Sports FC 27 nous propose la deuxième équipe Thunderstruck. Les cartes sont disponibles dans […] L'article EA Sports FC 27 dévoile la deuxième équipe Thunderstruck est disponible sur ActuGaming.net",
+    "publie_le": "2026-11-27T17:07:16+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "9533b5ff14365be0",
+    "source": "Polygon",
+    "type": "presse",
+    "langue": "en",
+    "titre": "UFO location and alien encounter walkthrough in GTA 6",
+    "lien": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
+    "resume": "Here's how to start the UFO encounter event in GTA 6, how to have the alien dream, and where to find the dream's warehouse.",
+    "publie_le": "2026-11-27T17:01:19+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "542d930f0647de10",
+    "source": "PlayStation Blog",
+    "type": "officiel",
+    "langue": "en",
+    "titre": "Share of the Week: Gathered",
+    "lien": "https://blog.playstation.com/2026/11/27/share-of-the-week-gathered/",
+    "resume": "Last week, we asked you to share moments that saw characters gathering together in the game of your choice using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: Gib84G shared this action-packed shot from Final Fantasy XVI. ArturPancov shared this moody scene from Death Stranding 2: On the Beach. John_Varela_R […]",
+    "publie_le": "2026-11-27T17:01:19+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
     "id": "4f83519638dca4f5",
     "source": "Polygon",
     "type": "presse",
@@ -20,6 +284,28 @@
     "resume": "Earlier this year, New Radical Games rocked up on the scene . A successor to Simpsons: Hit & Run and Prototype studio Radical Entertainment, with original Radical co-founder Ian Wilkinson as CEO, New Radical looked to be trying to trade on some of that pedigree. So, naturally, when Simpsons creator Matt Groening seemed to indicate during a panel that Hit & Run could be making some sort of return,…",
     "publie_le": "2026-11-27T17:00:00+00:00",
     "collecte_le": "2026-11-27T17:00:31+00:00"
+  },
+  {
+    "id": "625825d683c7be18",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Audible's Black Friday Deal Is Live: Get 3 Months for Just $0.99 Per Month Plus $20 in Audiobook Credit",
+    "lien": "https://www.ign.com/articles/amazon-audible-deal-black-friday-sale-2026",
+    "resume": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
+    "publie_le": "2026-11-27T17:00:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "e0fc8add15a1f11f",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Samsung Nintendo Switch 2 MicroSD Express Memory Cards Have Dropped in Price for Black Friday",
+    "lien": "https://www.ign.com/articles/samsung-nintendo-switch-2-memory-card-deal-black-friday-2026",
+    "resume": "We've tested and vetted these cards.",
+    "publie_le": "2026-11-27T17:00:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
   },
   {
     "id": "959be359f77b2959",
@@ -44,6 +330,28 @@
     "collecte_le": "2026-11-27T17:00:31+00:00"
   },
   {
+    "id": "64736dc509d692fa",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "Denis Villeneuve Was 'Deeply Disappointed' by Disney's Decision to Release Avengers: Doomsday on the Same Day as Dune: Part Three",
+    "lien": "https://www.ign.com/articles/denis-villeneuve-was-deeply-disappointed-by-disneys-decision-to-release-avengers-doomsday-on-the-same-day-as-dune-part-three",
+    "resume": "Denis Villeneuve has revealed his disappointment at Disney's decision to release Avengers: Doomsday in theaters on the same day as Dune: Part Three.",
+    "publie_le": "2026-11-27T16:48:59+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
+    "id": "20585f027e7ff407",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "The Mattel Brick Shop Xbox Console and Duke Controller Hit New Low Price for Black Friday",
+    "lien": "https://www.ign.com/articles/mattel-brick-shop-xbox-console-deal-black-friday-2026",
+    "resume": "Save $80 on your own 1:1 scale replica of Microsoft’s original console for a lovely dose of nostalgia.",
+    "publie_le": "2026-11-27T16:48:25+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
+  },
+  {
     "id": "0388a976e1995000",
     "source": "GamesRadar",
     "type": "presse",
@@ -64,6 +372,17 @@
     "resume": "Would Rockstar really set a future Grand Theft Auto game outside of the United States? The concept's been mooted recently, particularly in reporting on a recent Rockstar interview with The Guardian , where co-studio head Rob Nelson quipped: \"Never say never.\" But speaking to Eurogamer in another interview since then, I would say it's unlikely. Read more",
     "publie_le": "2026-11-27T16:46:00+00:00",
     "collecte_le": "2026-11-27T17:00:31+00:00"
+  },
+  {
+    "id": "29a858ecb667999c",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "Yago GTA 6 : Quel choix faire, comment finir ses missions secondaires ?",
+    "lien": "https://www.jeuxvideo.com/news/2117527/yago-gta-6-quel-choix-faire-comment-finir-ses-missions-secondaires.htm",
+    "resume": "On continue la liste des missions secondaires de GTA VI, avec celles qui sont dédiées à Yago, un personnage que vous croiserez au chapitre 3 de l'histoire. On voit comment les finir et quel choix faire à la fin de son arc scénaristique.",
+    "publie_le": "2026-11-27T16:45:09+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
   },
   {
     "id": "35849ed680ede1ea",
@@ -97,6 +416,17 @@
     "resume": "In the grim darkness of the week before the release of Warhammer 40,000: Dawn of War 4 , developers King Art and publishers Deep Silver have released a demo model painter. It's your chance to pre-emptively run a brush over units from the new strategy game's four major factions – Orks, Adeptus Mechanicus, Necrons and Space Marines. The Imperial Guard are in the game too, but mostly as a tutorial…",
     "publie_le": "2026-11-27T16:31:00+00:00",
     "collecte_le": "2026-11-27T17:00:31+00:00"
+  },
+  {
+    "id": "f8765950e68b574e",
+    "source": "IGN",
+    "type": "presse",
+    "langue": "en",
+    "titre": "30 First-Person Shooter Masterpieces You Need to Play",
+    "lien": "https://www.ign.com/articles/30-first-person-shooter-masterpieces-you-need-to-play",
+    "resume": "From the original corridor shooter pioneers to the incredibly sophisticated genre hybrids of the 2020s, these are the 30 first-person shooter masterpieces you need to play.",
+    "publie_le": "2026-11-27T16:30:00+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
   },
   {
     "id": "7d9104b7bddb2b33",
@@ -163,6 +493,17 @@
     "resume": "Team Cherry Presents is already publishing several new games",
     "publie_le": "2026-11-27T16:18:42+00:00",
     "collecte_le": "2026-11-27T17:00:31+00:00"
+  },
+  {
+    "id": "d80dad20d1f599fa",
+    "source": "JV",
+    "type": "presse",
+    "langue": "fr",
+    "titre": "GTA 6 à l'immunité, même pour une fonctionnalité que les joueurs détestent habituellement",
+    "lien": "https://www.jeuxvideo.com/news/2117427/gta-6-a-l-immunite-meme-pour-une-fonctionnalite-que-les-joueurs-detestent-habituellement.htm",
+    "resume": "Le premier chapitre de GTA 6 a plein de QTE et vous allez comprendre en quoi ils sont très importants...",
+    "publie_le": "2026-11-27T16:15:07+00:00",
+    "collecte_le": "2026-11-27T18:45:34+00:00"
   },
   {
     "id": "d9ce3660ab186853",

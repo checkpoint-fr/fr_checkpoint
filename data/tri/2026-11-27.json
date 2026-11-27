@@ -261,5 +261,164 @@
     ],
     "propose_le": "2026-11-27T17:00:35+00:00",
     "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "cancelled",
+      "developer",
+      "hit",
+      "may",
+      "remake",
+      "run",
+      "simpsons"
+    ],
+    "titre": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+    "score": 1.93,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "VGC"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-27T18:08:20+00:00",
+    "mots_cles": [
+      "may",
+      "run",
+      "simpsons",
+      "remake",
+      "cancelled",
+      "developer",
+      "hit"
+    ],
+    "articles": [
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+        "lien": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
+        "resume": "A rumored remake of The Simpsons: Hit & Run (the internet's most-wanted video game revival) may be in trouble. Read more",
+        "publie_le": "2026-11-27T18:08:20+00:00"
+      },
+      {
+        "source": "VGC",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+        "lien": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+        "resume": "Speculation surrounding a remake has been rife since Matt Groening suggested it was coming",
+        "publie_le": "2026-11-27T12:53:49+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T18:45:38+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "devs",
+      "hit",
+      "remake",
+      "run",
+      "simpsons",
+      "unannounced"
+    ],
+    "titre": "Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled",
+    "score": 1.81,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "Rock Paper Shotgun"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-27T17:00:00+00:00",
+    "mots_cles": [
+      "unannounced",
+      "devs",
+      "run",
+      "simpsons",
+      "remake",
+      "hit"
+    ],
+    "articles": [
+      {
+        "source": "Rock Paper Shotgun",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled",
+        "lien": "https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled",
+        "resume": "Earlier this year, New Radical Games rocked up on the scene . A successor to Simpsons: Hit & Run and Prototype studio Radical Entertainment, with original Radical co-founder Ian Wilkinson as CEO, New Radical looked to be trying to trade on some of that pedigree. So, naturally, when Simpsons creator Matt Groening seemed to indicate during a panel that Hit & Run could be making some sort of return,…",
+        "publie_le": "2026-11-27T17:00:00+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Fans fear for Simpsons Hit & Run remake after unannounced game from devs behind the OG is canceled",
+        "lien": "https://www.gamesradar.com/games/open-world/fans-fear-for-simpsons-hit-and-run-remake-after-unannounced-game-from-veterans-behind-the-og-is-canceled-months-after-series-creator-matt-groening-teased-a-comeback/",
+        "resume": "First thing tomorrow morning I'm gonna punch Lenny in the back of the head",
+        "publie_le": "2026-11-27T12:17:50+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T18:45:38+00:00",
+    "creneau": "actu_soir"
+  },
+  {
+    "signature": [
+      "3",
+      "40",
+      "cross",
+      "mods",
+      "patch",
+      "platform",
+      "remastered",
+      "witcher"
+    ],
+    "titre": "The Witcher 3 Remastered’s Mod Library Just Got a Massive Update",
+    "score": 1.65,
+    "nb_sources": 2,
+    "sources": [
+      "Eurogamer",
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-27T15:23:31+00:00",
+    "mots_cles": [
+      "platform",
+      "cross",
+      "mods",
+      "patch",
+      "40",
+      "remastered",
+      "witcher",
+      "3"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The Witcher 3 Remastered’s Mod Library Just Got a Massive Update",
+        "lien": "https://www.polygon.com/witcher-3-remastered-cross-platform-mod-support/",
+        "resume": "The Witcher 3 Remastered patch introduces 40 new cross-platform mods for players to play with",
+        "publie_le": "2026-11-27T15:23:31+00:00"
+      },
+      {
+        "source": "Eurogamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "The Witcher 3's new patch adds 40 cross-platform mods, fixes plenty of game-breaking bugs and \"various lighting issues\"",
+        "lien": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs",
+        "resume": "Developer CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt - Remastered on all platforms, which squashes dozens of bugs and adds 40 cross-platform mods with \"more on the way.\" Read more",
+        "publie_le": "2026-11-26T19:20:50+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T18:45:38+00:00",
+    "creneau": "actu_soir"
   }
 ]
