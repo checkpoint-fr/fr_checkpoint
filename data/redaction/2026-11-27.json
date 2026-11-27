@@ -209,7 +209,7 @@
   },
   {
     "sujet_id": "6a3edb1f38e3",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Tout savoir sur la liste de voitures de Randy dans GTA VI",
@@ -260,6 +260,7 @@
     "telegram": {
       "message_id": 383,
       "envoye_le": "2026-11-27T17:09:05+00:00"
-    }
+    },
+    "decide_le": "2026-11-27T17:43:13+00:00"
   }
 ]
