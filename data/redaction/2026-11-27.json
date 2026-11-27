@@ -385,7 +385,7 @@
   },
   {
     "sujet_id": "3146e8f5042d",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "Du nouveau pour The Witcher 3",
@@ -440,6 +440,12 @@
     "telegram": {
       "message_id": 390,
       "envoye_le": "2026-11-27T18:52:39+00:00"
+    },
+    "decide_le": "2026-11-27T20:30:19+00:00",
+    "instagram": {
+      "media_id": "18191865928412759",
+      "lien": "https://www.instagram.com/reel/DgQitjzClHC/",
+      "publie_le": "2026-11-27T20:31:03+00:00"
     }
   }
 ]
