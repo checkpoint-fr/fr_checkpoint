@@ -102,5 +102,164 @@
     ],
     "propose_le": "2026-11-27T09:49:05+00:00",
     "creneau": "actu"
+  },
+  {
+    "signature": [
+      "2",
+      "6",
+      "almost",
+      "areas",
+      "dead",
+      "dev",
+      "few",
+      "flawless",
+      "gta",
+      "livelier",
+      "looks",
+      "loses",
+      "much",
+      "natural",
+      "red",
+      "redemption",
+      "rockstar",
+      "says",
+      "world"
+    ],
+    "titre": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+    "score": 0.99,
+    "nb_sources": 1,
+    "sources": [
+      "GamesRadar"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-27T16:46:01+00:00",
+    "mots_cles": [
+      "world",
+      "loses",
+      "few",
+      "livelier",
+      "natural",
+      "much",
+      "dead",
+      "areas"
+    ],
+    "articles": [
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/",
+        "resume": "The natural world is just that much livelier",
+        "publie_le": "2026-11-27T16:46:01+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T17:00:35+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "11",
+      "2",
+      "6",
+      "actugaming",
+      "chapitre",
+      "choses",
+      "drames",
+      "fin",
+      "gran",
+      "gta",
+      "key",
+      "lento",
+      "manquer",
+      "net",
+      "non",
+      "point",
+      "retour"
+    ],
+    "titre": "Fin du chapitre 2 GTA 6 : 11 choses à faire et à ne pas manquer avant le point de non-retour",
+    "score": 0.96,
+    "nb_sources": 1,
+    "sources": [
+      "ActuGaming"
+    ],
+    "langues": [
+      "fr"
+    ],
+    "dernier_article": "2026-11-27T16:13:25+00:00",
+    "mots_cles": [
+      "11",
+      "point",
+      "fin",
+      "non",
+      "drames",
+      "manquer",
+      "chapitre",
+      "retour"
+    ],
+    "articles": [
+      {
+        "source": "ActuGaming",
+        "type": "presse",
+        "langue": "fr",
+        "titre": "Fin du chapitre 2 GTA 6 : 11 choses à faire et à ne pas manquer avant le point de non-retour",
+        "lien": "https://www.actugaming.net/fin-chapitre-2-gta-6-836590/",
+        "resume": "ActuGaming.net Fin du chapitre 2 GTA 6 : 11 choses à faire et à ne pas manquer avant le point de non-retour Après les drames de Key Lento, le chapitre 2 de Grand Theft Auto VI installe […] L'article Fin du chapitre 2 GTA 6 : 11 choses à faire et à ne pas manquer avant le point de non-retour est disponible sur ActuGaming.net",
+        "publie_le": "2026-11-27T16:13:25+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T17:00:35+00:00",
+    "creneau": "gta6"
+  },
+  {
+    "signature": [
+      "6",
+      "car",
+      "complete",
+      "every",
+      "find",
+      "gta",
+      "list",
+      "location",
+      "locations",
+      "needed",
+      "randy",
+      "wish"
+    ],
+    "titre": "All Randy's wish list car locations in GTA 6",
+    "score": 0.96,
+    "nb_sources": 1,
+    "sources": [
+      "Polygon"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-27T16:21:44+00:00",
+    "mots_cles": [
+      "list",
+      "needed",
+      "location",
+      "find",
+      "car",
+      "randy",
+      "wish",
+      "locations"
+    ],
+    "articles": [
+      {
+        "source": "Polygon",
+        "type": "presse",
+        "langue": "en",
+        "titre": "All Randy's wish list car locations in GTA 6",
+        "lien": "https://www.polygon.com/gta-6-randys-wish-list-cars-locations-how-to-get/",
+        "resume": "Here's where to find every car location needed to complete Randy's wish list in GTA 6",
+        "publie_le": "2026-11-27T16:21:44+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T17:00:35+00:00",
+    "creneau": "gta6"
   }
 ]

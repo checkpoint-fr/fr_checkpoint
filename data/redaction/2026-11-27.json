@@ -99,5 +99,167 @@
     "creneau": "actu",
     "redige_le": "2026-11-27T09:49:05+00:00",
     "alertes": []
+  },
+  {
+    "sujet_id": "63d0d2710429",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "GTA VI presque parfait face a Red Dead Redemption 2",
+    "sous_titre": "Un ancien de chez Rockstar compare les deux mondes ouverts du studio",
+    "points": [
+      {
+        "titre": "Un monde urbain ultra detaille",
+        "texte": "David O'Reilly, artiste environnementaliste ayant travaille sur les deux titres jusqu'en 2023, salue la technique de GTA VI qu'il trouve presque sans defaut."
+      },
+      {
+        "titre": "La nature en retrait",
+        "texte": "Il estime cependant que Red Dead Redemption 2 garde l'avantage sur certains points precis, notamment la gestion des forets et des environnements sauvages."
+      },
+      {
+        "titre": "Des choix de developpement",
+        "texte": "Selon lui, GTA VI se focalise logiquement sur son immense monde urbain et ses systemes modernes, la ou son ancetre etait centre sur la nature."
+      }
+    ],
+    "a_retenir": "GTA VI brille par sa ville tandis que Red Dead Redemption 2 reste le roi de la nature.",
+    "voix": {
+      "couverture": "Un ancien de chez Rockstar compare GTA VI et Red Dead Redemption 2",
+      "points": [
+        "David O'Reilly salue un jeu presque sans defaut sur la partie technique",
+        "Il estime que la nature est un tout petit peu en retrait face au western",
+        "Le studio a fait le choix de privilegier un immense monde urbain vivant"
+      ],
+      "retenir": "GTA VI mise sur la ville la ou Red Dead brillait par sa nature"
+    },
+    "prononciation": {
+      "David O'Reilly": "Dévide O'Reïli",
+      "Red Dead Redemption 2": "Red Dède Redempchion deule"
+    },
+    "legende": "Un ancien de chez Rockstar donne son avis sur les graphismes et l'univers du jeu le plus attendu de ces derniere annees. Apres avoir contemple la carte et notamment la zone du mont Kalaga, l'artiste pointe quelques differences notables avec le precedent chef-d'oeuvre du studio.\n\nSi la partie urbaine de Leonida pousse les curseurs tres loin, la nature sauvage et les rivieres de Red Dead Redemption 2 garderaient une finesse superieure selon son experience. Des choix logiques vu l'orientation moderne de ce nouvel opus.\n\nEt toi, tu preferes explorer la ville ou la nature dans les jeux Rockstar ?\n\nSources : GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RedDeadRedemption2 #RockstarGames #PlayStation5 #XboxSeriesX #OpenWorld #Actualite",
+    "sources": [
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/"
+      }
+    ],
+    "score_tri": 0.99,
+    "creneau": "gta6",
+    "redige_le": "2026-11-27T17:00:35+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 24.6,
+    "voix_off": true,
+    "video": "data/videos/63d0d2710429.mp4",
+    "telegram": {
+      "message_id": 379,
+      "envoye_le": "2026-11-27T17:08:58+00:00"
+    }
+  },
+  {
+    "sujet_id": "1b20007357e6",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Le point de non-retour du chapitre 2 dans GTA VI",
+    "sous_titre": "Ce qu'il faut absolument faire avant de quitter le motel de Port Gellhorn",
+    "points": [
+      {
+        "titre": "La mission finale du chapitre 2",
+        "texte": "La mission Heurts de départ marque la fin du chapitre 2. Elle se débloque après avoir fini les autres quêtes et possédé 15 000 dollars."
+      },
+      {
+        "titre": "Faites une sauvegarde manuelle",
+        "texte": "Le jeu ne permettant pas de rejouer les missions, sauvegardez sur un emplacement à part avant de franchir la porte de la salle de bain."
+      },
+      {
+        "titre": "Ne paniquez pas pour les objets",
+        "texte": "Les cartes et magazines cachés au Starlet Motel ont des doublons ailleurs dans Leonida si vous les ratez."
+      }
+    ],
+    "a_retenir": "Sauvegardez avant le départ du motel pour ne rien bloquer facilement.",
+    "voix": {
+      "couverture": "Attention au point de non-retour du chapitre deux dans GTA VI",
+      "points": [
+        "La mission Heurts de départ demande quinze mille dollars pour se lancer.",
+        "Pensez à faire une sauvegarde manuelle avant de quitter le motel.",
+        "Les objets ratés se retrouvent plus tard ailleurs dans la région."
+      ],
+      "retenir": "Sauvegardez bien avant de quitter le motel pour éviter les regrets"
+    },
+    "prononciation": {},
+    "legende": "Le chapitre 2 de GTA VI vous emmène dans un motel de Port Gellhorn, mais attention à ne pas précipiter votre départ. Avant de lancer la dernière mission de cette partie, quelques précautions s'imposent pour ne pas vous compliquer la vie.\n\nHeureusement, si vous ratez les collectibles cachés dans les pièces, vous pourrez les retrouver plus tard dans la région de Leonida.\n\nEt toi, tu as déjà atteint cette partie de l'aventure ?\n\nSources : ActuGaming\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #JasonEtLucia #PortGellhorn #Leonida #ActuGaming",
+    "sources": [
+      {
+        "nom": "ActuGaming",
+        "lien": "https://www.actugaming.net/fin-chapitre-2-gta-6-836590/"
+      }
+    ],
+    "score_tri": 0.96,
+    "creneau": "gta6",
+    "redige_le": "2026-11-27T17:00:35+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 22.6,
+    "voix_off": true,
+    "video": "data/videos/1b20007357e6.mp4",
+    "telegram": {
+      "message_id": 381,
+      "envoye_le": "2026-11-27T17:09:03+00:00"
+    }
+  },
+  {
+    "sujet_id": "6a3edb1f38e3",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Tout savoir sur la liste de voitures de Randy dans GTA VI",
+    "sous_titre": "Trouve les dix-neuf véhicules rares de cette mission secondaire exigeante",
+    "points": [
+      {
+        "titre": "Une mission du chapitre 3",
+        "texte": "Cette quête optionnelle se débloque au chapitre trois, peu après la mission principale Crosstown Traffic."
+      },
+      {
+        "titre": "Dix-neuf véhicules a trouver",
+        "texte": "Randy te confie une liste de seize voitures, puis en ajoute trois autres au fil de ta progression dans l'aventure."
+      },
+      {
+        "titre": "Attention aux degats et aux traqueurs",
+        "texte": "Répare les véhicules pour toucher le pactole et gaffe aux balises qui alertent la police si tu traînes."
+      }
+    ],
+    "a_retenir": "Ramène les voitures en bon état à Randy pour décrocher un max de bonus.",
+    "voix": {
+      "couverture": "Tu cherches toutes les voitures de la liste de Randy dans GTA VI ?",
+      "points": [
+        "Cette mission secondaire se débloque au chapitre trois après Crosstown Traffic.",
+        "Tu dois traquer un total de dix-neuf véhicules de luxe dans tout Leonida.",
+        "Répare les caisses avant de les livrer pour maximiser tes gains et évite les flics."
+      ],
+      "retenir": "Sois prudent sur la route pour empocher le gros lot."
+    },
+    "prononciation": {
+      "Crosstown Traffic": "Krostoun Traffik",
+      "Leonida": "Léonida"
+    },
+    "legende": "Tu galères avec la fameuse liste de voitures de Randy dans GTA VI ? Cette mission secondaire du chapitre trois te demande de retrouver pas moins de dix-neuf véhicules de luxe disséminés dans tout Leonida. Vol, fuite face aux forces de l'ordre et réparations express seront ton quotidien pour empocher la récompense maximale. N'oublie pas de planquer tes arrières contre les traqueurs avancés pour éviter que les flics ne te collent trop vite aux basques. Et toi, tu as déjà commencé cette longue chasse aux bolides ?\n\nSources : Polygon\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #PS5 #XboxSeriesX #Action #OpenWorld",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-randys-wish-list-cars-locations-how-to-get/"
+      }
+    ],
+    "score_tri": 0.96,
+    "creneau": "gta6",
+    "redige_le": "2026-11-27T17:00:35+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 24.1,
+    "voix_off": true,
+    "video": "data/videos/6a3edb1f38e3.mp4",
+    "telegram": {
+      "message_id": 383,
+      "envoye_le": "2026-11-27T17:09:05+00:00"
+    }
   }
 ]
