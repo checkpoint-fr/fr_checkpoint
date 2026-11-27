@@ -1,0 +1,106 @@
+[
+  {
+    "signature": [
+      "0",
+      "3",
+      "cities",
+      "explore",
+      "hours",
+      "infinity",
+      "nikki",
+      "systems"
+    ],
+    "titre": "Infinity Nikki Version 3.0 “Of Yesterday and Tomorrow” update live today on PS5",
+    "score": 1.87,
+    "nb_sources": 2,
+    "sources": [
+      "IGN",
+      "PlayStation Blog"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-26T23:00:00+00:00",
+    "mots_cles": [
+      "systems",
+      "hours",
+      "nikki",
+      "cities",
+      "0",
+      "explore",
+      "infinity",
+      "3"
+    ],
+    "articles": [
+      {
+        "source": "IGN",
+        "type": "presse",
+        "langue": "en",
+        "titre": "After Playing Infinity Nikki 3.0 for Four Hours, its New Cities and Outfits Are Just Some of the Additions Worth Returning For",
+        "lien": "https://www.ign.com/articles/after-playing-infinity-nikki-30-for-four-hours-its-new-cities-and-outfits-are-just-some-of-the-additions-worth-returning-for",
+        "resume": "The new 3.0 update has tons of new stuff to explore including new locations, outfits and gameplay systems, although don't expect any kind of proper challenge.",
+        "publie_le": "2026-11-26T23:00:00+00:00"
+      },
+      {
+        "source": "PlayStation Blog",
+        "type": "officiel",
+        "langue": "en",
+        "titre": "Infinity Nikki Version 3.0 “Of Yesterday and Tomorrow” update live today on PS5",
+        "lien": "https://blog.playstation.com/2026/11/26/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-update-live-today-on-ps5/",
+        "resume": "Explore two new cities, experience nearly 10 hours of cinematic storytelling, discover new abilities and combat systems, and celebrate Nikki’s Birthday to enjoy 160 draws in total, plus 19 sets of clothes—all free. Today we announced Infinity Nikki Version 3.0, a major update that takes Nikki and Momo’s adventure to the Twin Cities of Art: […]",
+        "publie_le": "2026-11-26T21:59:37+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T09:49:05+00:00",
+    "creneau": "actu"
+  },
+  {
+    "signature": [
+      "alterac",
+      "blizzard",
+      "forever",
+      "reputation",
+      "valley"
+    ],
+    "titre": "WoW: Forever min-maxers are upset that its 40-player PvP mode now actually requires PvP to win",
+    "score": 1.02,
+    "nb_sources": 2,
+    "sources": [
+      "GamesRadar",
+      "PC Gamer"
+    ],
+    "langues": [
+      "en"
+    ],
+    "dernier_article": "2026-11-26T22:05:00+00:00",
+    "mots_cles": [
+      "alterac",
+      "valley",
+      "reputation",
+      "blizzard",
+      "forever"
+    ],
+    "articles": [
+      {
+        "source": "PC Gamer",
+        "type": "presse",
+        "langue": "en",
+        "titre": "WoW: Forever min-maxers are upset that its 40-player PvP mode now actually requires PvP to win",
+        "lien": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-min-maxers-are-upset-that-its-40-player-pvp-mode-now-actually-requires-pvp-to-win/",
+        "resume": "Blizzard's latest patch prevents Alterac Valley from being a glorified reputation farm.",
+        "publie_le": "2026-11-26T22:05:00+00:00"
+      },
+      {
+        "source": "GamesRadar",
+        "type": "presse",
+        "langue": "en",
+        "titre": "Blizzard steps in as World of Warcraft: Forever fans exploit Alterac Valley for reputation",
+        "lien": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-steps-in-as-world-of-warcraft-forever-fans-exploit-alterac-valley-for-reputation-but-pvp-players-think-its-a-little-too-late/",
+        "resume": "\"Grats to everyone who got Exalted already\"",
+        "publie_le": "2026-11-26T16:58:20+00:00"
+      }
+    ],
+    "propose_le": "2026-11-27T09:49:05+00:00",
+    "creneau": "actu"
+  }
+]

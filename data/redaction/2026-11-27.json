@@ -1,0 +1,97 @@
+[
+  {
+    "sujet_id": "22936690a09e",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "La version 3.0 d'Infinity Nikki est disponible",
+    "sous_titre": "Découvre les nouveautés de la mise à jour Of Yesterday and Tomorrow",
+    "points": [
+      {
+        "titre": "Deux nouvelles villes",
+        "texte": "Explore Cicia et Ceremius, les cités jumelles de l'art, avec près de dix heures de contenu narratif inédit."
+      },
+      {
+        "titre": "Nouvelles tenues et compétences",
+        "texte": "Obtiens dix-neuf nouvelles tenues offrant des aptitudes de déplacement inédites comme le double saut et la téléportation."
+      },
+      {
+        "titre": "Cadeaux d'anniversaire",
+        "texte": "Profite de cent soixante tirages gratuits offerts pour célébrer l'anniversaire de Nikki en même temps que le lancement."
+      }
+    ],
+    "a_retenir": "Une mise à jour massive qui enrichit l'aventure avec de nouveaux systèmes de combat et de fabrication.",
+    "voix": {
+      "couverture": "La version trois point zéro d'Infinity Nikki est enfin disponible.",
+      "points": [
+        "Explore deux nouvelles villes artistiques avec près de dix heures de quêtes inédites.",
+        "Débloque de nouvelles tenues et compétences pour te déplacer plus facilement.",
+        "Profite de cent soixante tirages gratuits pour fêter l'anniversaire du personnage."
+      ],
+      "retenir": "Une mise à jour majeure à découvrir dès maintenant sur console et mobile."
+    },
+    "prononciation": {
+      "Infinity Nikki": "In-fini-ti Niki"
+    },
+    "legende": "La mise à jour trois point zéro d'Infinity Nikki vient de débarquer sur PlayStation 5 et elle s'annonce gigantesque ! Intitulée Of Yesterday and Tomorrow, elle t'emmène à la découverte de deux nouvelles cités artistiques : Cicia et Ceremius. Au programme, près de dix heures de nouvelles histoires, des capacités inédites, des armes à feu, de la magie et de nouveaux systèmes de fabrication.\n\nPour fêter l'anniversaire de Nikki, le studio Infold gâte les joueurs avec pas moins de cent soixante tirages gratuits et dix-neuf ensembles de vêtements offerts. De quoi enrichir ta garde-robe et explorer le monde ouvert sous un tout nouveau jour avec des compétences de déplacement aérien.\n\nEt toi, tu vas replonger dans le jeu pour tester cette mise à jour ?\n\nSources : IGN, PlayStation Blog\n\n#checkpointfr #jeuxvideo #gaming #InfinityNikki #Infold #PS5 #OpenWorld #RPG #Mobile",
+    "sources": [
+      {
+        "nom": "IGN",
+        "lien": "https://www.ign.com/articles/after-playing-infinity-nikki-30-for-four-hours-its-new-cities-and-outfits-are-just-some-of-the-additions-worth-returning-for"
+      },
+      {
+        "nom": "PlayStation Blog",
+        "lien": "https://blog.playstation.com/2026/11/26/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-update-live-today-on-ps5/"
+      }
+    ],
+    "score_tri": 1.87,
+    "creneau": "actu",
+    "redige_le": "2026-11-27T09:49:05+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.7,
+    "voix_off": true,
+    "video": "data/videos/22936690a09e.mp4",
+    "telegram": {
+      "message_id": 374,
+      "envoye_le": "2026-11-27T09:58:11+00:00"
+    }
+  },
+  {
+    "sujet_id": "173b4dd9ac00",
+    "statut": "ecarte",
+    "motif": "réponse de l'IA incomplète",
+    "statut_info": "officiel",
+    "accroche": "Blizzard stoppe le farm facile dans World of Warcraft: Forever",
+    "sous_titre": "La dernière mise à jour force les joueurs à faire du vrai PvP en champ de bataille.",
+    "points": [],
+    "a_retenir": "Il faut désormais capturer les objectifs pour farmer efficacement.",
+    "voix": {
+      "couverture": "Blizzard bloque le farm facile dans World of Warcraft: Forever.",
+      "points": [
+        "La fameuse technique du rush sur le boss n est plus rentable.",
+        "Les défenseurs ont été renforcés pour obliger à capturer les objectifs.",
+        "Le gain de réputation sur le général ennemi a été fortement réduit."
+      ],
+      "retenir": "Il va falloir jouer le jeu et faire du vrai combat en équipe."
+    },
+    "prononciation": {
+      "World of Warcraft: Forever": "World of Warcraft : Foréveur"
+    },
+    "legende": "La dernière mise à jour de World of Warcraft: Forever vient de corriger une faille bien connue des joueurs dans le mode Alterac Valley. Jusqu'à présent, ce champ de bataille à quarante contre quarante servait surtout de zone de farm pour obtenir rapidement de la réputation et du bon équipement, quitte à ignorer complètement les combats.\n\nPour contrer ces stratégies où tout le monde se ruerait sur le général ennemi, Blizzard a renforcé les PNJ défenseurs et ajusté les récompenses. Désormais, tu gagnes beaucoup moins de réputation en tuant directement le boss final. \n\nL'objectif des développeurs est clair : briser les routines des joueurs pour rendre toute sa saveur à ce mode PvP. Et toi, tu as déjà profité de cette astuce avant le patch ?\n\nSources : PC Gamer, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #WorldofWarcraft #Blizzard #MMORPG #PC #BlizzardEntertainment #ActuGaming",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-min-maxers-are-upset-that-its-40-player-pvp-mode-now-actually-requires-pvp-to-win/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-steps-in-as-world-of-warcraft-forever-fans-exploit-alterac-valley-for-reputation-but-pvp-players-think-its-a-little-too-late/"
+      }
+    ],
+    "score_tri": 1.02,
+    "creneau": "actu",
+    "redige_le": "2026-11-27T09:49:05+00:00",
+    "alertes": []
+  }
+]
