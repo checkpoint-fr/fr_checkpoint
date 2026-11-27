@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "22936690a09e",
-    "statut": "a_valider",
+    "statut": "valide",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La version 3.0 d'Infinity Nikki est disponible",
@@ -55,7 +55,8 @@
     "telegram": {
       "message_id": 374,
       "envoye_le": "2026-11-27T09:58:11+00:00"
-    }
+    },
+    "decide_le": "2026-11-27T11:09:39+00:00"
   },
   {
     "sujet_id": "173b4dd9ac00",
