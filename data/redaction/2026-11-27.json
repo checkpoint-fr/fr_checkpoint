@@ -272,7 +272,7 @@
   },
   {
     "sujet_id": "24e703d606b7",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "rumeur",
     "accroche": "Le remake de The Simpsons Hit & Run déjà annulé",
@@ -330,7 +330,8 @@
     "telegram": {
       "message_id": 388,
       "envoye_le": "2026-11-27T18:52:37+00:00"
-    }
+    },
+    "decide_le": "2026-11-27T20:30:06+00:00"
   },
   {
     "sujet_id": "cb97f140ce60",
