@@ -102,7 +102,7 @@
   },
   {
     "sujet_id": "63d0d2710429",
-    "statut": "a_valider",
+    "statut": "rejete",
     "motif": "",
     "statut_info": "confirme",
     "accroche": "GTA VI presque parfait face a Red Dead Redemption 2",
@@ -153,7 +153,8 @@
     "telegram": {
       "message_id": 379,
       "envoye_le": "2026-11-27T17:08:58+00:00"
-    }
+    },
+    "decide_le": "2026-11-27T17:43:20+00:00"
   },
   {
     "sujet_id": "1b20007357e6",
