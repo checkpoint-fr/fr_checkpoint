@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "22936690a09e",
-    "statut": "valide",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La version 3.0 d'Infinity Nikki est disponible",
@@ -56,7 +56,12 @@
       "message_id": 374,
       "envoye_le": "2026-11-27T09:58:11+00:00"
     },
-    "decide_le": "2026-11-27T11:09:39+00:00"
+    "decide_le": "2026-11-27T11:09:39+00:00",
+    "instagram": {
+      "media_id": "18120907229095271",
+      "lien": "https://www.instagram.com/reel/DgPk6O0u9u3/",
+      "publie_le": "2026-11-27T11:31:05+00:00"
+    }
   },
   {
     "sujet_id": "173b4dd9ac00",
