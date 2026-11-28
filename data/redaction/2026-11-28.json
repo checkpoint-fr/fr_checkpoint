@@ -161,5 +161,171 @@
     "creneau": "actu",
     "redige_le": "2026-11-28T09:36:55+00:00",
     "alertes": []
+  },
+  {
+    "sujet_id": "b98b1218efcc",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "officiel",
+    "accroche": "Meme chez Rockstar, ils ont cru que GTA VI ne sortirait jamais",
+    "sous_titre": "Treize ans de développement et des doutes en interne pour le jeu le plus attendu",
+    "points": [
+      {
+        "titre": "Un développement interminable",
+        "texte": "Il a fallu treize ans de travail à Rockstar pour accoucher de GTA VI, un record absolu."
+      },
+      {
+        "titre": "Le doute même en interne",
+        "texte": "Selon le coresponsable Rob Nelson, certains développeurs pensaient que le jeu ne sortirait jamais."
+      },
+      {
+        "titre": "Un carton historique",
+        "texte": "Le titre s'est vendu à trente-deux millions et demi d'exemplaires avant même son lancement."
+      }
+    ],
+    "a_retenir": "Un soulagement immense pour les équipes après un chantier titanesque.",
+    "voix": {
+      "couverture": "Même chez Rockstar, certains ont cru que GTA VI ne sortirait jamais",
+      "points": [
+        "Il a fallu treize ans de développement pour donner naissance au jeu.",
+        "Le coresponsable Rob Nelson avoue que l'équipe a douté jusqu'au bout.",
+        "Trente-deux millions et demi de copies ont été vendues avant même le lancement."
+      ],
+      "retenir": "Un soulagement total pour les développeurs après ce chantier historique."
+    },
+    "prononciation": {},
+    "legende": "Tu t'es demandé pourquoi l'attente a été aussi longue pour GTA VI ? La réponse vient de tomber directement de chez Rockstar.\n\nRob Nelson, le coresponsable du studio, a avoué que même en interne, les équipes ont douté. Avec un cycle de développement de treize ans, émaillé par la finition de Red Dead Redemption 2 et quelques reports, le projet a frôlé le cauchemar logistique.\n\nMais le jeu est enfin là, et les chiffres donnent le tournis avec des milliards de dollars récoltés dès le premier jour. Une page se tourne pour l'industrie.\n\nEt toi, tu fais partie de ceux qui ont attendu toutes ces années ? Dis-le-moi en commentaire.\n\nSources : Polygon, GamesRadar\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #RockstarGames #Take-Two #PS5 #XboxSeriesX #Action-aventure #OpenWorld",
+    "sources": [
+      {
+        "nom": "Polygon",
+        "lien": "https://www.polygon.com/gta-6-rockstar-questioning-launch/"
+      },
+      {
+        "nom": "GamesRadar",
+        "lien": "https://www.gamesradar.com/games/grand-theft-auto/even-gta-6-devs-felt-like-the-day-would-never-come-that-it-launches-rockstars-rob-nelson-says-it-feels-surreal/"
+      }
+    ],
+    "score_tri": 1.96,
+    "creneau": "gta6",
+    "redige_le": "2026-11-28T17:02:57+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.0,
+    "voix_off": true,
+    "video": "data/videos/b98b1218efcc.mp4",
+    "telegram": {
+      "message_id": 402,
+      "envoye_le": "2026-11-28T17:12:43+00:00"
+    }
+  },
+  {
+    "sujet_id": "ae2db2903d43",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Les missions paranormales et flippantes de GTA VI",
+    "sous_titre": "OVNI, Bigfoot et clins d'œil cachés : découvre les secrets les plus étranges du jeu",
+    "points": [
+      {
+        "titre": "La rencontre avec un OVNI",
+        "texte": "Commence par une voiture abandonnée la nuit pour déclencher des rêves étranges, des énigmes et découvrir une base souterraine secrète avec un extraterrestre."
+      },
+      {
+        "titre": "La traque du Skunk Ape",
+        "texte": "Jason fait équipe avec un chasseur pour traquer cette créature des marécages, menant à une quête en trois parties avec un choix difficile à la fin."
+      },
+      {
+        "titre": "L'hommage à Silent Hill",
+        "texte": "Explore un hôtel abandonné dans les brumes de Vice City, un clin d'œil terrifiant et facile à rater qui cache un coffre fort bienvenu."
+      }
+    ],
+    "a_retenir": "GTA VI cache des secrets paranormaux bien sombres dans les marécages de Leonida",
+    "voix": {
+      "couverture": "Tu connais les missions paranormales et flippantes cachées dans GTA VI",
+      "points": [
+        "Suis la piste d'un OVNI pour finir dans une base souterraine secrète",
+        "Traque le Skunk Ape dans les marécages avec des choix difficiles à la clé",
+        "Explore un hôtel abandonné aux accents de Silent Hill pour dénicher un coffre"
+      ],
+      "retenir": "Ouvre l'œil, Leonida regorge de mystères bien sombres"
+    },
+    "prononciation": {
+      "Silent Hill": "Saïlente Hille"
+    },
+    "legende": "Tu penses tout savoir sur le monde de GTA VI ? En plus des braquages, le jeu cache de sacrées surprises pour les explorateurs les plus curieux. Entre traque de créatures dans les marécages et rencontres extraterrestres, Rockstar a planqué pas mal d'easter eggs bien flippants. Et toi, tu as déjà croisé ces secrets bizarres en jouant ?\n\nSources : VGC\n\n#checkpointfr #jeuxvideo #gaming #GTAVI #Rockstar #Leonida #ViceCity #Jason #PlayStation #Xbox #PC",
+    "sources": [
+      {
+        "nom": "VGC",
+        "lien": "https://www.videogameschronicle.com/guide/all-paranormal-and-creepy-missions-in-gta-6/"
+      }
+    ],
+    "score_tri": 0.95,
+    "creneau": "gta6",
+    "redige_le": "2026-11-28T17:02:57+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 25.4,
+    "voix_off": true,
+    "video": "data/videos/ae2db2903d43.mp4",
+    "telegram": {
+      "message_id": 404,
+      "envoye_le": "2026-11-28T17:12:45+00:00"
+    }
+  },
+  {
+    "sujet_id": "379d39aa4b56",
+    "statut": "a_valider",
+    "motif": "",
+    "statut_info": "confirme",
+    "accroche": "Les boîtes de nuit de GTA VI redéfinissent l'immersion",
+    "sous_titre": "",
+    "points": [
+      {
+        "titre": "Trois clubs vraiment différents",
+        "texte": "Vice City propose trois boîtes majeures : NINE1NINE, Jack of Hearts et The Vault, qui ont toutes une ambiance propre."
+      },
+      {
+        "titre": "Le luxe hors de prix de NINE1NINE",
+        "texte": "Inspiré de Miami, ce club de luxe facture cent cinquante dollars l'entrée et quinze dollars la bière."
+      },
+      {
+        "titre": "Le style underground de The Vault",
+        "texte": "Entre sols collants, basses surpuissantes au Jack of Hearts et ambiance rave underground, le réalisateur frappe fort."
+      }
+    ],
+    "a_retenir": "GTA VI réussit là où tant d'autres ont échoué en proposant de vraies boîtes de nuit.",
+    "voix": {
+      "couverture": "Les boîtes de nuit de GTA VI sont tout simplement bluffantes.",
+      "points": [
+        "Vice City propose trois boîtes majeures avec des ambiances bien distinctes.",
+        "Le NINE1NINE mise sur le luxe avec des tarifs exorbitants pour l'entrée et les consos.",
+        "Le Jack of Hearts et The Vault misent sur un style plus brut et underground."
+      ],
+      "retenir": "Rockstar réussit enfin à recréer des clubs parfaits en monde ouvert."
+    },
+    "prononciation": {
+      "NINE1NINE": "Naïne-One-Naïne",
+      "The Vault": "Ze Volte",
+      "Jack of Hearts": "Djacke of Harts"
+    },
+    "legende": "La gestion des boîtes de nuit dans les jeux vidéo a souvent été décevante, mais GTA VI change la donne. Dans les rues de Vice City, le studio a intégré des clubs immersifs et incroyablement vivants directement dans le monde ouvert. Entre les tarifs exorbitants du NINE1NINE, l'ambiance survoltée du Jack of Hearts et les vibes underground de The Vault, le travail sur l'ambiance et la fidélité est bluffant. On a vraiment l'impression de poser les pieds dans de vrais établissements. Et toi, tu as hâte de tester le nightlife de Leonida ?\n\nSources : PC Gamer\n\n#checkpointfr #jeuxvideo #gaming #GTA6 #RockstarGames #ViceCity #PCGamer #OpenWorld #ActuGaming",
+    "sources": [
+      {
+        "nom": "PC Gamer",
+        "lien": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-successfully-done-what-only-one-other-game-has-ever-managed-a-good-nightclub/"
+      }
+    ],
+    "score_tri": 0.94,
+    "creneau": "gta6",
+    "redige_le": "2026-11-28T17:02:57+00:00",
+    "alertes": [],
+    "defauts_voix": [],
+    "duree": 26.0,
+    "voix_off": true,
+    "video": "data/videos/379d39aa4b56.mp4",
+    "telegram": {
+      "message_id": 406,
+      "envoye_le": "2026-11-28T17:12:47+00:00"
+    }
   }
 ]
