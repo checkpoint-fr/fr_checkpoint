@@ -1,7 +1,7 @@
 [
   {
     "sujet_id": "5135e7926676",
-    "statut": "a_valider",
+    "statut": "publie",
     "motif": "",
     "statut_info": "officiel",
     "accroche": "La Definitive Edition de Yooka-Laylee boude les Xbox Series",
@@ -55,6 +55,12 @@
     "telegram": {
       "message_id": 396,
       "envoye_le": "2026-11-28T09:45:24+00:00"
+    },
+    "decide_le": "2026-11-28T12:17:05+00:00",
+    "instagram": {
+      "media_id": "18137736238780834",
+      "lien": "https://www.instagram.com/reel/DgSPD4RoyVx/",
+      "publie_le": "2026-11-28T12:17:50+00:00"
     }
   },
   {
